@@ -1,0 +1,304 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "On My Own",
+      "tlyric": "一己之力",
+      "singer": "Ashes Remain",
+      "remarkIdx": ["own", "on my own"]
+    },
+    {
+      "time": 22180,
+      "lyric": "There's gotta be another way out",
+      "tlyric": "前方必定会有别的出路",
+      "remarkIdx": ["gotta", "another", "way out"]
+    },
+    {
+      "time": 24980,
+      "lyric": "I've been stuck in a cage with my doubt",
+      "tlyric": "我受困在自身疑惧的牢笼",
+      "remarkIdx": ["stuck", "cage", "doubt"]
+    },
+    {
+      "time": 27730,
+      "lyric": "I've tried forever getting out on my own",
+      "tlyric": "尝试凭己之力永远逃脱此地",
+      "remarkIdx": ["tried", "forever", "get out"]
+    },
+    {
+      "time": 33520,
+      "lyric": "But every time I do this my way",
+      "tlyric": "但每当我用自己的方式去做",
+      "remarkIdx": ["every", "time"]
+    },
+    {
+      "time": 35870,
+      "lyric": "I get caught in the lies of the enemy",
+      "tlyric": "我都会深陷在敌人的谎言中",
+      "remarkIdx": ["catch", "enemy"]
+    },
+    {
+      "time": 38640,
+      "lyric": "I lay my troubles down I'm ready for you now",
+      "tlyric": "我放下一切困愁，如今正听候于你",
+      "remarkIdx": ["lay down", "trouble"]
+    },
+    {
+      "time": 43110,
+      "lyric": "Bring me out",
+      "tlyric": "救我出去",
+      "remarkIdx": ["bring", "bring out"]
+    },
+    {
+      "time": 44690,
+      "lyric": "Come and find me in the dark now",
+      "tlyric": "前往黑暗中将我寻找",
+      "remarkIdx": ["find", "dark"]
+    },
+    {
+      "time": 46920,
+      "lyric": "Everyday by myself I'm breaking down",
+      "tlyric": "身单力薄的我每天渐渐崩溃",
+      "remarkIdx": ["everyday", "myself", "break down"]
+    },
+    {
+      "time": 50120,
+      "lyric": "I don't wanna fight alone anymore",
+      "tlyric": "我不想再如此孤军奋战",
+      "remarkIdx": ["fight", "alone"]
+    },
+    {
+      "time": 53980,
+      "lyric": "Bring me out",
+      "tlyric": "将我救离",
+      "remarkIdx": ["bring", "bring out"]
+    },
+    {
+      "time": 55650,
+      "lyric": "From the prison of my own pride",
+      "tlyric": "从这个由自傲筑起的牢笼",
+      "remarkIdx": ["prison", "pride"]
+    },
+    {
+      "time": 57880,
+      "lyric": "My God, I need a hope I can't deny",
+      "tlyric": "吾主，我需要一个无法拒绝的希望",
+      "remarkIdx": ["hope", "deny"]
+    },
+    {
+      "time": 60620,
+      "lyric": "In the end I'm realizing",
+      "tlyric": "最后我才意识到",
+      "remarkIdx": ["end", "realizing"]
+    },
+    {
+      "time": 63200,
+      "lyric": "I was never meant to fight on my own",
+      "tlyric": "我从未想过独自担下战斗",
+      "remarkIdx": ["mean"]
+    },
+    {
+      "time": 71290,
+      "lyric": "Every little thing that I've known",
+      "tlyric": "我所知道的每一件小事",
+      "remarkIdx": ["little"]
+    },
+    {
+      "time": 74260,
+      "lyric": "is every thing I need to let go",
+      "tlyric": "都是我需要放下的事",
+      "remarkIdx": ["thing", "need", "let go"]
+    },
+    {
+      "time": 76860,
+      "lyric": "You're so much bigger than the world that I have made",
+      "tlyric": "你比我创造的世界更加重要",
+      "remarkIdx": ["big", "world"]
+    },
+    {
+      "time": 82170,
+      "lyric": "So I surrender my soul",
+      "tlyric": "因此我舍下灵魂",
+      "remarkIdx": ["surrender"]
+    },
+    {
+      "time": 84980,
+      "lyric": "I'm reaching out for your hope",
+      "tlyric": "我向你伸出双手寻求希望",
+      "remarkIdx": ["reach", "reach out"]
+    },
+    {
+      "time": 87760,
+      "lyric": "I lay my weapons down",
+      "tlyric": "我放下了武器",
+      "remarkIdx": ["lay down", "weapon"]
+    },
+    {
+      "time": 89960,
+      "lyric": "I'm ready for you now",
+      "tlyric": "现在我正听候于你",
+      "remarkIdx": ["ready", "now"]
+    },
+    {
+      "time": 92200,
+      "lyric": "Bring me out",
+      "tlyric": "救我出去",
+      "remarkIdx": ["bring", "bring out"]
+    },
+    {
+      "time": 93930,
+      "lyric": "Come and find me in the dark now",
+      "tlyric": "前往黑暗中将我寻找",
+      "remarkIdx": ["come"]
+    },
+    {
+      "time": 96080,
+      "lyric": "Everyday by myself I'm breaking down",
+      "tlyric": "身单力薄的我每天渐渐崩溃",
+      "remarkIdx": ["break"]
+    },
+    {
+      "time": 99240,
+      "lyric": "I don't wanna fight alone anymore",
+      "tlyric": "我不想再如此孤军奋战",
+      "remarkIdx": ["wanna", "fight", "anymore"]
+    },
+    {
+      "time": 103150,
+      "lyric": "Bring me out",
+      "tlyric": "将我救离",
+      "remarkIdx": ["bring", "bring out"]
+    },
+    {
+      "time": 104710,
+      "lyric": "From the prison of my own pride",
+      "tlyric": "从这个由自傲筑起的牢笼",
+      "remarkIdx": ["prison", "pride"]
+    },
+    {
+      "time": 106960,
+      "lyric": "My God, I need a hope I can't deny",
+      "tlyric": "吾主，我需要一个无法抵抗的希望",
+      "remarkIdx": ["need", "deny"]
+    },
+    {
+      "time": 109750,
+      "lyric": "In the end I'm realizing",
+      "tlyric": "最后我才意识到",
+      "remarkIdx": ["end", "realizing"]
+    },
+    {
+      "time": 112360,
+      "lyric": "I was never meant to fight on my own",
+      "tlyric": "我从未想过独自担下战斗",
+      "remarkIdx": ["fight", "own"]
+    },
+    {
+      "time": 125930,
+      "lyric": "I don't wanna be incomplete",
+      "tlyric": "我不想变得残缺",
+      "remarkIdx": ["wanna", "incomplete"]
+    },
+    {
+      "time": 128590,
+      "lyric": "I remember what you said to me",
+      "tlyric": "仍记得你对我说过的话",
+      "remarkIdx": ["remember", "said"]
+    },
+    {
+      "time": 131350,
+      "lyric": "I don't have to fight alone",
+      "tlyric": "我不必再孤军奋战",
+      "remarkIdx": ["have to", "alone"]
+    },
+    {
+      "time": 135730,
+      "lyric": "Bring me out",
+      "tlyric": "救我出去",
+      "remarkIdx": ["bring", "bring out"]
+    },
+    {
+      "time": 137620,
+      "lyric": "Come and find me in the dark now",
+      "tlyric": "前往黑暗中将我寻找",
+      "remarkIdx": ["dark", "now"]
+    },
+    {
+      "time": 139540,
+      "lyric": "Everyday by myself I'm breaking down",
+      "tlyric": "身单力薄的我每天渐渐崩溃",
+      "remarkIdx": ["down", "break down"]
+    },
+    {
+      "time": 142890,
+      "lyric": "I don't wanna fight alone anymore",
+      "tlyric": "我不想再如此孤军奋战",
+      "remarkIdx": ["fight", "alone"]
+    },
+    {
+      "time": 146650,
+      "lyric": "Bring me out",
+      "tlyric": "将我救离",
+      "remarkIdx": ["bring", "bring out"]
+    },
+    {
+      "time": 148430,
+      "lyric": "From the prison of my own pride",
+      "tlyric": "从这个由自傲筑起的牢笼",
+      "remarkIdx": ["prison", "pride"]
+    },
+    {
+      "time": 150590,
+      "lyric": "My God, I need a hope I can't deny",
+      "tlyric": "吾主，我需要一个无法抵挡的希望",
+      "remarkIdx": ["hope", "deny"]
+    },
+    {
+      "time": 153430,
+      "lyric": "In the end I'm realizing",
+      "tlyric": "最后我才意识到",
+      "remarkIdx": ["end", "realizing"]
+    },
+    {
+      "time": 155900,
+      "lyric": "I was never meant to fight on my own",
+      "tlyric": "我从未想过独自担下战斗",
+      "remarkIdx": ["never", "own", "on my own"]
+    },
+    {
+      "time": 158950,
+      "lyric": "Oh oh, Oh oh, Oh oh, Oh oh",
+      "tlyric": "Oh oh, Oh oh, Oh oh, Oh oh",
+      "remarkIdx": ["oh"]
+    },
+    {
+      "time": 164400,
+      "lyric": "Oh oh, Oh oh, Oh oh, Oh oh",
+      "tlyric": "Oh oh, Oh oh, Oh oh, Oh oh",
+      "remarkIdx": ["oh"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 1107465,
+      "status": 99,
+      "demand": 1,
+      "userid": 62242373,
+      "nickname": "KRees",
+      "uptime": 1464146208352
+    },
+    "lrc": {
+      "version": 32,
+      "lyric": "[00:00.000] 作曲 : Joshua Smith/Seth Mosley/Benjamin Kirk/Jonathan Hively/Ryan Nalepa/Robert Tahan\n[00:22.180]There's gotta be another way out\n[00:24.980]I've been stuck in a cage with my doubt\n[00:27.730]I've tried forever getting out on my own.\n[00:32.000]\n[00:33.520]But every time I do this my way\n[00:35.870]I get caught in the lies of the enemy\n[00:38.640]I lay my troubles down I'm ready for you now.\n[00:42.590]\n[00:43.110]Bring me out\n[00:44.690]Come and find me in the dark now\n[00:46.920]Everyday by myself I'm breaking down\n[00:50.120]I don't wanna fight alone anymore\n[00:53.980]Bring me out\n[00:55.650]From the prison of my own pride\n[00:57.880]My God, I need a hope I can't deny\n[01:00.620]In the end I'm realizing\n[01:03.200]I was never meant to fight on my own\n[01:06.210]\n[01:11.290]Every little thing that I've known\n[01:14.260]is every thing I need to let go\n[01:16.860]You're so much bigger than the world that I have made\n[01:20.970]\n[01:22.170]So I surrender my soul\n[01:24.980]I'm reaching out for your hope\n[01:27.760]I lay my weapons down\n[01:29.960]I'm ready for you now.\n[01:31.680]\n[01:32.200]Bring me out\n[01:33.930]Come and find me in the dark now\n[01:36.080]Everyday by myself I'm breaking down\n[01:39.240]I don't wanna fight alone anymore\n[01:43.150]Bring me out\n[01:44.710]From the prison of my own pride\n[01:46.960]My God, I need a hope I can't deny\n[01:49.750]In the end I'm realizing\n[01:52.360]I was never meant to fight on my own\n[01:55.200]\n[02:05.930]I don't wanna be incomplete\n[02:08.590]I remember what you said to me\n[02:11.350]I don't have to fight alone\n[02:14.470]\n[02:15.730]Bring me out\n[02:17.620]Come and find me in the dark now\n[02:19.540]Everyday by myself I'm breaking down\n[02:22.890]I don't wanna fight alone anymore\n[02:26.650]Bring me out\n[02:28.430]From the prison of my own pride\n[02:30.590]My God, I need a hope I can't deny\n[02:33.430]In the end I'm realizing\n[02:35.900]I was never meant to fight on my own\n[02:38.950]Oh oh, Oh oh, Oh oh, Oh oh\n[02:44.400]Oh oh, Oh oh, Oh oh, Oh oh\n[02:49.900]\n"
+    },
+    "tlyric": {
+      "version": 9,
+      "lyric": "[by:KRees]\n[00:22.180]前方必定会有别的出路\n[00:24.980]我受困在自身疑惧的牢笼\n[00:27.730]尝试凭己之力永远逃脱此地\n[00:33.520]但每次跟从自己的想法\n[00:35.870]我都会深陷在敌人的谎言中\n[00:38.640]如今放下一切困愁，为你准备就绪\n[00:43.110]救我出去\n[00:44.690]前往黑暗中将我寻找\n[00:46.920]身单力薄的我每天渐渐崩溃\n[00:50.120]我不想再如此孤军奋战\n[00:53.980]救我脱离\n[00:55.650]带我离开骄纵筑起的监狱\n[00:57.880]吾主，我需要一个无法拒绝的希望\n[01:00.620]最后我才意识到\n[01:03.200]我从未想过独自担下战斗\n[01:11.290]我所知道的每一件小事\n[01:14.260]是我需要远离世俗\n[01:16.860]你比我创下的内心世界更要强大\n[01:22.170]因此我舍下灵魂\n[01:24.980]为你的希望伸出双手\n[01:27.760]放下武器\n[01:29.960]现在正听候你\n[01:32.200]救我出去\n[01:33.930]前往黑暗中将我寻找\n[01:36.080]身单力薄的我每天渐渐崩溃\n[01:39.240]我不想再如此孤军奋战\n[01:43.150]救我出去\n[01:44.710]带我离开骄纵筑起的监狱\n[01:46.960]吾主，我需要一个无法抵抗的希望\n[01:49.750]最后我才意识到\n[01:52.360]我从未想过独自担下战斗\n[02:05.930]我不想再变得残缺凋零\n[02:08.590]仍记得你对我说过的话\n[02:11.350]我不必再孤军奋战\n[02:15.730]救我出去\n[02:17.620]前往黑暗中将我寻找\n[02:19.540]身单力薄的我每天渐渐崩溃\n[02:22.890]我不想再如此孤军奋战\n[02:26.650]救我出去\n[02:28.430]带我离开骄纵筑起的监狱\n[02:30.590]吾主，我需要一个无法抵抗的希望\n[02:33.430]最后我才意识到\n[02:35.900]我从未想过独自担下战斗\n[02:38.950]\n[02:44.400]"
+    },
+    "code": 200
+  }
+}

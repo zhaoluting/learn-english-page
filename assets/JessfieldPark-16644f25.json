@@ -1,0 +1,324 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Jessfield Park",
+      "tlyric": "极司非而花园",
+      "singer": "The Shanghai Restoration Project / Careina",
+      "remarkIdx": ["Jessfield Park"]
+    },
+    {
+      "time": 28093,
+      "lyric": "I need a new house",
+      "tlyric": "我需要间新房",
+      "remarkIdx": ["need", "house"]
+    },
+    {
+      "time": 34070,
+      "lyric": "I need a new car",
+      "tlyric": "我需要辆新车",
+      "remarkIdx": ["new", "car"]
+    },
+    {
+      "time": 42021,
+      "lyric": "I need new hope",
+      "tlyric": "我需要新希望",
+      "remarkIdx": ["need", "hope"]
+    },
+    {
+      "time": 48029,
+      "lyric": "I need a new damn job",
+      "tlyric": "我需要一个该死的新工作",
+      "remarkIdx": ["damn", "job"]
+    },
+    {
+      "time": 56016,
+      "lyric": "Gotta get up get out",
+      "tlyric": "打算起床然后出去走走",
+      "remarkIdx": ["gotta", "get up", "get out"]
+    },
+    {
+      "time": 59038,
+      "lyric": "Gotta get up get out of here",
+      "tlyric": "打算起床离开这儿",
+      "remarkIdx": ["gotta", "get up", "get out", "here"]
+    },
+    {
+      "time": 62091,
+      "lyric": "Gotta get up get out",
+      "tlyric": "打算起床然后出去走走",
+      "remarkIdx": ["gotta", "get up", "get out"]
+    },
+    {
+      "time": 66039,
+      "lyric": "Gotta get up get out of here",
+      "tlyric": "打算起床离开这儿",
+      "remarkIdx": ["gotta", "get up", "get out", "here"]
+    },
+    {
+      "time": 70024,
+      "lyric": "I work so hard",
+      "tlyric": "我如此卖命的工作",
+      "remarkIdx": ["work"]
+    },
+    {
+      "time": 73077,
+      "lyric": "I work so hard at it",
+      "tlyric": "我工作如此上心",
+      "remarkIdx": ["work at", "hard"]
+    },
+    {
+      "time": 77024,
+      "lyric": "I'm working so hard",
+      "tlyric": "我如此卖命的工作",
+      "remarkIdx": ["working", "so"]
+    },
+    {
+      "time": 80068,
+      "lyric": "So so damn hard",
+      "tlyric": "特么的这么努力了",
+      "remarkIdx": ["damn"]
+    },
+    {
+      "time": 84021,
+      "lyric": "I need a new life",
+      "tlyric": "我需要新生活",
+      "remarkIdx": ["need", "life"]
+    },
+    {
+      "time": 89025,
+      "lyric": "A few new friends",
+      "tlyric": "一帮新朋友",
+      "remarkIdx": ["few", "friend"]
+    },
+    {
+      "time": 94066,
+      "lyric": "I need a new man",
+      "tlyric": "我需要个新男友",
+      "remarkIdx": ["new", "man"]
+    },
+    {
+      "time": 98048,
+      "lyric": "Gotta get up get out",
+      "tlyric": "打算起床然后出去走走",
+      "remarkIdx": ["gotta", "get up", "get out"]
+    },
+    {
+      "time": 101076,
+      "lyric": "Gotta get up get out of here",
+      "tlyric": "打算起床离开这儿",
+      "remarkIdx": ["gotta", "get up", "get out", "here"]
+    },
+    {
+      "time": 105046,
+      "lyric": "Gotta get up get out",
+      "tlyric": "打算起床然后出去走走",
+      "remarkIdx": ["gotta", "get up", "get out"]
+    },
+    {
+      "time": 108080,
+      "lyric": "Gotta get up get out of here",
+      "tlyric": "打算起床离开这儿",
+      "remarkIdx": ["gotta", "get up", "get out", "here"]
+    },
+    {
+      "time": 112058,
+      "lyric": "I work so hard",
+      "tlyric": "我如此卖命的工作",
+      "remarkIdx": ["work"]
+    },
+    {
+      "time": 116002,
+      "lyric": "I work so hard at it",
+      "tlyric": "我工作如此上心",
+      "remarkIdx": ["work at", "hard"]
+    },
+    {
+      "time": 119048,
+      "lyric": "I'm working so hard",
+      "tlyric": "我如此卖命的工作",
+      "remarkIdx": ["working", "so"]
+    },
+    {
+      "time": 122078,
+      "lyric": "So so damn hard",
+      "tlyric": "特么的这么努力了",
+      "remarkIdx": ["damn"]
+    },
+    {
+      "time": 126048,
+      "lyric": "I am working for the man (I work so hard)",
+      "tlyric": "我为了那些上层人士工作（我如此卖命的工作）",
+      "remarkIdx": ["work for", "man"]
+    },
+    {
+      "time": 130000,
+      "lyric": "I am working for the man, I am (I work so hard)",
+      "tlyric": "我为了那些上层人士工作（我如此卖命的工作）",
+      "remarkIdx": ["so", "hard"]
+    },
+    {
+      "time": 133077,
+      "lyric": "Working for that man",
+      "tlyric": "为他们工作",
+      "remarkIdx": ["working", "work for"]
+    },
+    {
+      "time": 135088,
+      "lyric": "Working for that man",
+      "tlyric": "为他们工作",
+      "remarkIdx": ["working", "work for"]
+    },
+    {
+      "time": 137058,
+      "lyric": "I am working for the man(I work so hard)",
+      "tlyric": "我为了那些上层人士工作（我如此卖命的工作）",
+      "remarkIdx": ["so", "hard"]
+    },
+    {
+      "time": 144027,
+      "lyric": "I am working for the man(I work so hard)",
+      "tlyric": "我为了那些上层人士工作（我如此卖命的工作）",
+      "remarkIdx": ["so", "hard"]
+    },
+    {
+      "time": 147032,
+      "lyric": "I am, working for that man(I work so hard)",
+      "tlyric": "我为了那些上层人士工作（我如此卖命的工作）",
+      "remarkIdx": ["working"]
+    },
+    {
+      "time": 151054,
+      "lyric": "I work so hard",
+      "tlyric": "我如此卖命的工作",
+      "remarkIdx": ["work"]
+    },
+    {
+      "time": 155040,
+      "lyric": "I am working for the man",
+      "tlyric": "我为那些上层人士工作",
+      "remarkIdx": ["working", "work for"]
+    },
+    {
+      "time": 169024,
+      "lyric": "I'm broke and weary",
+      "tlyric": "我疲惫不堪",
+      "remarkIdx": ["broke", "weary"]
+    },
+    {
+      "time": 172057,
+      "lyric": "I'm broke and weary",
+      "tlyric": "我疲惫不堪",
+      "remarkIdx": ["broke", "weary"]
+    },
+    {
+      "time": 176019,
+      "lyric": "I'm broke and weary",
+      "tlyric": "我疲惫不堪",
+      "remarkIdx": ["broke", "weary"]
+    },
+    {
+      "time": 179067,
+      "lyric": "I'm broke and weary",
+      "tlyric": "我疲惫不堪",
+      "remarkIdx": ["broke", "weary"]
+    },
+    {
+      "time": 183034,
+      "lyric": "I'm broke and weary (poor now)",
+      "tlyric": "我疲惫不堪（可怜至极）",
+      "remarkIdx": ["poor", "now"]
+    },
+    {
+      "time": 186085,
+      "lyric": "I'm broke and weary (poor now)",
+      "tlyric": "我疲惫不堪（可悲至极）",
+      "remarkIdx": ["poor", "now"]
+    },
+    {
+      "time": 190031,
+      "lyric": "I'm broke and weary (poor now)",
+      "tlyric": "我疲惫不堪（可怜至极）",
+      "remarkIdx": ["poor", "now"]
+    },
+    {
+      "time": 193090,
+      "lyric": "I'm broke and weary (poor now)",
+      "tlyric": "我疲惫不堪（可悲至极）",
+      "remarkIdx": ["poor", "now"]
+    },
+    {
+      "time": 197067,
+      "lyric": "I work so hard (poor now)",
+      "tlyric": "我如此卖命的工作（可怜至极）",
+      "remarkIdx": ["work"]
+    },
+    {
+      "time": 200092,
+      "lyric": "I work so hard at it (poor now)",
+      "tlyric": "我工作如此上心（可悲至极）",
+      "remarkIdx": ["work at", "hard"]
+    },
+    {
+      "time": 204042,
+      "lyric": "I'm working so hard (poor now)",
+      "tlyric": "我如此卖命的工作（可怜至极）",
+      "remarkIdx": ["working", "so"]
+    },
+    {
+      "time": 207086,
+      "lyric": "So so damn hard (poor now)",
+      "tlyric": "特么的这么努力了（可悲至极）",
+      "remarkIdx": ["damn"]
+    },
+    {
+      "time": 217009,
+      "lyric": "I need a new damn job",
+      "tlyric": "我需要一个该死的新工作",
+      "remarkIdx": ["new", "job"]
+    },
+    {
+      "time": 226025,
+      "lyric": "Working for the man, working for the man, I am",
+      "tlyric": "为他们工作,为他们工作",
+      "remarkIdx": ["working", "work for"]
+    },
+    {
+      "time": 230088,
+      "lyric": "Working for that man I am",
+      "tlyric": "我为那些上层人士工作",
+      "remarkIdx": ["working", "work for"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 3353795,
+      "status": 99,
+      "demand": 1,
+      "userid": 38846877,
+      "nickname": "苏打水试喝员",
+      "uptime": 1443195778684
+    },
+    "lyricUser": {
+      "id": 3353789,
+      "status": 99,
+      "demand": 0,
+      "userid": 2868949,
+      "nickname": "赵轱辘",
+      "uptime": 1443195778684
+    },
+    "lrc": {
+      "version": 20,
+      "lyric": "[00:00.00] 作词 : David Wen Wei Liang/Careina Williams\n[00:01.00] 作曲 : David Wen Wei Liang/Careina Williams\n[00:28.93]I need a new house\n[00:34.70]I need a new car\n[00:42.21]I need new hope\n[00:48.29]I need a new damn job\n[00:56.16]Gotta get up get out\n[00:59.38]Gotta get up get out of here\n[01:02.91]Gotta get up get out\n[01:06.39]Gotta get up get out of here\n[01:10.24]I work so hard\n[01:13.77]I work so hard at it\n[01:17.24]Im workin so hard\n[01:20.68]So so damn hard\n[01:24.21]I need a new life\n[01:29.25]A few new friends\n[01:34.66]I need a new man\n[01:38.48]Gotta get up get out\n[01:41.76]Gotta get up get out of here\n[01:45.46]Gotta get up get out\n[01:48.80]Gotta get up get up here\n[01:52.58]I work so hard\n[01:56.02]I work so hard at it\n[01:59.48]Im workin so hard\n[02:02.78]So so damn hard\n[02:06.48]I am workin for the man (I work so hard)\n[02:10.00]I am workin for the man, I am (I work so hard)\n[02:13.77]Workin for that man\n[02:15.88]Workin for that man\n[02:17.58]I am workin for the man(I work so hard)\n[02:24.27]I am workin for the man(I work so hard)\n[02:27.32]I am, workin for that man(I work so hard)\n[02:31.54]I work so hard\n[02:35.40]I am workin for the man\n[02:49.24]Im broke and weary\n[02:52.57]Im broke and weary\n[02:56.19]Im broke and weary\n[02:59.67]Im broke and weary\n[03:03.34]Im broke and weary (poor now)\n[03:06.85]Im broke and weary (poor now)\n[03:10.31]Im broke and weary (poor now)\n[03:13.90]Im broke and weary (poor now)\n[03:17.67]I work so hard (poor now)\n[03:20.92]I work so hard at it (poor now)\n[03:24.42]Im workin so hard (poor now)\n[03:27.86]So so damn hard (poor now)\n[03:37.09]I need a new damn job\n[03:46.25]Workin for the man, workin for the man, I am\n[03:50.88]Workin for that man I am\n[03:53.34]\n"
+    },
+    "tlyric": {
+      "version": 11,
+      "lyric": "[by:我很变态]\n[00:28.93]我需要间新房\n[00:34.70]我需要辆新车\n[00:42.21]我需要新希望\n[00:48.29]我需要一个该死的新工作\n[00:56.16]打算起床然后出去走走\n[00:59.38]打算起床离开这儿\n[01:02.91]打算起床然后出去走走\n[01:06.39]打算起床离开这儿\n[01:10.24]我如此卖命的工作\n[01:13.77]我工作如此上心\n[01:17.24]我如此卖命的工作\n[01:20.68]特么的这么努力了\n[01:24.21]我需要新生活\n[01:29.25]一帮新朋友\n[01:34.66]我需要个新男友\n[01:38.48]打算起床然后出去走走\n[01:41.76]打算起床离开这儿\n[01:45.46]打算起床然后出去走走\n[01:48.80]打算起床离开这儿\n[01:52.58]我如此卖命的工作\n[01:56.02]我工作如此上心\n[01:59.48]我如此卖命的工作\n[02:02.78]特么的这么努力了\n[02:06.48]我为了那些上层人士工作（我如此卖命的工作）\n[02:10.00]我为了那些上层人士工作（我如此卖命的工作）\n[02:13.77]为他们工作\n[02:15.88]为他们工作\n[02:17.58]我为了那些上层人士工作（我如此卖命的工作）\n[02:24.27]我为了那些上层人士工作（我如此卖命的工作）\n[02:27.32]我为了那些上层人士工作（我如此卖命的工作）\n[02:31.54]我如此卖命的工作\n[02:35.40]我为那些上层人士工作\n[02:49.24]我疲惫不堪\n[02:52.57]我疲惫不堪\n[02:56.19]我疲惫不堪\n[02:59.67]我疲惫不堪\n[03:03.34]我疲惫不堪（可怜至极）\n[03:06.85]我疲惫不堪（可悲至极）\n[03:10.31]我疲惫不堪（可怜至极）\n[03:13.90]我疲惫不堪（可悲至极）\n[03:17.67]我如此卖命的工作（可怜至极）\n[03:20.92]我工作如此上心（可悲至极）\n[03:24.42]我如此卖命的工作（可怜至极）\n[03:27.86]特么的这么努力了（可悲至极）\n[03:37.09]我需要一个该死的新工作\n[03:46.25]为他们工作,为他们工作\n[03:50.88]我为那些上层人士工作\n"
+    },
+    "code": 200
+  }
+}

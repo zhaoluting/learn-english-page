@@ -1,0 +1,539 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Blank Space",
+      "tlyric": "空白格",
+      "singer": "Taylor Swift"
+    },
+    {
+      "time": 5058,
+      "lyric": "Nice to meet you where you been",
+      "tlyric": "好久不见 你最近怎么样",
+      "remarkIdx": []
+    },
+    {
+      "time": 8004,
+      "lyric": "I could show you incredible things",
+      "tlyric": "我可以给你展现一些无与伦比的事情",
+      "remarkIdx": []
+    },
+    {
+      "time": 10066,
+      "lyric": "Magic madness heaven sin",
+      "tlyric": "像是魔法 疯狂 天堂 罪恶",
+      "remarkIdx": []
+    },
+    {
+      "time": 13008,
+      "lyric": "Saw you there and I thought",
+      "tlyric": "见到你后我便开始在想",
+      "remarkIdx": []
+    },
+    {
+      "time": 15008,
+      "lyric": "Oh my God look at that face",
+      "tlyric": "我的天 看这如此帅气的脸",
+      "remarkIdx": []
+    },
+    {
+      "time": 17050,
+      "lyric": "You look like my next mistake",
+      "tlyric": "你看起来就像我所犯下的下一个错误",
+      "remarkIdx": []
+    },
+    {
+      "time": 20002,
+      "lyric": "Love's a game wanna play",
+      "tlyric": "爱情是一场互动游戏",
+      "remarkIdx": []
+    },
+    {
+      "time": 25065,
+      "lyric": "New money suit and tie",
+      "tlyric": "新贵西装 精致领带",
+      "remarkIdx": []
+    },
+    {
+      "time": 28019,
+      "lyric": "I can read you like a magazine",
+      "tlyric": "我一眼便能读懂你的心思",
+      "remarkIdx": []
+    },
+    {
+      "time": 30068,
+      "lyric": "Ain't it funny rumors fly",
+      "tlyric": "我们有趣的谣言不觉得好笑么",
+      "remarkIdx": []
+    },
+    {
+      "time": 33015,
+      "lyric": "And I know you heard about me",
+      "tlyric": "我知道你听说过我",
+      "remarkIdx": []
+    },
+    {
+      "time": 35036,
+      "lyric": "So hey let's be friends",
+      "tlyric": "那就让我们做个朋友吧",
+      "remarkIdx": []
+    },
+    {
+      "time": 37041,
+      "lyric": "I'm dying to see how this one ends",
+      "tlyric": "我真想知道这次游戏的结果",
+      "remarkIdx": []
+    },
+    {
+      "time": 40000,
+      "lyric": "Grab your passport and my hand",
+      "tlyric": "拿上你的护照 紧握我的手",
+      "remarkIdx": []
+    },
+    {
+      "time": 42049,
+      "lyric": "I can make the bad guys good for a weekend",
+      "tlyric": "一周内我能将你化坏为乖",
+      "remarkIdx": []
+    },
+    {
+      "time": 45040,
+      "lyric": "So it's gonna be forever",
+      "tlyric": "所以这份感情会永恒不变",
+      "remarkIdx": []
+    },
+    {
+      "time": 47081,
+      "lyric": "Or it's gonna go down in flames",
+      "tlyric": "亦或者仅仅只是昙花一现",
+      "remarkIdx": []
+    },
+    {
+      "time": 50035,
+      "lyric": "You can tell me when it's over",
+      "tlyric": "当情到尽头时你可以和我说",
+      "remarkIdx": []
+    },
+    {
+      "time": 52079,
+      "lyric": "If the high was worth the pain",
+      "tlyric": "如果这些美好足以掩盖痛楚我愿意放手一搏",
+      "remarkIdx": []
+    },
+    {
+      "time": 55037,
+      "lyric": "Got a long list of ex-lovers",
+      "tlyric": "我的前任可以列成长串清单",
+      "remarkIdx": []
+    },
+    {
+      "time": 57085,
+      "lyric": "They'll tell you I'm insane",
+      "tlyric": "他们会告诉你我疯狂无比",
+      "remarkIdx": []
+    },
+    {
+      "time": 60035,
+      "lyric": "'Cause you know I love the players",
+      "tlyric": "因为你知道我爱的是一段感情里的人",
+      "remarkIdx": []
+    },
+    {
+      "time": 62090,
+      "lyric": "And you love the game",
+      "tlyric": "而你爱的却是这个游戏",
+      "remarkIdx": []
+    },
+    {
+      "time": 65035,
+      "lyric": "'Cause we're young and we're reckless",
+      "tlyric": "因为我们年轻冲动 不思其后",
+      "remarkIdx": []
+    },
+    {
+      "time": 67080,
+      "lyric": "We'll take this way too far",
+      "tlyric": "我们彼此会渐而远之",
+      "remarkIdx": []
+    },
+    {
+      "time": 70033,
+      "lyric": "It'll leave you breathless",
+      "tlyric": "而这会让你难以呼吸",
+      "remarkIdx": []
+    },
+    {
+      "time": 72083,
+      "lyric": "Or with a nasty scar",
+      "tlyric": "或许会留下难忘的情伤",
+      "remarkIdx": []
+    },
+    {
+      "time": 75035,
+      "lyric": "Got a long list of ex-lovers",
+      "tlyric": "可我前任多的可列清单",
+      "remarkIdx": []
+    },
+    {
+      "time": 77078,
+      "lyric": "They'll tell you I'm insane",
+      "tlyric": "他们会告诉你我疯狂无比",
+      "remarkIdx": []
+    },
+    {
+      "time": 80033,
+      "lyric": "But I've got a blank space baby",
+      "tlyric": "但宝贝 我给你留了空白处",
+      "remarkIdx": []
+    },
+    {
+      "time": 84000,
+      "lyric": "And I'll write your name",
+      "tlyric": "我会写下你的名字",
+      "remarkIdx": []
+    },
+    {
+      "time": 90063,
+      "lyric": "Cherry lips crystal skies",
+      "tlyric": "樱桃般润唇 水晶般天空",
+      "remarkIdx": []
+    },
+    {
+      "time": 93013,
+      "lyric": "I could show you incredible things",
+      "tlyric": "我会向你展现无与伦比的事",
+      "remarkIdx": []
+    },
+    {
+      "time": 95059,
+      "lyric": "Stolen kisses pretty lies",
+      "tlyric": "笨拙的偷吻 美妙的谎言",
+      "remarkIdx": []
+    },
+    {
+      "time": 98015,
+      "lyric": "You're the King baby I'm your Queen",
+      "tlyric": "你是国王 但宝贝 我是你的女王",
+      "remarkIdx": []
+    },
+    {
+      "time": 100035,
+      "lyric": "Find out what you want",
+      "tlyric": "找出你想要什么样的女生",
+      "remarkIdx": []
+    },
+    {
+      "time": 102055,
+      "lyric": "Be that girl for a month",
+      "tlyric": "变做你的心动女生一个月",
+      "remarkIdx": []
+    },
+    {
+      "time": 105004,
+      "lyric": "Wait the worst is yet to come oh no",
+      "tlyric": "但是分手的结果还是来了",
+      "remarkIdx": []
+    },
+    {
+      "time": 110060,
+      "lyric": "Screaming crying perfect storms",
+      "tlyric": "尖叫呐喊 大哭一场 争吵不断",
+      "remarkIdx": []
+    },
+    {
+      "time": 113011,
+      "lyric": "I can make all the tables turn",
+      "tlyric": "我可以转身不认",
+      "remarkIdx": []
+    },
+    {
+      "time": 115061,
+      "lyric": "Rose garden filled with thorns",
+      "tlyric": "鲜艳玫瑰却满身荆棘",
+      "remarkIdx": []
+    },
+    {
+      "time": 118014,
+      "lyric": "Keep you second guessing like",
+      "tlyric": "让你肆意揣测",
+      "remarkIdx": []
+    },
+    {
+      "time": 120010,
+      "lyric": "Oh my God who is she",
+      "tlyric": "我的天 她谁啊",
+      "remarkIdx": []
+    },
+    {
+      "time": 122050,
+      "lyric": "I get drunk on jealousy",
+      "tlyric": "我嫉妒无比 饮酒不断",
+      "remarkIdx": []
+    },
+    {
+      "time": 124092,
+      "lyric": "But you'll come back each time you leave",
+      "tlyric": "但你每次离开都会转身回来",
+      "remarkIdx": []
+    },
+    {
+      "time": 127040,
+      "lyric": "'Cause darling",
+      "tlyric": "因为 亲爱的",
+      "remarkIdx": []
+    },
+    {
+      "time": 127089,
+      "lyric": "I'm a nightmare dressed like a daydream",
+      "tlyric": "我是噩梦也是你所喜爱的美梦",
+      "remarkIdx": []
+    },
+    {
+      "time": 130034,
+      "lyric": "So it's gonna be forever",
+      "tlyric": "所以这份感情会永恒不变",
+      "remarkIdx": []
+    },
+    {
+      "time": 132087,
+      "lyric": "Or it's gonna go down in flames",
+      "tlyric": "亦或者仅仅只是昙花一现",
+      "remarkIdx": []
+    },
+    {
+      "time": 135038,
+      "lyric": "You can tell me when it's over",
+      "tlyric": "当情到尽头时你可以和我说",
+      "remarkIdx": []
+    },
+    {
+      "time": 137084,
+      "lyric": "If the high was worth the pain",
+      "tlyric": "如果我们相处之乐对得起分手之痛",
+      "remarkIdx": []
+    },
+    {
+      "time": 140031,
+      "lyric": "Got a long list of ex-lovers",
+      "tlyric": "我的前任可以列成长串清单",
+      "remarkIdx": []
+    },
+    {
+      "time": 142077,
+      "lyric": "They'll tell you I'm insane",
+      "tlyric": "他们会告诉你我疯狂无比",
+      "remarkIdx": []
+    },
+    {
+      "time": 145033,
+      "lyric": "'Cause you know I love the players",
+      "tlyric": "因为你知道我爱的是加入这个游戏的人",
+      "remarkIdx": []
+    },
+    {
+      "time": 147083,
+      "lyric": "And you love the game",
+      "tlyric": "而你也享受其中",
+      "remarkIdx": []
+    },
+    {
+      "time": 150041,
+      "lyric": "'Cause we're young and we're reckless",
+      "tlyric": "因为我们年轻冲动 不思其后",
+      "remarkIdx": []
+    },
+    {
+      "time": 152084,
+      "lyric": "We'll take this way too far",
+      "tlyric": "我们彼此会渐而远之",
+      "remarkIdx": []
+    },
+    {
+      "time": 155037,
+      "lyric": "It'll leave you breathless",
+      "tlyric": "而这会让你难以呼吸",
+      "remarkIdx": []
+    },
+    {
+      "time": 157083,
+      "lyric": "Or with a nasty scar",
+      "tlyric": "或许会留下难忘的情伤",
+      "remarkIdx": []
+    },
+    {
+      "time": 160034,
+      "lyric": "Got a long list of ex-lovers",
+      "tlyric": "我的前任可以列成长串清单",
+      "remarkIdx": []
+    },
+    {
+      "time": 162084,
+      "lyric": "They'll tell you I'm insane",
+      "tlyric": "他们会告诉你我疯狂无比",
+      "remarkIdx": []
+    },
+    {
+      "time": 165056,
+      "lyric": "But I've got a blank space baby",
+      "tlyric": "但宝贝 我给你留了空白处",
+      "remarkIdx": []
+    },
+    {
+      "time": 168088,
+      "lyric": "And I'll write your name",
+      "tlyric": "我会写下你的名字",
+      "remarkIdx": []
+    },
+    {
+      "time": 170035,
+      "lyric": "Boys only want love if it's torture",
+      "tlyric": "男孩们 尽管折磨身心 那爱也是唯一的",
+      "remarkIdx": []
+    },
+    {
+      "time": 175019,
+      "lyric": "Don't say I didn't say I didn't warn ya",
+      "tlyric": "可别说我没警告过你",
+      "remarkIdx": []
+    },
+    {
+      "time": 180042,
+      "lyric": "Boys only want love if it's torture",
+      "tlyric": "男孩们 尽管折磨身心 那爱也是唯一的",
+      "remarkIdx": []
+    },
+    {
+      "time": 185026,
+      "lyric": "Don't say I didn't say I didn't warn ya",
+      "tlyric": "可别说我没警告过你",
+      "remarkIdx": []
+    },
+    {
+      "time": 190033,
+      "lyric": "So it's gonna be forever",
+      "tlyric": "所以这份感情会永恒不变",
+      "remarkIdx": []
+    },
+    {
+      "time": 192080,
+      "lyric": "Or it's gonna go down in flames",
+      "tlyric": "亦或者仅仅只是昙花一现",
+      "remarkIdx": []
+    },
+    {
+      "time": 195036,
+      "lyric": "You can tell me when it's over",
+      "tlyric": "当情到尽头时你可以和我说",
+      "remarkIdx": []
+    },
+    {
+      "time": 197078,
+      "lyric": "If the high was worth the pain",
+      "tlyric": "如果我们相处之乐对得起分手之痛",
+      "remarkIdx": []
+    },
+    {
+      "time": 200028,
+      "lyric": "Got a long list of ex-lovers",
+      "tlyric": "我的前任可以列成长串清单",
+      "remarkIdx": []
+    },
+    {
+      "time": 202080,
+      "lyric": "They'll tell you I'm insane",
+      "tlyric": "他们会告诉你我疯狂无比",
+      "remarkIdx": []
+    },
+    {
+      "time": 205030,
+      "lyric": "'Cause you know I love the players",
+      "tlyric": "因为你知道我是爱情高手",
+      "remarkIdx": []
+    },
+    {
+      "time": 207083,
+      "lyric": "And you love the game",
+      "tlyric": "而你也享受其中",
+      "remarkIdx": []
+    },
+    {
+      "time": 210034,
+      "lyric": "'Cause we're young and we're reckless",
+      "tlyric": "因为我们年轻冲动 不思其后",
+      "remarkIdx": []
+    },
+    {
+      "time": 212083,
+      "lyric": "We'll take this way too far",
+      "tlyric": "我们彼此会渐而远之",
+      "remarkIdx": []
+    },
+    {
+      "time": 215037,
+      "lyric": "It'll leave you breathless",
+      "tlyric": "而这会让你难以呼吸",
+      "remarkIdx": []
+    },
+    {
+      "time": 217083,
+      "lyric": "Or with a nasty scar",
+      "tlyric": "或许会留下难忘的情伤",
+      "remarkIdx": []
+    },
+    {
+      "time": 220034,
+      "lyric": "Got a long list of ex-lovers",
+      "tlyric": "我的前任可以列成长串清单",
+      "remarkIdx": []
+    },
+    {
+      "time": 222082,
+      "lyric": "They'll tell you I'm insane",
+      "tlyric": "他们会告诉你我疯狂无比",
+      "remarkIdx": []
+    },
+    {
+      "time": 225054,
+      "lyric": "But I've got a blank space baby",
+      "tlyric": "但宝贝 清单我给你留下空白处",
+      "remarkIdx": []
+    },
+    {
+      "time": 229002,
+      "lyric": "And I'll write your name",
+      "tlyric": "而我会写下你的名字",
+      "remarkIdx": []
+    }
+  ],
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 5326933,
+      "status": 99,
+      "demand": 1,
+      "userid": 1566751587,
+      "nickname": "Inhaunt",
+      "uptime": 1571190393777
+    },
+    "lyricUser": {
+      "id": 5316517,
+      "status": 99,
+      "demand": 0,
+      "userid": 256716226,
+      "nickname": "byeHara",
+      "uptime": 1570845423424
+    },
+    "lrc": {
+      "version": 12,
+      "lyric": "[00:00.00] 作词 : Shellback/Max Martin/Taylor Swift\n[00:01.00] 作曲 : Shellback/Max Martin/Taylor Swift\n[00:02.00] 制作人 : Shellback,/Max Martin\n[00:05.58]Nice to meet you where you been\n[00:08.04]I could show you incredible things\n[00:10.66]Magic madness heaven sin\n[00:13.08]Saw you there and I thought\n[00:15.08]Oh my God look at that face\n[00:17.50]You look like my next mistake\n[00:20.02]Love's a game wanna play\n[00:25.02]\n[00:25.65]New money suit and tie\n[00:28.19]I can read you like a magazine\n[00:30.68]Ain't it funny rumors fly\n[00:33.15]And I know you heard about me\n[00:35.36]So hey let's be friends\n[00:37.41]I'm dying to see how this one ends\n[00:40.00]Grab your passport and my hand\n[00:42.49]I can make the bad guys good for a weekend\n[00:45.40]So it's gonna be forever\n[00:47.81]Or it's gonna go down in flames\n[00:50.35]You can tell me when it's over\n[00:52.15]\n[00:52.79]If the high was worth the pain\n[00:55.37]Got a long list of ex-lovers\n[00:57.85]They'll tell you I'm insane\n[01:00.35]'Cause you know I love the players\n[01:02.90]And you love the game\n[01:05.35]'Cause we're young and we're reckless\n[01:07.80]We'll take this way too far\n[01:10.33]It'll leave you breathless\n[01:12.13]\n[01:12.83]Or with a nasty scar\n[01:15.35]Got a long list of ex-lovers\n[01:17.78]They'll tell you I'm insane\n[01:20.33]But I've got a blank space baby\n[01:24.00]And I'll write your name\n[01:25.67]\n[01:30.63]Cherry lips crystal skies\n[01:33.13]I could show you incredible things\n[01:35.59]Stolen kisses pretty lies\n[01:38.15]You're the King baby I'm your Queen\n[01:40.35]Find out what you want\n[01:42.55]Be that girl for a month\n[01:45.04]Wait the worst is yet to come oh no\n[01:50.60]Screaming crying perfect storms\n[01:53.11]I can make all the tables turn\n[01:55.61]Rose garden filled with thorns\n[01:58.14]Keep you second guessing like\n[02:00.10]Oh my God who is she\n[02:02.50]I get drunk on jealousy\n[02:04.92]But you'll come back each time you leave\n[02:07.40]'Cause darling\n[02:07.89]I'm a nightmare dressed like a daydream\n[02:10.34]So it's gonna be forever\n[02:12.31]\n[02:12.87]Or it's gonna go down in flames\n[02:15.38]You can tell me when it's over\n[02:17.03]\n[02:17.84]If the high was worth the pain\n[02:20.31]Got a long list of ex-lovers\n[02:22.77]They'll tell you I'm insane\n[02:25.33]'Cause you know I love the players\n[02:27.83]And you love the game\n[02:30.41]'Cause we're young and we're reckless\n[02:32.31]\n[02:32.84]We'll take this way too far\n[02:35.37]It'll leave you breathless\n[02:37.25]\n[02:37.83]Or with a nasty scar\n[02:40.34]Got a long list of ex-lovers\n[02:42.84]They'll tell you I'm insane\n[02:45.56]But I've got a blank space baby\n[02:48.88]And I'll write your name\n[02:50.35]Boys only want love if it's torture\n[02:55.19]Don't say I didn't say I didn't warn ya\n[03:00.42]Boys only want love if it's torture\n[03:05.26]Don't say I didn't say I didn't warn ya\n[03:10.33]So it's gonna be forever\n[03:12.28]\n[03:12.80]Or it's gonna go down in flames\n[03:15.36]You can tell me when it's over\n[03:17.04]\n[03:17.78]If the high was worth the pain\n[03:20.28]Got a long list of ex-lovers\n[03:22.80]They'll tell you I'm insane\n[03:25.30]'Cause you know I love the players\n[03:27.83]And you love the game\n[03:30.34]'Cause we're young and we're reckless\n[03:32.83]We'll take this way too far\n[03:35.37]It'll leave you breathless\n[03:37.17]\n[03:37.83]Or with a nasty scar\n[03:40.34]Got a long list of ex-lovers\n[03:42.82]They'll tell you I'm insane\n[03:45.54]But I've got a blank space baby\n[03:48.40]\n[03:49.02]And I'll write your name\n"
+    },
+    "tlyric": {
+      "version": 4,
+      "lyric": "[by:七时秒]\n[00:05.58]好久不见 你最近怎么样\n[00:08.04]我可以给你展现一些无与伦比的事情\n[00:10.66]像是魔法 疯狂 天堂 罪恶\n[00:13.08]见到你后我便开始在想\n[00:15.08]我的天 看这如此帅气的脸\n[00:17.50]你看起来就像我所犯下的下一个错误\n[00:20.02]爱情是一场互动游戏\n[00:25.65]新贵西装 精致领带\n[00:28.19]我一眼便能读懂你的心思\n[00:30.68]我们有趣的谣言不觉得好笑么\n[00:33.15]我知道你听说过我\n[00:35.36]那就让我们做个朋友吧\n[00:37.41]我真想知道这次游戏的结果\n[00:40.00]拿上你的护照 紧握我的手\n[00:42.49]一周内我能将你化坏为乖\n[00:45.40]所以这份感情会永恒不变\n[00:47.81]亦或者仅仅只是昙花一现\n[00:50.35]当情到尽头时你可以和我说\n[00:52.79]如果这些美好足以掩盖痛楚我愿意放手一搏\n[00:55.37]我的前任可以列成长串清单\n[00:57.85]他们会告诉你我疯狂无比\n[01:00.35]因为你知道我爱的是一段感情里的人\n[01:02.90]而你爱的却是这个游戏\n[01:05.35]因为我们年轻冲动 不思其后\n[01:07.80]我们彼此会渐而远之\n[01:10.33]而这会让你难以呼吸\n[01:12.83]或许会留下难忘的情伤\n[01:15.35]可我前任多的可列清单\n[01:17.78]他们会告诉你我疯狂无比\n[01:20.33]但宝贝 我给你留了空白处\n[01:24.00]我会写下你的名字\n[01:30.63]樱桃般润唇 水晶般天空\n[01:33.13]我会向你展现无与伦比的事\n[01:35.59]笨拙的偷吻 美妙的谎言\n[01:38.15]你是国王 但宝贝 我是你的女王\n[01:40.35]找出你想要什么样的女生\n[01:42.55]变做你的心动女生一个月\n[01:45.04]但是分手的结果还是来了\n[01:50.60]尖叫呐喊 大哭一场 争吵不断\n[01:53.11]我可以转身不认\n[01:55.61]鲜艳玫瑰却满身荆棘\n[01:58.14]让你肆意揣测\n[02:00.10]我的天 她谁啊\n[02:02.50]我嫉妒无比 饮酒不断\n[02:04.92]但你每次离开都会转身回来\n[02:07.40]因为 亲爱的\n[02:07.89]我是噩梦也是你所喜爱的美梦\n[02:10.34]所以这份感情会永恒不变\n[02:12.87]亦或者仅仅只是昙花一现\n[02:15.38]当情到尽头时你可以和我说\n[02:17.84]如果我们相处之乐对得起分手之痛\n[02:20.31]我的前任可以列成长串清单\n[02:22.77]他们会告诉你我疯狂无比\n[02:25.33]因为你知道我爱的是加入这个游戏的人\n[02:27.83]而你也享受其中\n[02:30.41]因为我们年轻冲动 不思其后\n[02:32.84]我们彼此会渐而远之\n[02:35.37]而这会让你难以呼吸\n[02:37.83]或许会留下难忘的情伤\n[02:40.34]我的前任可以列成长串清单\n[02:42.84]他们会告诉你我疯狂无比\n[02:45.56]但宝贝 我给你留了空白处\n[02:48.88]我会写下你的名字\n[02:50.35]男孩们 尽管折磨身心 那爱也是唯一的\n[02:55.19]可别说我没警告过你\n[03:00.42]男孩们 尽管折磨身心 那爱也是唯一的\n[03:05.26]可别说我没警告过你\n[03:10.33]所以这份感情会永恒不变\n[03:12.80]亦或者仅仅只是昙花一现\n[03:15.36]当情到尽头时你可以和我说\n[03:17.78]如果我们相处之乐对得起分手之痛\n[03:20.28]我的前任可以列成长串清单\n[03:22.80]他们会告诉你我疯狂无比\n[03:25.30]因为你知道我是爱情高手\n[03:27.83]而你也享受其中\n[03:30.34]因为我们年轻冲动 不思其后\n[03:32.83]我们彼此会渐而远之\n[03:35.37]而这会让你难以呼吸\n[03:37.83]或许会留下难忘的情伤\n[03:40.34]我的前任可以列成长串清单\n[03:42.82]他们会告诉你我疯狂无比\n[03:45.54]但宝贝 清单我给你留下空白处\n[03:49.02]而我会写下你的名字\n"
+    },
+    "code": 200
+  },
+  "code": 200
+}

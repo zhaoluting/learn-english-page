@@ -1,0 +1,524 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Price Tag",
+      "tlyric": "价码牌",
+      "singer": "Jessie J / B.o.B",
+      "remarkIdx": ["tag"]
+    },
+    {
+      "time": 1720,
+      "lyric": "Okay",
+      "tlyric": "好的",
+      "remarkIdx": ["okay"]
+    },
+    {
+      "time": 3070,
+      "lyric": "Coconut man",
+      "tlyric": "椰子人（指合作人Dr Luke，因为他经常吃椰子）",
+      "remarkIdx": ["coconut", "man"]
+    },
+    {
+      "time": 4920,
+      "lyric": "Moon head",
+      "tlyric": "小傻瓜（指合作人Claude Kelly，因为他脑袋大得像月亮）",
+      "remarkIdx": ["moon"]
+    },
+    {
+      "time": 6720,
+      "lyric": "And pea",
+      "tlyric": "和豌豆（指Jessie J自己，因为她脑袋小）",
+      "remarkIdx": ["pea"]
+    },
+    {
+      "time": 8560,
+      "lyric": "You ready",
+      "tlyric": "你们准备好了！",
+      "remarkIdx": ["ready"]
+    },
+    {
+      "time": 11200,
+      "lyric": "Seems like everybody's got a price",
+      "tlyric": "好像每个人都有一个价码",
+      "remarkIdx": ["seem", "like", "everybody"]
+    },
+    {
+      "time": 14100,
+      "lyric": "I wonder how they sleep at night",
+      "tlyric": "我想知道他们晚上怎么睡得着",
+      "remarkIdx": ["wonder", "sleep"]
+    },
+    {
+      "time": 17400,
+      "lyric": "When the sale comes first",
+      "tlyric": "当利益衡量被摆在第一位",
+      "remarkIdx": ["sale", "first"]
+    },
+    {
+      "time": 18750,
+      "lyric": "And the truth comes second",
+      "tlyric": "真相被摆在第二位",
+      "remarkIdx": ["truth", "second"]
+    },
+    {
+      "time": 20070,
+      "lyric": "Just stop, for a minute and",
+      "tlyric": "就停下来吧 缓一缓",
+      "remarkIdx": ["stop", "minute"]
+    },
+    {
+      "time": 21840,
+      "lyric": "Smile",
+      "tlyric": "微笑吧",
+      "remarkIdx": ["smile"]
+    },
+    {
+      "time": 22860,
+      "lyric": "Why is everybody so serious",
+      "tlyric": "为什么大家都这么严肃",
+      "remarkIdx": ["why", "everybody", "serious"]
+    },
+    {
+      "time": 25610,
+      "lyric": "Acting so damn mysterious",
+      "tlyric": "一副神神秘秘的样子",
+      "remarkIdx": ["damn", "mysterious"]
+    },
+    {
+      "time": 28200,
+      "lyric": "got your shades on your eyes",
+      "tlyric": "眼周都是黑眼圈",
+      "remarkIdx": ["shade"]
+    },
+    {
+      "time": 29580,
+      "lyric": "And your heels so high",
+      "tlyric": "踩着这么高的高跟鞋",
+      "remarkIdx": ["heels", "so"]
+    },
+    {
+      "time": 30910,
+      "lyric": "That you can't even have a good time",
+      "tlyric": "你这样都无法享受好时光",
+      "remarkIdx": ["even"]
+    },
+    {
+      "time": 33830,
+      "lyric": "Everybody look to their left (yeah)",
+      "tlyric": "大家向左看（耶）",
+      "remarkIdx": ["left", "yeah"]
+    },
+    {
+      "time": 36660,
+      "lyric": "Everybody look to their right (ha)",
+      "tlyric": "大家向右看（哈）",
+      "remarkIdx": ["right"]
+    },
+    {
+      "time": 39400,
+      "lyric": "Can you feel that (yeah)",
+      "tlyric": "你能感觉到吗（耶）",
+      "remarkIdx": ["can", "feel"]
+    },
+    {
+      "time": 40660,
+      "lyric": "We're paying with love tonight",
+      "tlyric": "我们今晚就用爱当做酬劳吧",
+      "remarkIdx": ["pay", "love", "tonight"]
+    },
+    {
+      "time": 42640,
+      "lyric": "It's not about the money, money, money",
+      "tlyric": "这无关钱，钱，钱",
+      "remarkIdx": ["money"]
+    },
+    {
+      "time": 45450,
+      "lyric": "We don't need your money, money, money",
+      "tlyric": "我们不需要你的钱，钱，钱",
+      "remarkIdx": ["need", "money"]
+    },
+    {
+      "time": 47950,
+      "lyric": "We just wanna make the world dance",
+      "tlyric": "我只想让全世界一起跳舞",
+      "remarkIdx": ["wanna", "world", "dance"]
+    },
+    {
+      "time": 50800,
+      "lyric": "Forget about the price tag",
+      "tlyric": "忘掉价码牌",
+      "remarkIdx": ["forget", "price"]
+    },
+    {
+      "time": 53530,
+      "lyric": "Ain't about the (uh) cha-ching cha-ching",
+      "tlyric": "不是关于（哼）钱（收银机声）",
+      "remarkIdx": ["ain't", "cha-ching"]
+    },
+    {
+      "time": 56500,
+      "lyric": "Ain't about the (yeah) ba-bling ba-bling",
+      "tlyric": "也不是关于（耶）金银珠宝",
+      "remarkIdx": ["ain't", "bling"]
+    },
+    {
+      "time": 59210,
+      "lyric": "Wanna make the world dance",
+      "tlyric": "我只想让全世界一起跳舞",
+      "remarkIdx": ["make", "world"]
+    },
+    {
+      "time": 61830,
+      "lyric": "Forget about the price tag",
+      "tlyric": "忘掉价码牌",
+      "remarkIdx": ["tag"]
+    },
+    {
+      "time": 66720,
+      "lyric": "We need to take it back in time",
+      "tlyric": "我们需要及时回忆起",
+      "remarkIdx": ["take back", "in time"]
+    },
+    {
+      "time": 69410,
+      "lyric": "When music made us all unite!",
+      "tlyric": "当音乐让我们团结在一起",
+      "remarkIdx": ["music", "unite"]
+    },
+    {
+      "time": 72090,
+      "lyric": "And it wasn't low blows and video hoes",
+      "tlyric": "而且并不是靠下三滥的勾当和舞娘",
+      "remarkIdx": ["low blow", "hoes", "video hoes"]
+    },
+    {
+      "time": 74960,
+      "lyric": "Am I the only one getting tired?",
+      "tlyric": "难道我是唯一一个对此感到厌烦的？",
+      "remarkIdx": ["only", "tired"]
+    },
+    {
+      "time": 77850,
+      "lyric": "Why is everybody so obsessed?",
+      "tlyric": "为什么人人对此如此着迷",
+      "remarkIdx": ["why", "everybody", "obsessed"]
+    },
+    {
+      "time": 80440,
+      "lyric": "Money can't buy us happiness",
+      "tlyric": "金钱无法为我们买到快乐",
+      "remarkIdx": ["buy", "happy", "happiness"]
+    },
+    {
+      "time": 83030,
+      "lyric": "Can we all slow down and enjoy right now",
+      "tlyric": "我们能不能慢下来，享受当下",
+      "remarkIdx": ["slow", "enjoy"]
+    },
+    {
+      "time": 85700,
+      "lyric": "Guarantee we'll be feeling",
+      "tlyric": "保证我们都能感受到",
+      "remarkIdx": ["guarantee", "feeling"]
+    },
+    {
+      "time": 87330,
+      "lyric": "All right",
+      "tlyric": "很棒",
+      "remarkIdx": ["all"]
+    },
+    {
+      "time": 88690,
+      "lyric": "Everybody look to their left (yeah)",
+      "tlyric": "大家向左看（耶）",
+      "remarkIdx": ["left", "yeah"]
+    },
+    {
+      "time": 91900,
+      "lyric": "Everybody look to their right (ha)",
+      "tlyric": "大家向右看（哈）",
+      "remarkIdx": ["right"]
+    },
+    {
+      "time": 94050,
+      "lyric": "Can you feel that (yeah)",
+      "tlyric": "你能感觉到吗（耶）",
+      "remarkIdx": ["feel", "yeah"]
+    },
+    {
+      "time": 95470,
+      "lyric": "We'll paying with love tonight",
+      "tlyric": "我们今晚将用爱当做酬劳吧",
+      "remarkIdx": ["pay", "love", "tonight"]
+    },
+    {
+      "time": 97210,
+      "lyric": "It's not about the money, money, money",
+      "tlyric": "这无关钱，钱，钱",
+      "remarkIdx": ["money"]
+    },
+    {
+      "time": 100270,
+      "lyric": "We don't need your money, money, money",
+      "tlyric": "我们不需要你的钱，钱，钱",
+      "remarkIdx": ["need", "money"]
+    },
+    {
+      "time": 102840,
+      "lyric": "We just wanna make the world dance",
+      "tlyric": "我只想让全世界一起跳舞",
+      "remarkIdx": ["just", "dance"]
+    },
+    {
+      "time": 105520,
+      "lyric": "Forget about the price tag",
+      "tlyric": "忘掉价码牌",
+      "remarkIdx": ["about"]
+    },
+    {
+      "time": 108410,
+      "lyric": "Ain't about the (uh) cha-ching cha-ching",
+      "tlyric": "不是关于（哼）钱（收银机声）",
+      "remarkIdx": ["ain't", "cha-ching"]
+    },
+    {
+      "time": 111270,
+      "lyric": "Ain't about the (yeah) ba-bling ba-bling",
+      "tlyric": "也不是关于（耶）金银珠宝",
+      "remarkIdx": ["ain't", "bling"]
+    },
+    {
+      "time": 114079,
+      "lyric": "Wanna make the world dance",
+      "tlyric": "想让全世界一起跳舞",
+      "remarkIdx": ["wanna", "world", "dance"]
+    },
+    {
+      "time": 116639,
+      "lyric": "Forget about the price tag",
+      "tlyric": "忘掉价码牌",
+      "remarkIdx": ["forget", "price"]
+    },
+    {
+      "time": 119890,
+      "lyric": "well, keep the price tag",
+      "tlyric": "好吧，留着价码牌",
+      "remarkIdx": ["well"]
+    },
+    {
+      "time": 121220,
+      "lyric": "and take the cash back",
+      "tlyric": "把现金收回",
+      "remarkIdx": ["cash", "back"]
+    },
+    {
+      "time": 122590,
+      "lyric": "just give me six-string and a Half Stack",
+      "tlyric": "只要给我六弦吉他和音箱",
+      "remarkIdx": ["six-string", "Half Stack", "stack"]
+    },
+    {
+      "time": 125340,
+      "lyric": "and you can keep the cars",
+      "tlyric": "你就可以得到我的车",
+      "remarkIdx": ["keep", "car"]
+    },
+    {
+      "time": 126850,
+      "lyric": "leave me the garage",
+      "tlyric": "把车库留给我",
+      "remarkIdx": ["leave", "garage"]
+    },
+    {
+      "time": 128049,
+      "lyric": "and all I...",
+      "tlyric": "而我呢",
+      "remarkIdx": ["all"]
+    },
+    {
+      "time": 128750,
+      "lyric": "yes all I need are keys and guitar",
+      "tlyric": "是啊 我要的只有音符和吉他",
+      "remarkIdx": ["keys", "guitar"]
+    },
+    {
+      "time": 130840,
+      "lyric": "and guess what, in 30 seconds I'm leaving to Mars",
+      "tlyric": "你猜怎么着，30秒内我就要出发去火星",
+      "remarkIdx": ["guess", "leave", "Mars"]
+    },
+    {
+      "time": 133440,
+      "lyric": "yes we leaving across these undefeatable odds",
+      "tlyric": "是的，我们跨越了这些不可战胜的困难",
+      "remarkIdx": ["undefeatable", "odds"]
+    },
+    {
+      "time": 136250,
+      "lyric": "its like this man, you can't put a price on life",
+      "tlyric": "像这样的人，你不能给人生标上价码",
+      "remarkIdx": ["life"]
+    },
+    {
+      "time": 139350,
+      "lyric": "we do this for the love so we fight and sacrifice everynight",
+      "tlyric": "我们都是为了爱，所以每晚都在奋斗和付出",
+      "remarkIdx": ["sacrifice"]
+    },
+    {
+      "time": 142780,
+      "lyric": "so we aint gonna stumble and fall never",
+      "tlyric": "所以我们永远不会失败和堕落",
+      "remarkIdx": ["stumble", "fall"]
+    },
+    {
+      "time": 145300,
+      "lyric": "waiting to see, a sign of defeat uh uh",
+      "tlyric": "等着瞧，（价码牌是）失败的标志",
+      "remarkIdx": ["sign", "defeat"]
+    },
+    {
+      "time": 147400,
+      "lyric": "so we gon keep everyone moving their feet",
+      "tlyric": "所以我们要让每个人不断前进",
+      "remarkIdx": ["move", "feet"]
+    },
+    {
+      "time": 150200,
+      "lyric": "so bring back the beat and then everyone sing",
+      "tlyric": "所以再次回到那个节拍 大家一起唱",
+      "remarkIdx": ["bring", "beat"]
+    },
+    {
+      "time": 152400,
+      "lyric": "It's not about the money, money, money",
+      "tlyric": "这无关钱，钱，钱",
+      "remarkIdx": ["money"]
+    },
+    {
+      "time": 155060,
+      "lyric": "We don't need your money, money, money",
+      "tlyric": "我们不需要你的钱，钱，钱",
+      "remarkIdx": ["need", "money"]
+    },
+    {
+      "time": 157660,
+      "lyric": "We just wanna make the world dance",
+      "tlyric": "我只想让全世界一起跳舞",
+      "remarkIdx": ["just", "dance"]
+    },
+    {
+      "time": 160440,
+      "lyric": "Forget about the price tag",
+      "tlyric": "忘掉价码牌",
+      "remarkIdx": ["tag"]
+    },
+    {
+      "time": 163310,
+      "lyric": "Ain't about the (uh) cha-ching cha-ching",
+      "tlyric": "不是关于（哼）钱（收银机声）",
+      "remarkIdx": ["ain't", "cha-ching"]
+    },
+    {
+      "time": 166070,
+      "lyric": "Ain't about the (yeah) ba-bling ba-bling",
+      "tlyric": "也不是关于（耶）金银珠宝",
+      "remarkIdx": ["ain't", "bling"]
+    },
+    {
+      "time": 169400,
+      "lyric": "Wanna make the world dance",
+      "tlyric": "想让全世界一起跳舞",
+      "remarkIdx": ["make", "world"]
+    },
+    {
+      "time": 171390,
+      "lyric": "Forget about the price tag",
+      "tlyric": "忘掉价码牌",
+      "remarkIdx": ["about"]
+    },
+    {
+      "time": 174290,
+      "lyric": "It's not about the money, money, money",
+      "tlyric": "这无关钱，钱，钱",
+      "remarkIdx": ["money"]
+    },
+    {
+      "time": 176929,
+      "lyric": "We don't need your money, money, money",
+      "tlyric": "我们不需要你的钱，钱，钱",
+      "remarkIdx": ["need", "money"]
+    },
+    {
+      "time": 179540,
+      "lyric": "We just wanna make the world dance",
+      "tlyric": "我只想让全世界一起跳舞",
+      "remarkIdx": ["wanna", "world", "dance"]
+    },
+    {
+      "time": 182370,
+      "lyric": "Forget about the price tag",
+      "tlyric": "忘掉价码牌",
+      "remarkIdx": ["forget", "price"]
+    },
+    {
+      "time": 185800,
+      "lyric": "Ain't about the (uh) cha-ching cha-ching",
+      "tlyric": "不是关于（哼）钱（收银机声）",
+      "remarkIdx": ["ain't", "cha-ching"]
+    },
+    {
+      "time": 187970,
+      "lyric": "Ain't about the (yeah) ba-bling ba-bling",
+      "tlyric": "也不是关于（耶）金银珠宝",
+      "remarkIdx": ["ain't", "bling"]
+    },
+    {
+      "time": 190800,
+      "lyric": "Wanna make the world dance",
+      "tlyric": "想让全世界一起跳舞",
+      "remarkIdx": ["make", "world"]
+    },
+    {
+      "time": 193320,
+      "lyric": "Forget about the price tag",
+      "tlyric": "忘掉价码牌",
+      "remarkIdx": ["tag"]
+    },
+    {
+      "time": 207460,
+      "lyric": "Yeah yeah",
+      "tlyric": "Yeah yeah",
+      "remarkIdx": ["yeah"]
+    },
+    {
+      "time": 210250,
+      "lyric": "oo-oooh",
+      "tlyric": "oo-oooh",
+      "remarkIdx": []
+    },
+    {
+      "time": 212550,
+      "lyric": "forget about the price tag",
+      "tlyric": "忘掉价码牌",
+      "remarkIdx": ["about"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "lrc": {
+      "version": 56,
+      "lyric": "[00:00.000] 作词 : Jessie J\n[00:01.000] 作曲 : Jessie J\n[00:11.700]Seems like everybody's got a price,\n[00:14.600]I wonder how they sleep at night.\n[00:17.900]When the sale comes first\n[00:18.750]And the truth comes second,\n[00:20.070]Just stop, for a minute and\n[00:21.840]Smile\n[00:22.860]Why is everybody so serious!\n[00:25.610]Acting so damn mysterious\n[00:28.700]got your shades on your eyes\n[00:29.580]And your heels so high\n[00:30.910]That you can't even have a good time.\n[00:33.830]Everybody look to their left (yeah）\n[00:36.660]Everybody look to their right (ha）\n[00:39.900]Can you feel that (yeah）\n[00:40.660]We're paying with love tonight…\n[00:42.640]It's not about the money, money, money\n[00:45.450]We don't need your money, money, money\n[00:47.950]We just wanna make the world dance,\n[00:50.800]Forget about the Price Tag\n[00:53.530]Ain't about the (uh) Ch-Ch-Ching Ch-Ching\n[00:56.500]Ain't about the (yeah) Bl-Bling-Bl-Bling\n[00:59.210]Wanna make the world dance,\n[01:01.830]Forget about the Price Tag.\n[01:06.720]We need to take it back in time,\n[01:09.410]When music made us all UNITE!\n[01:12.090]And it wasn't low blows and video Hoes,\n[01:14.960]Am I the only one gettin… tired?\n[01:17.850]Why is everybody so obsessed?\n[01:20.440]Money can't buy us happiness\n[01:23.030]Can we all slow down and enjoy right now\n[01:25.700]Guarantee we'll be feelin\n[01:27.330]All right.\n[01:28.690]Everybody look to their left (yeah）\n[01:31.900]Everybody look to their right (ha）\n[01:34.050]Can you feel that (yeah）\n[01:35.470]We'll paying with love tonight…\n[01:37.210]It's not about the money, money, money\n[01:40.270]We don't need your money, money, money\n[01:42.840]We just wanna make the world dance,\n[01:45.520]Forget about the Price Tag\n[01:48.410]Ain't about the (uh) Ch-Ch-Ching Ch-Ching\n[01:51.270]Ain't about the (yeah) Bl-Bling-Bl-Bling\n[01:54.079]Wanna make the world dance,\n[01:56.639]Forget about the Price Tag.\n[01:59.890]well, keep the price tag\n[02:01.220]and take the cash back\n[02:02.590]just give me six streams and a half stack\n[02:05.340]and you can keep the cars\n[02:06.850]leave me the garage\n[02:08.049]and all I..\n[02:08.750]yes all I need are keys and guitar,\n[02:10.840]and guess what, in 30 seconds I'm leaving to Mars\n[02:13.440]yes we leaving across these undefeatable odds\n[02:16.250]its like this man, you can't put a price on life\n[02:19.350]we do this for the love so we fight and sacrifice everynight\n[02:22.780]so we aint gon stumble and fall never\n[02:25.300]waiting to see, a sign of defeat uh uh\n[02:27.400]so we gon keep everyone moving their feet\n[02:30.200]so bring back the beat and everyone sing\n[02:32.400]It's not about the money, money, money\n[02:32.480]it's not about…\n[02:35.060]We don't need your money, money, money\n[02:37.660]We just wanna make the world dance,\n[02:40.440]Forget about the Price Tag\n[02:43.310]Ain't about the (uh) Ch-Ch-Ching Ch-Ching\n[02:46.070]Ain't about the (yeah) Bl-Bling-Bl-Bling\n[02:49.400]Wanna make the world dance,\n[02:51.390]Forget about the Price Tag.\n[02:54.290]It's not about the money, money, money\n[02:56.929]We don't need your money, money, money\n[02:59.540]We just wanna make the world dance,\n[03:02.370]Forget about the Price Tag\n[03:05.800]Ain't about the (uh) Ch-Ch-Ching Ch-Ching\n[03:07.970]Ain't about the (yeah) Bl-Bling-Bl-Bling\n[03:10.800]Wanna make the world dance,\n[03:13.320]Forget about the Price Tag.\n[03:27.460]Yeah yeah\n[03:30.250]oo-oooh\n[03:32.550]forget about the price tag\n"
+    },
+    "tlyric": {
+      "version": 8,
+      "lyric": "[00:11.700]既然人人都有身价\n[00:14.600]我想知道他们晚上如何安睡\n[00:17.900]赚钱排在前面\n[00:18.750]而真相随后才到\n[00:20.070]停下来 缓解一会儿\n[00:21.840]微笑着\n[00:22.860]为何人人都杞人忧天\n[00:25.610]一副神神秘秘的样子\n[00:28.700]眼中的灰暗如何剔除\n[00:29.580]又穿这么高的高跟鞋\n[00:30.910]那活该你倒霉\n[00:33.830]人人向左看看（耶）\n[00:36.660]人人向右看看（哈）\n[00:39.900]难道感觉不到吗（耶）\n[00:40.660]爱能让你今晚圆满...\n[00:42.640]这无关金钱\n[00:45.450]我们不需要你的金钱\n[00:47.950]我只要世人跟我手舞足蹈\n[00:50.800]共同忘掉身价牌\n[00:53.530]不是关于（哼）金钱 金钱\n[00:56.500]也不是关于（耶）穿金戴银\n[00:59.210]只想让世人共舞\n[01:01.830]共同忘掉身价牌\n[01:06.720]我们想要让时光轮回\n[01:09.410]音乐让我们众志成城\n[01:12.090]但并不是不堪入目的视频\n[01:14.960]难道我是唯一一个守旧派\n[01:17.850]为什么人人对此着迷\n[01:20.440]满足与快乐 金钱无法买到\n[01:23.030]我们就不能停 活在当下\n[01:25.700]我能保证是个好方法\n[01:27.330]极好的\n[01:28.690]人人向左看看（耶）\n[01:31.900]人人向右看看（哈）\n[01:34.050]难道感觉不到吗（耶）\n[01:35.470]爱能让你今晚圆满...\n[01:37.210]这无关金钱 金钱 金钱\n[01:40.270]我们也不需要人们的金钱 金钱 金钱\n[01:42.840]我只要世人跟我手舞足蹈\n[01:45.520]共同忘掉身价牌\n[01:48.410]不是关于（哼）金钱 金钱\n[01:51.270]也不是关于（耶）穿金戴银\n[01:54.079]只想让世人共舞\n[01:56.639]共同忘掉身价牌\n[01:59.890]好吧 继续生活在标签下\n[02:01.220]把现金全部拿回来\n[02:02.590]只要给我六首音频和500MB\n[02:05.340]你就可以得到我的车\n[02:06.850]开出我的车库\n[02:08.049]而我呢\n[02:08.750]是啊 我只要吉他和音符陪伴我\n[02:10.840]猜想着，我在30秒能飞向火星\n[02:13.440]是的，我们将不朽打破并抛离\n[02:16.250]像这传奇人物 你无法给其定价\n[02:19.350]每晚战斗和牺牲 一切都是为了爱\n[02:22.780]所以我们永远不会堕落\n[02:25.300]看着吧，你们的标志注定失败\n[02:27.400]所以我们要大家继续前进\n[02:30.200]重复这节奏 大家一起唱\n[02:32.400]这无关金钱 金钱 金钱\n[02:32.480]这无关...\n[02:35.060]我们也不需要人们的金钱 金钱 金钱\n[02:37.660]我只要世人跟我手舞足蹈\n[02:40.440]共同忘掉身价牌\n[02:43.310]不是关于（哼）金钱 金钱\n[02:46.070]也不是关于（耶）穿金戴银\n[02:49.400]只想让世人共舞\n[02:51.390]共同忘掉身价牌\n[02:54.290]这无关金钱 金钱 金钱\n[02:56.929]我们也不需要人们的金钱 金钱 金钱\n[02:59.540]我只要世人跟我手舞足蹈\n[03:02.370]共同忘掉身价牌\n[03:05.800]不是关于（哼）金钱 金钱\n[03:07.970]也不是关于（耶）穿金戴银\n[03:10.800]我只要世人跟我手舞足蹈\n[03:13.320]共同忘掉身价牌\n[03:27.460]Yeah yeah\n[03:30.250]oo-oooh\n[03:32.550]共同忘掉身价牌"
+    },
+    "code": 200
+  }
+}

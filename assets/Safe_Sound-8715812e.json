@@ -1,0 +1,190 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Safe & Sound",
+      "tlyric": "安然无恙",
+      "singer": "Taylor Swift / The Civil Wars",
+      "remarkIdx": ["sound"]
+    },
+    {
+      "time": 16319,
+      "lyric": "I remember tears streaming down your face",
+      "tlyric": "我记得泪水顺着你的脸颊流下",
+      "remarkIdx": ["tear", "stream"]
+    },
+    {
+      "time": 19330,
+      "lyric": "When I said, I'll never let you go",
+      "tlyric": "当我说我将永不放开你的手",
+      "remarkIdx": ["said", "never"]
+    },
+    {
+      "time": 22700,
+      "lyric": "When all those shadows almost killed your light",
+      "tlyric": "当所有的阴影几乎挡住了你的光亮",
+      "remarkIdx": ["shadow", "almost"]
+    },
+    {
+      "time": 29240,
+      "lyric": "I remember you said, Don't leave me here alone",
+      "tlyric": "我记得你说过：“别把我一个人扔下。",
+      "remarkIdx": ["leave", "alone"]
+    },
+    {
+      "time": 34789,
+      "lyric": "But all that's dead and gone and passed tonight",
+      "tlyric": "但这一切都在今晚化作尘埃",
+      "remarkIdx": ["dead", "passed"]
+    },
+    {
+      "time": 43598,
+      "lyric": "Just close your eyes",
+      "tlyric": "只需闭上你的眼睛",
+      "remarkIdx": ["close"]
+    },
+    {
+      "time": 46698,
+      "lyric": "The sun is going down",
+      "tlyric": "太阳已西沉",
+      "remarkIdx": ["sun", "down"]
+    },
+    {
+      "time": 48780,
+      "lyric": "You'll be alright",
+      "tlyric": "你会没事的",
+      "remarkIdx": ["alright"]
+    },
+    {
+      "time": 53499,
+      "lyric": "No one can hurt you now",
+      "tlyric": "如今没有人能伤害你了",
+      "remarkIdx": ["hurt"]
+    },
+    {
+      "time": 56318,
+      "lyric": "Come morning light",
+      "tlyric": "当明日晨光初现",
+      "remarkIdx": ["Come", "morning"]
+    },
+    {
+      "time": 60398,
+      "lyric": "You and I'll be safe and sound",
+      "tlyric": "我们都将安然无恙",
+      "remarkIdx": ["safe"]
+    },
+    {
+      "time": 82660,
+      "lyric": "Don't you dare look out your window darling",
+      "tlyric": "亲爱的，你害怕看到窗外吧",
+      "remarkIdx": ["dare", "darling"]
+    },
+    {
+      "time": 86699,
+      "lyric": "Everything's on fire",
+      "tlyric": "一切都在燃烧",
+      "remarkIdx": ["Everything", "fire"]
+    },
+    {
+      "time": 89580,
+      "lyric": "The war outside our door keeps raging on",
+      "tlyric": "门外的战争仍在激烈的进行",
+      "remarkIdx": ["war", "raging"]
+    },
+    {
+      "time": 95819,
+      "lyric": "Hold on to this lullaby",
+      "tlyric": "牢牢记得我为你唱的这支摇篮曲",
+      "remarkIdx": ["lullaby"]
+    },
+    {
+      "time": 102560,
+      "lyric": "Even when the music's gone",
+      "tlyric": "即使音乐已经停止",
+      "remarkIdx": ["music", "gone"]
+    },
+    {
+      "time": 114479,
+      "lyric": "Just close your eyes",
+      "tlyric": "只需闭上你的眼睛",
+      "remarkIdx": ["eye"]
+    },
+    {
+      "time": 118600,
+      "lyric": "The sun is going down",
+      "tlyric": "太阳已西沉",
+      "remarkIdx": ["going", "down"]
+    },
+    {
+      "time": 120808,
+      "lyric": "You'll be alright",
+      "tlyric": "你会没事的",
+      "remarkIdx": ["alright"]
+    },
+    {
+      "time": 125399,
+      "lyric": "No one can hurt you now",
+      "tlyric": "如今没有人能伤害你了",
+      "remarkIdx": ["hurt"]
+    },
+    {
+      "time": 128060,
+      "lyric": "Come morning light",
+      "tlyric": "当明日晨光初现",
+      "remarkIdx": ["light"]
+    },
+    {
+      "time": 132029,
+      "lyric": "You and I'll be safe and sound",
+      "tlyric": "我们都将安然无恙",
+      "remarkIdx": ["sound"]
+    },
+    {
+      "time": 167840,
+      "lyric": "Just close your eyes",
+      "tlyric": "只需闭上你的眼睛",
+      "remarkIdx": ["close"]
+    },
+    {
+      "time": 174539,
+      "lyric": "You'll be alright",
+      "tlyric": "你会没事的",
+      "remarkIdx": ["alright"]
+    },
+    {
+      "time": 180299,
+      "lyric": "Come morning light,",
+      "tlyric": "当明日晨光初现",
+      "remarkIdx": ["Come", "morning"]
+    },
+    {
+      "time": 185100,
+      "lyric": "You and I'll be safe and sound...",
+      "tlyric": "我们都将安然无恙...",
+      "remarkIdx": ["safe"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 2903982,
+      "status": 99,
+      "demand": 1,
+      "userid": 31270058,
+      "nickname": "请务必",
+      "uptime": 1431658490473
+    },
+    "lrc": {
+      "version": 81,
+      "lyric": "[00:00.000] 作词 : Taylor Swift\n[00:01.000] 作曲 : Taylor Swift/Joy Williams/John Paul White/T Bone Burnett\n[00:16.319]I remember tears streaming down your face\n[00:19.330]When I said, I'll never let you go\n[00:22.700]When all those shadows almost killed your light\n[00:29.240]I remember you said, Don't leave me here alone\n[00:34.789]But all that's dead and gone and passed tonight\n[00:41.288]\n[00:43.598]Just close your eyes\n[00:46.698]The sun is going down\n[00:48.780]You'll be alright\n[00:53.499]No one can hurt you now\n[00:56.318]Come morning light\n[01:00.398]You and I'll be safe and sound\n[01:09.058]\n[01:22.660]Don't you dare look out your window darling\n[01:26.699]Everything's on fire\n[01:29.580]The war outside our door keeps raging on\n[01:35.819]Hold on to this lullaby\n[01:42.560]Even when the music's gone\n[01:48.810]\n[01:54.479]Just close your eyes\n[01:58.600]The sun is going down\n[02:00.808]You'll be alright\n[02:05.399]No one can hurt you now\n[02:08.060]Come morning light\n[02:12.029]You and I'll be safe and sound\n[02:20.539]\n[02:47.840]Just close your eyes\n[02:54.539]You'll be alright\n[03:00.299]Come morning light,\n[03:05.100]You and I'll be safe and sound...\n"
+    },
+    "tlyric": {
+      "version": 9,
+      "lyric": "[00:16.319]我记得泪水顺着你的脸颊流下\n[00:19.330]当我说我将永不放开你的手\n[00:22.700]当所有的阴影几乎挡住了你的光亮\n[00:29.240]我记得你说过：“别把我一个人扔下。\n[00:34.789]但这一切都在今晚化作尘埃\n[00:41.288]\n[00:43.598]只需闭上你的眼睛\n[00:46.698]太阳已西沉\n[00:48.780]你会没事的\n[00:53.499]如今没有人能伤害你了\n[00:56.318]当明日晨光初现\n[01:00.398]我们都将安然无恙\n[01:09.058]\n[01:22.660]亲爱的，你害怕看到窗外吧\n[01:26.699]一切都在燃烧\n[01:29.580]门外的战争仍在激烈的进行\n[01:35.819]牢牢记得我为你唱的这支摇篮曲\n[01:42.560]即使音乐已经停止\n[01:48.810]\n[01:54.479]只需闭上你的眼睛\n[01:58.600]太阳已西沉\n[02:00.808]你会没事的\n[02:05.399]如今没有人能伤害你了\n[02:08.060]当明日晨光初现\n[02:12.029]我们都将安然无恙\n[02:20.539]\n[02:47.840]只需闭上你的眼睛\n[02:54.539]你会没事的\n[03:00.299]当明日晨光初现\n[03:05.100]我们都将安然无恙..."
+    },
+    "code": 200
+  }
+}

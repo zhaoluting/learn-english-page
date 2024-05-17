@@ -1,0 +1,429 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "I Surrender",
+      "tlyric": "为爱臣服",
+      "singer": "Céline Dion",
+      "remarkIdx": ["surrender"]
+    },
+    {
+      "time": 16690,
+      "lyric": "There's so much life",
+      "tlyric": "还有很长的生命之路",
+      "remarkIdx": ["so", "so much", "life"]
+    },
+    {
+      "time": 18850,
+      "lyric": "I've left to live",
+      "tlyric": "留着我去跋涉",
+      "remarkIdx": ["left", "live"]
+    },
+    {
+      "time": 21000,
+      "lyric": "And this fire's burning still",
+      "tlyric": "这爱火依然灼烧我心房",
+      "remarkIdx": ["fire", "burn"]
+    },
+    {
+      "time": 25160,
+      "lyric": "When I watch you look at me",
+      "tlyric": "当我看到你注视我的眼神",
+      "remarkIdx": ["watch", "look"]
+    },
+    {
+      "time": 28850,
+      "lyric": "I think I could find the will",
+      "tlyric": "我相信我能够找到这份信念",
+      "remarkIdx": ["think", "will"]
+    },
+    {
+      "time": 33710,
+      "lyric": "To stand for every dream",
+      "tlyric": "为每个梦想坚持的信念",
+      "remarkIdx": ["stand", "dream"]
+    },
+    {
+      "time": 37770,
+      "lyric": "And forsake this solid ground",
+      "tlyric": "摆脱固化思维",
+      "remarkIdx": ["forsake", "solid"]
+    },
+    {
+      "time": 41680,
+      "lyric": "And give up this fear within",
+      "tlyric": "抛弃内心深处的恐惧",
+      "remarkIdx": ["give up", "fear", "within"]
+    },
+    {
+      "time": 45630,
+      "lyric": "Of what would happen if they ever knew",
+      "tlyric": "就算他们知道将会发生什么",
+      "remarkIdx": ["happen", "know"]
+    },
+    {
+      "time": 51420,
+      "lyric": "I'm in love with you",
+      "tlyric": "我已坠入你的爱河",
+      "remarkIdx": ["love", "with"]
+    },
+    {
+      "time": 55180,
+      "lyric": "Cause I'd surrender everything",
+      "tlyric": "因为我愿意献上一切",
+      "remarkIdx": ["cause", "surrender", "everything"]
+    },
+    {
+      "time": 59320,
+      "lyric": "To feel the chance",
+      "tlyric": "为了抓住机遇",
+      "remarkIdx": ["feel", "chance"]
+    },
+    {
+      "time": 61470,
+      "lyric": "To live again",
+      "tlyric": "为了浴火重生",
+      "remarkIdx": ["live", "again"]
+    },
+    {
+      "time": 63620,
+      "lyric": "I reach to you",
+      "tlyric": "我奔向你",
+      "remarkIdx": ["reach"]
+    },
+    {
+      "time": 66570,
+      "lyric": "I know you can feel it too",
+      "tlyric": "我知道你同样能感觉到",
+      "remarkIdx": ["can", "feel"]
+    },
+    {
+      "time": 69750,
+      "lyric": "We'd make it through",
+      "tlyric": "我们一定能克服难关",
+      "remarkIdx": ["through", "make it through"]
+    },
+    {
+      "time": 72240,
+      "lyric": "A thousand dreams I still believe",
+      "tlyric": "我仍然坚信，那无数个梦想",
+      "remarkIdx": ["still", "believe"]
+    },
+    {
+      "time": 76330,
+      "lyric": "I'd make you give them all to me",
+      "tlyric": "我希望你能把它们都兑现",
+      "remarkIdx": ["make", "give"]
+    },
+    {
+      "time": 80450,
+      "lyric": "I'd hold you in my arms and never let go",
+      "tlyric": "我会紧紧拥你入怀，永不分离",
+      "remarkIdx": ["hold", "let go"]
+    },
+    {
+      "time": 88160,
+      "lyric": "I surrender",
+      "tlyric": "我为爱臣服",
+      "remarkIdx": ["surrender"]
+    },
+    {
+      "time": 96930,
+      "lyric": "I know",
+      "tlyric": "我知道",
+      "remarkIdx": ["know"]
+    },
+    {
+      "time": 99010,
+      "lyric": "I can't survive another night away from you",
+      "tlyric": "失去你，我便见不到明天的曙光",
+      "remarkIdx": ["survive", "night", "away from"]
+    },
+    {
+      "time": 105520,
+      "lyric": "You're the reason I go on",
+      "tlyric": "你是我走下去的理由",
+      "remarkIdx": ["reason", "go on"]
+    },
+    {
+      "time": 109470,
+      "lyric": "And now I need to live the truth",
+      "tlyric": "现在我需要面对现实",
+      "remarkIdx": ["now", "need", "truth"]
+    },
+    {
+      "time": 113510,
+      "lyric": "Right now, there's no better time",
+      "tlyric": "没有比此刻更好的时机",
+      "remarkIdx": ["right now", "time"]
+    },
+    {
+      "time": 118070,
+      "lyric": "From this fear, I will break free",
+      "tlyric": "我将战胜这恐惧",
+      "remarkIdx": ["fear", "break"]
+    },
+    {
+      "time": 122340,
+      "lyric": "And I'll live again with love",
+      "tlyric": "我将带着爱重生",
+      "remarkIdx": ["live", "again"]
+    },
+    {
+      "time": 126270,
+      "lyric": "And know they can't take that away from me",
+      "tlyric": "我知道没有人能夺走我的爱",
+      "remarkIdx": ["know", "take away", "away from"]
+    },
+    {
+      "time": 131930,
+      "lyric": "And they will see",
+      "tlyric": "并且他们将见证",
+      "remarkIdx": ["will", "see"]
+    },
+    {
+      "time": 135640,
+      "lyric": "I'd surrender everything",
+      "tlyric": "我愿意献上一切",
+      "remarkIdx": ["surrender", "everything"]
+    },
+    {
+      "time": 139250,
+      "lyric": "To feel the chance",
+      "tlyric": "为了抓住机遇",
+      "remarkIdx": ["feel", "chance"]
+    },
+    {
+      "time": 141290,
+      "lyric": "To live again",
+      "tlyric": "为了浴火重生",
+      "remarkIdx": ["live", "again"]
+    },
+    {
+      "time": 143330,
+      "lyric": "I reach to you",
+      "tlyric": "我奔向你",
+      "remarkIdx": ["reach"]
+    },
+    {
+      "time": 147020,
+      "lyric": "I know you can feel it too",
+      "tlyric": "我知道你同样能感觉到",
+      "remarkIdx": ["can", "feel"]
+    },
+    {
+      "time": 150130,
+      "lyric": "We'd make it through",
+      "tlyric": "我们一定能克服难关",
+      "remarkIdx": ["through", "make it through"]
+    },
+    {
+      "time": 152250,
+      "lyric": "A thousand dreams I still believe",
+      "tlyric": "我仍然坚信，那无数个梦想",
+      "remarkIdx": ["still", "believe"]
+    },
+    {
+      "time": 156400,
+      "lyric": "I'll make you give them all to me",
+      "tlyric": "我希望你能把它们都兑现",
+      "remarkIdx": ["make", "give"]
+    },
+    {
+      "time": 160650,
+      "lyric": "I'll hold you in my arms and never let go",
+      "tlyric": "我会紧紧拥你入怀，永不分离",
+      "remarkIdx": ["hold", "let go"]
+    },
+    {
+      "time": 168400,
+      "lyric": "I surrender",
+      "tlyric": "我为爱臣服",
+      "remarkIdx": ["surrender"]
+    },
+    {
+      "time": 176990,
+      "lyric": "Every night's getting longer",
+      "tlyric": "夜晚变得愈加漫长",
+      "remarkIdx": ["every", "night", "longer"]
+    },
+    {
+      "time": 181390,
+      "lyric": "And this fire's getting stronger, baby",
+      "tlyric": "心中火焰愈发旺盛，宝贝",
+      "remarkIdx": ["fire", "baby"]
+    },
+    {
+      "time": 186140,
+      "lyric": "I'll swallow my pride",
+      "tlyric": "我将忍辱负重",
+      "remarkIdx": ["swallow", "pride"]
+    },
+    {
+      "time": 188620,
+      "lyric": "And I'll be alive",
+      "tlyric": "坚强活下去",
+      "remarkIdx": ["alive"]
+    },
+    {
+      "time": 190600,
+      "lyric": "Can't you hear my call?",
+      "tlyric": "你能听到我的呼唤吗？",
+      "remarkIdx": ["hear", "call"]
+    },
+    {
+      "time": 195390,
+      "lyric": "I surrender all",
+      "tlyric": "我愿意献上所有",
+      "remarkIdx": ["surrender", "all"]
+    },
+    {
+      "time": 200800,
+      "lyric": "I'll surrender everything",
+      "tlyric": "我愿意献上一切",
+      "remarkIdx": ["surrender", "everything"]
+    },
+    {
+      "time": 204300,
+      "lyric": "To feel the chance, to live again",
+      "tlyric": "为了抓住机遇，为了浴火重生",
+      "remarkIdx": ["chance", "live"]
+    },
+    {
+      "time": 208600,
+      "lyric": "I reach to you",
+      "tlyric": "我奔向你",
+      "remarkIdx": ["reach"]
+    },
+    {
+      "time": 211260,
+      "lyric": "I know you can feel it too",
+      "tlyric": "我知道你同样能感觉到",
+      "remarkIdx": ["can", "feel"]
+    },
+    {
+      "time": 214530,
+      "lyric": "We'll make it through",
+      "tlyric": "我们一定能克服难关",
+      "remarkIdx": ["through", "make it through"]
+    },
+    {
+      "time": 217130,
+      "lyric": "A thousand dreams I still believe",
+      "tlyric": "我仍然坚信，那无数个梦想",
+      "remarkIdx": ["still", "believe"]
+    },
+    {
+      "time": 221030,
+      "lyric": "I'll make you give them all to me",
+      "tlyric": "我希望你能把它们都兑现",
+      "remarkIdx": ["make", "give"]
+    },
+    {
+      "time": 225250,
+      "lyric": "I'll hold you in my arms and never let go",
+      "tlyric": "我会紧紧拥你入怀，永不分离",
+      "remarkIdx": ["hold", "let go"]
+    },
+    {
+      "time": 232920,
+      "lyric": "I surrender",
+      "tlyric": "我为爱臣服",
+      "remarkIdx": ["surrender"]
+    },
+    {
+      "time": 241970,
+      "lyric": "Right here, right now",
+      "tlyric": "此时此刻",
+      "remarkIdx": ["right", "right now"]
+    },
+    {
+      "time": 245900,
+      "lyric": "I'd give my life to live again",
+      "tlyric": "我愿意献出生命，浴火重生",
+      "remarkIdx": ["give", "life"]
+    },
+    {
+      "time": 249430,
+      "lyric": "I'll break free",
+      "tlyric": "我将挣脱并自由",
+      "remarkIdx": ["free", "break free"]
+    },
+    {
+      "time": 252160,
+      "lyric": "Take me, my everything",
+      "tlyric": "将我的一切都带走",
+      "remarkIdx": ["take", "everything"]
+    },
+    {
+      "time": 257190,
+      "lyric": "I surrender all to you",
+      "tlyric": "为了你，我愿意献上一切",
+      "remarkIdx": ["surrender", "all"]
+    },
+    {
+      "time": 260130,
+      "lyric": "Right now",
+      "tlyric": "此时",
+      "remarkIdx": ["right", "right now"]
+    },
+    {
+      "time": 262820,
+      "lyric": "I'd give my life to live again",
+      "tlyric": "我愿意献出生命，浴火重生",
+      "remarkIdx": ["give", "life"]
+    },
+    {
+      "time": 266260,
+      "lyric": "I'd give my life",
+      "tlyric": "我愿意献出生命",
+      "remarkIdx": ["give", "life"]
+    },
+    {
+      "time": 267750,
+      "lyric": "I'll break free, Take me",
+      "tlyric": "我将挣脱并自由，带走我吧",
+      "remarkIdx": ["break", "break free"]
+    },
+    {
+      "time": 270060,
+      "lyric": "Take me, take me, my everything",
+      "tlyric": "带走我吧，将我的一切都带走",
+      "remarkIdx": ["take", "everything"]
+    },
+    {
+      "time": 274700,
+      "lyric": "I surrender all to you, right now",
+      "tlyric": "为了你，此刻我愿意献上一切",
+      "remarkIdx": ["surrender", "right now"]
+    }, {
+      "time": 280020,
+      "lyric": "I surrender all, I surrender all to you, baby",
+      "tlyric": "我愿意为你献上一切，宝贝",
+      "remarkIdx": ["surrender",  "baby"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 3827565,
+      "status": 99,
+      "demand": 1,
+      "userid": 35627257,
+      "nickname": "鶯壹",
+      "uptime": 1431485388099
+    },
+    "lrc": {
+      "version": 18,
+      "lyric": "[00:00.000] 作词 : Louis Biancaniello/Sam Watters\n[00:01.000] 作曲 : Louis Biancaniello/Sam Watters\n[00:16.690]There's so much life\n[00:18.850]I've left to live\n[00:21.000]And this fire's burning still\n[00:24.950]\n[00:25.160]When I watch you look at me\n[00:28.850]I think I could find the will\n[00:33.710]To stand for every dream\n[00:37.770]And forsake this solid ground\n[00:41.680]And give up this fear within\n[00:45.630]Of what would happen if they ever knew\n[00:51.420]I'm in love with you\n[00:54.040]\n[00:55.180]'Cause I'd surrender everything\n[00:59.320]To feel the chance, to live again\n[01:03.620]I reach to you\n[01:06.570]I know you can feel it too\n[01:09.750]We'd make it through\n[01:11.350]\n[01:12.240]A thousand dreams I still believe\n[01:16.330]I'd make you give them all to me\n[01:20.450]I'd hold you in my arms and never let go\n[01:28.160]I surrender\n[01:33.550]\n[01:36.930]I know\n[01:39.010]I can't survive another night away from you\n[01:45.520]You're the reason I go on\n[01:49.470]And now I need to live the truth\n[01:52.840]\n[01:53.510]Right now, there's no better time\n[01:58.070]From this fear, I will break free\n[02:02.340]And I'll live again with love\n[02:06.270]And know they can't take that away from me\n[02:11.930]And they will see... yeah\n[02:13.730]\n[02:15.640]I'd surrender everything\n[02:19.250]To feel the chance, to live again\n[02:23.330]I reach to you\n[02:27.020]I know you can feel it too\n[02:30.130]We'd make it through\n[02:31.310]\n[02:32.250]A thousand dreams I still believe\n[02:36.400]I'll make you give them all to me\n[02:40.650]I'll hold you in my arms and never let go\n[02:48.400]I surrender\n[02:52.930]\n[02:56.990]Every night's getting longer\n[03:01.390]And this fire‘s getting stronger baby\n[03:06.140]I'll swallow my pride\n[03:09.120]And I'll be alive\n[03:11.100]Can't you hear my call?\n[03:15.390]I surrender all...\n[03:18.630]\n[03:21.300]（I'll surrender everything）\n[03:24.300]（To feel the chance, to live again）\n[03:28.600]I reach to you\n[03:31.760]I know you can feel it too\n[03:35.030]We'll make it through\n[03:36.480]\n[03:37.130]A thousand dreams I still believe\n[03:41.030]I'll make you give them all to me\n[03:45.250]I'll hold you in my arms and never let go\n[03:52.920]I surrender\n[03:56.630]\n[04:01.970]Right here, right now\n[04:05.900]I'd give my life to live again\n[04:09.930]I'll break free\n[04:12.160]Take me, my everything\n[04:16.250]\n[04:17.190]I surrender all to you\n[04:20.130]（Right now）\n[04:21.740]Right now\n[04:22.820]（I'd give my life to live again）\n[04:26.260]I'd give my life\n[04:27.750]（I'll break free, Take me）\n[04:30.060]Take me, take me\n[04:31.700]（my everything）\n[04:32.910]My everything\n[04:33.790]\n[04:34.700]（I surrender all to you, right now）\n[04:39.130]Right now\n[04:40.320]（I'd give my life to live again）\n"
+    },
+    "tlyric": {
+      "version": 2,
+      "lyric": "[by:鶯壹]\n[00:16.690]依然有很长的生命之路\n[00:18.850]要跋涉\n[00:21.000]这爱火依然灼烧我心房\n[00:25.160]当我看到你注视我的眼神\n[00:28.850]我相信我能够找到\n[00:33.710]为每个梦想坚持的信念\n[00:37.770]我相信我能找到坚持梦想的信念，并且抛弃现有的理念\n[00:41.680]也找到了勇敢的心 不再畏惧\n[00:45.630]当你经受何等苦难\n[00:51.420]我已坠入爱河\n[00:55.180]（因为）我宁愿放弃一切\n[00:59.320]为了感受如同涅槃重生的爱\n[01:03.620]我奔向你\n[01:06.570]我知道你同样能感觉到\n[01:09.750]我们一定能克服难关\n[01:12.240]那些一起许下的梦想我仍然坚信\n[01:16.330]我希望你能把它们兑现\n[01:20.450]我紧紧拥你入怀 永不分离\n[01:28.160]我投降\n[01:36.930]我知道\n[01:39.010]失去你 我便见不到明天的曙光\n[01:45.520]你是我生命的慰藉\n[01:49.470]现在我要与这真理同存\n[01:53.510]现在 这珍贵的时刻\n[01:58.070]我将战胜这恐惧\n[02:02.340]在爱火中涅槃\n[02:06.270]没有人能征服我们的爱\n[02:11.930]并且他们将见证....耶\n[02:15.640]我宁愿放弃一切\n[02:19.250]为了感受如同涅槃重生的爱\n[02:23.330]我奔向你\n[02:27.020]我知道你同样能感觉到\n[02:30.130]我们一定能克服难关\n[02:32.250]那些一起许下的梦想我仍然坚信\n[02:36.400]我希望你能把它们兑现\n[02:40.650]我紧紧拥你入怀 永不分离\n[02:48.400]我投降\n[02:56.990]每一夜 在思念中延长\n[03:01.390]这爱火 把我心灼烫..宝贝\n[03:06.140]我将忍辱负重\n[03:09.120]坚强活下去\n[03:11.100]你能听到我的呼唤吗？\n[03:15.390]我放弃一切........\n[03:21.300]（我宁愿放弃一切）\n[03:24.300]（为了感受如同涅槃重生的爱）\n[03:28.600]我奔向你\n[03:31.760]我知道你同样能感觉到\n[03:35.030]我们一定能克服难关\n[03:37.130]那些一起许下的梦想我仍然坚信\n[03:41.030]我希望你能把它们兑现\n[03:45.250]我紧紧拥你入怀 永不分离\n[03:52.920]我投降\n[04:01.970]此时 此刻\n[04:05.900]我要放弃一切 涅槃重生\n[04:09.930]我将打破禁锢 赢得自由\n[04:12.160]把我与我的所有带走吧\n[04:17.190]为了你 我放弃一切\n[04:20.130]（此时）\n[04:21.740]此时\n[04:22.820]（我要放弃一切 涅槃重生）\n[04:26.260]我要放弃一切 涅槃重生\n[04:27.750]（我将打破禁锢 赢得自由 带走我吧）\n[04:30.060]带走我吧 带走我\n[04:31.700]（我的一切）\n[04:32.910]我的所有....\n[04:34.700]（为了你 此刻我放弃一切）\n[04:39.130]此刻\n[04:40.320]（我要放弃一切 涅槃重生）\n"
+    },
+    "code": 200
+  }
+}

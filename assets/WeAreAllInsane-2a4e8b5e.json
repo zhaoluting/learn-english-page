@@ -1,0 +1,300 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "We Are All Insane",
+      "tlyric": "都疯了",
+      "singer": "AWOLNATION",
+      "remarkIdx": ["a week"]
+    },
+    {
+      "time": 22951,
+      "lyric": "Monday makes a fool of me",
+      "tlyric": "周一，丑态百出",
+      "remarkIdx": ["Monday", "fool"]
+    },
+    {
+      "time": 26309,
+      "lyric": "Tuesday and my jealousy",
+      "tlyric": "周二，妒火中烧",
+      "remarkIdx": ["Tuesday", "jealousy"]
+    },
+    {
+      "time": 28736,
+      "lyric": "Wednesday and a cup of tea",
+      "tlyric": "周三，茶余饭饱",
+      "remarkIdx": ["Wednesday", "tea"]
+    },
+    {
+      "time": 32113,
+      "lyric": "Keep calm",
+      "tlyric": "少安毋躁",
+      "remarkIdx": ["keep", "calm"]
+    },
+    {
+      "time": 34569,
+      "lyric": "Thursday hope keeps tempting me",
+      "tlyric": "周四，望眼欲穿",
+      "remarkIdx": ["Thursday", "hope", "tempt"]
+    },
+    {
+      "time": 37732,
+      "lyric": "Friday and infamy",
+      "tlyric": "周五，狼狈不堪",
+      "remarkIdx": ["Friday", "infamy"]
+    },
+    {
+      "time": 40377,
+      "lyric": "Weekend I'll go back to sleep",
+      "tlyric": "周末，我呼呼大睡",
+      "remarkIdx": ["go back", "sleep"]
+    },
+    {
+      "time": 43427,
+      "lyric": "And I'm afraid that I'm going mad",
+      "tlyric": "恐怕我已经疯了",
+      "remarkIdx": ["afraid", "mad"]
+    },
+    {
+      "time": 53169,
+      "lyric": "We are all insane",
+      "tlyric": "我们都疯了",
+      "remarkIdx": ["all", "insane"]
+    },
+    {
+      "time": 55207,
+      "lyric": "Our pain is way too loud",
+      "tlyric": "我不堪重负，呼天抢地",
+      "remarkIdx": ["pain", "way too", "loud"]
+    },
+    {
+      "time": 58025,
+      "lyric": "Great danger in the clouds",
+      "tlyric": "危在旦夕",
+      "remarkIdx": ["great", "danger", "in the clouds"]
+    },
+    {
+      "time": 64435,
+      "lyric": "We are all insane",
+      "tlyric": "我们都疯了",
+      "remarkIdx": ["all", "insane"]
+    },
+    {
+      "time": 66518,
+      "lyric": "Our fear is way too proud",
+      "tlyric": "我惶惶不可终日",
+      "remarkIdx": ["fear", "way too", "proud"]
+    },
+    {
+      "time": 69386,
+      "lyric": "Great panic from the crowds",
+      "tlyric": "恐慌袭来",
+      "remarkIdx": ["panic"]
+    },
+    {
+      "time": 74598,
+      "lyric": "Monday in its infancy",
+      "tlyric": "周一，发轫之始",
+      "remarkIdx": ["Monday", "infancy"]
+    },
+    {
+      "time": 77746,
+      "lyric": "Tuesday sitting awkwardly",
+      "tlyric": "周二，如坐针毡",
+      "remarkIdx": ["sitting", "awkwardly"]
+    },
+    {
+      "time": 80202,
+      "lyric": "Wednesday creeps respectfully",
+      "tlyric": "周三，卑躬屈膝",
+      "remarkIdx": ["creep", "respectfully"]
+    },
+    {
+      "time": 83555,
+      "lyric": "Keep calm",
+      "tlyric": "少安毋躁",
+      "remarkIdx": ["keep", "calm"]
+    },
+    {
+      "time": 86260,
+      "lyric": "Thursday night keeps tempting me",
+      "tlyric": "周四，翘首盼夜",
+      "remarkIdx": ["night", "tempt"]
+    },
+    {
+      "time": 89125,
+      "lyric": "Friday and infamy",
+      "tlyric": "周五，狼狈万状",
+      "remarkIdx": ["Friday", "infamy"]
+    },
+    {
+      "time": 91638,
+      "lyric": "Weekends are my specialty",
+      "tlyric": "周末，我游刃有余",
+      "remarkIdx": ["weekend", "specialty"]
+    },
+    {
+      "time": 94991,
+      "lyric": "And I'm afraid that I'm going mad",
+      "tlyric": "恐怕我已经疯了",
+      "remarkIdx": ["afraid", "mad"]
+    },
+    {
+      "time": 104656,
+      "lyric": "We are all insane",
+      "tlyric": "我们都疯了",
+      "remarkIdx": ["all", "insane"]
+    },
+    {
+      "time": 106606,
+      "lyric": "Our pain is way too loud",
+      "tlyric": "我不堪重负，呼天抢地",
+      "remarkIdx": ["pain", "way too", "loud"]
+    },
+    {
+      "time": 109453,
+      "lyric": "Great danger in the clouds",
+      "tlyric": "朝不保夕",
+      "remarkIdx": ["cloud", "in the clouds"]
+    },
+    {
+      "time": 115842,
+      "lyric": "We are all insane",
+      "tlyric": "我们都疯了",
+      "remarkIdx": ["all", "insane"]
+    },
+    {
+      "time": 118044,
+      "lyric": "Our fear is way too proud",
+      "tlyric": "我惶惶不可终日",
+      "remarkIdx": ["fear", "way too", "proud"]
+    },
+    {
+      "time": 120869,
+      "lyric": "Great panic from the crowds",
+      "tlyric": "恐慌袭来",
+      "remarkIdx": ["great", "crowd"]
+    },
+    {
+      "time": 125769,
+      "lyric": "I feel terrorized, terrorized, terrorized",
+      "tlyric": "我惶恐不安",
+      "remarkIdx": ["feel", "terrorized"]
+    },
+    {
+      "time": 131681,
+      "lyric": "I feel terrorized",
+      "tlyric": "我坐立难安",
+      "remarkIdx": ["feel", "terrorized"]
+    },
+    {
+      "time": 137342,
+      "lyric": "I feel terrorized, terrorized, terrorized",
+      "tlyric": "我惴惴不安",
+      "remarkIdx": ["feel", "terrorized"]
+    },
+    {
+      "time": 143096,
+      "lyric": "I feel terrorized",
+      "tlyric": "我寝食难安",
+      "remarkIdx": ["feel", "terrorized"]
+    },
+    {
+      "time": 150042,
+      "lyric": "We are all insane",
+      "tlyric": "谁能不疯啊",
+      "remarkIdx": ["all", "insane"]
+    },
+    {
+      "time": 152454,
+      "lyric": "Our pain is way too loud",
+      "tlyric": "我不堪重负，呼天抢地",
+      "remarkIdx": ["pain", "way too", "loud"]
+    },
+    {
+      "time": 155182,
+      "lyric": "Great danger in the clouds",
+      "tlyric": "岌岌可危",
+      "remarkIdx": ["great", "danger", "in the clouds"]
+    },
+    {
+      "time": 161618,
+      "lyric": "We are all insane",
+      "tlyric": "哪有不疯的",
+      "remarkIdx": ["all", "insane"]
+    },
+    {
+      "time": 163711,
+      "lyric": "Our fear is way too proud",
+      "tlyric": "我惶惶不可终日",
+      "remarkIdx": ["fear", "way too", "proud"]
+    },
+    {
+      "time": 166533,
+      "lyric": "Great panic from the crowds",
+      "tlyric": "恐慌袭来",
+      "remarkIdx": ["panic"]
+    },
+    {
+      "time": 180169,
+      "lyric": "And I am blessed, ahh",
+      "tlyric": "我是被保佑的",
+      "remarkIdx": ["blessed"]
+    },
+    {
+      "time": 187763,
+      "lyric": "My madness",
+      "tlyric": "彻底疯狂！！！",
+      "remarkIdx": ["madness"]
+    },
+    {
+      "time": 192994,
+      "lyric": "My-my-my my madness",
+      "tlyric": "我彻底疯狂！！！",
+      "remarkIdx": ["madness"]
+    },
+    {
+      "time": 199229,
+      "lyric": "My madness",
+      "tlyric": "彻底疯狂！！！",
+      "remarkIdx": ["madness"]
+    },
+    {
+      "time": 204736,
+      "lyric": "My-my-my my madness",
+      "tlyric": "我彻底疯狂！！！",
+      "remarkIdx": ["madness"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 40403181,
+      "status": 99,
+      "demand": 1,
+      "userid": 62215068,
+      "nickname": "这种昵称应该不会被占用的吧呐",
+      "uptime": 1668493853204
+    },
+    "lyricUser": {
+      "id": 40404578,
+      "status": 99,
+      "demand": 0,
+      "userid": 268658351,
+      "nickname": "龙叔的旅行听歌日记",
+      "uptime": 1699550298990
+    },
+    "lrc": {
+      "version": 4,
+      "lyric": "[00:00.000] 作曲 : Aaron Bruno\n[00:22.951] Monday makes a fool of me\n[00:26.309] Tuesday and my jealousy\n[00:28.736] Wednesday and a cup of tea\n[00:32.113] Keep calm\n[00:32.896]\n[00:34.569] Thursday hope keeps tempting me\n[00:37.732] Friday and her infamy\n[00:40.377] Weekend I'll go back to sleep\n[00:42.394]\n[00:43.427] And I'm afraid that I'm going mad\n[00:49.491] Ah-ah, ah-ah\n[00:52.707]\n[00:53.169] We are all insane\n[00:55.207] Our pain is way too loud\n[00:58.025] Great Danger in the clouds\n[01:01.043] Ah-ah, ah-ah\n[01:03.369]\n[01:04.435] We are all insane\n[01:06.518] Our Fear is way too proud\n[01:09.386] Great Panic from the crowds\n[01:12.298] Ah-ah, ah-ah\n[01:13.920]\n[01:14.598] Monday in its infancy\n[01:17.746] Tuesday sitting awkwardly\n[01:20.202] Wednesday creeps respectfully\n[01:23.555] Keep calm\n[01:25.879]\n[01:26.260] Thursday night keeps tempting me\n[01:29.125] Friday in her infamy\n[01:31.638] Weekends are my specialty\n[01:34.603]\n[01:34.991] And I'm afraid that I'm going mad\n[01:41.247] Ah-ah, ah-ah\n[01:43.409]\n[01:44.656] We are all insane\n[01:46.606] Our Pain is way too loud\n[01:49.453] Great Danger in the clouds\n[01:52.477] Ah-ah, ah-ah\n[01:54.659]\n[01:55.842] We are all insane\n[01:58.044] Our Fear is way too proud\n[02:00.869] Great Panic from the crowds\n[02:03.977] Ah-ah, ah-ah\n[02:05.083]\n[02:05.769] I feel terrorized, terrorized, terrorized\n[02:11.681] I feel terrorized\n[02:13.822]\n[02:17.342] I feel terrorized, terrorized, terrorized\n[02:23.096] I feel terrorized\n[02:27.875] Ah-ah\n[02:29.005]\n[02:30.042] We are all insane\n[02:32.454] Our pain is way too loud\n[02:35.182] Great Danger in the clouds\n[02:38.144] Ah-ah, ah-ah\n[02:40.228]\n[02:41.618] We are all insane\n[02:43.711] Our Fear is way too proud\n[02:46.533] Great Panic from the crowds\n[02:49.718] Ah-ah, ah-ah\n[02:51.601]\n[03:00.169] And I am blessed, ahh\n[03:07.763] My madness\n[03:12.994] My-my-my my madness\n[03:19.229] My madness\n[03:24.736] My-my-my my madness\n"
+    },
+    "tlyric": {
+      "version": 2,
+      "lyric": "[by:这种昵称应该不会被占用的吧呐]\n[by:这种昵称应该不会被占用的吧呐]\n[00:22.951]星期一浑噩迷离\n[00:26.309]星期二嫉恨攻心\n[00:28.736]星期三泡一杯茶\n[00:32.113]保持理性\n[00:32.896]\n[00:34.569]星期四希望触手可及\n[00:37.732]星期五忍受批评\n[00:40.377]周末睡觉不用醒\n[00:42.394]\n[00:43.427]恐怕我已经疯了\n[00:49.491]啊啊\n[00:52.707]\n[00:53.169]大家都在发癫\n[00:55.207]痛苦已不能承受\n[00:58.025]崩溃边缘逼近\n[01:01.043]啊啊\n[01:03.369]\n[01:04.435]大家都在发癫\n[01:06.518]不安已到达极点\n[01:09.386]恐慌即将爆发\n[01:12.298]啊啊\n[01:13.920]\n[01:14.598]星期一不请自来\n[01:17.746]星期二煎熬难息\n[01:20.202]星期三卑躬屈膝\n[01:23.555]保持理性\n[01:25.879]\n[01:26.260]星期四等待夜幕降临\n[01:29.125]星期五和解非议\n[01:31.638]周末我才能安心\n[01:34.603]\n[01:34.991]恐怕我已经疯了\n[01:41.247]啊啊\n[01:43.409]\n[01:44.656]不过是在发癫\n[01:46.606]痛苦已不能承受\n[01:49.453]崩溃边缘逼近\n[01:52.477]啊啊\n[01:54.659]\n[01:55.842]不过是在发癫\n[01:58.044]不安已到达极点\n[02:00.869]恐慌即将爆发\n[02:03.977]啊啊\n[02:05.083]\n[02:05.769]我感到迷茫 害怕 惊慌\n[02:11.681]无法伪装\n[02:13.822]\n[02:17.342]我感到迷茫 害怕 惊慌\n[02:23.096]硬撑罢了\n[02:27.875]啊啊\n[02:29.005]\n[02:30.042]活着哪有不癫\n[02:32.454]痛苦已不能承受\n[02:35.182]崩溃边缘逼近\n[02:38.144]啊啊\n[02:40.228]\n[02:41.618]活着哪有不癫\n[02:43.711]不安已到达极点\n[02:46.533]恐慌即将爆发\n[02:49.718]啊啊\n[02:51.601]\n[03:00.169]我是癫王！！！\n[03:07.763]彻底疯狂！！！\n[03:12.994]彻底疯狂！！！\n[03:19.229]彻底疯狂！！！\n[03:24.736]彻底疯狂！！！\n"
+    },
+    "code": 200
+  }
+}

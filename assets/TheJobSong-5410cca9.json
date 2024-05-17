@@ -1,0 +1,410 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "The job song",
+      "tlyric": "不想上班之歌",
+      "singer": "贝卡",
+      "remarkIdx": ["job", "song"]
+    },
+    {
+      "time": 270,
+      "lyric": "I fucking hate my job",
+      "tlyric": "我讨厌工作！",
+      "remarkIdx": ["hate", "job"]
+    },
+    {
+      "time": 1320,
+      "lyric": "Like oh my god it fucking sucks",
+      "tlyric": "我去，烦死了！",
+      "remarkIdx": ["like", "suck"]
+    },
+    {
+      "time": 3180,
+      "lyric": "Why can't I be fucking lazy",
+      "tlyric": "为啥我不能在家躺着",
+      "remarkIdx": ["why", "lazy"]
+    },
+    {
+      "time": 4680,
+      "lyric": "And make a million bucks",
+      "tlyric": "就能挣他个一百万",
+      "remarkIdx": ["buck", "million bucks"]
+    },
+    {
+      "time": 6150,
+      "lyric": "I know I've gotta make that money",
+      "tlyric": "我知道我必须挣那些破钱",
+      "remarkIdx": ["know", "money"]
+    },
+    {
+      "time": 7800,
+      "lyric": "Just to fucking live",
+      "tlyric": "才能苟活着",
+      "remarkIdx": ["live"]
+    },
+    {
+      "time": 9090,
+      "lyric": "But nobody fucking told me this",
+      "tlyric": "但没人和我说过这些",
+      "remarkIdx": ["but", "nobody", "told"]
+    },
+    {
+      "time": 10740,
+      "lyric": "When I was a kid",
+      "tlyric": "在我小的时候",
+      "remarkIdx": ["when", "kid"]
+    },
+    {
+      "time": 12030,
+      "lyric": "I do the same bullshit each day",
+      "tlyric": "每天工作都一个屁样",
+      "remarkIdx": ["same", "bullshit"]
+    },
+    {
+      "time": 13560,
+      "lyric": "It makes me wanna cry",
+      "tlyric": "我真的好想哭",
+      "remarkIdx": ["wanna", "cry"]
+    },
+    {
+      "time": 15000,
+      "lyric": "I'm motherfucking tired of working",
+      "tlyric": "我不想再上这破班了",
+      "remarkIdx": ["tired", "working"]
+    },
+    {
+      "time": 16680,
+      "lyric": "I'm not gonna lie",
+      "tlyric": "骗你是小狗",
+      "remarkIdx": ["gonna", "lie"]
+    },
+    {
+      "time": 17880,
+      "lyric": "So if your job is fucking not what you want for your life",
+      "tlyric": "所以如果你的工作不是你想要的生活",
+      "remarkIdx": ["job", "want"]
+    },
+    {
+      "time": 20850,
+      "lyric": "Then fucking quit that shitty bitch-ass",
+      "tlyric": "那就立马离开这个混蛋地方",
+      "remarkIdx": ["quit", "shitty", "ass"]
+    },
+    {
+      "time" : 22530,
+      "lyric": "Goddamn nine to five",
+      "tlyric": "去他的朝九晚五",
+      "remarkIdx": ["goddamn", "nine to five"]
+    },
+    {
+      "time": 23550,
+      "lyric": "Hey wake up",
+      "tlyric": "嘿，快醒醒",
+      "remarkIdx": ["hey", "wake", "wake up"]
+    },
+    {
+      "time": 26190,
+      "lyric": "Better rush",
+      "tlyric": "搞快点",
+      "remarkIdx": ["better", "rush"]
+    },
+    {
+      "time": 26790,
+      "lyric": "Your boss is gonna make a fuss",
+      "tlyric": "你老板发火了",
+      "remarkIdx": ["boss", "fuss"]
+    },
+    {
+      "time": 28080,
+      "lyric": "Forget about the",
+      "tlyric": "别想着",
+      "remarkIdx": ["forget", "about"]
+    },
+    {
+      "time": 29100,
+      "lyric": "make up",
+      "tlyric": "化妆了",
+      "remarkIdx": ["make", "make up"]
+    },
+    {
+      "time": 29700,
+      "lyric": "He's spitting every cuss",
+      "tlyric": "他已经满嘴脏话了",
+      "remarkIdx": ["spit", "every", "cuss"]
+    },
+    {
+      "time": 31170,
+      "lyric": "Cause y'all ain't got real guts",
+      "tlyric": "😡你们这群废物",
+      "remarkIdx": ["y'all", "ain't", "gut"]
+    },
+    {
+      "time": 32700,
+      "lyric": "Just take the fucking bus",
+      "tlyric": "🙄活该一天天只配坐公交”",
+      "remarkIdx": ["just", "bus"]
+    },
+    {
+      "time": 34110,
+      "lyric": "While driving us all fucking",
+      "tlyric": "我们死命往公司跑的时候",
+      "remarkIdx": [ "drive"]
+    },
+    {
+      "time": 35700,
+      "lyric": "He's just playing the RUST",
+      "tlyric": "他在办公室打游戏",
+      "remarkIdx": ["play", "RUST"]
+    },
+    {
+      "time": 36780,
+      "lyric": "Gimme that, gimme this",
+      "tlyric": "😒给我那个，给我这个",
+      "remarkIdx": ["gimme"]
+    },
+    {
+      "time": 38220,
+      "lyric": "Better not fucking miss",
+      "tlyric": "🫤一个都不能少！",
+      "remarkIdx": ["better", "miss"]
+    },
+    {
+      "time": 39690,
+      "lyric": "Move your ass, move it quick",
+      "tlyric": "🥴你最好给我快点，别磨磨蹭蹭的，",
+      "remarkIdx": ["move", "quick"]
+    },
+    {
+      "time": 41310,
+      "lyric": "Or i'mma put ya on the list”",
+      "tlyric": "🤭不然把你优化掉！",
+      "remarkIdx": ["i'mma", "ya", "put on"]
+    },
+    {
+      "time": 42810,
+      "lyric": "Ok fine, lil bitch",
+      "tlyric": "🤗行啊，小婊砸",
+      "remarkIdx": ["fine", "lil bitch"]
+    },
+    {
+      "time": 44310,
+      "lyric": "I'll do all as you wish",
+      "tlyric": "🤪我就如你所愿",
+      "remarkIdx": ["all", "wish"]
+    },
+    {
+      "time": 45720,
+      "lyric": "And now here is my diss",
+      "tlyric": "🎤现在我给你献上一曲",
+      "remarkIdx": ["now", "diss"]
+    },
+    {
+      "time": 47160,
+      "lyric": "As your resignation gift",
+      "tlyric": "作为辞职礼物",
+      "remarkIdx": ["resignation", "gift"]
+    },
+    {
+      "time": 48630,
+      "lyric": "Cause I got a single tip:",
+      "tlyric": "我知道了一个小窍门：",
+      "remarkIdx": ["cause", "tip"]
+    },
+    {
+      "time": 50070,
+      "lyric": "That no matter what you do",
+      "tlyric": "不管你做啥",
+      "remarkIdx": ["matter"]
+    },
+    {
+      "time": 51480,
+      "lyric": "Find the job that really fits",
+      "tlyric": "一定要找适合自己的工作",
+      "remarkIdx": [ "job", "fit"]
+    },
+    {
+      "time": 53130,
+      "lyric": "And the boss who's not a fool",
+      "tlyric": "而且老板不能是傻X",
+      "remarkIdx": ["boss", "fool"]
+    },
+    {
+      "time": 54507,
+      "lyric": "When you are feeling really sick",
+      "tlyric": "当你感觉不爽了",
+      "remarkIdx": ["feel", "sick"]
+    },
+    {
+      "time": 56004,
+      "lyric": "Do not circle in the loop",
+      "tlyric": "千万别钻牛角尖",
+      "remarkIdx": ["circle", "loop", "in the loop"]
+    },
+    {
+      "time": 57471,
+      "lyric": "Talk to someone with the wit",
+      "tlyric": "和聪明人聊聊天",
+      "remarkIdx": ["talk", "wit"]
+    },
+    {
+      "time": 58939,
+      "lyric": "Or go balling with your hood",
+      "tlyric": "或者和邻居去打打球",
+      "remarkIdx": ["balling", "hood"]
+    },
+    {
+      "time": 60494,
+      "lyric": "This is a job song",
+      "tlyric": "这是一首不想上班之歌",
+      "remarkIdx": ["job", "song"]
+    },
+    {
+      "time": 61816,
+      "lyric": "For the people in the mood",
+      "tlyric": "献给没心情上班的人",
+      "remarkIdx": ["people", "mood"]
+    },
+    {
+      "time": 63406,
+      "lyric": "This is a job song",
+      "tlyric": "这是一首不想上班之歌",
+      "remarkIdx": ["job", "song"]
+    },
+    {
+      "time": 64787,
+      "lyric": "Cause we ain't their fucking tools",
+      "tlyric": "因为我们不是他们的工具人",
+      "remarkIdx": ["cause", "ain't", "tool"]
+    },
+    {
+      "time": 66346,
+      "lyric": "This is a job song",
+      "tlyric": "这是一首不想上班之歌",
+      "remarkIdx": ["job", "song"]
+    },
+    {
+      "time": 67757,
+      "lyric": "Though we have no job to lose",
+      "tlyric": "虽然我们没有工作可丢",
+      "remarkIdx": ["though", "lose"]
+    },
+    {
+      "time": 69257,
+      "lyric": "This is a job song",
+      "tlyric": "这是一首不想上班之歌",
+      "remarkIdx": ["job", "song"]
+    },
+    {
+      "time": 71477,
+      "lyric": "Sing with me",
+      "tlyric": "跟我一起唱",
+      "remarkIdx": ["sing"]
+    },
+    {
+      "time": 72686,
+      "lyric": "I fucking hate my job",
+      "tlyric": "我讨厌工作！",
+      "remarkIdx": ["hate", "job"]
+    },
+    {
+      "time": 73897,
+      "lyric": "Like oh my god it fucking sucks",
+      "tlyric": "我去，烦死了！",
+      "remarkIdx": ["like", "suck"]
+    },
+    {
+      "time": 75296,
+      "lyric": "Why can't I be fucking lazy",
+      "tlyric": "为啥我不能在家躺着",
+      "remarkIdx": ["why", "lazy"]
+    },
+    {
+      "time": 76888,
+      "lyric": "And make a million bucks",
+      "tlyric": "就能挣他个一百万",
+      "remarkIdx": ["buck", "million bucks"]
+    },
+    {
+      "time": 78367,
+      "lyric": "I know I've gotta make that money",
+      "tlyric": "我知道我必须挣那些破钱",
+      "remarkIdx": ["know", "money"]
+    },
+    {
+      "time": 79816,
+      "lyric": "Just to fucking live",
+      "tlyric": "才能苟活着",
+      "remarkIdx": ["live"]
+    },
+    {
+      "time": 81278,
+      "lyric": "But nobody fucking told me this",
+      "tlyric": "但没人和我说过这些",
+      "remarkIdx": ["nobody", "tell"]
+    },
+    {
+      "time": 82796,
+      "lyric": "When I was a kid",
+      "tlyric": "在我小的时候",
+      "remarkIdx": ["when", "kid"]
+    },
+    {
+      "time": 84206,
+      "lyric": "I do the same bullshit each day",
+      "tlyric": "每天工作都一个屁样",
+      "remarkIdx": ["bullshit", "each", "day"]
+    },
+    {
+      "time": 86358,
+      "lyric": "It makes me wanna cry",
+      "tlyric": "我真的好想哭",
+      "remarkIdx": ["wanna", "cry"]
+    },
+    {
+      "time": 87299,
+      "lyric": "I'm mother fucking tired of working",
+      "tlyric": "我不想再上这破班了",
+      "remarkIdx": ["tired", "working"]
+    },
+    {
+      "time": 88968,
+      "lyric": "I'm not gonna lie",
+      "tlyric": "骗你是小狗",
+      "remarkIdx": ["gonna", "lie"]
+    },
+    {
+      "time": 90197,
+      "lyric": "So if your job is fucking not what you want for your life",
+      "tlyric": "所以如果你的工作不是你想要的生活",
+      "remarkIdx": ["job", "want"]
+    },
+    {
+      "time": 92986,
+      "lyric": "Then fucking quit that shitty bitch-ass",
+      "tlyric": "那就立马离开这个混蛋地方",
+      "remarkIdx": ["quit", "shitty", "bitch"]
+    },
+    {
+      "time" : 94617,
+      "lyric": "Goddamn nine to five",
+      "tlyric": "去他的朝九晚五",
+      "remarkIdx": ["goddamn", "nine to five"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "lrc": {
+      "version": 14,
+      "lyric": "[00:00.000] 作词 : 百川/Josiah\n[00:00.067] 作曲 : 百川/Josiah\n[00:00.134] 编曲 : 百川\n[00:00.201] 制作人 : 百川\n[00:00.270]英文：\n[00:00.270]I ****ing hate my job\n[00:01.320]Like oh my god it ****ing sucks\n[00:03.180]Why can't I be ****ing lazy\n[00:04.680]And make a million bucks\n[00:06.150]I know I’ve gotta make that money\n[00:07.800]Just to ****ing live\n[00:09.090]But nobody ****ing told me this\n[00:10.740]When I was a kid\n[00:12.030]I do the same bullshit each day\n[00:13.560]It makes me wanna cry\n[00:15.000]I'm mother****ing tired of working\n[00:16.680]I’ m not gonna lie\n[00:17.880]So if your job is ****ing not\n[00:19.410]What you want for your life\n[00:20.850]Then ****ing quit that shitty ass\n[00:22.530]Goddamn9-5\n[00:23.550]Hey wake up\n[00:26.190]Better rush\n[00:26.790]Your boss’ gon make a fuss\n[00:28.080]Forget about the\n[00:29.100]make up\n[00:29.700]He’ s spitting every cuss\n[00:31.170]“ Cause yall aint got real guts\n[00:32.700]Just take the ****ing bus\n[00:34.110]While driving us all ****ing\n[00:35.700]He’ s just playing the RUST\n[00:36.780]“ Gimme that, gimme this\n[00:38.220]Better not ****ing miss\n[00:39.690]Move your ass, move it quick\n[00:41.310]Or imma put ya on the list”\n[00:42.810]Ok fine, lil b***h\n[00:44.310]I ll do all as you wish\n[00:45.720]And now here is my diss\n[00:47.160]As your resignation gift\n[00:48.630]Cause I got a single tip:\n[00:50.070]That no matter what you do\n[00:51.480]Find the job that really fits\n[00:53.130]And the boss who’ s not a fool\n[00:54.507]When you are feeling really sick\n[00:56.004]Do not circle in the loop\n[00:57.471]Talk to someone with the wit\n[00:58.939]Or go balling with your hood\n[01:00.494]This’ a job song\n[01:01.816]For the people in the mood\n[01:03.406]This’ a job song\n[01:04.787]Cause we ain’t their ****ing tools\n[01:06.346]This’ a job song\n[01:07.757]Though we have no job to lose\n[01:09.257]This’ a job song\n[01:11.477]Sing with me\n[01:12.686]I ****ing hate my job\n[01:13.897]Like oh my god it ****ing sucks\n[01:15.296]Why can’t I be ****ing lazy\n[01:16.888]And make a million bucks\n[01:18.367]I know I’ve gotta make that money\n[01:19.816]Just to ****ing live\n[01:21.278]But nobody ****ing told me this\n[01:22.796]When I was a kid\n[01:24.206]I do the same bullshit each day\n[01:26.358]It makes me wanna cry\n[01:27.299]I’m mother ****ing tired of working\n[01:28.968]I’m not gonna lie\n[01:30.197]So if your job is ****ing not\n[01:31.147]What you want for your life\n[01:32.986]Then ****ing quit that shitty b***h-ass\n[01:34.617]Goddamn 9-5\n[01:35.617]中文：\n[01:37.126]八点半地铁口\n[01:38.626]人山人海挤成狗\n[01:40.096]手里揣俩窝窝头\n[01:41.537]眯眼歪头靠扶手\n[01:43.096]昨晚通稿赶一宿\n[01:44.477]利群咖啡加红牛\n[01:45.977]结果到了公司后\n[01:47.447]主管没看直接否\n[01:48.947]坐在工位深呼吸\n[01:50.388]莫生气啊莫生气\n[01:51.828]生活已经不容易\n[01:53.328]和他计较又何必\n[01:54.766]午休睡得很甜蜜\n[01:56.236]醒来还要赶设计\n[01:57.736]转头老板笑眯眯\n[01:59.206]又要开会画大饼\n[02:00.647]小王小黄和小李\n[02:02.147]知道你们很努力\n[02:03.706]但是还要加把劲\n[02:05.117]咱们尽量争第一\n[02:06.617]工作不为名和利\n[02:08.028]是为人生的意义\n[02:09.500]奖金就在这月底\n[02:11.000]每人多发五百一\n[02:12.469]我说谢谢你\n[02:13.909]每天洗脑吹牛皮\n[02:15.469]我说谢谢你\n[02:16.759]把我当工作的机器\n[02:18.379]我说谢谢你\n[02:19.759]拿走我该有的业绩\n[02:21.409]我说谢谢你\n[02:23.659]老娘不干了\n[02:24.949]I ****ing hate my job\n[02:26.039]Like oh my god it ****ing sucks\n[02:27.439]Why can’t I be ****ing lazy\n[02:29.010]And make a million bucks\n[02:30.460]I know I’ve gotta make that money\n[02:31.971]Just to ****ing live\n[02:33.379]But nobody ****ing told me this\n[02:34.941]When I was a kid\n[02:36.360]I do the same bullshit each day\n[02:38.050]It makes me wanna cry\n[02:39.410]I’m mother****ing tired of working\n[02:40.860]I’m not gonna lie\n[02:42.291]So if your job is ****ing not\n[02:43.800]What you want for your life\n[02:45.129]Then ****ing quit that shitty b***h-ass\n[02:47.180]Goddamn 9-5\n[02:48.180]混音：百川Rebellious\n[02:49.180]和声编写：百川Rebellious\n[02:49.980]和声：百川Rebellious\n[02:50.180]艺人统筹：解解@网易山妖工作室\n"
+    },
+    "tlyric": {
+      "version": 13,
+      "lyric": "[00:00.270]我滴工作真无聊\n[00:00.270]我滴工作真无聊\n[00:01.320]干啥都没劲儿\n[00:03.180]为啥人家就能葛优躺\n[00:04.680]还有钱钱花\n[00:06.150]一生戎马职场\n[00:07.800]只为苟且偷生\n[00:09.090]要是小时候我爸跟我说长大这么惨\n[00:10.740]我绝对复读一辈子\n[00:12.030]每天工作都一个样儿\n[00:13.560]看到办公桌就想哭\n[00:15.000]我真的坚持不下去了\n[00:16.680]骗你是小狗\n[00:17.880]所以我决定\n[00:19.410]今儿就辞职\n[00:20.850]再也不为老板的法拉利奋斗了\n[00:22.530]\n[00:23.550]醒醒吧\n[00:26.190]搞快点\n[00:26.790]老板发火了\n[00:28.080]别想着\n[00:29.100]化妆了\n[00:29.700]他已经开始爆粗了\n[00:31.170]“你们这群废物，\n[00:32.700]活该一天天只配坐公交”\n[00:34.110]让我们死命往公司跑\n[00:35.700]然后他在办公室打游戏\n[00:36.780]“快点把文件整好给我，\n[00:38.220]一个都不能少！\n[00:39.690]别磨磨蹭蹭的，\n[00:41.310]不然就把你给优化掉！\n[00:42.810]行啊小崽子\n[00:44.310]我真被你使唤够了\n[00:45.720]现在献上一曲\n[00:47.160]作为我的辞职礼物\n[00:48.630]我最近知道了一件事儿\n[00:50.070]不管你要干啥\n[00:51.480]一定要找合适自己的工作\n[00:53.130]而且老板不能是蠢蛋\n[00:54.507]如果你感觉不爽了\n[00:56.004]千万别忍\n[00:57.471]找我这种老师傅聊聊天\n[00:58.939]或者去打打球\n[01:00.494]不想上班之歌\n[01:01.816]献给在上班的你\n[01:03.406]不想上班之歌\n[01:04.787]献给不想做工具人的你\n[01:06.346]不想上班之歌\n[01:07.757]献给想辞职的你\n[01:09.257]不想上班之歌\n[01:11.477]跟姐一起唱\n[01:12.686]我滴工作真无聊\n[01:13.897]干啥都没劲儿\n[01:15.296]为啥人家就能葛优躺\n[01:16.888]还有钱钱花\n[01:18.367]一生戎马职场\n[01:19.816]只为苟且偷生\n[01:21.278]要是小时候我爸跟我说长大这么惨\n[01:22.796]我绝对复读一辈子\n[01:24.206]每天工作都一个样儿\n[01:26.358]看到办公桌就想哭\n[01:27.299]我真的坚持不下去了\n[01:28.968]骗你是小狗\n[01:30.197]所以我决定\n[01:31.147]今儿就辞职\n[01:32.986]再也不为老板的法拉利奋斗了\n[01:34.617]\n[01:35.617]\n[01:37.126]\n[01:38.626]\n[01:40.096]\n[01:41.537]\n[01:43.096]\n[01:44.477]\n[01:45.977]\n[01:47.447]\n[01:48.947]\n[01:50.388]\n[01:51.828]\n[01:53.328]\n[01:54.766]\n[01:56.236]\n[01:57.736]\n[01:59.206]\n[02:00.647]\n[02:02.147]\n[02:03.706]\n[02:05.117]\n[02:06.617]\n[02:08.028]\n[02:09.500]\n[02:11.000]\n[02:12.469]\n[02:13.909]\n[02:15.469]\n[02:16.759]\n[02:18.379]\n[02:19.759]\n[02:21.409]\n[02:23.659]\n[02:24.949]我滴工作真无聊\n[02:26.039]干啥都没劲儿\n[02:27.439]为啥人家就能葛优躺\n[02:29.010]还有钱钱花\n[02:30.460]一生戎马职场\n[02:31.971]只为苟且偷生\n[02:33.379]要是小时候我爸跟我说长大这么惨\n[02:34.941]我绝对复读一辈子\n[02:36.360]每天工作都一个样儿\n[02:38.050]看到办公桌就想哭\n[02:39.410]我真的坚持不下去了\n[02:40.860]骗你是小狗\n[02:42.291]所以我决定\n[02:43.800]今儿就辞职\n[02:45.129]再也不为老板的法拉利奋斗了\n[02:47.180]\n[02:48.180]\n[02:49.180]\n[02:49.980]\n[02:50.180]"
+    },
+    "code": 200
+  }
+}

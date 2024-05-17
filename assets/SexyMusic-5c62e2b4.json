@@ -1,0 +1,304 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Sexy Music",
+      "tlyric": "性感音乐",
+      "singer": "The Nolans",
+      "remarkIdx": ["sexy", "music"]
+    },
+    {
+      "time": 19599,
+      "lyric": "Well, I head on out at the local disco hall",
+      "tlyric": "我要奔去当地的迪斯科舞厅",
+      "remarkIdx": ["head on", "local", "hall"]
+    },
+    {
+      "time": 23369,
+      "lyric": "Where the kids get down to the funky disco wall",
+      "tlyric": "这里是年轻人常去的时髦迪斯科舞厅",
+      "remarkIdx": ["kids", "get down to", "funky"]
+    },
+    {
+      "time": 27209,
+      "lyric": "Well, the music hit me high, it hit me low",
+      "tlyric": "这音乐使我兴奋不已",
+      "remarkIdx": ["music", "hit"]
+    },
+    {
+      "time": 31180,
+      "lyric": "Oh, babe, I was getting it all",
+      "tlyric": "哦，宝贝，我完全沉浸其中了",
+      "remarkIdx": ["babe", "get it"]
+    },
+    {
+      "time": 35180,
+      "lyric": "Through the smoky funky scene",
+      "tlyric": "透过这时髦的烟幕",
+      "remarkIdx": ["through", "scene"]
+    },
+    {
+      "time": 37100,
+      "lyric": "Man, you should have been",
+      "tlyric": "伙计，你应该来到这里",
+      "remarkIdx": ["man", "should"]
+    },
+    {
+      "time": 39060,
+      "lyric": "They have those disco lights",
+      "tlyric": "他们有那些迪斯科灯光",
+      "remarkIdx": ["disco", "light"]
+    },
+    {
+      "time": 41250,
+      "lyric": "Flashing through the night",
+      "tlyric": "灯光彻夜闪烁",
+      "remarkIdx": ["flash", "night"]
+    },
+    {
+      "time": 42600,
+      "lyric": "Sexy music on the wall",
+      "tlyric": "舞厅中的性感音乐",
+      "remarkIdx": ["music", "wall"]
+    },
+    {
+      "time": 46610,
+      "lyric": "Sexy music I was getting it all",
+      "tlyric": "我完全体会到这性感的音乐了",
+      "remarkIdx": ["sexy", "get it", "all"]
+    },
+    {
+      "time": 50290,
+      "lyric": "Sexy music on the wall",
+      "tlyric": "舞厅中的性感音乐",
+      "remarkIdx": ["music", "wall"]
+    },
+    {
+      "time": 54500,
+      "lyric": "Sexy music I was getting it all",
+      "tlyric": "我完全沉浸在这性感的音乐了",
+      "remarkIdx": ["sexy", "get it", "all"]
+    },
+    {
+      "time": 58790,
+      "lyric": "Oh, reflections in the night",
+      "tlyric": "哦，这夜晚的缩影",
+      "remarkIdx": ["reflection", "night"]
+    },
+    {
+      "time": 60720,
+      "lyric": "Sexy actions in the light",
+      "tlyric": "灯光中性感的动作",
+      "remarkIdx": ["action", "light"]
+    },
+    {
+      "time": 62520,
+      "lyric": "How those shadows turn me on",
+      "tlyric": "这些光影使我苏醒",
+      "remarkIdx": ["shadow", "turn on"]
+    },
+    {
+      "time": 64779,
+      "lyric": "One look and I was gone",
+      "tlyric": "只需一眼就使我沉醉",
+      "remarkIdx": ["look", "gone"]
+    },
+    {
+      "time": 82270,
+      "lyric": "When I checked the time, I should be heading home",
+      "tlyric": "当我确认是时候回家了",
+      "remarkIdx": ["check"]
+    },
+    {
+      "time": 86300,
+      "lyric": "I'm shaking to that rhythm in my soul",
+      "tlyric": "我的灵魂都在随着节奏摆动",
+      "remarkIdx": ["shake", "rhythm"]
+    },
+    {
+      "time": 90210,
+      "lyric": "Those shadows flickered high, they flickered low",
+      "tlyric": "那些光影忽高忽低",
+      "remarkIdx": ["flicker"]
+    },
+    {
+      "time": 94629,
+      "lyric": "Oh, babe, nearly lost control",
+      "tlyric": "哦，宝贝，我已几乎失控",
+      "remarkIdx": ["lost", "control"]
+    },
+    {
+      "time": 98059,
+      "lyric": "Through the smoky funky scene",
+      "tlyric": "透过这时髦的烟幕",
+      "remarkIdx": ["smoky", "funky"]
+    },
+    {
+      "time": 100509,
+      "lyric": "Man, you should have been",
+      "tlyric": "伙计，你应该来到这里",
+      "remarkIdx": ["man", "should"]
+    },
+    {
+      "time": 102210,
+      "lyric": "Have those disco lights",
+      "tlyric": "他们有那些迪斯科灯光",
+      "remarkIdx": ["disco", "light"]
+    },
+    {
+      "time": 104210,
+      "lyric": "Flashing through the night",
+      "tlyric": "灯光彻夜闪烁",
+      "remarkIdx": ["flash", "night"]
+    },
+    {
+      "time": 106270,
+      "lyric": "Sexy music on the wall",
+      "tlyric": "舞厅中的性感音乐",
+      "remarkIdx": ["music", "wall"]
+    },
+    {
+      "time": 109580,
+      "lyric": "Sexy music I was getting it all",
+      "tlyric": "我完全沉浸在这性感的音乐了",
+      "remarkIdx": ["sexy", "get it", "all"]
+    },
+    {
+      "time": 113189,
+      "lyric": "Sexy music on the wall",
+      "tlyric": "舞厅中的性感音乐",
+      "remarkIdx": ["music", "wall"]
+    },
+    {
+      "time": 117820,
+      "lyric": "Sexy music I was getting it all",
+      "tlyric": "我完全沉浸在这性感的音乐了",
+      "remarkIdx": ["sexy", "get it", "all"]
+    },
+    {
+      "time": 124580,
+      "lyric": "Sexy music",
+      "tlyric": "舞厅中的性感音乐",
+      "remarkIdx": ["sexy", "music"]
+    },
+    {
+      "time": 161090,
+      "lyric": "Through the smoky funky scene",
+      "tlyric": "透过这时髦的烟幕",
+      "remarkIdx": ["through", "scene"]
+    },
+    {
+      "time": 163000,
+      "lyric": "Man, you should have been",
+      "tlyric": "伙计，你应该来到这里",
+      "remarkIdx": ["man", "should"]
+    },
+    {
+      "time": 165499,
+      "lyric": "We raised our body heat",
+      "tlyric": "让我们的身体升温",
+      "remarkIdx": ["raise", "heat"]
+    },
+    {
+      "time": 167589,
+      "lyric": "As we danced on to the best",
+      "tlyric": "跳出最好的舞步",
+      "remarkIdx": ["dance", "best"]
+    },
+    {
+      "time": 168219,
+      "lyric": "Oh, reflections in the night",
+      "tlyric": "哦，这夜晚的缩影",
+      "remarkIdx": ["reflection", "night"]
+    },
+    {
+      "time": 170959,
+      "lyric": "Sexy actions in the light",
+      "tlyric": "灯光中性感的动作",
+      "remarkIdx": ["action", "light"]
+    },
+    {
+      "time": 172728,
+      "lyric": "How those shadows turn me on",
+      "tlyric": "这些光影使我苏醒",
+      "remarkIdx": ["shadow", "turn on"]
+    },
+    {
+      "time": 175119,
+      "lyric": "One look and I was gone",
+      "tlyric": "只需一眼就使我沉醉",
+      "remarkIdx": ["look", "gone"]
+    },
+    {
+      "time": 176829,
+      "lyric": "Sexy music on the wall",
+      "tlyric": "舞厅中的性感音乐",
+      "remarkIdx": ["music", "wall"]
+    },
+    {
+      "time": 180499,
+      "lyric": "Sexy music I was getting it all",
+      "tlyric": "我完全沉浸在这性感的音乐了",
+      "remarkIdx": ["sexy", "get it", "all"]
+    },
+    {
+      "time": 184209,
+      "lyric": "Sexy music on the wall",
+      "tlyric": "舞厅中的性感音乐",
+      "remarkIdx": ["music", "wall"]
+    },
+    {
+      "time": 188800,
+      "lyric": "Sexy music I was getting it all",
+      "tlyric": "我完全沉浸在这性感的音乐了",
+      "remarkIdx": ["sexy", "get it", "all"]
+    },
+    {
+      "time": 192039,
+      "lyric": "Sexy music on the wall",
+      "tlyric": "舞厅中的性感音乐",
+      "remarkIdx": ["music", "wall"]
+    },
+    {
+      "time": 196500,
+      "lyric": "Sexy music I was getting it all",
+      "tlyric": "我完全沉浸在这性感的音乐了",
+      "remarkIdx": ["sexy", "get it", "all"]
+    },
+    {
+      "time": 200090,
+      "lyric": "Sexy music on the wall",
+      "tlyric": "舞厅中的性感音乐",
+      "remarkIdx": ["music", "wall"]
+    },
+    {
+      "time": 204339,
+      "lyric": "Sexy music",
+      "tlyric": "性感音乐",
+      "remarkIdx": ["sexy", "music"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 10867511,
+      "status": 99,
+      "demand": 1,
+      "userid": 3219166850,
+      "nickname": "Versaille",
+      "uptime": 1591841132084
+    },
+    "lrc": {
+      "version": 18,
+      "lyric": "[00:00.000] 作词 : Michael Myers/Ben Findon/Robert Puzey\n[00:01.000] 作曲 : Michael Myers/Ben Findon/Robert Puzey\n[00:19.599]Well I head on out at the local disco hall\n[00:23.369]wehere the kids get down to the funky disco wall\n[00:27.209]well the music hit me high it hit me low\n[00:31.180]oh babe, I was getting it all\n[00:35.180]Through the smoky funky scene\n[00:37.100]man, you should have been\n[00:39.60]they have those disco lights\n[00:41.250]flashing through the night\n[00:42.600]sexy music on the wall\n[00:46.610]sexy  music I was getting it all\n[00:50.290]sexy  music on the wall\n[00:54.500]sexy  music I was getting it all\n[00:58.790]Oh reflections in the night\n[01:00.720]sexy  actions in the light\n[01:02.520]how those shadows turn me on\n[01:04.779]one look and I was gone\n[01:22.770]When I checked the time I should be heading home\n[01:27.300]I'm shaking to that rhythm in my soul\n[01:30.610]those shadows flickered high they flickered low\n[01:34.629]oh babe, nearly lost control\n[01:38.659]Through the smoky funky scene\n[01:40.909]man you should have been\n[01:42.610]hey have those disco lights\n[01:44.610]flashing through the night\n[01:46.270]sexy music on the wall\n[01:50.80]sexy  music I was getting it all\n[01:53.689]sexy  sexy  music on the wall\n[01:58.220]sexy  music I was getting it all\n[02:04.580]sexy  sexy  music\n[02:41.390]Through the smoky funky scene\n[02:43.700]man you should have been\n[02:45.999]we raised our body heat\n[02:47.589]as we danced on to the best\n[02:48.519]Oh reflections in the night\n[02:50.959]sexy  actions in the light\n[02:53.228]how those shadows turn me on\n[02:55.619]one look and I was gone\n[02:57.329]sexy music on the wall\n[03:00.999]sexy  music I was getting it all\n[03:04.709]sexy  music on the wall\n[03:09.200]sexy  music I was getting it all\n[03:12.739]sexy music on the wall\n[03:17.899]sexy  music I was getting it all\n[03:20.890]sexy  music on the wall\n[03:25.239]sexy  music I was getting it all\n"
+    },
+    "tlyric": {
+      "version": 10,
+      "lyric": "[by:Versaille]\n[00:19.599]我要去当地的迪斯科舞厅\n[00:23.369]这里是人们常去的时髦迪斯科舞厅\n[00:27.209]这音乐使我兴奋\n[00:31.180]哦，宝贝，我完全沉浸其中了\n[00:35.180]透过这时髦的烟幕\n[00:37.100]伙计，你应该来到这里\n[00:39.60]他们有这样的迪斯科灯光\n[00:41.250]在夜晚照耀闪亮\n[00:42.600]舞厅中的性感音乐\n[00:46.610]我完全体会到这性感的音乐了\n[00:50.290]舞厅中的性感音乐\n[00:54.500]我完全沉浸在这性感的音乐了\n[00:58.790]哦，这夜之倒影\n[01:00.720]灯光中性感的动作\n[01:02.520]这些光影使我苏醒\n[01:04.779]只需一眼就使我沉醉\n[01:22.770]当我确认是时候回家了\n[01:27.300]我的灵魂都在随着节奏摆动\n[01:30.610]那些光影上下闪烁\n[01:34.629]哦，宝贝，我已经几欲失控\n[01:38.659]透过这时髦的烟幕\n[01:40.909]伙计，你应该来到这里\n[01:42.610]他们有这样的迪斯科灯光\n[01:44.610]在夜晚照耀闪亮\n[01:46.270]舞厅中的性感音乐\n[01:50.80]我完全沉浸在这性感的音乐了\n[01:53.689]舞厅中的性感音乐\n[01:58.220]我完全沉浸在这性感的音乐了\n[02:04.580]舞厅中的性感音乐\n[02:41.390]透过这时髦的烟幕\n[02:43.700]伙计，你应该来到这里\n[02:45.999]当我们用尽全力舞动时\n[02:47.589]我们的体温急速上升\n[02:48.519]哦，这夜之倒影\n[02:50.959]灯光中性感的动作\n[02:53.228]这些光影使我苏醒\n[02:55.619]只需一眼就使我沉醉\n[02:57.329]舞厅中的性感音乐\n[03:00.999]我完全沉浸在这性感的音乐了\n[03:04.709]舞厅中的性感音乐\n[03:09.200]我完全沉浸在这性感的音乐了\n[03:12.739]舞厅中的性感音乐\n[03:17.899]我完全沉浸在这性感的音乐了\n[03:20.890]舞厅中的性感音乐\n[03:25.239]我完全沉浸在这性感的音乐了\n"
+    },
+    "code": 200
+  }
+}

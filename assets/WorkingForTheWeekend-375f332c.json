@@ -1,0 +1,448 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Working For The Weekend",
+      "tlyric": "为周末而工作",
+      "singer": "MAX / bbno$",
+      "remarkIdx": ["work for", "weekend"]
+    },
+    {
+      "time": 1,
+      "lyric": "I've been working for the weekend",
+      "tlyric": "我为了享受周末而努力工作",
+      "remarkIdx": [ "work for", "weekend"]
+    },
+    {
+      "time": 2662,
+      "lyric": "But that weekend never came",
+      "tlyric": "但那个周末从来没到过",
+      "remarkIdx": ["never", "come"]
+    },
+    {
+      "time": 4940,
+      "lyric": "Will you pat my back tomorrow",
+      "tlyric": "明天你能拍拍我的背吗？",
+      "remarkIdx": ["pat", "tomorrow"]
+    },
+    {
+      "time": 7149,
+      "lyric": "If I break my back today",
+      "tlyric": "如果我今天工作非常努力",
+      "remarkIdx": ["break one's back", "back"]
+    },
+    {
+      "time": 13088,
+      "lyric": "Yup, yeah it's 7am",
+      "tlyric": "现在是早上7点",
+      "remarkIdx": ["Yup", "yeah", "a.m."]
+    },
+    {
+      "time": 14493,
+      "lyric": "And I can't seem to keep my eyes shut",
+      "tlyric": "我看起来还不能闭上双眼",
+      "remarkIdx": ["keep", "shut"]
+    },
+    {
+      "time": 18244,
+      "lyric": "Even if I get up",
+      "tlyric": "即使我已经起床",
+      "remarkIdx": ["even if", "get up"]
+    },
+    {
+      "time": 19481,
+      "lyric": "Even if I get beat down",
+      "tlyric": "即使我已经被打倒",
+      "remarkIdx": ["beat", "beat down"]
+    },
+    {
+      "time": 20950,
+      "lyric": "Will I be fine (Na-na-na-na)",
+      "tlyric": "我日子会好起来吗",
+      "remarkIdx": ["will", "fine"]
+    },
+    {
+      "time": 23336,
+      "lyric": "If I do my time (Na-na-na-na)",
+      "tlyric": "如果我工作都做完了",
+      "remarkIdx": ["time", "do time"]
+    },
+    {
+      "time": 25626,
+      "lyric": "I guess I'll sleep when I am dead",
+      "tlyric": "我想我会睡到天荒地老",
+      "remarkIdx": ["sleep", "dead"]
+    },
+    {
+      "time": 28617,
+      "lyric": "I've been working for the weekend",
+      "tlyric": "我为了享受周末而努力工作",
+      "remarkIdx": ["work"]
+    },
+    {
+      "time": 30943,
+      "lyric": "But that weekend never came",
+      "tlyric": "但那个周末从来没到过",
+      "remarkIdx": ["never", "come"]
+    },
+    {
+      "time": 33272,
+      "lyric": "Will you pat my back tomorrow",
+      "tlyric": "明天你能拍拍我的背吗？",
+      "remarkIdx": ["pat", "tomorrow"]
+    },
+    {
+      "time": 35610,
+      "lyric": "If I break my back today",
+      "tlyric": "如果我今天工作非常努力",
+      "remarkIdx": ["break one's back", "back"]
+    },
+    {
+      "time": 38058,
+      "lyric": "I've been going off the deep end",
+      "tlyric": "我的情绪已经失控",
+      "remarkIdx": ["go off", "the deep end", "go off the deep end"]
+    },
+    {
+      "time": 40470,
+      "lyric": "My sanity's at stake",
+      "tlyric": "我的理智正在崩溃",
+      "remarkIdx": ["sanity", "stake", "at stake"]
+    },
+    {
+      "time": 42788,
+      "lyric": "Will you pat my back tomorrow",
+      "tlyric": "明天你能拍拍我的背吗？",
+      "remarkIdx": ["pat", "tomorrow"]
+    },
+    {
+      "time": 45201,
+      "lyric": "If I break my back today",
+      "tlyric": "如果我今天工作非常努力",
+      "remarkIdx": ["break one's back", "back"]
+    },
+    {
+      "time": 47623,
+      "lyric": "If I break my back today",
+      "tlyric": "如果我今天工作非常努力",
+      "remarkIdx": ["break one's back", "back"]
+    },
+    {
+      "time": 48708,
+      "lyric": "Baby, you know",
+      "tlyric": "宝贝，你知道的",
+      "remarkIdx": ["baby", "know"]
+    },
+    {
+      "time": 49744,
+      "lyric": "I was broke",
+      "tlyric": "我曾经一贫如洗",
+      "remarkIdx": ["broke"]
+    },
+    {
+      "time": 50175,
+      "lyric": "Well, I still am",
+      "tlyric": "好吧，我现在也是",
+      "remarkIdx": ["still"]
+    },
+    {
+      "time": 51392,
+      "lyric": "Mama said if you don't work",
+      "tlyric": "妈妈说我要是不工作",
+      "remarkIdx": ["mama", "said"]
+    },
+    {
+      "time": 52211,
+      "lyric": "It might hit the fan (I got it)",
+      "tlyric": "我的生活可能会一团糟（我明白了）",
+      "remarkIdx": ["fan", "hit the fan", "got it"]
+    },
+    {
+      "time": 53913,
+      "lyric": "I'm on my money grind",
+      "tlyric": "我正在努力赚钱",
+      "remarkIdx": ["money", "grind"]
+    },
+    {
+      "time": 54997,
+      "lyric": "I'm digging up bands",
+      "tlyric": "我努力发掘乐队",
+      "remarkIdx": ["dig", "dig up", "band"]
+    },
+    {
+      "time": 55898,
+      "lyric": "You cannot find me in the club",
+      "tlyric": "你不会在俱乐部里看见我",
+      "remarkIdx": ["find", "club"]
+    },
+    {
+      "time": 57181,
+      "lyric": "Unless I'm saving at Sam's",
+      "tlyric": "除非我在山姆超市充钱",
+      "remarkIdx": ["unless", "save", "Sam's"]
+    },
+    {
+      "time": 58436,
+      "lyric": "Cause I'm a work work work work workaholic",
+      "tlyric": "因为我是一个工作，工作，工作，工作，工作狂",
+      "remarkIdx": ["cause", "workaholic"]
+    },
+    {
+      "time": 61082,
+      "lyric": "And a guap guap guap guap guapaholic (true)",
+      "tlyric": "一个见钱，钱，钱，钱，钱眼开的财迷（确实）",
+      "remarkIdx": ["guap", "guapaholic", "true"]
+    },
+    {
+      "time": 63420,
+      "lyric": "They say I've got a problem",
+      "tlyric": "他们说我病的不轻",
+      "remarkIdx": ["say", "problem"]
+    },
+    {
+      "time": 64560,
+      "lyric": "I believe in money trees",
+      "tlyric": "但我相信会有摇钱树",
+      "remarkIdx": ["believe", "money"]
+    },
+    {
+      "time": 65643,
+      "lyric": "I've been working on the weekend",
+      "tlyric": "我周末也在工作",
+      "remarkIdx": ["working", "on the weekend"]
+    },
+    {
+      "time": 66781,
+      "lyric": "To cop a spot in Belize",
+      "tlyric": "为了能去伯利兹",
+      "remarkIdx": ["cop", "spot"]
+    },
+    {
+      "time": 68304,
+      "lyric": "Will you stick by (Na-na-na-na)",
+      "tlyric": "你会继续支持我吗？",
+      "remarkIdx": ["stick", "stick by"]
+    },
+    {
+      "time": 70831,
+      "lyric": "While I do my time (Na-na-na-na)",
+      "tlyric": "当我正在卖力工作",
+      "remarkIdx": ["time", "do time"]
+    },
+    {
+      "time": 73170,
+      "lyric": "I guess we'll hang when I'm dead",
+      "tlyric": "我猜等我进棺材了，我们才能一起出去闲逛",
+      "remarkIdx": ["hang", "dead"]
+    },
+    {
+      "time": 76095,
+      "lyric": "I've been working for the weekend",
+      "tlyric": "我为了享受周末而努力工作",
+      "remarkIdx": ["work for", "weekend"]
+    },
+    {
+      "time": 78337,
+      "lyric": "But that weekend never came",
+      "tlyric": "但那个周末从来没到过",
+      "remarkIdx": ["never", "come"]
+    },
+    {
+      "time": 80777,
+      "lyric": "Will you pat my back tomorrow",
+      "tlyric": "明天你能拍拍我的背吗？",
+      "remarkIdx": ["pat", "tomorrow"]
+    },
+    {
+      "time": 83095,
+      "lyric": "If I break my back today",
+      "tlyric": "如果我今天工作非常努力",
+      "remarkIdx": ["break one's back", "back"]
+    },
+    {
+      "time": 85611,
+      "lyric": "I've been going off the deep end",
+      "tlyric": "我的情绪已经失控",
+      "remarkIdx": ["go off", "the deep end", "go off the deep end"]
+    },
+    {
+      "time": 87986,
+      "lyric": "But my sanity's at stake",
+      "tlyric": "我的理智正在崩塌",
+      "remarkIdx": ["sanity", "stake", "at stake"]
+    },
+    {
+      "time": 90245,
+      "lyric": "Will you pat my back tomorrow",
+      "tlyric": "明天你能拍拍我的背吗？",
+      "remarkIdx": ["pat", "tomorrow"]
+    },
+    {
+      "time": 92668,
+      "lyric": "If I break my back today",
+      "tlyric": "如果我今天工作非常努力",
+      "remarkIdx": ["break one's back", "back"]
+    },
+    {
+      "time": 95203,
+      "lyric": "If I break my back today",
+      "tlyric": "如果我今天工作非常努力",
+      "remarkIdx": ["break one's back", "back"]
+    },
+    {
+      "time": 106602,
+      "lyric": "Will you stick by (Na-na-na-na)",
+      "tlyric": "你会继续支持我吗？",
+      "remarkIdx": ["stick", "stick by"]
+    },
+    {
+      "time": 108953,
+      "lyric": "While I do my time (Na-na-na-na)",
+      "tlyric": "当我正在卖力工作",
+      "remarkIdx": ["time", "do time"]
+    },
+    {
+      "time": 111199,
+      "lyric": "I guess we'll hang when I'm dead",
+      "tlyric": "我猜等我进棺材了，我们才能一起出去闲逛",
+      "remarkIdx": ["hang", "dead"]
+    },
+    {
+      "time": 114263,
+      "lyric": "I've been working for the weekend",
+      "tlyric": "我为了享受周末而努力工作",
+      "remarkIdx": ["work"]
+    },
+    {
+      "time": 116843,
+      "lyric": "But that weekend never came",
+      "tlyric": "但那个周末从来没到过",
+      "remarkIdx": ["never", "come"]
+    },
+    {
+      "time": 118748,
+      "lyric": "Will you pat my back tomorrow",
+      "tlyric": "明天你能拍拍我的背吗？",
+      "remarkIdx": ["pat", "tomorrow"]
+    },
+    {
+      "time": 121176,
+      "lyric": "If I break my back today",
+      "tlyric": "如果我今天工作非常努力",
+      "remarkIdx": ["break one's back", "back"]
+    },
+    {
+      "time": 123626,
+      "lyric": "I've been working for the weekend",
+      "tlyric": "我为了享受周末而努力工作",
+      "remarkIdx": ["work for", "weekend"]
+    },
+    {
+      "time": 125918,
+      "lyric": "But that weekend never came",
+      "tlyric": "但那个周末从来没到过",
+      "remarkIdx": ["never", "come"]
+    },
+    {
+      "time": 128369,
+      "lyric": "Will you pat my back tomorrow",
+      "tlyric": "明天你能拍拍我的背吗？",
+      "remarkIdx": ["pat", "tomorrow"]
+    },
+    {
+      "time": 130776,
+      "lyric": "If I break my back today",
+      "tlyric": "如果我今天工作非常努力",
+      "remarkIdx": ["break one's back", "back"]
+    },
+    {
+      "time": 132926,
+      "lyric": "I've been going off the deep end",
+      "tlyric": "我的情绪已经失控",
+      "remarkIdx": ["go off", "the deep end", "go off the deep end"]
+    },
+    {
+      "time": 135567,
+      "lyric": "But my sanity's at stake",
+      "tlyric": "我的理智正在崩塌",
+      "remarkIdx": ["sanity", "stake", "at stake"]
+    },
+    {
+      "time": 137825,
+      "lyric": "Will you pat my back tomorrow",
+      "tlyric": "明天你能拍拍我的背吗？",
+      "remarkIdx": ["pat", "tomorrow"]
+    },
+    {
+      "time": 140258,
+      "lyric": "If I break my back today",
+      "tlyric": "如果我今天工作非常努力",
+      "remarkIdx": ["break one's back", "back"]
+    },
+    {
+      "time": 142979,
+      "lyric": "If I break my back today",
+      "tlyric": "如果我今天工作非常努力",
+      "remarkIdx": ["break one's back", "back"]
+    },
+    {
+      "time": 145383,
+      "lyric": "Yeah, I gotta get the weight off",
+      "tlyric": "我必须给自己减轻负担了",
+      "remarkIdx": ["yeah", "gotta", "weight"]
+    },
+    {
+      "time": 147211,
+      "lyric": "Yeah, I gotta get the weight off",
+      "tlyric": "我必须给自己减轻负担了",
+      "remarkIdx": ["yeah", "gotta", "weight"]
+    },
+    {
+      "time": 149896,
+      "lyric": "Yeah, I gotta get the day off",
+      "tlyric": "我是时候给自己放个假了",
+      "remarkIdx": ["yeah", "gotta", "day", "day off"]
+    },
+    {
+      "time": 155027,
+      "lyric": "Yeah, I gotta get the weight off",
+      "tlyric": "我必须给自己减轻负担了",
+      "remarkIdx": ["yeah", "gotta", "weight"]
+    },
+    {
+      "time": 157253,
+      "lyric": "Yeah, I gotta get the weight off",
+      "tlyric": "我必须给自己减轻负担了",
+      "remarkIdx": ["yeah", "gotta", "weight"]
+    },
+    {
+      "time": 159632,
+      "lyric": "Yeah, I gotta get the day off",
+      "tlyric": "我是时候给自己放个假了",
+      "remarkIdx": ["yeah", "gotta", "day", "day off"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 11865247,
+      "status": 99,
+      "demand": 1,
+      "userid": 0,
+      "nickname": "OneRepublic-Li",
+      "uptime": 1599183792907
+    },
+    "lrc": {
+      "version": 22,
+      "lyric": "[00:00.00] 作曲 : Alexander Gumuchian/Jack Met/Max Schneider/Ryan Met\n[00:00.01]Iʼve been working for the weekend\n[00:02.662]But that weekend never came\n[00:04.940]Will you pat my back tomorrow\n[00:07.149]If I break my back today\n[00:11.232]\n[00:13.088]Yea it’s 7am\n[00:14.493]And I can’t seem to keep my eyes shut\n[00:18.244]Even if I get up\n[00:19.481]Even if I get beat down\n[00:20.368]\n[00:20.950]Will I be fine\n[00:22.311]Na na na na\n[00:23.336]If I do my time\n[00:24.608]Na na na na\n[00:25.626]I guess Iʼll sleep when I am dead\n[00:28.183]\n[00:28.617]Iʼve been working for the weekend\n[00:30.943]But that weekend never came\n[00:33.272]Will you pat my back tomorrow\n[00:35.610]If I break my back today\n[00:38.058]Iʼve been going off the deep end\n[00:40.470]My sanity’s at stake\n[00:42.788]Will you pat my back tomorrow\n[00:45.201]If I break my back today\n[00:47.623]If I break my back today\n[00:48.708]Baby, you know\n[00:49.744]I was broke\n[00:50.175]Well, I still am\n[00:51.392]Mama said if you don’t work\n[00:52.211]It might hit the fan (I got it)\n[00:53.913]I’m on my money grind\n[00:54.997]I’m digging up bands\n[00:55.898]You cannot find me in the club\n[00:57.181]Unless I’m saving at Sam’s\n[00:58.436]Cause I’m a work work work work workaholic\n[01:01.082]And a guap guap guap guap guapaholic (true)\n[01:03.420]They say I’ve got a problem\n[01:04.560]I believe in money trees\n[01:05.643]I’ve been working on the weekend\n[01:06.781]To cop a spot in Belize\n[01:08.093]\n[01:08.304]Will you stick by\n[01:09.402]Na na na na\n[01:10.831]While I do my time\n[01:12.137]Na na na na\n[01:13.170]I guess we’ll hang when I am dead\n[01:15.652]\n[01:16.095]Iʼve been working for the weekend\n[01:18.337]But that weekend never came\n[01:20.777]Will you pat my back tomorrow\n[01:23.095]If I break my back today\n[01:25.611]Iʼve been going off the deep end\n[01:27.986]But my sanity’s at stake\n[01:30.245]Will you pat my back tomorrow\n[01:32.668]If I break my back today\n[01:35.203]If I break my back today\n[01:44.010]\n[01:46.602]Will you stick by\n[01:47.495]Na na na na\n[01:48.953]While I do my time\n[01:50.164]Na na na na\n[01:51.199]I guess we’ll hang when I am dead\n[01:53.659]\n[01:54.263]Iʼve been working for the weekend\n[01:56.843]But that weekend never came\n[01:58.748]Will you pat my back tomorrow\n[02:01.176]If I break my back today\n[02:03.626]Iʼve been working for the weekend\n[02:05.918]But that weekend never came\n[02:08.369]Will you pat my back tomorrow\n[02:10.776]If I break my back today\n[02:12.926]Iʼve been going off the deep end\n[02:15.567]But my sanity’s at stake\n[02:17.825]Will you pat my back tomorrow\n[02:20.258]If I break my back today\n[02:22.979]If I break my back today\n[02:24.175]\n[02:25.383]Yeah I got to get the weight off\n[02:27.211]Yeah I got to get the weight off\n[02:29.896]Yea I got to get the day off\n[02:35.027]Yeah I got to get the weight off\n[02:37.253]Yeah I got to get the weight off\n[02:39.632]Yea I got to get the day off\n[02:44.669]\n"
+    },
+    "tlyric": {
+      "version": 24,
+      "lyric": "[00:00.01]我努力工作只为双休日\n[00:02.662]但那个双休日却从来没有到来\n[00:04.940]明天你能拍拍我的背吗？\n[00:07.149]若我今天过度劳损\n[00:11.232]\n[00:13.088]这才早上7点\n[00:14.493]我还睡眼惺忪\n[00:18.244]即使我此刻已经起床\n[00:19.481]即使我被压力打到\n[00:20.368]\n[00:20.950]我是否还安然无恙？\n[00:22.311]\n[00:23.336]若我能抽出时间\n[00:24.608]\n[00:25.626]我想我会一直沉睡下去，直到我的生命终结\n[00:28.183]\n[00:28.617]我努力工作只为双休日\n[00:30.943]但那个双休日却从来没有到来\n[00:33.272]明天你能拍拍我的背吗？\n[00:35.610]若我今天过度劳损\n[00:38.058]我一直走在悬崖边\n[00:40.470]我的理智正在崩塌\n[00:42.788]明天你能拍拍我的背吗？\n[00:45.201]若我今天过度劳损\n[00:47.623]若我今天过度劳损\n[00:48.708]宝贝，你知道的\n[00:49.744]我一贫如洗\n[00:50.175]但我依旧是堂堂正正的男子汉\n[00:51.392]妈妈说我要是不工作\n[00:52.211]你可能会被众人唾弃\n[00:53.913]我在努力赚钱\n[00:54.997]为了1000美金而奋斗\n[00:55.898]你不会在俱乐部里看见我的身影\n[00:57.181]除非我在sam家存钱\n[00:58.436]因为我是个工作狂\n[01:01.082]钞票一沓一沓堆起\n[01:03.420]他们说我钻进钱眼里了\n[01:04.560]但人会说谎，金钱不会说谎\n[01:05.643]我周末也在工作\n[01:06.781]去伯利兹建立一个据点\n[01:08.093]\n[01:08.304]你会留下来吗？\n[01:09.402]\n[01:10.831]当我正在善用我的一分一秒\n[01:12.137]\n[01:13.170]我想我们死的方式一定是凄惨的\n[01:15.652]\n[01:16.095]我努力工作只为双休日\n[01:18.337]但那个双休日却从来没有到来\n[01:20.777]明天你能拍拍我的背吗？\n[01:23.095]若我今天过度劳损\n[01:25.611]我一直走在悬崖边\n[01:27.986]我的理智正在崩塌\n[01:30.245]明天你能拍拍我的背吗？\n[01:32.668]若我今天过度劳损\n[01:35.203]若我今天过度劳损\n[01:44.010]\n[01:46.602]你会留下来吗？\n[01:47.495]\n[01:48.953]当我正在善用我的一分一秒\n[01:50.164]\n[01:51.199]我想我们死的方式一定是凄惨的\n[01:53.659]\n[01:54.263]我努力工作只为双休日\n[01:56.843]但那个双休日却从来没有到来\n[01:58.748]明天你能拍拍我的背吗？\n[02:01.176]若我今天过度劳损\n[02:03.626]我努力工作只为双休日\n[02:05.918]但那个双休日却从来没有到来\n[02:08.369]明天你能拍拍我的背吗？\n[02:10.776]若我今天过度劳损\n[02:12.926]我一直走在悬崖边\n[02:15.567]我的理智正在崩塌\n[02:17.825]明天你能拍拍我的背吗？\n[02:20.258]若我今天过度劳损\n[02:22.979]若我今天过度劳损\n[02:24.175]\n[02:25.383]是时候把身上的担子卸掉了\n[02:27.211]是时候把身上的担子卸掉了\n[02:29.896]我是时候给自己放个假了\n[02:35.027]是时候把身上的担子卸掉了\n[02:37.253]是时候把身上的担子卸掉了\n[02:39.632]我是时候给自己放个假了\n[02:44.669]"
+    },
+    "code": 200
+  }
+}

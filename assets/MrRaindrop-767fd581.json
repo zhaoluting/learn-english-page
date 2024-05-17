@@ -1,0 +1,126 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Mr Raindrop",
+      "tlyric": "雨珠先生",
+      "singer": "amplified",
+      "remarkIdx": ["Mr", "Raindrop"]
+    },
+    {
+      "time": 4577,
+      "lyric": "Mr raindrop, falling away from me now",
+      "tlyric": "雨珠先生，正从我身上滑落",
+      "remarkIdx": ["Mr", "Raindrop", "fall away", "from"]
+    },
+    {
+      "time": 11577,
+      "lyric": "Mr raindrop, falling away from me now",
+      "tlyric": "雨珠先生，正从我身上滑落",
+      "remarkIdx": ["Mr", "Raindrop", "fall away", "from"]
+    },
+    {
+      "time": 19000,
+      "lyric": "Mr raindrop, falling away from me now",
+      "tlyric": "雨珠先生，正从我身上滑落",
+      "remarkIdx": ["fall", "away"]
+    },
+    {
+      "time": 26095,
+      "lyric": "Mr raindrop, falling away from me now",
+      "tlyric": "雨珠先生，正从我身上滑落",
+      "remarkIdx": ["fall away", "from", "now"]
+    },
+    {
+      "time": 33013,
+      "lyric": "Do you know how much you mean to me",
+      "tlyric": "你可知道你对我而言有多重要",
+      "remarkIdx": ["mean"]
+    },
+    {
+      "time": 36571,
+      "lyric": "Why must you leave",
+      "tlyric": "为什么你一定要离开？",
+      "remarkIdx": ["must", "leave"]
+    },
+    {
+      "time": 40545,
+      "lyric": "I'm just a flower on a tree",
+      "tlyric": "我只是树上的一朵花",
+      "remarkIdx": ["flower", "tree"]
+    },
+    {
+      "time": 44085,
+      "lyric": "Why must you leave",
+      "tlyric": "为什么你一定要离开？",
+      "remarkIdx": ["must", "leave"]
+    },
+    {
+      "time": 49096,
+      "lyric": "Mr raindrop, falling away from me now",
+      "tlyric": "雨珠先生，正从我身上滑落",
+      "remarkIdx": ["Mr", "Raindrop", "fall away", "from"]
+    },
+    {
+      "time": 56070,
+      "lyric": "Mr raindrop, falling away from me now",
+      "tlyric": "雨珠先生，正从我身上滑落",
+      "remarkIdx": ["fall", "away"]
+    },
+    {
+      "time": 61078,
+      "lyric": "falling away from me now",
+      "tlyric": "正从我身上滑落",
+      "remarkIdx": ["fall away", "from", "now"]
+    },
+    {
+      "time": 63007,
+      "lyric": "Mr raindrop, falling away from me now",
+      "tlyric": "雨珠先生，正从我身上滑落",
+      "remarkIdx": ["Mr", "Raindrop", "fall away", "from"]
+    },
+    {
+      "time": 70062,
+      "lyric": "Mr raindrop, falling away from me now",
+      "tlyric": "雨珠先生，正从我身上滑落",
+      "remarkIdx": ["fall", "away"]
+    },
+    {
+      "time": 75026,
+      "lyric": "falling away from me now",
+      "tlyric": "正从我身上滑落",
+      "remarkIdx": ["fall away", "from", "now"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 991850,
+      "status": 99,
+      "demand": 1,
+      "userid": 47343627,
+      "nickname": "光之战士的带星魔匠药水",
+      "uptime": 1435890400920
+    },
+    "lyricUser": {
+      "id": 991835,
+      "status": 99,
+      "demand": 0,
+      "userid": 47343627,
+      "nickname": "光之战士的带星魔匠药水",
+      "uptime": 1435890400920
+    },
+    "lrc": {
+      "version": 9,
+      "lyric": "[00:00.00] 作词 : NEO KAI YUAN/CHRISTOPHER EDWARDS/MA KING-HANG TERRENCE\n[00:01.00] 作曲 : NEO KAI YUAN/CHRISTOPHER EDWARDS/MA KING-HANG TERRENCE\n[00:04.83]Mr.raindrop, falling away from me now\n[00:11.77]Mr.raindrop, falling away from me now\n[00:18.99]Mr.raindrop, falling away from me now\n[00:25.95]Mr.raindrop, falling away from me now\n[00:33.13]Do you know how much you mean to me\n[00:36.71]Why must you leave?\n[00:40.45]I'm just a flower on a tree\n[00:43.85]Why must you leave?\n[00:46.96]Mr.raindrop, falling away from me now\n[00:55.70]Mr.raindrop, falling away from me now\n[01:00.78]falling away from me now\n[01:02.07]Mr.raindrop, falling away from me now\n[01:09.62]Mr.raindrop, falling away from me now\n[01:14.26]falling away from me now\n"
+    },
+    "tlyric": {
+      "version": 7,
+      "lyric": "[00:04.83]雨滴先生正在离我远去\n[00:11.77]雨滴先生正在离我远去\n[00:18.99]雨滴先生正在离我远去\n[00:25.95]雨滴先生正在离我远去\n[00:33.13]你可知道你对我而言多么重要\n[00:36.71]为什么你要离开\n[00:40.45]我就像是那树上的花朵\n[00:43.85]为什么你要离开\n[00:46.96]雨滴先生正在离我远去\n[00:55.70]雨滴先生正在离我远去\n[01:00.78]正在离我远去\n[01:02.07]雨滴先生正在离我远去\n[01:09.62]雨滴先生正在离我远去\n[01:14.26]正在离我远去"
+    },
+    "code": 200
+  }
+}

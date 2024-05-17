@@ -1,0 +1,280 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Yesterday Once More",
+      "tlyric": "昨日重现",
+      "singer": "Carpenters",
+      "remarkIdx": ["yesterday", "once more"]
+    },
+    {
+      "time": 2879,
+      "lyric": "When I was young I'd listen to the radio",
+      "tlyric": "我还年轻的时候，喜欢听收音机",
+      "remarkIdx": ["young", "listen", "radio"]
+    },
+    {
+      "time": 8918,
+      "lyric": "Waiting for my favorite songs",
+      "tlyric": "等待我最喜欢的歌曲",
+      "remarkIdx": ["wait", "favorite"]
+    },
+    {
+      "time": 14559,
+      "lyric": "When they played I'd sing along",
+      "tlyric": "当他们演奏时，我会随之吟唱",
+      "remarkIdx": ["play", "along"]
+    },
+    {
+      "time": 19259,
+      "lyric": "It made me smile",
+      "tlyric": "这使我心情欢畅",
+      "remarkIdx": ["made", "smile"]
+    },
+    {
+      "time": 23909,
+      "lyric": "Those were such happy times and not so long ago",
+      "tlyric": "那些是多么幸福的时光！就在不久以前",
+      "remarkIdx": ["happy", "times"]
+    },
+    {
+      "time": 32298,
+      "lyric": "how I wondered where they'd gone",
+      "tlyric": "我想知道它们曾去何处",
+      "remarkIdx": ["wonder"]
+    },
+    {
+      "time": 37890,
+      "lyric": "But they're back again just like a long lost friend",
+      "tlyric": "而今它们再次出现，就像失散的旧友重逢",
+      "remarkIdx": ["lost", "friend"]
+    },
+    {
+      "time": 43979,
+      "lyric": "all the songs I loved so well",
+      "tlyric": "所有的歌曲我都如此的喜爱",
+      "remarkIdx": ["song", "love"]
+    },
+    {
+      "time": 49239,
+      "lyric": "Every shalalala every wo'wo",
+      "tlyric": "每一句sha-la-la-la每一句wo-wo",
+      "remarkIdx": ["every"]
+    },
+    {
+      "time": 55829,
+      "lyric": "Still shines",
+      "tlyric": "依旧闪烁",
+      "remarkIdx": ["still", "shine"]
+    },
+    {
+      "time": 61679,
+      "lyric": "Every shing-a-ling-a-ling",
+      "tlyric": "每一句shing-a-ling-a-ling",
+      "remarkIdx": ["every"]
+    },
+    {
+      "time": 64249,
+      "lyric": "That they're starting to sing",
+      "tlyric": "就在他们放声歌唱时",
+      "remarkIdx": ["start"]
+    },
+    {
+      "time": 66990,
+      "lyric": "So fine",
+      "tlyric": "如此美妙",
+      "remarkIdx": ["so", "fine"]
+    },
+    {
+      "time": 73119,
+      "lyric": "When they get to the part",
+      "tlyric": "当他们唱到一个地方",
+      "remarkIdx": ["part"]
+    },
+    {
+      "time": 75669,
+      "lyric": "Where he's breaking her heart",
+      "tlyric": "他令她伤心断肠",
+      "remarkIdx": ["break"]
+    },
+    {
+      "time": 79900,
+      "lyric": "It can really make me cry",
+      "tlyric": "这真能叫我哭出来",
+      "remarkIdx": ["really"]
+    },
+    {
+      "time": 84200,
+      "lyric": "Just like before",
+      "tlyric": "正如从前一样",
+      "remarkIdx": ["just", "before"]
+    },
+    {
+      "time": 89289,
+      "lyric": "It's yesterday once more",
+      "tlyric": "仿佛昔日又重来",
+      "remarkIdx": ["yesterday", "once"]
+    },
+    {
+      "time": 98890,
+      "lyric": "(shoobie do lang lang)",
+      "tlyric": "（和音伴奏，无实际意义）",
+      "remarkIdx": []
+    },
+    {
+      "time": 102178,
+      "lyric": "Looking back on how it was in years gone by",
+      "tlyric": "回头看岁月如何消逝",
+      "remarkIdx": ["back"]
+    },
+    {
+      "time": 107828,
+      "lyric": "And the good times that I had",
+      "tlyric": "这些过去的好时光",
+      "remarkIdx": ["good"]
+    },
+    {
+      "time": 114190,
+      "lyric": "Makes today seem rather sad",
+      "tlyric": "使今天显得令人哀伤",
+      "remarkIdx": ["rather", "sad"]
+    },
+    {
+      "time": 118349,
+      "lyric": "So much has changed",
+      "tlyric": "一切都已不再",
+      "remarkIdx": ["much", "change"]
+    },
+    {
+      "time": 127390,
+      "lyric": "It was songs of love that I would sing to then",
+      "tlyric": "那时我跟唱着这些爱之歌",
+      "remarkIdx": ["song", "love"]
+    },
+    {
+      "time": 131228,
+      "lyric": "and I'd memorize each word",
+      "tlyric": "我会记住每一句歌词",
+      "remarkIdx": ["memorize", "each", "word"]
+    },
+    {
+      "time": 136168,
+      "lyric": "Those old melodies still sound so good to me",
+      "tlyric": "那些熟悉的旋律，在我听来还是那么好",
+      "remarkIdx": ["melody", "sound"]
+    },
+    {
+      "time": 143198,
+      "lyric": "As they melt the years away",
+      "tlyric": "好像他们把岁月融消",
+      "remarkIdx": ["melt", "year", "away"]
+    },
+    {
+      "time": 149390,
+      "lyric": "Every shalalala every wo'wo still shines",
+      "tlyric": "每一句sha-la-la-la每一句wo-wo仍闪烁",
+      "remarkIdx": ["still", "shine"]
+    },
+    {
+      "time": 159998,
+      "lyric": "Every shing-a-ling-a-ling",
+      "tlyric": "每一句shing-a-ling-a-ling",
+      "remarkIdx": ["every"]
+    },
+    {
+      "time": 162327,
+      "lyric": "That they're starting to sing",
+      "tlyric": "就在他们放声歌唱时",
+      "remarkIdx": ["sing"]
+    },
+    {
+      "time": 165648,
+      "lyric": "So fine",
+      "tlyric": "如此美妙",
+      "remarkIdx": ["so", "fine"]
+    },
+    {
+      "time": 171577,
+      "lyric": "All my best memories come back clearly to me",
+      "tlyric": "我所有美好的记忆清晰的重现",
+      "remarkIdx": ["best", "memory"]
+    },
+    {
+      "time": 176868,
+      "lyric": "Some can even make me cry",
+      "tlyric": "有一些仍能使我哭出来",
+      "remarkIdx": ["cry"]
+    },
+    {
+      "time": 181879,
+      "lyric": "Just like before",
+      "tlyric": "正如从前一样",
+      "remarkIdx": ["just", "before"]
+    },
+    {
+      "time": 187698,
+      "lyric": "It's yesterday once more",
+      "tlyric": "这是昨日再现",
+      "remarkIdx": ["more", "once more"]
+    },
+    {
+      "time": 190659,
+      "lyric": "(shoobie do lang lang)",
+      "tlyric": "（和音伴奏，无实际意义）",
+      "remarkIdx": []
+    },
+    {
+      "time": 194898,
+      "lyric": "Every shalalala every wo'wo still shines",
+      "tlyric": "每一句sha-la-la-la每一句wo-wo仍闪烁",
+      "remarkIdx": ["still", "shine"]
+    },
+    {
+      "time": 206238,
+      "lyric": "Every shing-a-ling-a-ling",
+      "tlyric": "每一句shing-a-ling-a-ling",
+      "remarkIdx": ["still", "shine"]
+    },
+    {
+      "time": 209398,
+      "lyric": "That they're starting to sing",
+      "tlyric": "就在他们放声歌唱时",
+      "remarkIdx": ["start"]
+    },
+    {
+      "time": 211668,
+      "lyric": "So fine",
+      "tlyric": "如此美妙",
+      "remarkIdx": ["so", "fine"]
+    },
+    {
+      "time": 216898,
+      "lyric": "Every shalalala every wo'wo still shines.",
+      "tlyric": "每一句sha-la-la-la每一句wo-wo仍闪烁",
+      "remarkIdx": ["still", "shine"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 946425,
+      "status": 99,
+      "demand": 1,
+      "userid": 82380312,
+      "nickname": "木易001617",
+      "uptime": 1449027991077
+    },
+    "lrc": {
+      "version": 59,
+      "lyric": "[00:00.000] 作词 : Richard Carpenter/JOHN & BETTY\n[00:00.719] 作曲 : Richard Carpenter/JOHN & BETTY\n[00:01.438] 编曲 : Carpenters\n[00:02.157] 制作人 : Karen Carpenter/Richard Carpenter\n[00:02.879]When I was young I'd listen to the radio\n[00:08.918]Waiting for my favorite songs\n[00:14.559]When they played I'd sing along\n[00:19.259]It made me smile\n[00:23.909]Those were such happy times and not so long ago\n[00:32.298]how I wondered where they'd gone\n[00:37.890]But they're back again just like a long lost friend\n[00:43.979]all the songs I loved so well\n[00:49.239]Every shalalala every wo'wo\n[00:55.829]Still shines\n[01:01.679]Every shing-a-ling-a-ling\n[01:04.249]That they're starting to sing\n[01:06.990]So fine\n[01:13.119]When they get to the part\n[01:15.669]Where he's breaking her heart\n[01:19.900]It can really make me cry\n[01:24.200]Just like before\n[01:29.289]It's yesterday once more\n[01:38.890](shoobie do lang lang)\n[01:42.178]Looking back on how it was in years gone by\n[01:47.828]And the good times that I had\n[01:54.190]Makes today seem rather sad\n[01:58.349]So much has changed\n[02:07.390]It was songs of love that I would sing to then\n[02:11.228]and I'd memorize each word\n[02:16.168]Those old melodies still sound so good to me\n[02:23.198]As they melt the years away\n[02:29.390]Every shalalala every wo'wo still shines\n[02:39.998]Every shing-a-ling-a-ling\n[02:42.327]That they're starting to sing\n[02:45.648]So fine\n[02:51.577]All my best memories come back clearly to me\n[02:56.868]Some can even make me cry\n[03:01.879]Just like before\n[03:07.698]It's yesterday once more\n[03:10.659](shoobie do lang lang)\n[03:14.898]Every shalalala every wo'wo still shines\n[03:26.238]Every shing-a-ling-a-ling\n[03:29.398]That they're starting to sing\n[03:31.668]So fine\n[03:36.898]Every shalalala every wo'wo still shines.\n"
+    },
+    "tlyric": {
+      "version": 29,
+      "lyric": "[00:02.879]我还年轻的时候， 喜欢听收音机\n[00:08.918]等待我最喜欢的歌曲\n[00:14.559]当他们演奏时，我会随之吟唱\n[00:19.259]这使我心情欢畅\n[00:23.909]那些是多么幸福的时光！就在不久以前\n[00:32.298]我想知道它们曾去何处\n[00:37.890]而今它们再次出现，就像失散的旧友重逢\n[00:43.979]所有的歌曲我都如此的喜爱\n[00:49.239]每一句sha-la-la-la每一句wo-wo\n[00:55.829]依旧闪烁\n[01:01.679]每一句shing-a-ling-a-ling\n[01:04.249]就在他们放声歌唱时\n[01:06.990]如此美妙\n[01:13.119]当他们唱到一个地方\n[01:15.669]他令她伤心断肠\n[01:19.900]这真能叫我哭出来\n[01:24.200]正如从前一样\n[01:29.289]仿佛昔日又重来\n[01:38.890]无比惆怅\n[01:42.178]回头看岁月如何消逝\n[01:47.828]这些过去的好时光\n[01:54.190]使今天显得令人哀伤\n[01:58.349]一切都已不再\n[02:07.390]那时我跟唱着这些爱之歌\n[02:11.228]我会记住每一句歌词\n[02:16.168]那些熟悉的旋律，在我听来还是那么好\n[02:23.198]好像他们把岁月融消\n[02:29.390]每一句sha-la-la-la每一句wo-wo仍闪烁\n[02:39.998]每一句shing-a-ling-a-ling\n[02:42.327]就在他们放声歌唱时\n[02:45.648]如此美妙\n[02:51.577]我所有美好的记忆清晰的重现\n[02:56.868]有一些仍能使我哭出来\n[03:01.879]正如从前一样\n[03:07.698]这是昨日再现\n[03:10.659]无比惆怅\n[03:14.898]每一句sha-la-la-la每一句wo-wo仍闪烁\n[03:26.238]每一句shing-a-ling-a-ling\n[03:29.398]就在他们放声歌唱时\n[03:31.668]如此美妙\n[03:36.898]每一句sha-la-la-la每一句wo-wo仍闪烁"
+    },
+    "code": 200
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Baby",
+      "tlyric": "宝贝",
+      "singer": "Justin Bieber / Ludacris",
+      "remarkIdx": ["Baby"]
+    },
+    {
+      "time": 3340,
+      "lyric": "Oh woah",
+      "tlyric": "哇哦……",
+      "remarkIdx": ["oh", "woah"]
+    },
+    {
+      "time": 6960,
+      "lyric": "Oh woah",
+      "tlyric": "哇哦……",
+      "remarkIdx": ["oh", "woah"]
+    },
+    {
+      "time": 10660,
+      "lyric": "Oh woah",
+      "tlyric": "哇哦……",
+      "remarkIdx": ["oh", "woah"]
+    },
+    {
+      "time": 15120,
+      "lyric": "You know you love me, I know you care",
+      "tlyric": "你知道你爱我 我知道你在意的",
+      "remarkIdx": ["know", "care"]
+    },
+    {
+      "time": 18940,
+      "lyric": "Just shout whenever, and I'll be there",
+      "tlyric": "无论何时 只要你呼叫 我就会（出现）在那里",
+      "remarkIdx": ["shout", "whenever"]
+    },
+    {
+      "time": 22670,
+      "lyric": "You want my love, you want my heart",
+      "tlyric": "（我感觉）你想要我的爱和我的心",
+      "remarkIdx": ["want", "heart"]
+    },
+    {
+      "time": 26290,
+      "lyric": "And we will never ever ever be apart",
+      "tlyric": "我们也永远不会被拆散",
+      "remarkIdx": ["never", "ever", "apart"]
+    },
+    {
+      "time": 29980,
+      "lyric": "Are we an item? Girl quit playing",
+      "tlyric": "我们是一对吗？女孩退出游戏（爱情）了",
+      "remarkIdx": ["item", "quit"]
+    },
+    {
+      "time": 33720,
+      "lyric": "We're just friends, what are you saying",
+      "tlyric": "你在说什么？！我们只是朋友？",
+      "remarkIdx": ["friend", "say"]
+    },
+    {
+      "time": 37450,
+      "lyric": "Said there's another and look right in my eyes",
+      "tlyric": "直视我的眼睛 所以有另一个人？！（出现在我们的世界）",
+      "remarkIdx": ["Said", "another"]
+    },
+    {
+      "time": 41050,
+      "lyric": "My first love broke my heart for the first time",
+      "tlyric": "我的初恋就这样第一次伤了我的心",
+      "remarkIdx": ["first", "broke"]
+    },
+    {
+      "time": 44440,
+      "lyric": "And I was like",
+      "tlyric": "我说",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 45310,
+      "lyric": "Baby, baby, baby, oh like",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["baby"]
+    },
+    {
+      "time": 49000,
+      "lyric": "Baby, baby, baby, no like",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["no"]
+    },
+    {
+      "time": 52660,
+      "lyric": "Baby, baby, baby, oh",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["baby"]
+    },
+    {
+      "time": 56360,
+      "lyric": "I thought you'd always been mine, mine",
+      "tlyric": "我以为你会永远都会是我的",
+      "remarkIdx": ["always", "mine"]
+    },
+    {
+      "time": 60090,
+      "lyric": "Baby, baby, baby, oh like",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 63860,
+      "lyric": "Baby, baby, baby, no like",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["no"]
+    },
+    {
+      "time": 67480,
+      "lyric": "Baby, baby, baby, oh",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["baby"]
+    },
+    {
+      "time": 71170,
+      "lyric": "I thought you'd always been mine, mine",
+      "tlyric": "我以为你会永远都会是我的",
+      "remarkIdx": ["think"]
+    },
+    {
+      "time": 74780,
+      "lyric": "For you, I would have done whatever",
+      "tlyric": "为了你 我愿意做任何事",
+      "remarkIdx": ["whatever"]
+    },
+    {
+      "time": 78230,
+      "lyric": "And I just can't believe we ain't together",
+      "tlyric": "我无法相信我们没有在一起",
+      "remarkIdx": ["together"]
+    },
+    {
+      "time": 81770,
+      "lyric": "And I wanna play it cool, but I'm losing you",
+      "tlyric": "我想用酷酷的方式谈恋爱 但我正在失去你",
+      "remarkIdx": ["play", "losing"]
+    },
+    {
+      "time": 85580,
+      "lyric": "I'll buy you anything, I'll buy you any ring",
+      "tlyric": "我会给你买任何东西 我会给你买任何（你喜欢的）戒指",
+      "remarkIdx": ["buy", "ring"]
+    },
+    {
+      "time": 88990,
+      "lyric": "And I'm in pieces, baby fix me",
+      "tlyric": "我支离破碎了 宝贝（用你的爱）修复我",
+      "remarkIdx": ["pieces", "fix"]
+    },
+    {
+      "time": 92870,
+      "lyric": "And you'll shake me till you wake me from this bad dream",
+      "tlyric": "你会（一直）推我直到把我从噩梦中摇醒",
+      "remarkIdx": ["shake", "wake"]
+    },
+    {
+      "time": 96940,
+      "lyric": "I'm going down, down, down, down",
+      "tlyric": "我摇摇欲坠",
+      "remarkIdx": ["going", "down"]
+    },
+    {
+      "time": 100260,
+      "lyric": "And I just can't believe my first love won't be around",
+      "tlyric": "不能相信我的初恋（就这样）无疾而终",
+      "remarkIdx": ["just", "believe", "around"]
+    },
+    {
+      "time": 103920,
+      "lyric": "And I'm now like",
+      "tlyric": "我现在已经习惯",
+      "remarkIdx": ["now"]
+    },
+    {
+      "time": 104350,
+      "lyric": "Baby, baby, baby, oh like",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 108040,
+      "lyric": "Baby, baby, baby, no like",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["no"]
+    },
+    {
+      "time": 111760,
+      "lyric": "Baby, baby, baby, oh",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["baby"]
+    },
+    {
+      "time": 115500,
+      "lyric": "I thought you'd always been mine, mine",
+      "tlyric": "我以为你会永远都会是我的",
+      "remarkIdx": ["always", "mine"]
+    },
+    {
+      "time": 119170,
+      "lyric": "Baby, baby, baby, oh like",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 122890,
+      "lyric": "Baby, baby, baby, no like",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["no"]
+    },
+    {
+      "time": 126540,
+      "lyric": "Baby, baby, baby, oh",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["baby"]
+    },
+    {
+      "time": 130220,
+      "lyric": "I thought you'd always been mine, mine",
+      "tlyric": "我以为你会永远都会是我的",
+      "remarkIdx": ["think"]
+    },
+    {
+      "time": 134470,
+      "lyric": "When I was 13 I had my first love",
+      "tlyric": "我在十三岁的时候 有了自己的初恋",
+      "remarkIdx": ["first", "love"]
+    },
+    {
+      "time": 138010,
+      "lyric": "There was nobody that compared to my baby",
+      "tlyric": "就此没人可以和我的爱人（宝贝）相提并论",
+      "remarkIdx": ["nobody", "compare"]
+    },
+    {
+      "time": 139420,
+      "lyric": "And nobody came between us or could ever come above",
+      "tlyric": "没人可以介入我们之间或凌驾于（这份感情）之上",
+      "remarkIdx": ["between", "above"]
+    },
+    {
+      "time": 141540,
+      "lyric": "She had me going crazy",
+      "tlyric": "她让我几近疯狂",
+      "remarkIdx": ["going", "crazy"]
+    },
+    {
+      "time": 143680,
+      "lyric": "Oh I was starstruck",
+      "tlyric": "（弄的）我像一个追星族一样",
+      "remarkIdx": ["starstruck", "struck"]
+    },
+    {
+      "time": 145450,
+      "lyric": "She woke me up daily don't need no starbucks",
+      "tlyric": "她让我的思维清醒就像我每天不能没有星巴克咖啡",
+      "remarkIdx": ["daily", "need", "starbucks"]
+    },
+    {
+      "time": 149250,
+      "lyric": "She made my heart pound",
+      "tlyric": "她让我心跳加速",
+      "remarkIdx": ["heart", "pound"]
+    },
+    {
+      "time": 150920,
+      "lyric": "Asking for a beat when I see her in the street",
+      "tlyric": "当我在街头看见她 请给我猛烈的打击",
+      "remarkIdx": ["Ask", "beat", "street"]
+    },
+    {
+      "time": 152400,
+      "lyric": "And at school on the playground",
+      "tlyric": "也包括在学校的操场上",
+      "remarkIdx": ["school", "playground"]
+    },
+    {
+      "time": 154690,
+      "lyric": "But I really wanna see her on the weekend",
+      "tlyric": "但我真的（还）想在周末看见她",
+      "remarkIdx": ["really"]
+    },
+    {
+      "time": 156480,
+      "lyric": "She knows she got me daze",
+      "tlyric": "她（也应该)知道她让我精神恍恍惚惚",
+      "remarkIdx": ["know", "daze"]
+    },
+    {
+      "time": 158500,
+      "lyric": "Cause she was so amazing",
+      "tlyric": "因为她是那样为爱疯狂",
+      "remarkIdx": ["Cause", "amazing"]
+    },
+    {
+      "time": 160250,
+      "lyric": "And now my heart is breaking",
+      "tlyric": "现在我的心也被伤透了",
+      "remarkIdx": ["break"]
+    },
+    {
+      "time": 162140,
+      "lyric": "But I'll just keep on saying",
+      "tlyric": "但我只是想继续说（那句）",
+      "remarkIdx": ["keep", "say"]
+    },
+    {
+      "time": 163730,
+      "lyric": "Baby, baby, baby, oh like",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 167150,
+      "lyric": "Baby, baby, baby, no like",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["no"]
+    },
+    {
+      "time": 170970,
+      "lyric": "Baby, baby, baby, oh",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["baby"]
+    },
+    {
+      "time": 174550,
+      "lyric": "I thought you'd always been mine, mine",
+      "tlyric": "我以为你会永远都会是我的",
+      "remarkIdx": ["always", "mine"]
+    },
+    {
+      "time": 178360,
+      "lyric": "Baby, baby, baby, oh like",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 182050,
+      "lyric": "Baby, baby, baby, no like",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["no"]
+    },
+    {
+      "time": 185690,
+      "lyric": "Baby, baby, baby, oh",
+      "tlyric": "宝贝 宝贝 宝贝",
+      "remarkIdx": ["baby"]
+    },
+    {
+      "time": 189390,
+      "lyric": "I thought you'd always been mine, mine",
+      "tlyric": "我以为你会永远都会是我的",
+      "remarkIdx": ["think"]
+    },
+    {
+      "time": 192000,
+      "lyric": "Now I'm all gone",
+      "tlyric": "（好吧） 我带着回忆走了",
+      "remarkIdx": ["Now"]
+    },
+    {
+      "time": 195730,
+      "lyric": "Now I'm all gone",
+      "tlyric": "（好吧） 我带着回忆走了",
+      "remarkIdx": ["all"]
+    },
+    {
+      "time": 199350,
+      "lyric": "Now I'm all gone",
+      "tlyric": "（好吧） 我带着回忆走了",
+      "remarkIdx": ["gone"]
+    },
+    {
+      "time": 203010,
+      "lyric": "Now I'm all gone",
+      "tlyric": "（好吧） 我带着回忆走了",
+      "remarkIdx": ["Now"]
+    },
+    {
+      "time": 206910,
+      "lyric": "I am gone",
+      "tlyric": "（好吧） 我带着回忆走了",
+      "remarkIdx": ["all"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 1084735,
+      "status": 99,
+      "demand": 1,
+      "userid": 2224270,
+      "nickname": "御街行尔",
+      "uptime": 1430965572321
+    },
+    "lrc": {
+      "version": 16,
+      "lyric": "[00:00.000] 作词 : Christopher Bridges/Justin Bieber/Christina Milian/Terius Nash/Christopher Stewart\n[00:01.000] 作曲 : Christopher Bridges/Justin Bieber/Christina Milian/Terius Nash/Christopher Stewart\n[00:03.340]Oh woah\n[00:06.960]Oh woah\n[00:10.660]Oh woah\n[00:14.200]\n[00:15.120]You know you love me, I know you care\n[00:18.940]Just shout whenever, and I'll be there\n[00:22.670]You want my love, you want my heart\n[00:26.290]And we will never ever ever be apart\n[00:29.980]Are we an item? Girl quit playing\n[00:33.720]We're just friends, what are you saying\n[00:37.450]Said there's another and look right in my eyes\n[00:41.050]My first love broke my heart for the first time\n[00:44.440]And I was like\n[00:45.310]Baby, baby, baby, oh like\n[00:49.000]Baby, baby, baby, no like\n[00:52.660]Baby, baby, baby, oh\n[00:56.360]I thought you'd always been mine, mine\n[01:00.090]Baby, baby, baby, oh like\n[01:03.860]Baby, baby, baby, no like\n[01:07.480]Baby, baby, baby, oh\n[01:11.170]I thought you'd always been mine, mine\n[01:14.780]For you, I would have done whatever\n[01:18.230]And I just can't believe we ain't together\n[01:21.770]And I wanna play it cool, but I'm losing you\n[01:25.580]I'll buy you anything, I'll buy you any ring\n[01:28.990]And I'm in pieces, baby fix me\n[01:32.870]And you'll shake me till you wake me from this bad dream\n[01:36.370]\n[01:36.940]I'm going down, down, down, down\n[01:40.260]And I just can't believe my first love won't be around\n[01:43.920]And I'm now like\n[01:44.350]Baby, baby, baby, oh like\n[01:48.040]Baby, baby, baby, no like\n[01:51.760]Baby, baby, baby, oh\n[01:55.500]I thought you'd always been mine, mine\n[01:59.170]Baby, baby, baby, oh like\n[02:02.890]Baby, baby, baby, no like\n[02:06.540]Baby, baby, baby, oh\n[02:10.220]I thought you'd always been mine, mine\n[02:14.470]When I was 13 I had my first love\n[02:18.010]There was nobody that compared to my baby\n[02:19.420]And nobody came between us or could ever come above\n[02:21.540]She had me going crazy\n[02:23.680]Oh I was starstruck\n[02:25.450]She woke me up daily don't need no starbucks\n[02:29.250]She made my heart pound\n[02:30.920]Asking for a beat when I see her in the street\n[02:32.400]And at school on the playground\n[02:34.690]But I really wanna see her on the weekend\n[02:36.480]She knows she got me dazy\n[02:38.500]Cause she was so amazing\n[02:40.250]And now my heart is breaking\n[02:42.140]But I'll just keep on saying\n[02:43.730]Baby, baby, baby, oh like\n[02:47.150]Baby, baby, baby, no like\n[02:50.970]Baby, baby, baby, oh\n[02:54.550]I thought you'd always been mine, mine\n[02:58.360]Baby, baby, baby, oh like\n[03:02.050]Baby, baby, baby, no like\n[03:05.690]Baby, baby, baby, oh\n[03:09.010]\n[03:09.390]I thought you'd always been mine, mine\n[03:12.000]Now I'm all gone\n[03:15.730]Now I'm all gone\n[03:19.350]Now I'm all gone\n[03:23.010]Now I'm all gone\n[03:26.910]I am gone\n[03:28.360]\n"
+    },
+    "tlyric": {
+      "version": 13,
+      "lyric": "[by:御街行尔]\n[00:03.340]哦。。。。\n[00:06.960]哦。。。。\n[00:10.660]哦。。。。\n[00:15.120]你知道你爱我 我知道你在意的\n[00:18.940]无论何时 只要你呼叫 我就会（出现）在那里\n[00:22.670]（我感觉）你想要我的爱和我的心\n[00:26.290]我们也永远不会被拆散\n[00:29.980]我们是一体的吗？女孩 停止游戏（爱情）了\n[00:33.720]你在说什么？！我们只是朋友？\n[00:37.450]直视我的眼睛 所以有另一个人？！（出现在我们的世界）\n[00:41.050]我的初恋就这样第一次伤了我的心\n[00:44.440]我说\n[00:45.310]宝贝 宝贝 宝贝\n[00:49.000]宝贝 宝贝 宝贝\n[00:52.660]宝贝 宝贝 宝贝\n[00:56.360]我以为你会永远都会是我的\n[01:00.090]宝贝 宝贝 宝贝\n[01:03.860]宝贝 宝贝 宝贝\n[01:07.480]宝贝 宝贝 宝贝\n[01:11.170]我以为你会永远都会是我的\n[01:14.780]为了你 我愿意做任何事\n[01:18.230]（再）给我另一个机会 我们（也许）会再在一起的\n[01:21.770]我想用酷酷的方式谈恋爱 也包括失去你\n[01:25.580]我会给你买任何东西 我会给你买任何（你喜欢的）戒指\n[01:28.990]我支离破碎了 宝贝（用你的爱）修复我\n[01:32.870]你会（一直）推我直到把我从噩梦中摇醒\n[01:36.940]我摇摇欲坠\n[01:40.260]不能相信我的初恋（就这样）无疾而终\n[01:43.920]我现在已经习惯\n[01:44.350]宝贝 宝贝 宝贝\n[01:48.040]宝贝 宝贝 宝贝\n[01:51.760]宝贝 宝贝 宝贝\n[01:55.500]我以为你会永远都会是我的\n[01:59.170]宝贝 宝贝 宝贝\n[02:02.890]宝贝 宝贝 宝贝\n[02:06.540]宝贝 宝贝 宝贝\n[02:10.220]我以为你会永远都会是我的\n[02:14.470]我在十三岁的时候 有了自己的初恋\n[02:18.010]就此没人可以和我的爱人（宝贝）相提并论\n[02:19.420]没人可以介入我们之间或凌驾于（这份感情）之上\n[02:21.540]她让我几近疯狂\n[02:23.680]（弄的）我像一个追星族一样\n[02:25.450]她让我的思维清醒就像我每天不能没有星巴克咖啡（时时刻刻离不开她）\n[02:29.250]她让我心跳加速\n[02:30.920]当我在街头看见她 请给我猛烈的打击（叫我不要想他）\n[02:32.400]（也包括）在学校的操场上\n[02:34.690]但我真的（还）想在周末看见她\n[02:36.480]她（也应该)知道她让我精神恍恍惚惚\n[02:38.500]因为她是那样为爱疯狂\n[02:40.250]现在我的心也被伤透了\n[02:42.140]但我只是想继续说（那句）\n[02:43.730]宝贝 宝贝 宝贝\n[02:47.150]宝贝 宝贝 宝贝\n[02:50.970]宝贝 宝贝 宝贝\n[02:54.550]我以为你会永远都会是我的\n[02:58.360]宝贝 宝贝 宝贝\n[03:02.050]宝贝 宝贝 宝贝\n[03:05.690]宝贝 宝贝 宝贝\n[03:09.390]我以为你会永远都会是我的\n[03:12.000]（好吧） 我带着回忆走了\n[03:15.730]（好吧） 我带着回忆走了\n[03:19.350]（好吧） 我带着回忆走了\n[03:23.010]（好吧） 我带着回忆走了\n[03:26.910]（好吧） 我带着回忆走了\n"
+    },
+    "code": 200
+  }
+}

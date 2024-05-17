@@ -1,0 +1,180 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "It's So Easy",
+      "tlyric": "这太容易",
+      "singer": "Buddy Holly / The Crickets",
+      "remarkIdx": ["so", "easy"]
+    },
+    {
+      "time": 1000,
+      "lyric": "It's so easy to fall in love",
+      "tlyric": "坠入爱河是如此容易",
+      "remarkIdx": ["fall", "fall in", "love"]
+    },
+    {
+      "time": 4008,
+      "lyric": "It's so easy to fall in love",
+      "tlyric": "坠入爱河是如此容易",
+      "remarkIdx": ["easy", "fall in", "love"]
+    },
+    {
+      "time": 14893,
+      "lyric": "People tell me love's for fools",
+      "tlyric": "人们常和我说，傻瓜才会恋爱",
+      "remarkIdx": ["people", "fool"]
+    },
+    {
+      "time": 18008,
+      "lyric": "So here I go breaking all the rules",
+      "tlyric": "所以我要打破所有常规",
+      "remarkIdx": ["breaking", "rule"]
+    },
+    {
+      "time": 21048,
+      "lyric": "Seems so easy, so doggone easy",
+      "tlyric": "看似很简单，如此简单",
+      "remarkIdx": ["seem", "easy", "doggone"]
+    },
+    {
+      "time": 28639,
+      "lyric": "It seems so easy",
+      "tlyric": "看似很简单",
+      "remarkIdx": ["seem", "so", "easy"]
+    },
+    {
+      "time": 32094,
+      "lyric": "Where you're concerned, my heart can learn",
+      "tlyric": "你所担心的地方，我会用心感受",
+      "remarkIdx": ["concerned", "heart", "learn"]
+    },
+    {
+      "time": 36068,
+      "lyric": "It's so easy to fall in love",
+      "tlyric": "坠入爱河是如此容易",
+      "remarkIdx": ["fall", "fall in", "love"]
+    },
+    {
+      "time": 39004,
+      "lyric": "It's so easy to fall in love",
+      "tlyric": "坠入爱河是如此容易",
+      "remarkIdx": ["easy", "fall in", "love"]
+    },
+    {
+      "time": 64052,
+      "lyric": "It's so easy to fall in love",
+      "tlyric": "坠入爱河是如此容易",
+      "remarkIdx": ["fall", "fall in", "love"]
+    },
+    {
+      "time": 67552,
+      "lyric": "It's so easy to fall in love",
+      "tlyric": "坠入爱河是如此容易",
+      "remarkIdx": ["easy", "fall in", "love"]
+    },
+    {
+      "time": 71092,
+      "lyric": "Look into your heart and see",
+      "tlyric": "我从你的内心看見",
+      "remarkIdx": ["look", "look into"]
+    },
+    {
+      "time": 75026,
+      "lyric": "What your lovebook has set aside for me",
+      "tlyric": "你已经为我留好了爱之书",
+      "remarkIdx": ["book", "aside", "set aside"]
+    },
+    {
+      "time": 78077,
+      "lyric": "It seems so easy, so doggone easy",
+      "tlyric": "坠入爱河看似很简单，如此简单",
+      "remarkIdx": ["seem", "see", "doggone"]
+    },
+    {
+      "time": 85070,
+      "lyric": "It seems so easy",
+      "tlyric": "看似很简单",
+      "remarkIdx": ["seem", "so", "easy"]
+    },
+    {
+      "time": 88506,
+      "lyric": "Where you're concerned, my heart can learn",
+      "tlyric": "你所担心的地方，我会用心感受",
+      "remarkIdx": ["concerned", "heart", "learn"]
+    },
+    {
+      "time": 92420,
+      "lyric": "It's so easy to fall in love",
+      "tlyric": "坠入爱河是如此容易",
+      "remarkIdx": ["fall", "fall in", "love"]
+    },
+    {
+      "time": 96061,
+      "lyric": "It's so easy to fall in love",
+      "tlyric": "坠入爱河是如此容易",
+      "remarkIdx": ["easy", "fall in", "love"]
+    },
+    {
+      "time": 106046,
+      "lyric": "It seems so easy, so doggone easy",
+      "tlyric": "看似很简单，如此简单",
+      "remarkIdx": ["seem", "see", "doggone"]
+    },
+    {
+      "time": 113052,
+      "lyric": "It seems so easy",
+      "tlyric": "看似很简单",
+      "remarkIdx": ["seem", "so", "easy"]
+    },
+    {
+      "time": 116013,
+      "lyric": "Where you're concerned, my heart can learn",
+      "tlyric": "你所担心的地方，我会用心感受",
+      "remarkIdx": ["concerned", "heart", "learn"]
+    },
+    {
+      "time": 120698,
+      "lyric": "It's so easy to fall in love",
+      "tlyric": "坠入爱河是如此容易",
+      "remarkIdx": ["fall", "fall in", "love"]
+    },
+    {
+      "time": 124543,
+      "lyric": "It's so easy to fall in love",
+      "tlyric": "坠入爱河是如此容易",
+      "remarkIdx": ["easy", "fall in", "love"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 3986644,
+      "status": 99,
+      "demand": 1,
+      "userid": 53446708,
+      "nickname": "Air_Rabbits",
+      "uptime": 1436040513166
+    },
+    "lyricUser": {
+      "id": 3986640,
+      "status": 99,
+      "demand": 0,
+      "userid": 53446708,
+      "nickname": "Air_Rabbits",
+      "uptime": 1436040513166
+    },
+    "lrc": {
+      "version": 17,
+      "lyric": "[00:00.00] 作词 : Buddy Holly/Norman Petty\n[00:00.23] 作曲 : Buddy Holly/Norman Petty\n[00:00.47]It's so easy to fall in love\n[00:04.08]It's so easy to fall in love\n[00:14.93]People tell me love's for fools\n[00:18.08]So here I go breaking all the rules\n[00:21.48]Seems so easy Yeah, so doggone easy\n[00:28.39]Oh it seems so easy\n[00:32.94]Yeah where you're concerned\n[00:34.68]My heart can learn\n[00:35.68]It's so easy to fall in love\n[00:39.04]It's so easy to fall in love\n[01:03.52]It's so easy to fall in love\n[01:07.52]It's so easy to fall in love\n[01:11.92]Look into your heart and see\n[01:14.26]What your lovebook has set aside for me\n[01:17.77]It seems so easy\n[01:21.25]Yeah, so doggone easy\n[01:24.70]Oh it seems so easy\n[01:28.06]Yeah where you're concerned\n[01:30.95]My heart can learn\n[01:32.20]Oh it's so easy to fall in love\n[01:35.61]It's so easy to fall in love\n[01:46.46]It seems so easy Oh so doggone easy\n[01:52.52]Yeah it seems so easy\n[01:57.13]Oh where you're concerned\n[01:59.03]My heart can learn\n[02:00.98]Oh it's so easy to fall in love oh,\n[02:04.43]It's so easy to fall in love\n"
+    },
+    "tlyric": {
+      "version": 4,
+      "lyric": "[by:李胡德]\n[ti:It's So Easy]\n[ar:Buddy Holly]\n[al:]\n[by:李胡德]\n[00:00.47]坠入爱河太容易\n[00:04.08]坠入爱河太容易\n[00:14.93]人常说爱是傻瓜的\n[00:18.08]现在我要打破常规\n[00:21.48]似乎很简单 耶，如此简单\n[00:28.39]似乎很简单\n[00:32.94]耶，你所担心的地方\n[00:34.68]我用心感受\n[00:35.68]坠入爱河太容易\n[00:39.04]坠入爱河太容易\n[01:03.52]坠入爱河太容易\n[01:07.52]坠入爱河太容易\n[01:11.92]看进你的心\n[01:14.26]那里有你为我写的情话\n[01:17.77]坠入爱河太容易\n[01:21.25]坠入爱河太容易\n[01:24.70]坠入爱河太容易\n[01:28.06]耶，你所担心的地方\n[01:30.95]我能感受到\n[01:32.20]坠入爱河太容易\n[01:35.61]坠入爱河太容易\n[01:46.46]坠入爱河太容易\n[01:52.52]坠入爱河太容易\n[01:57.13]你所担心的地方\n[01:59.03]我能感受到\n[02:00.98]坠入爱河太容易\n[02:04.43]坠入爱河太容易"
+    },
+    "code": 200
+  }
+}

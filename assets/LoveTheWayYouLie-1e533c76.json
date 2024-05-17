@@ -1,0 +1,502 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Love The Way You Lie",
+      "tlyric": "爱你说谎的方式",
+      "singer": "Eminem / Rihanna",
+      "remarkIdx": ["Lie"]
+    },
+    {
+      "time": 300,
+      "lyric": "Just gonna stand there and watch me burn",
+      "tlyric": "就站在那里看着我燃烧殆尽吧",
+      "remarkIdx": ["gonna", "stand there", "burn"]
+    },
+    {
+      "time": 5350,
+      "lyric": "Well, that's alright because I like the way it hurts",
+      "tlyric": "但是没关系，因为我爱这种伤害的方式",
+      "remarkIdx": ["alright", "because", "hurt"]
+    },
+    {
+      "time": 11230,
+      "lyric": "Just gonna stand there and hear me cry",
+      "tlyric": "就站在那里听着我哭泣吧",
+      "remarkIdx": ["stand there", "hear", "cry"]
+    },
+    {
+      "time": 16260,
+      "lyric": "Well, that's alright because I love the way you lie, I love the way you lie",
+      "tlyric": "没有关系，因为我爱你说谎的样子",
+      "remarkIdx": ["Well"]
+    },
+    {
+      "time": 25130,
+      "lyric": "I can't tell you what it really is",
+      "tlyric": "我无法说出这到底是什么",
+      "remarkIdx": ["really"]
+    },
+    {
+      "time": 26890,
+      "lyric": "I can only tell you what it feels like",
+      "tlyric": "我只能告诉你这是什么样的感觉",
+      "remarkIdx": ["only", "feel like"]
+    },
+    {
+      "time": 28930,
+      "lyric": "And right now, it's a steel knife in my windpipe",
+      "tlyric": "此刻我的气管里就像有一把钢刃",
+      "remarkIdx": ["right now", "steel", "knife", "windpipe"]
+    },
+    {
+      "time": 31550,
+      "lyric": "I can't breathe, but I still fight while I can fight",
+      "tlyric": "我无法呼吸，但我仍在挣扎，趁着我还有余力",
+      "remarkIdx": ["breathe", "fight"]
+    },
+    {
+      "time": 34440,
+      "lyric": "As long as the wrong feels right it's like I'm in flight",
+      "tlyric": "只要我觉得错的也是对的，已经麻木了，就像被驾到高空而没有知觉",
+      "remarkIdx": ["As long as", "flight"]
+    },
+    {
+      "time": 37440,
+      "lyric": "High off her love, drunk from my hate",
+      "tlyric": "她的爱让我无法自拔，她对我的恨更让我上瘾",
+      "remarkIdx": ["high off", "drink from", "hate"]
+    },
+    {
+      "time": 39220,
+      "lyric": "It's like I'm huffing paint and I love her, the more I suffer, I suffocate",
+      "tlyric": "就像我染上了毒瘾，沉得越久，伤得越深",
+      "remarkIdx": ["huffing paint", "suffer", "suffocate"]
+    },
+    {
+      "time": 42770,
+      "lyric": "And right before I'm about to drown, she resuscitates me",
+      "tlyric": "而就在我快要被淹没时，她将我救赎",
+      "remarkIdx": ["right before", "drown", "resuscitate"]
+    },
+    {
+      "time": 46000,
+      "lyric": "She ****ing hates me and I love it",
+      "tlyric": "她如此厌恶我，而我还犯贱就喜欢那样", 
+      "remarkIdx": ["hate", "love"]
+    },
+    {
+      "time": 47850,
+      "lyric": "Wait! Where you going? I'm leaving you",
+      "tlyric": "等等！你去哪！我要离开你",
+      "remarkIdx": ["Wait", "leave"]
+    },
+    {
+      "time": 50260,
+      "lyric": "No you ain't, come back, we're running right back",
+      "tlyric": "不，你不能离开。回来！我们可以从头再来",
+      "remarkIdx": ["ain't", "run back", "run right back"]
+    },
+    {
+      "time": 52850,
+      "lyric": "Here we go again",
+      "tlyric": "我们重新来过",
+      "remarkIdx": ["here", "here we go", "again"]
+    },
+    {
+      "time": 53790,
+      "lyric": "It's so insane 'cause when it's going good, it's going great",
+      "tlyric": "这太疯狂，因为当一切就要变得好起来",
+      "remarkIdx": ["insane", "'cause", "great"]
+    },
+    {
+      "time": 56530,
+      "lyric": "I'm Superman with the wind at his back",
+      "tlyric": "我像超人般飞在空中，所向披靡",
+      "remarkIdx": ["wind"]
+    },
+    {
+      "time": 58490,
+      "lyric": "She's Lois Lane, but when it's bad, it's awful, I feel so ashamed, I snapped",
+      "tlyric": "她就像Lois Lane（超人女友），糟糕的时候一塌糊涂我都感到羞耻",
+      "remarkIdx": ["awful", "snapped"]
+    },
+    {
+      "time": 62640,
+      "lyric": "Who's that dude? I don't even know his name",
+      "tlyric": "“那小子是谁，我甚至不知道他的名字”",
+      "remarkIdx": ["dude", "even"]
+    },
+    {
+      "time": 64800,
+      "lyric": "I laid hands on her, I'll never stoop so low again",
+      "tlyric": "我打了她，我再也不会如此卑躬屈膝，尊严沦丧",
+      "remarkIdx": ["lay hands on", "stoop", "stoop so low"]
+    },
+    {
+      "time": 67500,
+      "lyric": "I guess I don't know my own strength",
+      "tlyric": "我都不知道我下手有多狠",
+      "remarkIdx": ["guess", "strength"]
+    },
+    {
+      "time": 69490,
+      "lyric": "Just gonna stand there and watch me burn",
+      "tlyric": "就站在那里看着我燃烧殆尽吧",
+      "remarkIdx": ["Just", "watch"]
+    },
+    {
+      "time": 74200,
+      "lyric": "Well, that's alright because I like the way it hurts",
+      "tlyric": "但是没关系，因为我爱这种伤害的方式",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 80500,
+      "lyric": "Just gonna stand there and hear me cry",
+      "tlyric": "就站在那里听着我哭泣吧",
+      "remarkIdx": ["stand there", "hear", "cry"]
+    },
+    {
+      "time": 85290,
+      "lyric": "Well, that's alright because I love the way you lie, I love the way you lie, I love the way you lie",
+      "tlyric": "没关系，我喜欢你说谎的样子",
+      "remarkIdx": ["alright", "love"]
+    },
+    {
+      "time": 102800,
+      "lyric": "You ever love somebody so much, you can barely breathe",
+      "tlyric": "你是否曾那样深爱一个人，爱得无法呼吸",
+      "remarkIdx": ["somebody", "barely", "breathe"]
+    },
+    {
+      "time": 105320,
+      "lyric": "When you're with them",
+      "tlyric": "当你和他们在一起的时候",
+      "remarkIdx": ["with"]
+    },
+    {
+      "time": 106050,
+      "lyric": "You meet, and neither one of you even know what hit 'em",
+      "tlyric": "你遇到了，你们谁都不知道是什么击中了他们",
+      "remarkIdx": ["neither", "'em"]
+    },
+    {
+      "time": 108540,
+      "lyric": "Got that warm, fuzzy feeling",
+      "tlyric": "拥有了那样温暖又朦胧的感觉",
+      "remarkIdx": ["warm", "fuzzy"]
+    },
+    {
+      "time": 110090,
+      "lyric": "Yeah, them chills, used to get 'em",
+      "tlyric": "是的，他们让你放松，不断吸引着你",
+      "remarkIdx": ["chills", "used to"]
+    },
+    {
+      "time": 111360,
+      "lyric": "Now you're getting ****ing sick of looking at 'em",
+      "tlyric": "但你现在看到就想吐",
+      "remarkIdx": ["sick"]
+    },
+    {
+      "time": 113730,
+      "lyric": "You swore you'd never hit 'em, never do nothing to hurt 'em",
+      "tlyric": "你发誓永远不会打他们，永远不会伤害他们",
+      "remarkIdx": ["swear", "hit"]
+    },
+    {
+      "time": 116370,
+      "lyric": "Now you're in each other's face, spewing venom in your words when you spit 'em",
+      "tlyric": "但现在你们看见对方都感到恶心，连说句话都喷射着毒液",
+      "remarkIdx": ["spew", "venom", "spit"]
+    },
+    {
+      "time": 120000,
+      "lyric": "You push, pull each other's hair, scratch, claw, bit 'em",
+      "tlyric": "你们扯着对方的头发，扭打成团，互相殴打",
+      "remarkIdx": ["scratch", "claw"]
+    },
+    {
+      "time": 122440,
+      "lyric": "Throw 'em down, pin 'em",
+      "tlyric": "蹂躏着他，像用针一样刺痛他",
+      "remarkIdx": ["Throw down", "pin"]
+    },
+    {
+      "time": 123370,
+      "lyric": "So lost in the moments when you're in 'em",
+      "tlyric": "你们在那一刻中迷失自我",
+      "remarkIdx": ["lost", "moment"]
+    },
+    {
+      "time": 125260,
+      "lyric": "It's a rage that's the culprit, it controls you both",
+      "tlyric": "愤怒是罪魁祸首，它控制着你们",
+      "remarkIdx": ["rage", "culprit"]
+    },
+    {
+      "time": 127580,
+      "lyric": "So they say you're best to go your separate ways",
+      "tlyric": "所以旁人说着，你们最好还是分开",
+      "remarkIdx": ["separate"]
+    },
+    {
+      "time": 129730,
+      "lyric": "Guess that they don't know ya 'cause today, that was yesterday",
+      "tlyric": "我猜他们不了解你，因为今朝就是昨日的重演",
+      "remarkIdx": ["Guess", "ya", "yesterday"]
+    },
+    {
+      "time": 132320,
+      "lyric": "Yesterday is over, it's a different day",
+      "tlyric": "昨日已经终结，这是另一个今天",
+      "remarkIdx": ["over"]
+    },
+    {
+      "time": 134430,
+      "lyric": "Sound like broken records playing over, but you promised her",
+      "tlyric": "听起来就像破唱片机一样一遍又一遍的重复，但你承诺过她",
+      "remarkIdx": ["Sound"]
+    },
+    {
+      "time": 137180,
+      "lyric": "Next time, you'll show restraint",
+      "tlyric": "下次你会克制",
+      "remarkIdx": ["restraint"]
+    },
+    {
+      "time": 138740,
+      "lyric": "You don't get another chance",
+      "tlyric": "不然你们之间就没有机会了",
+      "remarkIdx": ["another", "chance"]
+    },
+    {
+      "time": 139920,
+      "lyric": "Life is no Nintendo game",
+      "tlyric": "生活不是任天堂游戏",
+      "remarkIdx": ["Nintendo", "game"]
+    },
+    {
+      "time": 141450,
+      "lyric": "But you lied again",
+      "tlyric": "但你又一次食言",
+      "remarkIdx": ["lied", "again"]
+    },
+    {
+      "time": 142430,
+      "lyric": "Now you get to watch her leave out the window",
+      "tlyric": "现在你只能从窗口看着她离开",
+      "remarkIdx": ["leave", "window"]
+    },
+    {
+      "time": 144500,
+      "lyric": "Guess that's why they call it window pane",
+      "tlyric": "怕这便是“窗伤”吧（pain在英文中与玻璃板(pane)谐音）",
+      "remarkIdx": ["Guess", "pane"]
+    },
+    {
+      "time": 146650,
+      "lyric": "Just gonna stand there and watch me burn",
+      "tlyric": "就站在那里看着我燃烧殆尽吧",
+      "remarkIdx": ["gonna", "stand there", "burn"]
+    },
+    {
+      "time": 151440,
+      "lyric": "Well, that's alright because I like the way it hurts",
+      "tlyric": "但是没关系，因为我爱这种伤害的方式",
+      "remarkIdx": ["way"]
+    },
+    {
+      "time": 157690,
+      "lyric": "Just gonna stand there and hear me cry",
+      "tlyric": "就站在那里听着我哭泣吧",
+      "remarkIdx": ["stand there", "hear", "cry"]
+    },
+    {
+      "time": 162520,
+      "lyric": "Well, that's alright because I love the way you lie, I love the way you lie, I love the way you lie",
+      "tlyric": "没关系，我喜欢你说谎的样子",
+      "remarkIdx": ["alright", "lie"]
+    },
+    {
+      "time": 180130,
+      "lyric": "Now, I know we said things did things that we didn't mean",
+      "tlyric": "现在我明白了人们说的口是心非，身不由己",
+      "remarkIdx": ["mean"]
+    },
+    {
+      "time": 183150,
+      "lyric": "And we fall back into the same patterns, same routine",
+      "tlyric": "而我们又玩起了老花样，开始了同样的日常",
+      "remarkIdx": ["pattern", "routine"]
+    },
+    {
+      "time": 186420,
+      "lyric": "But your temper's just as bad as mine is",
+      "tlyric": "但你脾气跟我一样坏",
+      "remarkIdx": ["temper", "mine"]
+    },
+    {
+      "time": 187940,
+      "lyric": "You're the same as me",
+      "tlyric": "你和我简直一模一样",
+      "remarkIdx": ["same", "as"]
+    },
+    {
+      "time": 189000,
+      "lyric": "When it comes to love, you're just as blinded",
+      "tlyric": "但谈及爱情，你就像被蒙蔽了双眼",
+      "remarkIdx": ["it comes to", "blinded"]
+    },
+    {
+      "time": 191020,
+      "lyric": "Baby, please, come back",
+      "tlyric": "宝贝，求你回来我身边",
+      "remarkIdx": ["please", "come back"]
+    },
+    {
+      "time": 192270,
+      "lyric": "It wasn't you, baby, it was me",
+      "tlyric": "宝贝，都是我的错，与你无关",
+      "remarkIdx": ["Baby"]
+    },
+    {
+      "time": 194110,
+      "lyric": "Maybe our relationship isn't as crazy as it seems",
+      "tlyric": "也许我们之间的关系还没有看起来的那么离谱",
+      "remarkIdx": ["relationship"]
+    },
+    {
+      "time": 196820,
+      "lyric": "Maybe that's what happens when a tornado meets a volcano",
+      "tlyric": "也许那就是火山爆发遇上龙卷风时的样子",
+      "remarkIdx": ["tornado", "volcano"]
+    },
+    {
+      "time": 199910,
+      "lyric": "All I know is I love you too much to walk away though",
+      "tlyric": "我所知道的就是我爱你爱得无法自拔",
+      "remarkIdx": ["know", "walk away", "though"]
+    },
+    {
+      "time": 202910,
+      "lyric": "Come inside, pick up your bags off the sidewalk",
+      "tlyric": "回家吧，拿上你路边的行李回家吧。",
+      "remarkIdx": ["pick up", "sidewalk"]
+    },
+    {
+      "time": 205500,
+      "lyric": "Don't you hear sincerity in my voice when I talk",
+      "tlyric": "难道你没有听见我说话时声音里的真诚吗？",
+      "remarkIdx": ["sincerity", "voice"]
+    },
+    {
+      "time": 208180,
+      "lyric": "Told you this is my fault",
+      "tlyric": "说了这都是我的错",
+      "remarkIdx": ["Told", "fault"]
+    },
+    {
+      "time": 209470,
+      "lyric": "Look me in the eyeball",
+      "tlyric": "看着我的眼睛",
+      "remarkIdx": ["Look", "eyeball"]
+    },
+    {
+      "time": 210880,
+      "lyric": "Next time I'm pissed, I'll aim my fist at the dry wall",
+      "tlyric": "下一次我愤怒的时候，我只会把拳头对准墙壁",
+      "remarkIdx": ["aim", "fist"]
+    },
+    {
+      "time": 213780,
+      "lyric": "Next time, there will be no next time",
+      "tlyric": "下次？不会再有下次",
+      "remarkIdx": ["time"]
+    },
+    {
+      "time": 215850,
+      "lyric": "I apologize, even though I know it's lies",
+      "tlyric": "我向你道歉，即使我知道这是谎言",
+      "remarkIdx": ["apologize", "even though"]
+    },
+    {
+      "time": 218580,
+      "lyric": "I'm tired of the games, I just want her back",
+      "tlyric": "我已经厌倦了这场游戏，我只是想要她回来",
+      "remarkIdx": ["tired", "want"]
+    },
+    {
+      "time": 220710,
+      "lyric": "I know I'm a liar",
+      "tlyric": "我知道我是个骗子",
+      "remarkIdx": ["know", "liar"]
+    },
+    {
+      "time": 221830,
+      "lyric": "If she ever tries to ****ing leave again",
+      "tlyric": "如果她还想再次离开我",
+      "remarkIdx": ["try", "leave"]
+    },
+    {
+      "time": 223780,
+      "lyric": "I'ma tie her to the bed and set this house on fire",
+      "tlyric": "我会把她绑在床上，然后烧了这座房子",
+      "remarkIdx": ["tie", "fire"]
+    },
+    {
+      "time": 226510,
+      "lyric": "Just gonna stand there and watch me burn",
+      "tlyric": "就站在那里看着我燃烧殆尽吧",
+      "remarkIdx": ["Just", "watch"]
+    },
+    {
+      "time": 231600,
+      "lyric": "Well, that's alright because I like the way it hurts",
+      "tlyric": "但是没关系，因为我爱这种伤害的方式",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 237520,
+      "lyric": "Just gonna stand there and hear me cry",
+      "tlyric": "就站在那里听着我哭泣吧",
+      "remarkIdx": ["stand there", "hear", "cry"]
+    },
+    {
+      "time": 242690,
+      "lyric": "Well, that's alright because I love the way you lie, I love the way you lie",
+      "tlyric": "没有关系，因为我爱你说谎的样子",
+      "remarkIdx": ["way"]
+    },
+    {
+      "time": 253670,
+      "lyric": "I love the way you lie",
+      "tlyric": "我喜欢你说谎的样子",
+      "remarkIdx": ["lie"]
+    }
+  ],
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 1056597,
+      "status": 99,
+      "demand": 1,
+      "userid": 283187796,
+      "nickname": "骷髅与狗",
+      "uptime": 1516266710442
+    },
+    "lrc": {
+      "version": 119,
+      "lyric": "[00:00.000] 作词 : Alex Da Kid/Skylar Grey/Eminem\n[00:00.100] 作曲 : Marshall Mathers/Alexander Grant/Holly Hafermann\n[00:00.200] 制作人 : Alex Da Kid/Makeba Riddick\n[00:00.300]Just gonna stand there and watch me burn\n[00:05.350]Well, that's alright because I like the way it hurts\n[00:11.230]Just gonna stand there and hear me cry\n[00:16.260]Well, that's alright because I love the way you lie, I love the way you lie\n[00:25.130]I can't tell you what it really is\n[00:26.890]I can only tell you what it feels like\n[00:28.930]And right now, it's a steel knife in my windpipe\n[00:31.550]I can't breathe, but I still fight while I can fight\n[00:34.440]As long as the wrong feels right it's like I'm in flight\n[00:37.440]High off her love, drunk from my hate\n[00:39.220]It's like I'm huffing paint and I love her, the more I suffer, I suffocate\n[00:42.770]And right before I'm about to drown, she resuscitates me\n[00:46.000]She ******* hates me and I love it\n[00:47.850]Wait! Where you going? I'm leaving you\n[00:50.260]No you ain't, come back, we're running right back\n[00:52.850]Here we go again\n[00:53.790]It's so insane 'cause when it's going good, it's going great\n[00:56.530]I'm Superman with the wind at his back\n[00:58.490]She's Lois Lane, but when it's bad, it's awful, I feel so ashamed, I snapped\n[01:02.640]Who's that dude? I don't even know his name\n[01:04.800]I laid hands on her, I'll never stoop so low again\n[01:07.500]I guess I don't know my own strength\n[01:09.490]Just gonna stand there and watch me burn\n[01:14.200]Well, that's alright because I like the way it hurts\n[01:20.500]Just gonna stand there and hear me cry\n[01:25.290]Well, that's alright because I love the way you lie, I love the way you lie, I love the way you lie\n[01:42.800]You ever love somebody so much, you can barely breathe\n[01:45.320]When you're with them\n[01:46.050]You meet, and neither one of you even know what hit 'em\n[01:48.540]Got that warm, fuzzy feeling\n[01:50.090]Yeah, them chills, used to get 'em\n[01:51.360]Now you're getting ******* sick of looking at 'em\n[01:53.730]You swore you'd never hit 'em, never do nothing to hurt 'em\n[01:56.370]Now you're in each other's face, spewing venom in your words when you spit 'em\n[02:00.000]You push, pull each other's hair, scratch, claw, bit 'em\n[02:02.440]Throw 'em down, pin 'em\n[02:03.370]So lost in the moments when you're in 'em\n[02:05.260]It's a rage that's the culprit, it controls you both\n[02:07.580]So they say you're best to go your separate ways\n[02:09.730]Guess that they don't know ya 'cause today, that was yesterday\n[02:12.320]Yesterday is over, it's a different day\n[02:14.430]Sound like broken records playing over, but you promised her\n[02:17.180]Next time, you'll show restraint\n[02:18.740]You don't get another chance\n[02:19.920]Life is no Nintendo game\n[02:21.450]But you lied again\n[02:22.430]Now you get to watch her leave out the window\n[02:24.500]Guess that's why they call it window pane\n[02:26.650]Just gonna stand there and watch me burn\n[02:31.440]Well, that's alright because I like the way it hurts\n[02:37.690]Just gonna stand there and hear me cry\n[02:42.520]Well, that's alright because I love the way you lie, I love the way you lie, I love the way you lie\n[03:00.130]Now, I know we said things did things that we didn't mean\n[03:03.150]And we fall back into the same patterns, same routine\n[03:06.420]But your temper's just as bad as mine is\n[03:07.940]You're the same as me\n[03:09.000]When it comes to love, you're just as blinded\n[03:11.020]Baby, please, come back\n[03:12.270]It wasn't you, baby, it was me\n[03:14.110]Maybe our relationship isn't as crazy as it seems\n[03:16.820]Maybe that's what happens when a tornado meets a volcano\n[03:19.910]All I know is I love you too much to walk away though\n[03:22.910]Come inside, pick up your bags off the sidewalk\n[03:25.500]Don't you hear sincerity in my voice when I talk\n[03:28.180]Told you this is my fault\n[03:29.470]Look me in the eyeball\n[03:30.880]Next time I'm pissed, I'll aim my fist at the dry wall\n[03:33.780]Next time, there will be no next time\n[03:35.850]I apologize, even though I know it's lies\n[03:38.580]I'm tired of the games, I just want her back\n[03:40.710]I know I'm a liar\n[03:41.830]If she ever tries to ******* leave again\n[03:43.780]I'ma tie her to the bed and set this house on fire\n[03:46.510]Just gonna stand there and watch me burn\n[03:51.600]Well, that's alright because I like the way it hurts\n[03:57.520]Just gonna stand there and hear me cry\n[04:02.690]Well, that's alright because I love the way you lie, I love the way you lie\n[04:13.670]I love the way you lie\n"
+    },
+    "tlyric": {
+      "version": 25,
+      "lyric": "[00:00.300]静静看着我烧尽吧\n[00:05.350]没关系，我喜欢这伤痛\n[00:11.230]静静听着我抽泣吧\n[00:16.260]没关系，我喜欢你说谎的样子\n[00:25.130]我说不出这心情\n[00:26.890]只吐得出这感觉\n[00:28.930]就现在喉头刺痛，张弛不得\n[00:31.550]近乎窒息，但我还能站起来\n[00:34.440]只要这剧痛不止，便如钢刀悉数落来\n[00:37.440]以恨浇仇，昏天黑地\n[00:39.220]这爱罪恶，越深入，越无法回头\n[00:42.770]在我如此狼狈的前一秒，她还让我站在黄金时代\n[00:46.000]我还犯贱地爱着她，她还他的恨我\n[00:47.850]“等等！你要去哪”“永远不见”\n[00:50.260]“别，别这样，我错了”\n[00:52.850]你一次次这样折磨我\n[00:53.790]这难以置信，当我们和好，便似天堂\n[00:56.530]我像超人般飞在空中\n[00:58.490]你就是Lois Lane（超人女友）\n[01:02.640]“那男的是谁，我连他名字都不知道”\n[01:04.800]我用我的手打了她，我再也不会做那种事\n[01:07.500]但我也不知道我究竟有多狠\n[01:09.490]静静看着我烧尽吧\n[01:14.200]没关系，我喜欢这伤痛\n[01:20.500]静静听着我抽泣吧\n[01:25.290]没关系，我喜欢你说谎的样子\n[01:42.800]从没经历这么刻骨的爱，超过窒息之痛\n[01:45.320]当你爱着她时\n[01:46.050]你就会见到你从没见过的东西\n[01:48.540]这模糊而温暖的暧昧\n[01:50.090]就是它们不断吸引着你\n[01:51.360]但现在看到就想吐\n[01:53.730]你发誓让着他，爱着他\n[01:56.370]但现在，恨不得吐出有毒的酸液把他化成血脓\n[02:00.000]扯着头发，抓着脸\n[02:02.440]摔东西，更甚至用针刺\n[02:03.370]当你这么做时，你已经疯了\n[02:05.260]怒火已经完全控制了你\n[02:07.580]所以旁人建议你们分开冷静下\n[02:09.730]他们是不是不知道你今天又这样疯狂\n[02:12.320]昨天已经过去，今天不再是过去\n[02:14.430]滥调陈词，但你向她承诺过\n[02:17.180]下次你会克制\n[02:18.740]你们不给彼此机会\n[02:19.920]生活不是任天堂游戏\n[02:21.450]你为什么一次次食言\n[02:22.430]现在你只得透过窗子看她离去\n[02:24.500]怕这便是“窗伤”吧（pain在英文中与玻璃板(pane)谐音）\n[02:26.650]静静看着我烧尽吧\n[02:31.440]没关系，我喜欢这伤痛\n[02:37.690]静静听着我抽泣吧\n[02:42.520]没关系，我喜欢你说谎的样子\n[03:00.130]现在我知道无心究竟能引起多少连锁反应\n[03:03.150]我们再次扭打再次争吵\n[03:06.420]我们互不相让\n[03:07.940]你和我简直一模一样\n[03:09.000]但在爱情方面，你却盲目\n[03:11.020]回来吧，  宝贝\n[03:12.270]我的错，你是对的，宝贝\n[03:14.110]也许还不到这一步\n[03:16.820]也许只是糟到火山遇上龙卷风般\n[03:19.910]我知道我离不开你\n[03:22.910]回来吧，把你的行李提回来吧\n[03:25.500]你听不到我的真诚吗？\n[03:28.180]我说了这是我的错\n[03:29.470]看着我\n[03:30.880]下次我的怒火，会让这拳头砸在墙上\n[03:33.780]下次？不会再有下次\n[03:35.850]我向你道歉，我知道这是谎言\n[03:38.580]我不想再这样了，我只想让她回来\n[03:40.710]我知道我是个骗子\n[03:41.830]如果她他的再试着跑\n[03:43.780]我就把她拴在床上，然后烧了这房子\n[03:46.510]静静看着我烧尽吧\n[03:51.600]没关系，我喜欢这伤痛\n[03:57.520]静静听着我抽泣吧\n[04:02.690]没关系，我喜欢你说谎的样子\n[04:13.670]我喜欢你说谎的样子"
+    },
+    "code": 200
+  },
+  "code": 200
+}

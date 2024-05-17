@@ -1,0 +1,384 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Remember Me",
+      "tlyric": "请记住我",
+      "singer": "Miguel / Natalia Lafourcade",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 30,
+      "lyric": "Remember me",
+      "tlyric": "请记住我吧",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 3060,
+      "lyric": "Though I have to say goodbye",
+      "tlyric": "虽然我要说再见了",
+      "remarkIdx": ["Though", "have to", "goodbye"]
+    },
+    {
+      "time": 6017,
+      "lyric": "Remember me",
+      "tlyric": "记住我",
+      "remarkIdx": ["remember", "me"]
+    },
+    {
+      "time": 9040,
+      "lyric": "Don't let it make you cry",
+      "tlyric": "希望你别哭泣",
+      "remarkIdx": ["let", "cry"]
+    },
+    {
+      "time": 12040,
+      "lyric": "For even if I'm far away",
+      "tlyric": "就算我远行",
+      "remarkIdx": ["even if", "far"]
+    },
+    {
+      "time": 15010,
+      "lyric": "I hold you in my heart",
+      "tlyric": "我也将你放在心里",
+      "remarkIdx": ["hold"]
+    },
+    {
+      "time": 18000,
+      "lyric": "I sing a secret song to you",
+      "tlyric": "我都要唱一首秘密给你听",
+      "remarkIdx": ["sing", "secret"]
+    },
+    {
+      "time": 20078,
+      "lyric": "Each night we are apart",
+      "tlyric": "每个分开的夜晚",
+      "remarkIdx": ["night", "apart"]
+    },
+    {
+      "time": 22090,
+      "lyric": "Remember me",
+      "tlyric": "记住我",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 26013,
+      "lyric": "Though I have to travel far",
+      "tlyric": "虽然我要远行",
+      "remarkIdx": ["travel"]
+    },
+    {
+      "time": 28054,
+      "lyric": "Remember me",
+      "tlyric": "记住我",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 31042,
+      "lyric": "Each time you hear a sad guitar",
+      "tlyric": "每当你听见悲伤的吉他声",
+      "remarkIdx": ["hear", "sad", "guitar"]
+    },
+    {
+      "time": 34087,
+      "lyric": "Know that I'm with you",
+      "tlyric": "要知道是我与你在一起",
+      "remarkIdx": ["Know", "with"]
+    },
+    {
+      "time": 36087,
+      "lyric": "The only way that I can be",
+      "tlyric": "那是我能做的唯一方式",
+      "remarkIdx": ["can", "can be"]
+    },
+    {
+      "time": 40046,
+      "lyric": "Until you're in my arms again",
+      "tlyric": "直在你回到我的怀抱之前",
+      "remarkIdx": ["Until", "arm"]
+    },
+    {
+      "time": 45034,
+      "lyric": "Remember me",
+      "tlyric": "记住我",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 46078,
+      "lyric": "Que nuestra canción no deje de latir",
+      "tlyric": "我们的旋律不会停止（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 49052,
+      "lyric": "Solo con tu amor yo puedo existir",
+      "tlyric": "我也因你的爱而存在（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 51013,
+      "lyric": "Recuérdame",
+      "tlyric": "记住我（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 52035,
+      "lyric": "Que nuestra canción no deje de latir",
+      "tlyric": "我们的旋律不会停止（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 55019,
+      "lyric": "Solo con tu amor yo puedo existir",
+      "tlyric": "我也因你的爱而存在（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 56079,
+      "lyric": "Recuérdame",
+      "tlyric": "请记住我吧（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 59069,
+      "lyric": "Si en tu mente vivo estoy",
+      "tlyric": "将我记在你脑海里（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 62020,
+      "lyric": "Recuérdame",
+      "tlyric": "记住我（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 65050,
+      "lyric": "Mis sueños yo te doy",
+      "tlyric": "给予你我的梦境（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 68057,
+      "lyric": "Te llevo en mi corazon",
+      "tlyric": "将你带进我心里（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 71034,
+      "lyric": "Y te acompañaré",
+      "tlyric": "我会一直陪伴你（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 74016,
+      "lyric": "Unidos en nuestra canción",
+      "tlyric": "在我们的歌声里（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 76098,
+      "lyric": "Contigo ahí estaré",
+      "tlyric": "我会一直和你在一起（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 79010,
+      "lyric": "Recuérdame",
+      "tlyric": "记住我（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 82044,
+      "lyric": "Si sola crees estar",
+      "tlyric": "若你相信它的存在（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 84072,
+      "lyric": "Recuérdame",
+      "tlyric": "记住我（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 87066,
+      "lyric": "Y mi cantarte irá a abrazar",
+      "tlyric": "我的歌声将你环绕（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 91000,
+      "lyric": "Aun en la distancia",
+      "tlyric": "虽然距离遥远（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 93037,
+      "lyric": "Nunca vayas a olvidar",
+      "tlyric": "但也永远别忘记（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 96064,
+      "lyric": "Que yo contigo siempre voy",
+      "tlyric": "我会一直和你在一起（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 101048,
+      "lyric": "Recuérdame",
+      "tlyric": "记住我吧（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 102090,
+      "lyric": "If you close your eyes and let the music play",
+      "tlyric": "若你闭上眼睛让音乐响起",
+      "remarkIdx": ["close"]
+    },
+    {
+      "time": 105077,
+      "lyric": "Keep our love alive, I'll never fade away",
+      "tlyric": "让爱继续，我将永不离去",
+      "remarkIdx": ["Keep", "alive"]
+    },
+    {
+      "time": 108061,
+      "lyric": "If you close your eyes and let the music play",
+      "tlyric": "若你闭上眼睛让音乐响起",
+      "remarkIdx": ["eye", "music"]
+    },
+    {
+      "time": 111037,
+      "lyric": "Keep our love alive, I'll never fade away",
+      "tlyric": "让爱继续，我将永不离去",
+      "remarkIdx": ["fade"]
+    },
+    {
+      "time": 114014,
+      "lyric": "If you close your eyes and let the music play",
+      "tlyric": "若你闭上眼睛让音乐响起",
+      "remarkIdx": ["play"]
+    },
+    {
+      "time": 117003,
+      "lyric": "Keep our love alive, I'll never fade away",
+      "tlyric": "让爱继续 我将永不离去",
+      "remarkIdx": ["away"]
+    },
+    {
+      "time": 124029,
+      "lyric": "Remember me",
+      "tlyric": "记住我",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 127030,
+      "lyric": "For I will soon be gone",
+      "tlyric": "因为我即将离开",
+      "remarkIdx": ["soon", "gone"]
+    },
+    {
+      "time": 129073,
+      "lyric": "Remember me",
+      "tlyric": "记住我",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 132062,
+      "lyric": "And let the love we have live on",
+      "tlyric": "让我们的爱继续存在下去",
+      "remarkIdx": ["live"]
+    },
+    {
+      "time": 135098,
+      "lyric": "And know that I'm with you",
+      "tlyric": "要知道是我与你在一起",
+      "remarkIdx": ["know", "with"]
+    },
+    {
+      "time": 138011,
+      "lyric": "The only way that I can be",
+      "tlyric": "那是我存在的唯一方式",
+      "remarkIdx": ["only"]
+    },
+    {
+      "time": 141060,
+      "lyric": "So, until you're in my arms again",
+      "tlyric": "所以，在你重新回到我怀抱之前",
+      "remarkIdx": ["Until", "arm"]
+    },
+    {
+      "time": 146053,
+      "lyric": "Remember me",
+      "tlyric": "记住我",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 147096,
+      "lyric": "Que nuestra canción no deje de latir",
+      "tlyric": "我们的旋律不会停止（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 150076,
+      "lyric": "Solo con tu amor yo puedo existir",
+      "tlyric": "我也因你的爱而存在（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 152040,
+      "lyric": "Remember me",
+      "tlyric": "记住我",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 153058,
+      "lyric": "Que nuestra cancón no deje de latir",
+      "tlyric": "我们的旋律不会停止（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 156035,
+      "lyric": "Solo con tu amor yo puedo existir",
+      "tlyric": "我也因你的爱而存在（西班牙语）",
+      "remarkIdx": ["Remember", "me"]
+    },
+    {
+      "time": 157086,
+      "lyric": "Remember me",
+      "tlyric": "请记住我吧",
+      "remarkIdx": ["Remember", "me"]
+    }
+  ],
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 3247439,
+      "status": 99,
+      "demand": 1,
+      "userid": 115639119,
+      "nickname": "摇了我快滚吧",
+      "uptime": 1510185167852
+    },
+    "lyricUser": {
+      "id": 3247436,
+      "status": 99,
+      "demand": 0,
+      "userid": 271763915,
+      "nickname": "bpoq",
+      "uptime": 1510185167852
+    },
+    "lrc": {
+      "version": 15,
+      "lyric": "[00:00.00] 作词 : Robert Lopez/Kristen Anderson-Lopez\n[00:00.15] 作曲 : Robert Lopez/Kristen Anderson-Lopez\n[00:00.30]Remember me\n[00:03.60]Though I have to say goodbye\n[00:06.17]Remember me\n[00:09.40]Don't let it make you cry\n[00:12.40]For even if I'm far away\n[00:15.10]I hold you in my heart\n[00:18.00]I sing a secret song to you\n[00:20.78]Each night we are apart\n[00:22.90]Remember me\n[00:26.13]Though I have to travel far\n[00:28.54]Remember me\n[00:31.42]Each time you hear a sad guitar\n[00:34.87]Know that I'm with you\n[00:36.87]The only way that I can be\n[00:40.46]Until you're in my arms again\n[00:45.34]Remember me\n[00:46.78]Que nuestra canción no deje de latir\n[00:49.52]Solo con tu amor yo puedo existir\n[00:51.13]Recuérdame\n[00:52.35]Que nuestra canción no deje de latir\n[00:55.19]Solo con tu amor yo puedo existir\n[00:56.79]Recuérdame\n[00:59.69]Si en tu mente vivo estoy\n[01:02.20]Recuérdame\n[01:05.50]Mis sueños yo te doy\n[01:08.57]Te llevo en mi corazon\n[01:11.34]Y te acompañaré\n[01:14.16]Unidos en nuestra canción\n[01:16.98]Contigo ahí estaré\n[01:19.10]Recuérdame\n[01:22.44]Si sola crees estar\n[01:24.72]Recuérdame\n[01:27.66]Y mi cantarte irá a abrazar\n[01:31.00]Aun en la distancia\n[01:33.37]Nunca vayas a olvidar\n[01:36.64]Que yo contigo siempre voy\n[01:41.48]Recuérdame\n[01:42.90]If you close your eyes and let the music play\n[01:45.77]Keep our love alive, I'll never fade away\n[01:48.61]If you close your eyes and let the music play\n[01:51.37]Keep our love alive, I'll never fade away\n[01:54.14]If you close your eyes and let the music play\n[01:57.03]Keep our love alive, I'll never fade away\n[02:04.29]Remember me\n[02:07.30]For I will soon be gone\n[02:09.73]Remember me\n[02:12.62]And let the love we have live on\n[02:15.98]And know that I'm with you\n[02:18.11]The only way that I can be\n[02:21.60]So, until you're in my arms again\n[02:26.53]Remember me\n[02:27.96]Que nuestra canción no deje de latir\n[02:30.76]Solo con tu amor yo puedo existir\n[02:32.40]Remember me\n[02:33.58]Que nuestra cancón no deje de latir\n[02:36.35]Solo con tu amor yo puedo existir\n[02:37.86]Remember me\n"
+    },
+    "tlyric": {
+      "version": 6,
+      "lyric": "[by:最后被自己作死的凹凸曼]\n[00:00.30]请记住我吧\n[00:03.60]虽然我要说再见了\n[00:06.17]记住我\n[00:09.40]希望你别哭泣\n[00:12.40]就算我远行\n[00:15.10]我也将你放在心里\n[00:18.00]我都要唱一首秘密给你听\n[00:20.78]每个分开的夜晚\n[00:22.90]记住我\n[00:26.13]虽然我要远行\n[00:28.54]记住我\n[00:31.42]每当你听见悲伤的吉他声\n[00:34.87]要知道是我与你在一起\n[00:36.87]那是我能做的唯一方式\n[00:40.46]直在你回到我的怀抱之前\n[00:45.34]记住我\n[00:46.78]我们的旋律不会停止\n[00:49.52]我也因你的爱而存在\n[00:51.13]记住我\n[00:52.35]我们的旋律不会停止\n[00:55.19]我也因你的爱而存在\n[00:56.79]请记住我吧\n[00:59.69]将我记在你脑海里\n[01:02.20]记住我\n[01:05.50]给予你我的梦境\n[01:08.57]将你带进我心里\n[01:11.34]我会一直陪伴你\n[01:14.16]在我们的歌声里\n[01:16.98]我会一直和你在一起\n[01:19.10]记住我\n[01:22.44]若你相信它的存在\n[01:24.72]记住我\n[01:27.66]我的歌声将你环绕\n[01:31.00]虽然距离遥远\n[01:33.37]但也永远别忘记\n[01:36.64]我会一直和你在一起\n[01:41.48]记住我吧\n[01:42.90]若你闭上眼睛让音乐响起\n[01:45.77]让爱继续 我将永不离去\n[01:48.61]若你闭上眼睛让音乐响起\n[01:51.37]让爱继续 我将永不离去\n[01:54.14]若你闭上眼睛让音乐响起\n[01:57.03]让爱继续 我将永不离去\n[02:04.29]记住我\n[02:07.30]因为我即将离开\n[02:09.73]记住我\n[02:12.62]让我们的爱继续存在下去\n[02:15.98]要知道是我与你在一起\n[02:18.11]在你重新回到我怀抱之前\n[02:21.60]那是我存在的唯一方式\n[02:26.53]记住我\n[02:27.96]我们的旋律不会停止\n[02:30.76]我也因你的爱而存在\n[02:32.40]记住我\n[02:33.58]我们的旋律不会停止\n[02:36.35]我也因你的爱而存在\n[02:37.86]请记住我吧"
+    },
+    "code": 200
+  },
+  "code": 200
+}

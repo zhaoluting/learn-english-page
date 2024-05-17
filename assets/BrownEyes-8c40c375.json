@@ -1,0 +1,358 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Brown Eyes",
+      "tlyric": "褐色眼眸",
+      "singer": "Destiny's Child（天命真女）",
+      "remarkIdx": ["brown", "eye"]
+    },
+    {
+      "time": 17120,
+      "lyric": "Remember the first day when I saw your face?",
+      "tlyric": "还记得第一次见你的那一天",
+      "remarkIdx": ["see", "face"]
+    },
+    {
+      "time": 21250,
+      "lyric": "Remember the first day when you smiled at me?",
+      "tlyric": "还记得第一次你对我微笑的那一天",
+      "remarkIdx": ["remember", "smile"]
+    },
+    {
+      "time": 25550,
+      "lyric": "You stepped to me and then you said to me",
+      "tlyric": "你走过来对我说",
+      "remarkIdx": ["step", "say"]
+    },
+    {
+      "time": 28910,
+      "lyric": "I was the woman you dreamed about",
+      "tlyric": "我就是那个你梦寐以求的女人",
+      "remarkIdx": ["woman", "dream"]
+    },
+    {
+      "time": 33670,
+      "lyric": "Remember the first day when you called my house?",
+      "tlyric": "还记得第一次你打电话到我家的那一天",
+      "remarkIdx": ["day", "call"]
+    },
+    {
+      "time": 37800,
+      "lyric": "Remember the first day when you took me out?",
+      "tlyric": "还记得第一次你带我出去的那一天",
+      "remarkIdx": ["take", "take out"]
+    },
+    {
+      "time": 41620,
+      "lyric": "We had butterflies, although we tried to hide",
+      "tlyric": "尽管我们尽力掩饰，但看上去还是很紧张",
+      "remarkIdx": ["butterfly", "have butterflies"]
+    },
+    {
+      "time": 45860,
+      "lyric": "And we both had a beautiful night",
+      "tlyric": "我们都度过了美妙的夜晚",
+      "remarkIdx": ["beautiful", "night"]
+    },
+    {
+      "time": 50180,
+      "lyric": "The way we held each other's hand",
+      "tlyric": "我们牵手的样子",
+      "remarkIdx": ["hold", "each other"]
+    },
+    {
+      "time": 54110,
+      "lyric": "The way we talked, the way we laughed",
+      "tlyric": "我们聊天的样子，我们欢笑的样子",
+      "remarkIdx": ["way", "laugh"]
+    },
+    {
+      "time": 58300,
+      "lyric": "It felt so good to find true love",
+      "tlyric": "遇到真爱的感觉真得很好",
+      "remarkIdx": ["feel", "find"]
+    },
+    {
+      "time": 62560,
+      "lyric": "I knew right then and there you were the one",
+      "tlyric": "我当时就知道你就是我的唯一",
+      "remarkIdx": ["know", "then and there"]
+    },
+    {
+      "time": 66750,
+      "lyric": "I know that he loves me 'cause he told me so",
+      "tlyric": "我知道他爱我，因为他就是这么告诉我",
+      "remarkIdx": ["love", "tell"]
+    },
+    {
+      "time": 70800,
+      "lyric": "I know that he loves me 'cause his feelings show",
+      "tlyric": "我知道他爱我，因为他的感情就是这么流露",
+      "remarkIdx": ["'cause", "show"]
+    },
+    {
+      "time": 74940,
+      "lyric": "When he stares at me, you see that he cares for me",
+      "tlyric": "当他注视着我，你会发现他很在乎我",
+      "remarkIdx": ["stare", "care"]
+    },
+    {
+      "time": 78640,
+      "lyric": "You see how he is so deep in love",
+      "tlyric": "你能感觉到他正陷入热恋",
+      "remarkIdx": ["deep", "love"]
+    },
+    {
+      "time": 83050,
+      "lyric": "I know that he loves me 'cause it's obvious",
+      "tlyric": "我知道他爱我，因为太显而易见",
+      "remarkIdx": ["'cause", "obvious"]
+    },
+    {
+      "time": 87370,
+      "lyric": "I know that he loves me 'cause it's me he trusts",
+      "tlyric": "我知道他爱我，因为他信任我",
+      "remarkIdx": ["love", "trust"]
+    },
+    {
+      "time": 91500,
+      "lyric": "And he's missing me if he's not kissing me",
+      "tlyric": "并且他不亲吻我，他会一直想念我",
+      "remarkIdx": ["miss", "kiss"]
+    },
+    {
+      "time": 95120,
+      "lyric": "And when he looks at me, his brown eyes tell his soul",
+      "tlyric": "当他注视我时，他的褐色眼眸告诉了我一切",
+      "remarkIdx": ["tell", "soul"]
+    },
+    {
+      "time": 108190,
+      "lyric": "Remember the first day, the first day we kissed?",
+      "tlyric": "还记得那一天，我们第一次亲吻",
+      "remarkIdx": ["remember", "kiss"]
+    },
+    {
+      "time": 112060,
+      "lyric": "Remember the first day we had an argument?",
+      "tlyric": "还记得那一天，我们第一次争吵",
+      "remarkIdx": ["day", "argument"]
+    },
+    {
+      "time": 115750,
+      "lyric": "We apologized and then we compromised",
+      "tlyric": "我们相互道歉，相互妥协",
+      "remarkIdx": ["apologize", "compromise"]
+    },
+    {
+      "time": 120270,
+      "lyric": "And we haven't argued since",
+      "tlyric": "从那以后，我们再也没有争吵过",
+      "remarkIdx": ["argue"]
+    },
+    {
+      "time": 124580,
+      "lyric": "Remember the first day we stopped playing games?",
+      "tlyric": "还记得那一天，我们停止玩恋爱游戏",
+      "remarkIdx": ["play", "game"]
+    },
+    {
+      "time": 128770,
+      "lyric": "Remember the first day you fell in love with me?",
+      "tlyric": "还记得那一天，你和我坠入爱河",
+      "remarkIdx": ["fell", "fall"]
+    },
+    {
+      "time": 132960,
+      "lyric": "It felt so good for you to say those words",
+      "tlyric": "当你说那些话时，我非常高兴",
+      "remarkIdx": ["say", "word"]
+    },
+    {
+      "time": 136840,
+      "lyric": "'Cause I felt the same way too",
+      "tlyric": "因为我对你也有同样的感受",
+      "remarkIdx": ["same", "way"]
+    },
+    {
+      "time": 141100,
+      "lyric": "The way we held each other's hand",
+      "tlyric": "我们牵手的样子",
+      "remarkIdx": ["each other", "hand"]
+    },
+    {
+      "time": 145110,
+      "lyric": "The way we talked, the way we laughed",
+      "tlyric": "我们聊天的样子，我们欢笑的样子",
+      "remarkIdx": ["talk"]
+    },
+    {
+      "time": 149420,
+      "lyric": "It felt so good to fall in love",
+      "tlyric": "遇到真爱的感觉真得很好",
+      "remarkIdx": ["so", "good"]
+    },
+    {
+      "time": 153300,
+      "lyric": "And I knew right then and there you were the one",
+      "tlyric": "我当时就知道你就是我的唯一",
+      "remarkIdx": ["right", "then and there"]
+    },
+    {
+      "time": 157980,
+      "lyric": "I know that he loves me 'cause he told me so",
+      "tlyric": "我知道他爱我，因为他就是这么告诉我",
+      "remarkIdx": ["love", "tell"]
+    },
+    {
+      "time": 161990,
+      "lyric": "I know that he loves me 'cause his feelings show",
+      "tlyric": "我知道他爱我，因为他的感情就是这么流露",
+      "remarkIdx": ["feeling", "show"]
+    },
+    {
+      "time": 166120,
+      "lyric": "When he stares at me you see that he cares for me",
+      "tlyric": "当他注视着我，你会发现他很在乎我",
+      "remarkIdx": ["stare", "care"]
+    },
+    {
+      "time": 169840,
+      "lyric": "You see how he is so deep in love",
+      "tlyric": "你能感觉到他正陷入热恋",
+      "remarkIdx": ["see", "so"]
+    },
+    {
+      "time": 174280,
+      "lyric": "I know that he loves me 'cause it's obvious",
+      "tlyric": "我知道他爱我，因为太显而易见",
+      "remarkIdx": ["love", "obvious"]
+    },
+    {
+      "time": 178510,
+      "lyric": "I know that he loves me 'cause it's me he trusts",
+      "tlyric": "我知道他爱我，因为他信任我",
+      "remarkIdx": ["'cause", "trust"]
+    },
+    {
+      "time": 182760,
+      "lyric": "And he's missing me if he's not kissing me",
+      "tlyric": "并且他不亲吻我，他会一直想念我",
+      "remarkIdx": ["miss", "kiss"]
+    },
+    {
+      "time": 186390,
+      "lyric": "And when he looks at me his brown eyes tell his soul",
+      "tlyric": "当他注视我时，他的褐色眼眸告诉了我一切",
+      "remarkIdx": ["look"]
+    },
+    {
+      "time": 194580,
+      "lyric": "I'm so happy, so happy that you're in my life",
+      "tlyric": "我很高兴，真的很高兴能够在人生中遇到你",
+      "remarkIdx": ["happy", "life"]
+    },
+    {
+      "time": 199350,
+      "lyric": "And baby, now that you're a part of me",
+      "tlyric": "宝贝，现在你是我的一部分",
+      "remarkIdx": ["baby", "part"]
+    },
+    {
+      "time": 203570,
+      "lyric": "You showed me",
+      "tlyric": "你已经向我展现",
+      "remarkIdx": ["show"]
+    },
+    {
+      "time": 205760,
+      "lyric": "Showed me the true meaning of the love",
+      "tlyric": "向我展现真爱的意义",
+      "remarkIdx": ["true", "meaning"]
+    },
+    {
+      "time": 210780,
+      "lyric": "And I know he loves me",
+      "tlyric": "我知道他爱我",
+      "remarkIdx": ["know", "love"]
+    },
+    {
+      "time": 213970,
+      "lyric": "I know that he loves me 'cause he told me so",
+      "tlyric": "我知道他爱我，因为他就是这么告诉我",
+      "remarkIdx": ["love", "tell"]
+    },
+    {
+      "time": 218100,
+      "lyric": "I know that he loves me 'cause his feelings show",
+      "tlyric": "我知道他爱我，因为他的感情就是这么流露",
+      "remarkIdx": ["feel", "feeling"]
+    },
+    {
+      "time": 221970,
+      "lyric": "when he stares at me you see that he cares for me",
+      "tlyric": "当他注视着我，你会发现他很在乎我",
+      "remarkIdx": ["stare", "care"]
+    },
+    {
+      "time": 225720,
+      "lyric": "You see how he is so deep in love",
+      "tlyric": "你能感觉到他正陷入热恋",
+      "remarkIdx": ["deep", "love"]
+    },
+    {
+      "time": 230290,
+      "lyric": "I know that he loves me 'cause it's obvious",
+      "tlyric": "我知道他爱我，因为太显而易见",
+      "remarkIdx": ["'cause", "obvious"]
+    },
+    {
+      "time": 234410,
+      "lyric": "I know that he loves me 'cause it's me he trusts",
+      "tlyric": "我知道他爱我，因为他信任我",
+      "remarkIdx": ["love", "trust"]
+    },
+    {
+      "time": 238410,
+      "lyric": "And he's missing me if he's not kissing me",
+      "tlyric": "并且他不亲吻我，他会一直想念我",
+      "remarkIdx": ["miss", "kiss"]
+    },
+    {
+      "time": 242230,
+      "lyric": "And when he looks at me his brown eyes tell his soul",
+      "tlyric": "当他注视我时，他的褐色眼眸告诉了我一切",
+      "remarkIdx": ["brown", "eye"]
+    },
+    {
+      "time": 251190,
+      "lyric": "He looks at me and his brown eyes tell his soul",
+      "tlyric": "他注视着我时，褐色眼眸告诉了我一切",
+      "remarkIdx": ["tell", "soul"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 1174076,
+      "status": 99,
+      "demand": 1,
+      "userid": 0,
+      "nickname": "非洲-love",
+      "uptime": 1432866152023
+    },
+    "lrc": {
+      "version": 18,
+      "lyric": "[00:00.000] 作词 : Beyoncé Knowles/Walter Afanasieff\n[00:01.000] 作曲 : Beyoncé Knowles/Walter Afanasieff\n[00:17.120]Remember the first day when I saw your face\n[00:21.250]Remember the first day when you smiled at me\n[00:25.550]You stepped to me and then you said to me\n[00:28.910]I was the woman you dreamed about\n[00:33.670]Remember the first day when you called my house\n[00:37.800]Remember the first day when you took me out\n[00:41.620]We had butterflies although we tried to hide\n[00:45.860]and we both had a beautiful night\n[00:50.180]The way we held each other's hand\n[00:54.110]the way we talked the way we laughed\n[00:58.300]It felt so good to find true love\n[01:02.560]I knew right then and there you were the one\n[01:06.750]I know that he loves me cause he told me so\n[01:10.800]I know that he loves me cause his feelings show\n[01:14.940]When he stares at me you see that he cares for me\n[01:18.640]You see how he is so deep in love\n[01:23.050]I know that he loves me cause it's obvious\n[01:27.370]I know that he loves me cause it's me he trusts\n[01:31.500]and he's missing me if he's not kissing me\n[01:35.120]and when he looks at me his brown eyes tell his soul\n[01:48.190]Remember the first day, the first day we kissed\n[01:52.060]Remember the first day we had an argument\n[01:55.750]We apologized and then we compromised\n[02:00.270]and we haven't argued since\n[02:04.580]Remember the first day we stopped playing games\n[02:08.770]Remember the first day you fell in love with me\n[02:12.960]It felt so good for you to say those words\n[02:16.840]cause I felt the same way too\n[02:21.100]The way we held each other's hand\n[02:25.110]the way we talked the way we laughed\n[02:29.420]it felt so good to fall in love\n[02:33.300]and I knew right then and there you were the one\n[02:37.980]I know that he loves me cause he told me so\n[02:42.990]I know that he loves me cause his feelings show\n[02:47.120]when he stares at me you see that he cares for me\n[02:50.840]you see how he is so deep in love\n[02:55.280]I know that he loves me cause it's obvious\n[02:59.510]I know that he loves me cause it's me he trusts\n[03:03.760]and he's missing me if he's not kissing me\n[03:07.390]and when he looks at me his brown eyes tell his soul\n[03:15.580]I'm so happy so happy that you're in my life\n[03:20.350]and baby now that you're a part of me\n[03:24.570]you showed me\n[03:26.760]showed me the true meaning of the love\n[03:31.780]and I know he loves me\n[03:34.970]I know that he loves me cause he told me so\n[03:39.100]I know that he loves me cause his feelings show\n[03:42.970]when he stares at me you see that he cares for me\n[03:46.720]you see how he is so deep in love\n[03:51.290]I know that he loves me cause it's obvious\n[03:55.410]I know that he loves me cause it's me he trusts\n[03:59.410]and he's missing me if he's not kissing me\n[04:03.230]and when he looks at me his brown eyes tell his soul\n[04:12.190]He looks at me and his brown eyes tell his soul\n"
+    },
+    "tlyric": {
+      "version": 7,
+      "lyric": "[by:非洲-love]\n[00:17.120]还记得第一次见你的那天\n[00:21.250]还记得第一次你对我微笑的那天\n[00:25.550]你走过来对我说\n[00:28.910]我就是那个你梦寐以求的女孩\n[00:33.670]还记得第一次你拜访我家的那天\n[00:37.800]还记得第一次你带我出去的那天\n[00:41.620]我们都很紧张，尽管我们都尝试掩饰它\n[00:45.860]我们俩都度过了美妙的夜晚\n[00:50.180]我们牵手的那天\n[00:54.110]我们携手共进的那天，我们一路欢声笑语\n[00:58.300]遇到真爱的感觉真得很好\n[01:02.560]我知道你就是我一直寻找的那个人\n[01:06.750]我知道他爱我，因为他告诉了我\n[01:10.800]我知道他爱我，因为他的感觉表现出来\n[01:14.940]当他注视着我，我知道他在乎我\n[01:18.640]你能感觉到他正陷入热恋\n[01:23.050]我知道他爱我，因为这很明显\n[01:27.370]我知道他爱我，因为他信任我\n[01:31.500]并且，如果他不亲吻我他会一直想念我\n[01:35.120]当他注视我的时候，他褐色的眼睛告诉我一切\n[01:48.190]请记住那一天，我们第一次亲吻\n[01:52.060]请记住那一天，我们第一次争吵\n[01:55.750]我们相互道歉，相互妥协\n[02:00.270]从那以后，我们在没有争吵过\n[02:04.580]请记住那一天，我们都停止玩恋爱游戏\n[02:08.770]请记住那一天，你和我坠入爱河\n[02:12.960]当你说这些话的时候感觉很好\n[02:16.840]因为我也有同感\n[02:21.100]我们牵手的那天\n[02:25.110]我们携手共进的那天，我们一路欢声笑语\n[02:29.420]遇到真爱的感觉真得很好\n[02:33.300]我知道你就是我一直寻找的那个人\n[02:37.980]我知道他爱我，因为他告诉了我\n[02:42.990]我知道他爱我，因为他的感觉表现出来\n[02:47.120]当他注视着我，我知道他在乎我\n[02:50.840]你能感觉到他正陷入热恋\n[02:55.280]我知道他爱我，因为这很明显\n[02:59.510]我知道他爱我，因为他信任我\n[03:03.760]并且，如果他不亲吻我他会一直想念我\n[03:07.390]当他注视我的时候，他褐色的眼睛告诉我一切\n[03:15.580]我很高兴，高兴在我生命中遇到了你\n[03:20.350]现在，宝贝，你就是我的一部分\n[03:24.570]你已经向我展现\n[03:26.760]展现真爱的意义\n[03:31.780]我知道他爱我\n[03:34.970]我知道他爱我，因为他告诉了我\n[03:39.100]我知道他爱我，因为他的感觉表现出来\n[03:42.970]当他注视着我，我知道他在乎我\n[03:46.720]你能感觉到他正陷入热恋\n[03:51.290]我知道他爱我，因为这很明显\n[03:55.410]我知道他爱我，因为他信任我\n[03:59.410]并且，如果他不亲吻我他会一直想念我\n[04:03.230]当他注视我的时候，他褐色的眼睛告诉我一切\n[04:12.190]当他注视我的时候，他褐色的眼睛告诉我一切"
+    },
+    "code": 200
+  }
+}

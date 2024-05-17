@@ -1,0 +1,154 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "SpongeBob SquarePants Theme Song",
+      "tlyric": "海绵宝宝主题曲",
+      "singer": "Painty The Pirate and Kids",
+      "remarkIdx": ["Theme", "Song"]
+    },
+    {
+      "time": 2006,
+      "lyric": "Are you ready kids?",
+      "tlyric": "准备好了吗？孩子们？",
+      "remarkIdx": ["ready", "kids"]
+    },
+    {
+      "time": 3021,
+      "lyric": "Aye, aye, captain!",
+      "tlyric": "是的，船长",
+      "remarkIdx": ["aye", "captain"]
+    },
+    {
+      "time": 4597,
+      "lyric": "I can't hear you!",
+      "tlyric": "太小声罗",
+      "remarkIdx": ["can't", "hear"]
+    },
+    {
+      "time": 6049,
+      "lyric": "Aye, aye, captain!",
+      "tlyric": "是的，船长",
+      "remarkIdx": ["aye", "captain"]
+    },
+    {
+      "time": 8081,
+      "lyric": "Ooh",
+      "tlyric": "哦~",
+      "remarkIdx": ["Ooh"]
+    },
+    {
+      "time": 11045,
+      "lyric": "Who lives in a pineapple under the sea?",
+      "tlyric": "是谁住在深海的大菠萝里",
+      "remarkIdx": ["pineapple", "sea"]
+    },
+    {
+      "time": 13053,
+      "lyric": "SpongeBob SquarePants!",
+      "tlyric": "海绵宝宝",
+      "remarkIdx": ["sponge"]
+    },
+    {
+      "time": 15050,
+      "lyric": "Absorbent and yellow and porous is he!",
+      "tlyric": "方方黄黄伸缩自如",
+      "remarkIdx": ["Absorbent", "porous"]
+    },
+    {
+      "time": 17047,
+      "lyric": "SpongeBob SquarePants!",
+      "tlyric": "海绵宝宝",
+      "remarkIdx": ["bob"]
+    },
+    {
+      "time": 19041,
+      "lyric": "If nautical nonsense be something you wish!",
+      "tlyric": "如果四处探险是你的愿望",
+      "remarkIdx": ["nautical", "nonsense"]
+    },
+    {
+      "time": 21057,
+      "lyric": "SpongeBob SquarePants!",
+      "tlyric": "海绵宝宝",
+      "remarkIdx": ["Square"]
+    },
+    {
+      "time": 23042,
+      "lyric": "Then drop on the deck and flop like a fish!",
+      "tlyric": "那就敲敲甲板让大鱼开路",
+      "remarkIdx": ["deck", "flop"]
+    },
+    {
+      "time": 25053,
+      "lyric": "SpongeBob SquarePants!",
+      "tlyric": "海绵宝宝",
+      "remarkIdx": ["Pants"]
+    },
+    {
+      "time": 26097,
+      "lyric": "Ready?",
+      "tlyric": "准备好了吗？",
+      "remarkIdx": ["Ready"]
+    },
+    {
+      "time": 27078,
+      "lyric": "SpongeBob SquarePants,",
+      "tlyric": "海绵宝宝",
+      "remarkIdx": ["Sponge"]
+    },
+    {
+      "time": 29048,
+      "lyric": "SpongeBob SquarePants!",
+      "tlyric": "海绵宝宝",
+      "remarkIdx": ["Bob"]
+    },
+    {
+      "time": 31026,
+      "lyric": "SpongeBob SquarePants!",
+      "tlyric": "海绵宝宝",
+      "remarkIdx": ["Square"]
+    },
+    {
+      "time": 33047,
+      "lyric": "SpongeBob SquarePants!",
+      "tlyric": "海绵宝宝",
+      "remarkIdx": ["Pants"]
+    },
+    {
+      "time": 36096,
+      "lyric": "Ha, ha, ha",
+      "tlyric": "哈哈",
+      "remarkIdx": ["ha"]
+    },
+    {
+      "time": 38086,
+      "lyric": "Ha, ha, ha, ha, ha",
+      "tlyric": "哈哈哈",
+      "remarkIdx": ["ha"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 1190236,
+      "status": 99,
+      "demand": 1,
+      "userid": 13859694,
+      "nickname": "Edwine",
+      "uptime": 1430903756686
+    },
+    "lrc": {
+      "version": 11,
+      "lyric": "[00:00.00] 作词 : Mark Harrison/Derek Drymon/Stephen Hillenburg/Blaise Smith\n[00:01.00] 作曲 : Mark Harrison/Derek Drymon/Stephen Hillenburg/Blaise Smith\n[00:02.06]Are you ready kids?\n[00:03.21]Aye, aye, captain!\n[00:04.97]I can't hear you!\n[00:06.49]Aye, aye, captain!\n[00:08.81]Ooh\n[00:11.45]Who lives in a pineapple under the sea?\n[00:13.53]SpongeBob SquarePants!\n[00:15.50]Absorbent and yellow and porous is he!\n[00:17.47]SpongeBob SquarePants!\n[00:19.41]If nautical nonsense be something you wish!\n[00:21.57]SpongeBob SquarePants!\n[00:23.42]Then drop on the deck and flop like a fish!\n[00:25.53]SpongeBob SquarePants!\n[00:26.97]Ready?\n[00:27.78]SpongeBob SquarePants,\n[00:29.48]SpongeBob SquarePants!\n[00:31.26]SpongeBob SquarePants!\n[00:33.47]SpongeBob SquarePants!\n[00:36.96]Ha, ha, ha\n[00:38.86]Ha, ha, ha, ha, ha\n"
+    },
+    "tlyric": {
+      "version": 2,
+      "lyric": "[by:Edwine]\n[00:02.06]准备好了吗？孩子们？\n[00:03.21]是的，船长\n[00:04.97]太小声罗\n[00:06.49]是的，船长\n[00:08.81]哦~\n[00:11.45]是谁住在深海的大菠萝里\n[00:13.53]海绵宝宝\n[00:15.50]方方黄黄伸缩自如\n[00:17.47]海绵宝宝\n[00:19.41]如果四处探险是你的愿望\n[00:21.57]海绵宝宝\n[00:23.42]那就敲敲甲板让大鱼开路\n[00:25.53]海绵宝宝\n[00:26.97]准备好了吗？\n[00:27.78]海绵宝宝\n[00:29.48]海绵宝宝\n[00:31.26]海绵宝宝\n[00:33.47]海绵宝宝\n[00:36.96]哈哈\n[00:38.86]哈哈哈\n"
+    },
+    "code": 200
+  }
+}

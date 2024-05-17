@@ -1,0 +1,276 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Beautiful Things",
+      "tlyric": "世间美好",
+      "singer": "Benson Boone",
+      "remarkIdx": ["beautiful", "thing"]
+    },
+    {
+      "time": 6524,
+      "lyric": "For a while there it was rough",
+      "tlyric": "曾经彷徨的岁月 举步维艰",
+      "remarkIdx": ["rough"]
+    },
+    {
+      "time": 9467,
+      "lyric": "But lately, I've been doin' better",
+      "tlyric": "而近来 我渐入佳境",
+      "remarkIdx": ["but", "lately", "better"]
+    },
+    {
+      "time": 13318,
+      "lyric": "Than the last four cold Decembers I recall",
+      "tlyric": "不再像记忆中这四年来的十二月那般寒冬凛冽",
+      "remarkIdx": ["December", "recall"]
+    },
+    {
+      "time": 20215,
+      "lyric": "And I see my family every month",
+      "tlyric": "每个月都能与家人相见",
+      "remarkIdx": ["family", "month"]
+    },
+    {
+      "time": 23483,
+      "lyric": "I found a girl my parents love",
+      "tlyric": "我也觅得父母也交口称赞的另一半",
+      "remarkIdx": ["found", "parent"]
+    },
+    {
+      "time": 27143,
+      "lyric": "She'll come and stay the night, and I think I might have it all",
+      "tlyric": "她会来我家过夜 此刻我好似拥有了全世界",
+      "remarkIdx": ["stay"]
+    },
+    {
+      "time": 34011,
+      "lyric": "And I thank God every day",
+      "tlyric": "我每天都虔诚感谢上天",
+      "remarkIdx": ["thank", "every", "day"]
+    },
+    {
+      "time": 37515,
+      "lyric": "For the girl he sent my way",
+      "tlyric": "感谢他让这女孩走进我的生活",
+      "remarkIdx": ["girl", "sent", "way"]
+    },
+    {
+      "time": 40668,
+      "lyric": "But I know the things he gives me, he can take away",
+      "tlyric": "但我深知 上天所给予的 亦能随时夺走",
+      "remarkIdx": ["give", "away"]
+    },
+    {
+      "time": 47438,
+      "lyric": "And I hold you every night",
+      "tlyric": "每个夜晚我都拥你入怀",
+      "remarkIdx": ["hold"]
+    },
+    {
+      "time": 50921,
+      "lyric": "And that's a feeling I wanna get used to",
+      "tlyric": "这是一种我渴望习以为常的情感",
+      "remarkIdx": ["feel", "used to"]
+    },
+    {
+      "time": 55973,
+      "lyric": "But there's no man as terrified as the man who stands to lose you",
+      "tlyric": "可世上患得患失到恐惧的人 莫过于注定要失去你的我",
+      "remarkIdx": ["terrified", "stand to"]
+    },
+    {
+      "time": 67223,
+      "lyric": "Oh, I hope I don't lose you",
+      "tlyric": "噢 但愿我不落得失去你的结局",
+      "remarkIdx": ["hope", "lose"]
+    },
+    {
+      "time": 71513,
+      "lyric": "Mm",
+      "tlyric": "Mm",
+      "remarkIdx": []
+    },
+    {
+      "time": 73206,
+      "lyric": "Please stay",
+      "tlyric": "请为我驻足",
+      "remarkIdx": ["please"]
+    },
+    {
+      "time": 76957,
+      "lyric": "I want you, I need you, oh God",
+      "tlyric": "我渴望你的存在 我也离不开你 噢 天呐",
+      "remarkIdx": ["want", "need"]
+    },
+    {
+      "time": 79956,
+      "lyric": "Don't take",
+      "tlyric": "别残忍剥夺",
+      "remarkIdx": ["take"]
+    },
+    {
+      "time": 83988,
+      "lyric": "Thеse beautiful things that I've got",
+      "tlyric": "我拥有的些许世间美好",
+      "remarkIdx": ["beautiful", "thing"]
+    },
+    {
+      "time": 86840,
+      "lyric": "Please stay",
+      "tlyric": "请为我驻足",
+      "remarkIdx": ["stay"]
+    },
+    {
+      "time": 90825,
+      "lyric": "I want you, I need you, oh God",
+      "tlyric": "我渴望你的存在 我也离不开你 噢 天呐",
+      "remarkIdx": ["want", "need"]
+    },
+    {
+      "time": 93632,
+      "lyric": "Don't take",
+      "tlyric": "别残忍剥夺",
+      "remarkIdx": ["take"]
+    },
+    {
+      "time": 97550,
+      "lyric": "These beautiful things that I've got",
+      "tlyric": "我拥有的些许世间美好",
+      "remarkIdx": ["beautiful", "thing"]
+    },
+    {
+      "time": 100552,
+      "lyric": "Oh-oh-oh-oh, oh, oh, please",
+      "tlyric": "Oh-oh-oh-oh, oh, oh 拜托你",
+      "remarkIdx": ["please"]
+    },
+    {
+      "time": 107528,
+      "lyric": "Please don't take",
+      "tlyric": "请别残忍剥夺",
+      "remarkIdx": ["take"]
+    },
+    {
+      "time": 112420,
+      "lyric": "I found my mind, I'm feelin' sane",
+      "tlyric": "我找回了心智 重新拾回理智",
+      "remarkIdx": ["mind", "sane"]
+    },
+    {
+      "time": 115767,
+      "lyric": "It's been a while, but I'm finding my faith",
+      "tlyric": "虽已时隔甚久 但我正在找回心中的信仰",
+      "remarkIdx": ["while", "faith"]
+    },
+    {
+      "time": 119174,
+      "lyric": "If everything's good and it's great, why do I sit and wait 'til it's gone?",
+      "tlyric": "若是一切安好 甚至十分融洽 为何我坐立不安 等待命运的宣判？",
+      "remarkIdx": ["great", "sit"]
+    },
+    {
+      "time": 125884,
+      "lyric": "Oh, I'll tell ya, I know I've got enough",
+      "tlyric": "噢 我会告诉你 我已经知足了",
+      "remarkIdx": ["tell", "know"]
+    },
+    {
+      "time": 129471,
+      "lyric": "I've got peace and I've got love",
+      "tlyric": "我有了平和的心 我得到了爱的眷顾",
+      "remarkIdx": ["peace", "love"]
+    },
+    {
+      "time": 133348,
+      "lyric": "But I'm up at night thinkin' I just might lose it all",
+      "tlyric": "可夜深人静时 我依旧辗转难眠 唯恐会失去一切",
+      "remarkIdx": ["night", "might"]
+    },
+    {
+      "time": 141630,
+      "lyric": "Please stay",
+      "tlyric": "请为我驻足",
+      "remarkIdx": ["please"]
+    },
+    {
+      "time": 145629,
+      "lyric": "I want you, I need you, oh God",
+      "tlyric": "我渴望你的存在 我也离不开你 噢 天呐",
+      "remarkIdx": ["want", "need"]
+    },
+    {
+      "time": 148589,
+      "lyric": "Don't take",
+      "tlyric": "别残忍剥夺",
+      "remarkIdx": ["take"]
+    },
+    {
+      "time": 152645,
+      "lyric": "These beautiful things that I've got",
+      "tlyric": "我拥有的些许世间美好",
+      "remarkIdx": ["beautiful", "thing"]
+    },
+    {
+      "time": 155340,
+      "lyric": "Oh-oh-oh-oh, oh, oh, please",
+      "tlyric": "Oh-oh-oh-oh, oh, oh 拜托你",
+      "remarkIdx": ["please"]
+    },
+    {
+      "time": 162455,
+      "lyric": "Please stay",
+      "tlyric": "请为我驻足",
+      "remarkIdx": ["stay"]
+    },
+    {
+      "time": 165679,
+      "lyric": "I want you, I need you, oh God",
+      "tlyric": "我渴望你的存在 我也离不开你 噢 天呐",
+      "remarkIdx": ["want", "need"]
+    },
+    {
+      "time": 169020,
+      "lyric": "I need",
+      "tlyric": "我是多么需要",
+      "remarkIdx": ["need"]
+    },
+    {
+      "time": 172781,
+      "lyric": "These beautiful things that I've got",
+      "tlyric": "自己仅有的些许世间美好",
+      "remarkIdx": ["beautiful", "thing"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 41378080,
+      "status": 99,
+      "demand": 1,
+      "userid": 570136497,
+      "nickname": "人类迷惑行为__",
+      "uptime": 1705629608040
+    },
+    "lyricUser": {
+      "id": 41375063,
+      "status": 99,
+      "demand": 0,
+      "userid": 268658351,
+      "nickname": "龙叔的旅行听歌日记",
+      "uptime": 1705622777156
+    },
+    "lrc": {
+      "version": 4,
+      "lyric": "[00:00.000] 作词 : Benson Boone/Jackson Lafrantz Larsen/Evan Blair\n[00:01.000] 作曲 : Benson Boone/Jackson Lafrantz Larsen/Evan Blair\n[00:06.524] For a while there it was rough\n[00:09.467] But lately, I've been doin' better\n[00:13.318] Than the last four cold Decembers I recall\n[00:20.215] And I see my family every month\n[00:23.483] I found a girl my parents love\n[00:27.143] She'll come and stay the night, and I think I might have it all\n[00:34.011] And I thank God every day\n[00:37.515] For the girl he sent my way\n[00:40.668] But I know the things he gives me, he can take away\n[00:47.438] And I hold you every night\n[00:50.921] And that's a feeling I wanna get used to\n[00:55.973] But there's no man as terrified as the man who stands to lose you\n[01:03.713]\n[01:07.223] Oh, I hope I don't losе you\n[01:11.513] Mm\n[01:13.206] Please stay\n[01:16.957] I want you, I need you, oh God\n[01:19.956] Don't take\n[01:23.988] Thеse beautiful things that I've got\n[01:25.892]\n[01:26.840] Please stay\n[01:30.825] I want you, I need you, oh God\n[01:33.632] Don't take\n[01:37.550] These beautiful things that I've got\n[01:39.606]\n[01:40.552] Oh-oh-oh-oh, oh, oh, please\n[01:47.528] Please don't take\n[01:51.076]\n[01:52.420] I found my mind, I'm feelin' sane\n[01:55.767] It's been a while, but I'm finding my faith\n[01:59.174] If everything's good and it's great, why do I sit and wait 'til it's gone?\n[02:05.884] Oh, I'll tell ya, I know I've got enough\n[02:09.471] I've got peace and I've got love\n[02:13.348] But I'm up at night thinkin' I just might lose it all\n[02:17.462]\n[02:21.630] Please stay\n[02:25.629] I want you, I need you, oh God\n[02:28.589] Don't take\n[02:32.645] These beautiful things that I've got\n[02:34.645]\n[02:35.340] Oh-oh-oh-oh, oh, oh, please\n[02:40.551]\n[02:42.455] Please stay\n[02:45.679] I want you, I need you, oh God\n[02:49.020] I need\n[02:52.781] These beautiful things that I've got\n"
+    },
+    "tlyric": {
+      "version": 5,
+      "lyric": "[by:人类迷惑行为__]\n[00:06.524]曾经彷徨的岁月 举步维艰\n[00:09.467]而近来 我渐入佳境\n[00:13.318]不再像记忆中这四年来的腊月那般寒冬凛冽\n[00:20.215]每个月都能与家人相见\n[00:23.483]我也觅得父母也交口称赞的另一半\n[00:27.143]她会来我家过夜 此刻我好似拥有了全世界\n[00:34.011]我每天都虔诚感谢上天\n[00:37.515]多亏祂派来的我的命中注定\n[00:40.668]但我深知 上天所给予的 亦能随时夺走\n[00:47.438]每个夜晚我都拥你入怀\n[00:50.921]这是一种我渴望习以为常的情感\n[00:55.973]可世上患得患失到恐惧的人 莫过于注定要失去你的我\n[01:03.713]\n[01:07.223]噢 但愿我不落得失去你的结局\n[01:11.513]Mm\n[01:13.206]请为我驻足\n[01:16.957]我渴望你的存在 我也离不开你 噢 天呐\n[01:19.956]别残忍剥夺\n[01:23.988]我仅有的些许世间美好\n[01:25.892]\n[01:26.840]请为我驻足\n[01:30.825]我渴望你的存在 我也离不开你 噢 天呐\n[01:33.632]别残忍剥夺\n[01:37.550]我仅有的些许世间美好\n[01:39.606]\n[01:40.552]Oh-oh-oh-oh, oh, oh 拜托你\n[01:47.528]请别残忍剥夺\n[01:51.076]\n[01:52.420]我找回了心智 重新拾回理智\n[01:55.767]虽已时隔甚久 但我正在找回心中的信仰\n[01:59.174]若是一切安好 甚至十分融洽 为何我坐立不安 等待命运的宣判？\n[02:05.884]噢 我会告诉你 我已经知足了\n[02:09.471]我有了平和的心 我得到了爱的眷顾\n[02:13.348]可夜深人静时 我依旧辗转难眠 唯恐会失去一切\n[02:17.462]\n[02:21.630]请为我驻足\n[02:25.629]我渴望你的存在 我也离不开你 噢 天呐\n[02:28.589]别残忍剥夺\n[02:32.645]我仅有的些许世间美好\n[02:34.645]\n[02:35.340]Oh-oh-oh-oh, oh, oh 拜托你\n[02:40.551]\n[02:42.455]请为我驻足\n[02:45.679]我渴望你的存在 我也离不开你 噢 天呐\n[02:49.020]我是多么需要\n[02:52.781]自己仅有的些许世间美好"
+    },
+    "code": 200
+  }
+}

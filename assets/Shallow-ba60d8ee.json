@@ -1,0 +1,226 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Shallow",
+      "tlyric": "浅滩",
+      "singer": "Lady Gaga / Bradley Cooper",
+      "remarkIdx": ["Shallow"]
+    },
+    {
+      "time": 15596,
+      "lyric": "Tell me something girl…",
+      "tlyric": "说些什么吧，女孩",
+      "remarkIdx": ["Tell", "something"]
+    },
+    {
+      "time": 20597,
+      "lyric": "Are you happy in this modern world?",
+      "tlyric": "繁华现代的生活让你开心吗",
+      "remarkIdx": ["happy", "modern"]
+    },
+    {
+      "time": 25397,
+      "lyric": "Or do you need more?",
+      "tlyric": "或是你还想要更多",
+      "remarkIdx": ["need", "more"]
+    },
+    {
+      "time": 30564,
+      "lyric": "Is there something else you’re searching for?",
+      "tlyric": "还有什么你想追寻",
+      "remarkIdx": ["something", "else", "search"]
+    },
+    {
+      "time": 35322,
+      "lyric": "I’m falling",
+      "tlyric": "我正在坠落",
+      "remarkIdx": ["fall"]
+    },
+    {
+      "time": 40572,
+      "lyric": "In all the good times I find myself longing for change",
+      "tlyric": "安定的时光总让我想寻求改变",
+      "remarkIdx": ["good"]
+    },
+    {
+      "time": 50555,
+      "lyric": "And in the bad times I fear myself",
+      "tlyric": "困境下我却害怕自己",
+      "remarkIdx": ["times", "fear", "myself"]
+    },
+    {
+      "time": 65640,
+      "lyric": "Tell me something boy…",
+      "tlyric": "讲些故事吧，男孩",
+      "remarkIdx": ["something", "boy"]
+    },
+    {
+      "time": 70522,
+      "lyric": "Aren’t you tired trying fill that void",
+      "tlyric": "你有没有因为不断填补内心空虚而感到厌倦",
+      "remarkIdx": ["tired", "void"]
+    },
+    {
+      "time": 75522,
+      "lyric": "Or do you need more?",
+      "tlyric": "或是你还想要更多",
+      "remarkIdx": ["need", "more"]
+    },
+    {
+      "time": 80405,
+      "lyric": "Ain’t it hard keeping it so hardcore",
+      "tlyric": "是不是很难保持如此坚定",
+      "remarkIdx": ["keep", "hardcore"]
+    },
+    {
+      "time": 85038,
+      "lyric": "I’m falling",
+      "tlyric": "我正在坠落",
+      "remarkIdx": ["fall"]
+    },
+    {
+      "time": 90389,
+      "lyric": "In all the good times I find myself longing for change",
+      "tlyric": "安定的时光总让我想寻求改变",
+      "remarkIdx": ["long", "change"]
+    },
+    {
+      "time": 100105,
+      "lyric": "And in the bad times I fear myself",
+      "tlyric": "困境下我却害怕自己",
+      "remarkIdx": ["bad"]
+    },
+    {
+      "time": 105255,
+      "lyric": "I’m off the deep end, watch as I dive in",
+      "tlyric": "我想要脱离这深渊，却眼看自己越陷越深",
+      "remarkIdx": ["off", "end"]
+    },
+    {
+      "time": 110072,
+      "lyric": "I’ll never meet the ground",
+      "tlyric": "我永远都回不到地面上",
+      "remarkIdx": ["never", "meet"]
+    },
+    {
+      "time": 115089,
+      "lyric": "Crash through the surface, where they can’t hurt us",
+      "tlyric": "只好坠落在水面之下，在那里没有人能伤害我们",
+      "remarkIdx": ["Crash"]
+    },
+    {
+      "time": 119922,
+      "lyric": "We’re far from the shallow now",
+      "tlyric": "我们离浅滩越来越远了",
+      "remarkIdx": ["far", "from"]
+    },
+    {
+      "time": 125622,
+      "lyric": "In the shallow, shallow",
+      "tlyric": "那片浅浅的水滩",
+      "remarkIdx": ["shallow"]
+    },
+    {
+      "time": 130539,
+      "lyric": "In the shallow, shallow",
+      "tlyric": "那片浅浅的水滩",
+      "remarkIdx": ["shallow"]
+    },
+    {
+      "time": 135455,
+      "lyric": "In the shallow, shallow",
+      "tlyric": "那片浅浅的水滩",
+      "remarkIdx": ["shallow"]
+    },
+    {
+      "time": 139873,
+      "lyric": "We’re far from the shallow now",
+      "tlyric": "我们离浅滩越来越远了",
+      "remarkIdx": ["now"]
+    },
+    {
+      "time": 147822,
+      "lyric": "Wooaaaah",
+      "tlyric": "Wooaaaah",
+      "remarkIdx": ["Woah"]
+    },
+    {
+      "time": 157772,
+      "lyric": "Woaaaaaaaaaaah",
+      "tlyric": "Woaaaaaaaaaaah",
+      "remarkIdx": ["Woah"]
+    },
+    {
+      "time": 165239,
+      "lyric": "I’m off the deep end, watch as I dive in",
+      "tlyric": "我想要脱离这深渊，却眼看自己越陷越深",
+      "remarkIdx": ["watch", "dive"]
+    },
+    {
+      "time": 169955,
+      "lyric": "I’ll never meet the ground",
+      "tlyric": "我永远都回不到地面上",
+      "remarkIdx": ["ground"]
+    },
+    {
+      "time": 174956,
+      "lyric": "Crash through the surface, where they can’t hurt us",
+      "tlyric": "只好坠落在水面之下，在那里没有人能伤害我们",
+      "remarkIdx": ["surface", "hurt"]
+    },
+    {
+      "time": 179807,
+      "lyric": "We’re far from the shallow now",
+      "tlyric": "我们离浅滩越来越远了",
+      "remarkIdx": ["far", "from"]
+    },
+    {
+      "time": 185555,
+      "lyric": "In the shallow, shallow",
+      "tlyric": "那片浅浅的水滩",
+      "remarkIdx": ["shallow"]
+    },
+    {
+      "time": 190322,
+      "lyric": "In the shallow, shallow",
+      "tlyric": "那片浅浅的水滩",
+      "remarkIdx": ["shallow"]
+    },
+    {
+      "time": 195339,
+      "lyric": "In the shallow, shallow",
+      "tlyric": "那片浅浅的水滩",
+      "remarkIdx": ["shallow"]
+    },
+    {
+      "time": 199889,
+      "lyric": "We’re far from the shallow now",
+      "tlyric": "我们离浅滩越来越远了",
+      "remarkIdx": ["now"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 4260126,
+      "status": 99,
+      "demand": 1,
+      "userid": 3313801,
+      "nickname": "咆哮的小清新___",
+      "uptime": 1538099272252
+    },
+    "lrc": {
+      "version": 24,
+      "lyric": "[00:00.000] 作词 : Lady Gaga/Andrew Wyatt/安东尼·罗索曼多\n[00:01.000] 作曲 : Lady Gaga/Mark Ronson/Lukas Nelson\n[00:15.596]Tell me something girl…\n[00:20.597]Are you happy in this modern world?\n[00:25.397]Or do you need more?\n[00:30.564]Is there something else you’re searching for?\n[00:35.322]I’m falling\n[00:40.572]In all the good times I find myself longing  for change\n[00:50.555]And in the bad times I fear myself\n[01:05.640]Tell me something boy…\n[01:10.522]Aren’t you tired trying fill that void\n[01:15.522]Or do you need more?\n[01:20.405]Ain’t it hard keeping it so hardcore\n[01:25.038]I’m falling\n[01:30.389]In all the good times I find myself longing  for change\n[01:40.105]And in the bad times I fear myself\n[01:45.255]I’m off the deep end, watch as I dive in\n[01:50.072]I’ll never meet the ground\n[01:55.089]Crash through the surface, where they can’t hurt us\n[01:59.922]We’re far from the shallow now\n[02:05.622]In the shallow, shallow\n[02:10.539]In the shallow, shallow\n[02:15.455]In the shallow, shallow\n[02:19.873]We’re far from the shallow now\n[02:27.822]Wooaaaah\n[02:37.772]Woaaaaaaaaaaah\n[02:45.239]I’m off the deep end, watch as I dive in\n[02:49.955]I’ll never meet the ground\n[02:54.956]Crash through the surface, where they can’t hurt us\n[02:59.807]We’re far from the shallow now\n[03:05.555]In the shallow, shallow\n[03:10.322]In the shallow, shallow\n[03:15.339]In the shallow, shallow\n[03:19.889]We’re far from the shallow now\n"
+    },
+    "tlyric": {
+      "version": 9,
+      "lyric": "[00:15.596]女孩 对我诉说一些你的真心\n[00:20.597]在这摩登世界里你是否过得开心\n[00:25.397]或者你有着更多渴望和求欲\n[00:30.564]是否有其他你正在不懈去探寻的东西\n[00:35.322]我摇摇而坠\n[00:40.572]在所有我找寻着自己 找寻着改变的快乐时光里\n[00:50.555]以及那些我感受着自己的悲伤时刻里\n[01:05.640]男孩 告诉我一些你的秘密\n[01:10.522]你难道不曾厌倦自己总是努力去填满空虚\n[01:15.522]或者你有着更多渴望和求欲\n[01:20.405]难道不曾觉得让这一切深藏有多么不易\n[01:25.038]我摇摇而坠\n[01:30.389]在所有我找寻着自己 渴望着改变的快乐时光里\n[01:40.105]以及那些我感受着自己的悲伤时刻里\n[01:45.255]我试着脱离深渊困境 看着好似自己渐沉渐溺\n[01:50.072]我想我永远都无法触及地面\n[01:55.089]陨落在那水面之下 那他人无法伤害你我之地\n[01:59.922]你我已与那近岸浅滩渐行渐远\n[02:05.622]在那滨岸浅区\n[02:10.539]在那近岸之地\n[02:15.455]在那滨岸浅区\n[02:19.873]你我已与那近岸浅滩渐行渐远\n[02:27.822]\n[02:37.772]\n[02:45.239]我试着脱离深渊困境 看着好似自己渐沉渐溺\n[02:49.955]我想我永远都无法触及地面\n[02:54.956]陨落在那水面之下 那他人无法伤害你我之地\n[02:59.807]你我已与那近岸浅滩渐行渐远\n[03:05.555]在那滨岸浅区\n[03:10.322]在那近岸之地\n[03:15.339]在那滨岸浅区\n[03:19.889]你我已与那浅滩近岸渐行渐远"
+    },
+    "code": 200
+  }
+}

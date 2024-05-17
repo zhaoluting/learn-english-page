@@ -1,0 +1,166 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Kiss Me",
+      "tlyric": "吻我",
+      "singer": "Nai Br.XX / Celeina Ann",
+      "remarkIdx": ["kiss"]
+    },
+    {
+      "time": 10506,
+      "lyric": "It's hard to be a normal person, that's just not me",
+      "tlyric": "我很难去做一个普通人，那根本不是我",
+      "remarkIdx": ["hard", "normal"]
+    },
+    {
+      "time": 15612,
+      "lyric": "I'm writing a journal to keep my feelings hiding",
+      "tlyric": "我写着一本日记，藏着我的感情",
+      "remarkIdx": ["journal", "hide"]
+    },
+    {
+      "time": 20369,
+      "lyric": "Across the bridge, what would I see?",
+      "tlyric": "走过那座桥，我会看到什么",
+      "remarkIdx": ["across", "bridge"]
+    },
+    {
+      "time": 22873,
+      "lyric": "I wanna see it, dreaming my dreams",
+      "tlyric": "我想去看看，梦着实现梦想",
+      "remarkIdx": ["see", "dream"]
+    },
+    {
+      "time": 25625,
+      "lyric": "Miracles, beautiful, here we go, all the way",
+      "tlyric": "奇迹，美景，启程吧，一路走下去",
+      "remarkIdx": ["miracle", "beautiful", "here we go", "all the way"]
+    },
+    {
+      "time": 30634,
+      "lyric": "Running from my life ends now",
+      "tlyric": "现在停止逃避自己的生活",
+      "remarkIdx": ["run from", "life", "end"]
+    },
+    {
+      "time": 31886,
+      "lyric": "Used to keep holding back my thoughts",
+      "tlyric": "过去一直压抑着我的思绪",
+      "remarkIdx": ["used to", "hold back", "thoughts"]
+    },
+    {
+      "time": 34637,
+      "lyric": "Would be wrong if you're gone",
+      "tlyric": "没有你，我将会乱成一团",
+      "remarkIdx": ["would", "wrong"]
+    },
+    {
+      "time": 36389,
+      "lyric": "Found my way through the stars",
+      "tlyric": "在繁星中找到我的方向",
+      "remarkIdx": ["found", "through"]
+    },
+    {
+      "time": 38892,
+      "lyric": "If I could reach to your heart",
+      "tlyric": "如果我能触及你的心",
+      "remarkIdx": ["reach", "heart"]
+    },
+    {
+      "time": 41145,
+      "lyric": "Money still can't buy me love",
+      "tlyric": "金钱仍然买不到我的爱",
+      "remarkIdx": ["money", "buy"]
+    },
+    {
+      "time": 42898,
+      "lyric": "But there's still life when there's hope around",
+      "tlyric": "但只要希望还在，生活就要继续",
+      "remarkIdx": ["life", "hope"]
+    },
+    {
+      "time": 45901,
+      "lyric": "Like a rainbow in the clouds",
+      "tlyric": "像是云端的彩虹",
+      "remarkIdx": ["rainbow", "cloud"]
+    },
+    {
+      "time": 48022,
+      "lyric": "a gift from above",
+      "tlyric": "像是从天而降的礼物",
+      "remarkIdx": ["gift", "above"]
+    },
+    {
+      "time": 52156,
+      "lyric": "Kiss me before sunrise",
+      "tlyric": "在日出前亲吻我吧",
+      "remarkIdx": ["kiss", "sunrise"]
+    },
+    {
+      "time": 57663,
+      "lyric": "Or I'm leaving you tonight",
+      "tlyric": "否则我今夜就要离开",
+      "remarkIdx": ["leave", "tonight"]
+    },
+    {
+      "time": 62169,
+      "lyric": "My love found a place",
+      "tlyric": "我的爱找到了归宿",
+      "remarkIdx": ["love", "place"]
+    },
+    {
+      "time": 64621,
+      "lyric": "To stay and rest, my bed",
+      "tlyric": "就留下来在床上休息",
+      "remarkIdx": ["rest", "rest"]
+    },
+    {
+      "time": 67178,
+      "lyric": "Always staying forever",
+      "tlyric": "永远停留",
+      "remarkIdx": ["stay", "forever"]
+    },
+    {
+      "time": 70022,
+      "lyric": "meant to be together",
+      "tlyric": "就意味着相互陪伴",
+      "remarkIdx": ["mean"]
+    },
+    {
+      "time": 73685,
+      "lyric": "If we could change this world",
+      "tlyric": "如果我们要改变这世界",
+      "remarkIdx": ["could", "change", "world"]
+    },
+    {
+      "time": 77151,
+      "lyric": "Today with you",
+      "tlyric": "就今天吧，和你一起",
+      "remarkIdx": ["today", "with"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 4927205,
+      "status": 99,
+      "demand": 1,
+      "userid": 253232859,
+      "nickname": "火星人叫李白",
+      "uptime": 1559289928665
+    },
+    "lrc": {
+      "version": 13,
+      "lyric": "[00:00.000] 作词 : nulbarich\n[00:00.751] 作曲 : nulbarich\n[00:01.502]origin: 《kiss me》--Carole & Tuesday\n[00:05.751]cover/mix: 阿喵\n[00:11.006]It's hard to be a normal person, that's just not me\n[00:16.112]I'm writing a journal to keep my feelings hiding\n[00:20.369]Across the bridge, what would I see\n[00:22.873]Want to see it, dreaming my dreams\n[00:25.625]Miracles, beautiful, here we go all the way\n[00:30.634]Running from my life\n[00:31.886]There's no use to keep holding back my thoughts\n[00:34.637]Would be wrong if you're gone\n[00:36.389]Find my way through the stars\n[00:38.892]If I could reach to your heart\n[00:41.145]Money still can't buy me love\n[00:42.898]But there's still life and there's hope around\n[00:45.901]Like a rainbow in the clouds, a gift from above\n[00:50.156]Kiss me before sunrise\n[00:54.663]Or I'm leaving you tonight\n[01:00.169]My love found a place\n[01:02.421]To stay and rest, my bed\n[01:05.178]Always stay forever, meant to be together\n[01:10.685]If we could change this world today with you\n[01:18.685]Thanks for listening~\n"
+    },
+    "tlyric": {
+      "version": 2,
+      "lyric": "[by:火星人叫李白]\n[00:01.502]出处:《吻我》——卡罗尔与星期二\n[00:05.751]翻唱/混音：阿喵\n[00:11.006]做一个平凡的人很不容易 因为那不是我本性\n[00:16.112]我写下了一本日记 把我的心情藏进去\n[00:20.369]穿过这座桥 我将会看见什么\n[00:22.873]想去看看 在梦里梦到什么\n[00:25.625]奇迹与美丽呀，我们一路走来\n[00:30.634]逃离我的生活\n[00:31.886]没有必要压抑我的想法\n[00:34.637]如果你离开 这会是错吗\n[00:36.389]星星指引我前进的路\n[00:38.892]如果我能触及你的内心\n[00:41.145]钱不能买到我的爱情\n[00:42.898]只要还活着就有希望\n[00:45.901]如同天上的彩虹 是上天赐予的礼物\n[00:50.156]在日出之前吻我\n[00:54.663]不然我将会在今晚离去\n[01:00.169]我的爱找到了归宿\n[01:02.421]留下来休息，我的床\n[01:05.178]始终保持永远，意味着永远在一起\n[01:10.685]如果今天我们能和你一起改变这个世界\n[01:18.685]感谢倾听~\n"
+    },
+    "code": 200
+  }
+}

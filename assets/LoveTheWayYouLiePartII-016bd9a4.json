@@ -1,0 +1,377 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "On the first page of our story",
+      "tlyric": "翻开关于我们的故事的扉页",
+      "remarkIdx": ["first", "story"]
+    },
+    {
+      "time": 5075,
+      "lyric": "The future seemed so bright",
+      "tlyric": "未来看上去似乎那么光明",
+      "remarkIdx": ["future", "bright"]
+    },
+    {
+      "time": 11080,
+      "lyric": "Then this thing turned out so evil",
+      "tlyric": "然而事情却变得糟糕不已",
+      "remarkIdx": ["turn out", "evil"]
+    },
+    {
+      "time": 17035,
+      "lyric": "I don't know why I'm still surprised",
+      "tlyric": "我不明白为什么我仍旧感到惊讶",
+      "remarkIdx": ["know", "surprise"]
+    },
+    {
+      "time": 23038,
+      "lyric": "Even angels have their wicked schemes",
+      "tlyric": "即使天使也有邪恶的一面",
+      "remarkIdx": ["wicked", "scheme"]
+    },
+    {
+      "time": 29016,
+      "lyric": "And you take that to new extremes",
+      "tlyric": "你却将事情推到了一个新的极端",
+      "remarkIdx": ["new", "extreme"]
+    },
+    {
+      "time": 35007,
+      "lyric": "But you'll always be my hero",
+      "tlyric": "但是你一直是我的英雄",
+      "remarkIdx": ["always", "hero"]
+    },
+    {
+      "time": 40021,
+      "lyric": "Even though you've lost your mind",
+      "tlyric": "即使你已经失去理智",
+      "remarkIdx": ["lost", "mind"]
+    },
+    {
+      "time": 46058,
+      "lyric": "Just gonna stand there and watch me burn",
+      "tlyric": "就站在那里看着我燃烧殆尽吧",
+      "remarkIdx": ["gonna", "stand there", "burn"]
+    },
+    {
+      "time": 51037,
+      "lyric": "But that's all right because I like the way it hurts",
+      "tlyric": "但是没关系，因为我爱这种伤害的方式",
+      "remarkIdx": ["But", "all right"]
+    },
+    {
+      "time": 57079,
+      "lyric": "Just gonna stand there and hear me cry",
+      "tlyric": "就站在那里听着我哭泣吧",
+      "remarkIdx": ["stand there", "hear", "cry"]
+    },
+    {
+      "time": 62098,
+      "lyric": "But that's all right because I love the way you lie",
+      "tlyric": "没关系，因为我爱你说谎的方式",
+      "remarkIdx": ["because", "love"]
+    },
+    {
+      "time": 68069,
+      "lyric": "I love the way you lie, oh, I love the way you lie",
+      "tlyric": "连你说谎都让我着迷，我爱你说谎的方式",
+      "remarkIdx": ["way"]
+    },
+    {
+      "time": 81018,
+      "lyric": "Now there's gravel in our voices",
+      "tlyric": "此刻我们声音沙哑",
+      "remarkIdx": ["gravel", "voice"]
+    },
+    {
+      "time": 86042,
+      "lyric": "Glass is shattered from the fight",
+      "tlyric": "争吵中玻璃碎片散落一地",
+      "remarkIdx": ["Glass", "shattered"]
+    },
+    {
+      "time": 92048,
+      "lyric": "In this tug of war you'll always win",
+      "tlyric": "你总会赢得我们的拉锯战",
+      "remarkIdx": ["tug", "war"]
+    },
+    {
+      "time": 98010,
+      "lyric": "Even when I'm right",
+      "tlyric": "即使我是对的",
+      "remarkIdx": ["Even", "when"]
+    },
+    {
+      "time": 103099,
+      "lyric": "'Cause you feed me fables from your hand",
+      "tlyric": "因为你总是用不实之词搪塞我",
+      "remarkIdx": ["feed", "fable"]
+    },
+    {
+      "time": 110020,
+      "lyric": "With violent words and empty threats",
+      "tlyric": "带着暴力的言词和空洞的威胁",
+      "remarkIdx": ["violent", "threat"]
+    },
+    {
+      "time": 116001,
+      "lyric": "And it's sick that all these battles",
+      "tlyric": "令我厌恶的是所有的那些争吵",
+      "remarkIdx": ["sick", "battle"]
+    },
+    {
+      "time": 120096,
+      "lyric": "Are what keeps me satisfied",
+      "tlyric": "它们都让我感到满足",
+      "remarkIdx": ["keep", "satisfied"]
+    },
+    {
+      "time": 126073,
+      "lyric": "Just gonna stand there and watch me burn",
+      "tlyric": "就站在那里看着我燃烧殆尽吧",
+      "remarkIdx": ["Just", "watch"]
+    },
+    {
+      "time": 131089,
+      "lyric": "But that's all right because I like the way it hurts",
+      "tlyric": "但是没关系，因为我爱这种伤害的方式",
+      "remarkIdx": ["like", "hurt"]
+    },
+    {
+      "time": 138070,
+      "lyric": "Just gonna stand there and hear me cry",
+      "tlyric": "就站在那里听着我哭泣吧",
+      "remarkIdx": ["stand"]
+    },
+    {
+      "time": 143092,
+      "lyric": "Well that's all right because I love the way you lie",
+      "tlyric": "没关系，因为我爱你说谎的方式",
+      "remarkIdx": ["Well"]
+    },
+    {
+      "time": 149075,
+      "lyric": "I love the way you lie, oh, I love the way you lie, oh",
+      "tlyric": "连你说谎都让我着迷，我爱你说谎的方式",
+      "remarkIdx": ["love", "way"]
+    },
+    {
+      "time": 162055,
+      "lyric": "So maybe I'm a masochist",
+      "tlyric": "也许我就是一个受虐狂",
+      "remarkIdx": ["maybe", "masochist"]
+    },
+    {
+      "time": 168018,
+      "lyric": "I try to run but I don't wanna ever leave",
+      "tlyric": "我想要逃走但是做不到",
+      "remarkIdx": ["try", "wanna", "ever"]
+    },
+    {
+      "time": 174065,
+      "lyric": "Till the walls are goin' up",
+      "tlyric": "直到我们之间的高墙筑起",
+      "remarkIdx": ["Till", "wall", "goin'"]
+    },
+    {
+      "time": 179079,
+      "lyric": "In smoke with all our memories",
+      "tlyric": "我们的回忆弥漫在烟雾中",
+      "remarkIdx": ["smoke", "memory"]
+    },
+    {
+      "time": 186030,
+      "lyric": "This morning, you wake, a sun ray hits your face",
+      "tlyric": "早上，你醒来，一缕阳光映在你的面庞",
+      "remarkIdx": ["wake", "ray"]
+    },
+    {
+      "time": 188056,
+      "lyric": "Smeared makeup as we lay in the wake of destruction",
+      "tlyric": "脏乱的妆容如同我们现在躺着的废墟",
+      "remarkIdx": ["Smeared", "makeup", "destruction"]
+    },
+    {
+      "time": 190094,
+      "lyric": "Hush baby, speak softly, tell me You're awfully sorry",
+      "tlyric": "嘘，宝贝，轻声说话，告诉我你非常抱歉",
+      "remarkIdx": ["Hush", "awful"]
+    },
+    {
+      "time": 194017,
+      "lyric": "That you pushed me into the coffee table last night",
+      "tlyric": "因为昨晚你把我推向了咖啡桌",
+      "remarkIdx": ["table"]
+    },
+    {
+      "time": 196049,
+      "lyric": "So I can push you off me",
+      "tlyric": "那么我可以把你从我身上推开",
+      "remarkIdx": ["push"]
+    },
+    {
+      "time": 197099,
+      "lyric": "Try and touch me so I can scream at you not to touch me",
+      "tlyric": "试着触碰我，这样我就可以对你大叫不要碰我",
+      "remarkIdx": ["touch"]
+    },
+    {
+      "time": 200039,
+      "lyric": "Run out the room and I'll follow you like a lost puppy",
+      "tlyric": "然后你跑出房间，我会像迷路的小狗一样跟着你",
+      "remarkIdx": ["room", "lost"]
+    },
+    {
+      "time": 203040,
+      "lyric": "Baby, without you, I'm nothing, I'm so lost, hug me",
+      "tlyric": "宝贝，没有你，我什么都不是，我很迷茫，请给我个拥抱",
+      "remarkIdx": ["nothing", "hug"]
+    },
+    {
+      "time": 206045,
+      "lyric": "Then tell me how ugly I am, but that you'll always love me",
+      "tlyric": "然后告诉我我的丑恶，但是也请告诉我你会一直爱着我",
+      "remarkIdx": ["ugly", "always"]
+    },
+    {
+      "time": 209037,
+      "lyric": "Then after that, shove me, in the aftermath of the",
+      "tlyric": "在那之后，在争吵后推开我",
+      "remarkIdx": ["shove", "aftermath"]
+    },
+    {
+      "time": 212040,
+      "lyric": "Destructive path that we're on, two psychopaths but we",
+      "tlyric": "在被我们毁坏的路上，我们是两个精神病",
+      "remarkIdx": ["Destructive", "psychopath", "but"]
+    },
+    {
+      "time": 215025,
+      "lyric": "Know that no matter how many knives we put in each others backs",
+      "tlyric": "但是我们知道无论我们伤害对方有多深",
+      "remarkIdx": ["matter", "knife"]
+    },
+    {
+      "time": 218030,
+      "lyric": "That we'll have each others backs 'cause we're that lucky",
+      "tlyric": "我们都是彼此的后盾，因为我们能在一起很幸运",
+      "remarkIdx": ["back"]
+    },
+    {
+      "time": 220097,
+      "lyric": "Together, we move mountains, let's not make mountains out of molehills",
+      "tlyric": "我们可以一起创造奇迹，所以不要小题大做",
+      "remarkIdx": ["move mountains", "mountain", "molehill", "make a mountain out of a molehill"]
+    },
+    {
+      "time": 224032,
+      "lyric": "You hit me twice, yeah, but who's counting?",
+      "tlyric": "你伤害我两次，但是谁会去数呢？",
+      "remarkIdx": ["hit", "twice", "yeah"]
+    },
+    {
+      "time": 226060,
+      "lyric": "I may have hit you three times, I'm starting to lose count",
+      "tlyric": "我可能伤害了你三次，我开始记不清楚了",
+      "remarkIdx": ["lose", "count"]
+    },
+    {
+      "time": 229036,
+      "lyric": "But together, we'll live forever, we found the youth fountain",
+      "tlyric": "但是我们会永远在一起，我们已经找到不老泉",
+      "remarkIdx": ["forever", "youth", "fountain"]
+    },
+    {
+      "time": 232047,
+      "lyric": "Our love is crazy, we're nuts but I refused counseling",
+      "tlyric": "我们爱的疯狂，我们是疯子但我绝不妥协",
+      "remarkIdx": ["refuse", "counseling"]
+    },
+    {
+      "time": 235024,
+      "lyric": "This house is too huge, if you move out I'll burn all two thousand",
+      "tlyric": "这个房子太大，如果你离我而去，我会将烧光周围两千",
+      "remarkIdx": ["house", "huge"]
+    },
+    {
+      "time": 238000,
+      "lyric": "Square feet of it to the ground, ain't **** you can do about it",
+      "tlyric": "平方英尺都烧成平地，你无法阻止我",
+      "remarkIdx": ["feet", "square feet", "ain't"]
+    },
+    {
+      "time": 240078,
+      "lyric": "With you I'm in my ******' mind, without you, I'm out it",
+      "tlyric": "因为有你在才让我的理智尚存，但如果失去了你，我就会失去控制",
+      "remarkIdx": ["mind"]
+    },
+    {
+      "time": 242086,
+      "lyric": "Just gonna stand there and watch me burn",
+      "tlyric": "就站在那里看着我燃烧殆尽吧",
+      "remarkIdx": ["gonna", "stand there", "burn"]
+    },
+    {
+      "time": 247076,
+      "lyric": "But that's all right because I like the way it hurts",
+      "tlyric": "但是没关系，因为我爱这种伤害的方式",
+      "remarkIdx": ["But", "hurt"]
+    },
+    {
+      "time": 254014,
+      "lyric": "Just gonna stand there and hear me cry",
+      "tlyric": "就站在那里听着我哭泣吧",
+      "remarkIdx": ["stand there", "hear", "cry"]
+    },
+    {
+      "time": 259035,
+      "lyric": "But that's all right because I love the way you lie",
+      "tlyric": "没关系，因为我爱你说谎的方式",
+      "remarkIdx": ["right"]
+    },
+    {
+      "time": 265031,
+      "lyric": "I love the way you lie, I love the way you lie",
+      "tlyric": "连你说谎都让我着迷，我爱你说谎的方式",
+      "remarkIdx": ["love", "lie"]
+    },
+    {
+      "time": 277016,
+      "lyric": "I love the way you lie, I love the way you lie",
+      "tlyric": "连你说谎都让我着迷，我爱你说谎的方式",
+      "remarkIdx": ["way"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 449132,
+      "status": 99,
+      "demand": 1,
+      "userid": 10217090,
+      "nickname": "_影子的影子",
+      "uptime": 1510282205106
+    },
+    "lyricUser": {
+      "id": 449131,
+      "status": 99,
+      "demand": 0,
+      "userid": 0,
+      "nickname": "罗切斯特先生_",
+      "uptime": 1510282205106
+    },
+    "lrc": {
+      "version": 41,
+      "lyric": "[00:00.43]On the first page of our story\n[00:05.75]The future seemed so bright\n[00:11.80]Then this thing turned out so evil\n[00:17.35]I don't know why I'm still surprised\n[00:23.38]Even angels have their wicked schemes\n[00:29.16]And you take that to new extremes\n[00:35.07]But you'll always be my hero\n[00:40.21]Even though you've lost your mind\n[00:46.58]Just gonna stand there and watch me burn\n[00:51.37]But that's all right because I like the way it hurts\n[00:57.79]Just gonna stand there and hear me cry\n[01:02.98]But that's all right because I love the way you lie\n[01:08.69]I love the way you lie, oh, I love the way you lie\n[01:21.18]Now there's gravel in our voices\n[01:26.42]Glass is shattered from the fight\n[01:32.48]In this tug of war you'll always win\n[01:38.10]Even when I'm right\n[01:43.99]'Cause you feed me fables from your hand\n[01:50.20]With violent words and empty threats\n[01:56.01]And it's sick that all these battles\n[02:00.96]Are what keeps me satisfied\n[02:06.73]Just gonna stand there and watch me burn\n[02:11.89]But that's all right because I like the way it hurts\n[02:18.70]Just gonna stand there and hear me cry\n[02:23.92]Well that's all right because I love the way you lie\n[02:29.75]I love the way you lie, oh, I love the way you lie, oh\n[02:42.55]So maybe I'm a masochist\n[02:48.18]I try to run but I don't wanna ever leave\n[02:54.65]'Til the walls are goin' up\n[02:59.79]In smoke with all our memories\n[03:06.30]This morning, you wake, a sun ray hits your face\n[03:08.56]Smeared makeup as we lay in the wake of destruction\n[03:10.94]Hush baby, speak softly, tell me You're awfully sorry\n[03:14.17]That you pushed me into the coffee table last night\n[03:16.49]So I can push you off me\n[03:17.99]Try and touch me so I can scream at you not to touch me\n[03:20.39]Run out the room and I'll follow you like a lost puppy\n[03:23.40]Baby, without you, I'm nothing, I'm so lost, hug me\n[03:26.45]Then tell me how ugly I am, but that you'll always love me\n[03:29.37]Then after that, shove me, in the aftermath of the\n[03:32.40]Destructive path that we're on, two psychopaths but we\n[03:35.25]Know that no matter how many knives we put in each others backs\n[03:38.30]That we'll have each others backs 'cause we're that lucky\n[03:40.97]Together, we move mountains, let's not make mountains out of molehills\n[03:44.32]You hit me twice, yeah, but who's countin'?\n[03:46.60]I may have hit you three times, I'm startin' to lose count\n[03:49.36]But together, we'll live forever, we found the youth fountain\n[03:52.47]Our love is crazy, we're nuts but I refused counselin'\n[03:55.24]This house is too huge, if you move out I'll burn all two thousand\n[03:58.00]Square feet of it to the ground, ain't **** you can do about it\n[04:00.78]With you I'm in my ******' mind, without you, I'm out it\n[04:02.86]Just gonna stand there and watch me burn\n[04:07.76]But that's all right because I like the way it hurts\n[04:14.14]Just gonna stand there and hear me cry\n[04:19.35]But that's all right because I love the way you lie\n[04:25.31]I love the way you lie, I love the way you lie\n[04:37.16]I love the way you lie, I love the way you lie\n"
+    },
+    "tlyric": {
+      "version": 8,
+      "lyric": "[00:00.43]在我们故事的开端\n[00:05.75]未来似乎很光明\n[00:11.80]可结局却很不幸\n[00:17.35]不知为何我仍惊讶\n[00:23.38]即使天使也有邪恶的一面\n[00:29.16]你变得极端\n[00:35.07]但是你一直是我的英雄\n[00:40.21]即使你已经失去理智\n[00:46.58]就站在那里看着我燃烧殆尽\n[00:51.37]没关系，因为我爱你伤害我的方式\n[00:57.79]就站在那里听着我哭泣\n[01:02.98]没关系，因为我爱你说谎的方式\n[01:08.69]连你说谎都让我着迷，我爱你说谎的方式\n[01:21.18]此刻我们声音沙哑\n[01:26.42]玻璃碎片四处散落\n[01:32.48]你总会赢得我们的拉锯战\n[01:38.10]即使我是对的\n[01:43.99]只因你的谎言太彻底\n[01:50.20]带着暴力的言词和空洞的威胁\n[01:56.01]令我厌恶的是\n[02:00.96]这些都让我感到满足\n[02:06.73]就站在那里看着我燃烧殆尽\n[02:11.89]没关系，因为我爱你伤害我的方式\n[02:18.70]就站在那里听着我哭泣\n[02:23.92]没关系，因为我爱你说谎的方式\n[02:29.75]连你说谎都让我着迷，我爱你说谎的方式\n[02:42.55]也许我就是一个受虐狂\n[02:48.18]我想要逃走但是做不到\n[02:54.65]直到我们之间的高墙筑起\n[02:59.79]我们的回忆弥漫在烟雾中\n[03:06.30]早上，你醒来，一缕阳光映在你的面庞\n[03:08.56]脏乱的妆容如同我们现在躺着的废墟\n[03:10.94]嘘，宝贝，轻声说话，告诉我你非常抱歉\n[03:14.17]因为昨晚你把我推向了咖啡桌\n[03:16.49]那么我可以把你从我身上推开\n[03:17.99]试着触碰我，这样我就可以对你大叫不要碰我\n[03:20.39]然后你跑出房间，我会像迷路的小狗一样跟着你\n[03:23.40]宝贝，没有你，我什么都不是，我很迷茫，请给我个拥抱\n[03:26.45]然后告诉我我的丑恶，但是也请告诉我你会一直爱着我\n[03:29.37]在那之后，在被我们毁坏的路上推开我\n[03:32.40]我们是两个精神病\n[03:35.25]但是我们知道无论我们伤害对方有多深\n[03:38.30]我们都是彼此的后盾，因为我们能在一起很幸运\n[03:40.97]我们可以创造奇迹，所以不要小题大做\n[03:44.32]你伤害我两次，但是谁会去数呢？\n[03:46.60]我可能伤害了你三次，我开始不清楚了\n[03:49.36]但是我们在一起就会永远年轻，一起追寻青春的源泉\n[03:52.47]我们爱的疯狂，我们是疯子但我绝不妥协\n[03:55.24]这个房子太大，如果你离我而去\n[03:58.00]我会将它方圆千里烧光，你完全可以以身犯险\n[04:00.78]你一直在我的脑海里，没有你，我就完了\n[04:02.86]就站在那里看着我燃烧殆尽\n[04:07.76]没关系，因为我爱你伤害我的方式\n[04:14.14]就站在那里听着我哭泣\n[04:19.35]没关系，因为我爱你说谎的方式\n[04:25.31]连你说谎都让我着迷，我爱你说谎的方式\n[04:37.16]连你说谎都让我着迷，我爱你说谎的方式"
+    },
+    "code": 200
+  }
+}

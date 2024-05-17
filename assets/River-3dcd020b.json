@@ -1,0 +1,204 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "River",
+      "tlyric": "河流",
+      "singer": "Anonymouz",
+      "remarkIdx": ["river"]
+    },
+    {
+      "time": 11901,
+      "lyric": "Water running stronger, rougher",
+      "tlyric": "水流愈发汹涌湍急",
+      "remarkIdx": ["water", "stronger", "rougher"]
+    },
+    {
+      "time": 14546,
+      "lyric": "Holding on to (any-any) anything",
+      "tlyric": "仿佛要裹挟一切",
+      "remarkIdx": ["hold", "hold on"]
+    },
+    {
+      "time": 17051,
+      "lyric": "All I want is to survive it",
+      "tlyric": "而我只希望活着",
+      "remarkIdx": ["want", "survive"]
+    },
+    {
+      "time": 20001,
+      "lyric": "If I let go, will it be the end of me",
+      "tlyric": "若我放下一切，是否就能迎来人生终点",
+      "remarkIdx": ["let go", "will", "end"]
+    },
+    {
+      "time": 22495,
+      "lyric": "Got to move on",
+      "tlyric": "该继续前行了",
+      "remarkIdx": ["got to", "move", "move on"]
+    },
+    {
+      "time": 25428,
+      "lyric": "Held on too long",
+      "tlyric": "我已停留太久",
+      "remarkIdx": ["hold on", "long"]
+    },
+    {
+      "time": 28214,
+      "lyric": "Sweep me away",
+      "tlyric": "请将我带去远方",
+      "remarkIdx": ["sweep", "sweep away"]
+    },
+    {
+      "time": 30950,
+      "lyric": "Out (right) into the ocean",
+      "tlyric": "直到进入那片海洋",
+      "remarkIdx": ["ocean"]
+    },
+    {
+      "time": 32600,
+      "lyric": "Mighty river",
+      "tlyric": "澎湃的河流",
+      "remarkIdx": ["mighty", "river"]
+    },
+    {
+      "time": 34459,
+      "lyric": "Release my soul",
+      "tlyric": "释放我的灵魂",
+      "remarkIdx": ["release", "soul"]
+    },
+    {
+      "time": 35806,
+      "lyric": "I need to see the world",
+      "tlyric": "我要看遍这个世界",
+      "remarkIdx": ["see", "world"]
+    },
+    {
+      "time": 38055,
+      "lyric": "To the unknown",
+      "tlyric": "请将我带去未知处",
+      "remarkIdx": ["unknown"]
+    },
+    {
+      "time": 39959,
+      "lyric": "I'll go against my sorrow (Sorrow)",
+      "tlyric": "我将会克服我的悲伤（悲伤）",
+      "remarkIdx": ["against", "sorrow"]
+    },
+    {
+      "time": 43319,
+      "lyric": "Mighty river",
+      "tlyric": "澎湃的河流",
+      "remarkIdx": ["mighty", "river"]
+    },
+    {
+      "time": 45438,
+      "lyric": "Release my soul",
+      "tlyric": "释放我的灵魂",
+      "remarkIdx": ["release", "soul"]
+    },
+    {
+      "time": 46721,
+      "lyric": "Out to the open gold",
+      "tlyric": "请将我带去辽阔的黄金之地",
+      "remarkIdx": ["out", "gold"]
+    },
+    {
+      "time": 48918,
+      "lyric": "I can't stay here forever",
+      "tlyric": "我不想永远待在此地",
+      "remarkIdx": ["stay", "forever"]
+    },
+    {
+      "time": 51545,
+      "lyric": "In this hollow (Hollow)",
+      "tlyric": "这里过于空洞（空洞）",
+      "remarkIdx": ["hollow"]
+    },
+    {
+      "time": 53990,
+      "lyric": "Oh, river take me out",
+      "tlyric": "啊，河流，请带我离开",
+      "remarkIdx": ["river", "take out"]
+    },
+    {
+      "time": 56673,
+      "lyric": "Take me away, river",
+      "tlyric": "将我带去远方吧，河流",
+      "remarkIdx": ["take away", "river"]
+    },
+    {
+      "time": 59518,
+      "lyric": "Oh, river take me out",
+      "tlyric": "啊，河流，请带我离开",
+      "remarkIdx": ["river", "take out"]
+    },
+    {
+      "time": 62434,
+      "lyric": "Take me out to the unknown",
+      "tlyric": "带我去向未知的彼方",
+      "remarkIdx": ["take out", "unknown"]
+    },
+    {
+      "time": 64767,
+      "lyric": "Oh, river take me out",
+      "tlyric": "啊，河流，请带我离开",
+      "remarkIdx": ["river", "take out"]
+    },
+    {
+      "time": 67599,
+      "lyric": "Take me away, river",
+      "tlyric": "将我带去远方吧，河流",
+      "remarkIdx": ["take away", "river"]
+    },
+    {
+      "time": 70352,
+      "lyric": "Oh, river take me out",
+      "tlyric": "啊，河流，请带我离开",
+      "remarkIdx": ["river", "take out"]
+    },
+    {
+      "time": 73218,
+      "lyric": "Take me out to the unknown (Out to the unknown)",
+      "tlyric": "带我去向未知的彼方（去向未知的彼方）",
+      "remarkIdx": ["take out", "unknown"]
+    },
+    {
+      "time": 85340,
+      "lyric": "Out (right) into the ocean",
+      "tlyric": "直到进入那片海洋",
+      "remarkIdx": ["ocean"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 36930921,
+      "status": 99,
+      "demand": 1,
+      "userid": 115413001,
+      "nickname": "Aki惊蛰",
+      "uptime": 1684254528630
+    },
+    "lyricUser": {
+      "id": 35537978,
+      "status": 99,
+      "demand": 0,
+      "userid": 382744871,
+      "nickname": "已过期i",
+      "uptime": 1676400628475
+    },
+    "lrc": {
+      "version": 2,
+      "lyric": "[00:00.000] 作词 : Anonymouz\n[00:01.000] 作曲 : Anonymouz/Valerie James/Peter James\n[00:11.901] Water running stronger, rougher\n[00:14.546] Holding on to any any anything\n[00:17.051] All I want is to survive it\n[00:20.001] If I let go, will it be the end of me\n[00:22.495] Got to move on\n[00:25.428] Held on too long\n[00:28.214] Sweep me away\n[00:30.821]\n[00:30.950] Out into the ocean\n[00:32.402]\n[00:32.600] Mighty river\n[00:34.459] Release my soul\n[00:35.806] I need to see the world\n[00:38.055] To the unknown\n[00:39.959] I’ll go against my sorrow (Sorrow)\n[00:43.008]\n[00:43.319] Mighty river\n[00:45.438] Release my soul\n[00:46.721] Out to the open gold\n[00:48.918] I can’t stay here forever\n[00:51.545] In this hollow (Hollow)\n[00:53.825]\n[00:53.990] Oh river take me out\n[00:56.673] Take me away river\n[00:59.518] Oh river take me out\n[01:02.434] Take me out to the unknown\n[01:04.652]\n[01:04.767] Oh river take me out\n[01:07.599] Take me away river\n[01:10.352] Oh river take me out\n[01:13.218] Take me out to the unknown (Out to the unknown)\n[01:18.072]\n[01:25.340] Out into the ocean\n"
+    },
+    "tlyric": {
+      "version": 3,
+      "lyric": "[by:Aki惊蛰]\n[00:11.901]水流愈加 湍急凶猛\n[00:14.546]让我想去抓住一切\n[00:17.051]我仅想要活下来\n[00:20.001]若就此放手 是否这将成为我的末日\n[00:22.495]该继续前行了\n[00:25.428]我在此停留太久\n[00:28.214]将我带去远方\n[00:30.821]\n[00:30.950]进入这片海洋\n[00:32.402]\n[00:32.600]强大的河流\n[00:34.459]冲刷我的灵魂\n[00:35.806]我想看遍这个\n[00:38.055]未知的世界\n[00:39.959]我将会克服我的悲伤（悲伤）\n[00:43.008]\n[00:43.319]强大的河流\n[00:45.438]冲刷我的灵魂\n[00:46.721]将我带至辽阔的黄金之地\n[00:48.918]我不想永久待于此地\n[00:51.545]这实在过于空洞（空洞）\n[00:53.825]\n[00:53.990]啊河流 请带我离开\n[00:56.673]带我去向远方吧河流\n[00:59.518]啊河流 请带我离开\n[01:02.434]带我去向未知的世界\n[01:04.652]\n[01:04.767]啊河流 请带我离开\n[01:07.599]带我去向远方吧河流\n[01:10.352]啊河流 请带我离开\n[01:13.218]带我去向未知的世界（去向未知的世界）\n[01:18.072]\n[01:25.340]进入这片海洋\n"
+    },
+    "code": 200
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Things You Said",
+      "tlyric": "你说过的话",
+      "singer": "Cody Fry / Abby Cates",
+      "remarkIdx": ["Thing", "Said"]
+    },
+    {
+      "time": 16099,
+      "lyric": "I was walking in the woods one day",
+      "tlyric": "有一天梦里 我穿梭在幽暗的森林",
+      "remarkIdx": ["walk", "woods"]
+    },
+    {
+      "time": 21008,
+      "lyric": "Trying to keep the ghosts at bay",
+      "tlyric": "努力阻止鬼魂向我靠近",
+      "remarkIdx": ["ghost", "bay"]
+    },
+    {
+      "time": 24072,
+      "lyric": "Then I thought I saw your face but it was just leaves",
+      "tlyric": "接着我似乎看到了你的脸 然而只是掠过的树叶",
+      "remarkIdx": ["face","leaves"]
+    },
+    {
+      "time": 31097,
+      "lyric": "I see you in the strangest things",
+      "tlyric": "我发现你卷入了最奇异的事情",
+      "remarkIdx": ["strange", "thing"]
+    },
+    {
+      "time": 35069,
+      "lyric": "Your voice in every bird that sings",
+      "tlyric": "你的声音与鸟儿的歌声汇聚在一起",
+      "remarkIdx": ["voice", "every", "bird"]
+    },
+    {
+      "time": 39049,
+      "lyric": "Can they hear it echoing or is that just me?",
+      "tlyric": "它们能听见你的回音吗? 难道这是我的错觉？",
+      "remarkIdx": ["hear", "echoing"]
+    },
+    {
+      "time": 47081,
+      "lyric": "I don't believe in haunted houses",
+      "tlyric": "我不相信鬼屋的真实存在",
+      "remarkIdx": ["haunted", "house"]
+    },
+    {
+      "time": 54084,
+      "lyric": "But I still see you there on the bed",
+      "tlyric": "可我还能清晰地看到 你在床边的身影",
+      "remarkIdx": ["see", "bed"]
+    },
+    {
+      "time": 62060,
+      "lyric": "You didn't leave me much but the things you said",
+      "tlyric": "你并没有留下太多东西 除了你说过的话语",
+      "remarkIdx": ["leave", "much"]
+    },
+    {
+      "time": 71026,
+      "lyric": "They stayed, they stayed",
+      "tlyric": "遗留了下来 遗留了下来",
+      "remarkIdx": ["stay"]
+    },
+    {
+      "time": 83043,
+      "lyric": "I was driving through the streets one night",
+      "tlyric": "有一天晚上 我开车经过熟悉的街道",
+      "remarkIdx": ["through"]
+    },
+    {
+      "time": 87010,
+      "lyric": "At the corner with the bar you like",
+      "tlyric": "在你常去的那家酒吧的拐角处",
+      "remarkIdx": ["corner", "bar"]
+    },
+    {
+      "time": 91000,
+      "lyric": "I thought I saw the car you drive but it wasn't green",
+      "tlyric": "我好像看到了你开的车 但并不是你那辆绿色",
+      "remarkIdx": ["drive", "green"]
+    },
+    {
+      "time": 98039,
+      "lyric": "These neighborhoods all look the same",
+      "tlyric": "这些相似的街区 如此单调沉闷",
+      "remarkIdx": ["neighborhood", "same"]
+    },
+    {
+      "time": 102013,
+      "lyric": "That's why you had to move away",
+      "tlyric": "或许这就是你必须搬走的原因",
+      "remarkIdx": ["move", "away"]
+    },
+    {
+      "time": 105084,
+      "lyric": "When people ask that's what I say",
+      "tlyric": "当人们问起这个问题 这便是我的回答",
+      "remarkIdx": ["people", "ask"]
+    },
+    {
+      "time": 108018,
+      "lyric": "But they know I'm lying",
+      "tlyric": "可他们知道我在说谎",
+      "remarkIdx": ["know", "lie"]
+    },
+    {
+      "time": 114030,
+      "lyric": "I don't know who lives in these houses",
+      "tlyric": "我不知道谁会住进这些房子",
+      "remarkIdx": ["live"]
+    },
+    {
+      "time": 121023,
+      "lyric": "But you still live inside of my head",
+      "tlyric": "但你始终徘徊在我的脑海",
+      "remarkIdx": ["inside"]
+    },
+    {
+      "time": 128098,
+      "lyric": "You didn't leave me much but the things you said",
+      "tlyric": "你并没有留下很多东西 但你说过的话语",
+      "remarkIdx": ["thing", "said"]
+    },
+    {
+      "time": 137070,
+      "lyric": "They stayed, they stayed",
+      "tlyric": "遗留了下来 遗留了下来",
+      "remarkIdx": ["stay"]
+    },
+    {
+      "time": 149048,
+      "lyric": "I still see you",
+      "tlyric": "我依然能看见你",
+      "remarkIdx": ["still", "see"]
+    },
+    {
+      "time": 153021,
+      "lyric": "You still see me",
+      "tlyric": "你也能看见我",
+      "remarkIdx": ["still", "see"]
+    },
+    {
+      "time": 157056,
+      "lyric": "But we don't see each other anymore",
+      "tlyric": "可我们早已不再见面联系",
+      "remarkIdx": ["other", "each other", "anymore"]
+    },
+    {
+      "time": 164017,
+      "lyric": "I still love you",
+      "tlyric": "我依然爱着你",
+      "remarkIdx": ["still", "love"]
+    },
+    {
+      "time": 167086,
+      "lyric": "You still love me",
+      "tlyric": "你也还爱着我",
+      "remarkIdx": ["still", "love"]
+    },
+    {
+      "time": 172045,
+      "lyric": "We can't love each other anymore",
+      "tlyric": "可我们彼此再也无法相爱",
+      "remarkIdx": ["each", "other"]
+    },
+    {
+      "time": 177081,
+      "lyric": "Can we?",
+      "tlyric": "我们还有机会吗？",
+      "remarkIdx": ["Can"]
+    },
+    {
+      "time": 210031,
+      "lyric": "I don't believe in haunted houses",
+      "tlyric": "我不相信鬼屋的真实存在",
+      "remarkIdx": ["believe", "haunted"]
+    },
+    {
+      "time": 217018,
+      "lyric": "But I still see you there on the bed",
+      "tlyric": "可我还能清晰地看到 你在床边的身影",
+      "remarkIdx": ["see", "bed"]
+    },
+    {
+      "time": 225000,
+      "lyric": "I wish I hadn't said all the things I said",
+      "tlyric": "我多么希望 我没说过那些伤人的话",
+      "remarkIdx": ["wish", "all"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 38299798,
+      "status": 99,
+      "demand": 1,
+      "userid": 326203473,
+      "nickname": "聿立",
+      "uptime": 1690058358308
+    },
+    "lyricUser": {
+      "id": 38243393,
+      "status": 99,
+      "demand": 0,
+      "userid": 326203473,
+      "nickname": "聿立",
+      "uptime": 1689926668049
+    },
+    "lrc": {
+      "version": 3,
+      "lyric": "[00:00.00] 作词 : Cody Fry\n[00:01.00] 作曲 : Cody Fry\n[00:16.99]I was walking in the woods one day\n[00:21.08]Trying to keep the ghosts at bay\n[00:24.72]Then I thought I saw your face but it was just leaves\n[00:31.97]I see you in the strangest things\n[00:35.69]Your voice in every bird that sings\n[00:39.49]Can they hear it echoing or is that just me?\n[00:47.80]\n[00:47.81]I don't believe in haunted houses\n[00:54.84]But I still see you there on the bed\n[01:02.60]You didn't leave me much but the things you said\n[01:11.26]They stayed, they stayed\n[01:17.32]\n[01:23.43]I was driving through the streets one night\n[01:27.10]At the corner with the bar you like\n[01:31.00]I thought I saw the car you drive but it wasn't green\n[01:38.39]These neighborhoods all look the same\n[01:42.13]That's why you had to move away\n[01:45.84]When people ask that's what I say\n[01:48.18]But they know I'm lying\n[01:52.98]\n[01:54.30]I don't know who lives in these houses\n[02:01.23]But you still live inside of my head\n[02:08.98]You didn't leave me much but the things you said\n[02:17.70]They stayed, they stayed\n[02:25.55]\n[02:29.48]I still see you\n[02:33.21]You still see me\n[02:37.56]But we don't see each other anymore\n[02:44.17]I still love you\n[02:47.86]You still love me\n[02:52.45]We can't love each other anymore\n[02:57.81]Can we?\n[03:00.06]\n[03:30.31]I don't believe in haunted houses\n[03:37.18]But I still see you there on the bed\n[03:45.00]I wish I hadn't said all the things I said\n"
+    },
+    "tlyric": {
+      "version": 4,
+      "lyric": "[by:聿立]\n[00:16.99]有一天梦里 我穿梭在幽暗的森林\n[00:21.08]努力阻止鬼魂向我靠近\n[00:24.72]接着我似乎看到了你的脸 然而只是掠过的树叶\n[00:31.97]我发现你卷入了最奇异的事情\n[00:35.69]你的声音与鸟儿的歌声汇聚在一起\n[00:39.49]它们能听见你的回音吗? 难道这是我的错觉？\n[00:47.80]\n[00:47.81]我不相信鬼屋的真实存在\n[00:54.84]可我还能清晰地看到 你在床边的身影\n[01:02.60]你并没有留下太多东西 除了你说过的话语\n[01:11.26]遗留了下来 遗留了下来\n[01:17.32]\n[01:23.43]有一天晚上 我开车经过熟悉的街道\n[01:27.10]在你常去的那家酒吧的拐角处\n[01:31.00]我好像看到了你开的车 但并不是你那辆绿色\n[01:38.39]这些相似的街区 如此单调沉闷\n[01:42.13]或许这就是你必须搬走的原因\n[01:45.84]当人们问起这个问题 这便是我的回答\n[01:48.18]可他们知道我在说谎\n[01:52.98]\n[01:54.30]我不知道谁会住进这些房子\n[02:01.23]但你始终徘徊在我的脑海\n[02:08.98]你并没有留下很多东西 但你说过的话语\n[02:17.70]遗留了下来 遗留了下来\n[02:25.55]\n[02:29.48]我依然能看见你\n[02:33.21]你也能看见我\n[02:37.56]可我们早已不再见面联系\n[02:44.17]我依然爱着你\n[02:47.86]你也还爱着我\n[02:52.45]可我们彼此再也无法相爱\n[02:57.81]我们还有机会吗？\n[03:00.06]\n[03:30.31]我不相信鬼屋的真实存在\n[03:37.18]可我还能清晰地看到 你在床边的身影\n[03:45.00]我多么希望 我没说过那些伤人的话\n"
+    },
+    "code": 200
+  }
+}

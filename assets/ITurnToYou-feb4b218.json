@@ -1,0 +1,322 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "I Turn to You",
+      "tlyric": "心之所向",
+      "singer": "Christina Aguilera",
+      "remarkIdx": ["turn", "turn to"]
+    },
+    {
+      "time": 28000,
+      "lyric": "When I'm lost in the rain",
+      "tlyric": "当我迷失在雨中",
+      "remarkIdx": ["lost", "rain"]
+    },
+    {
+      "time": 36000,
+      "lyric": "In your eyes I know I'll find the light",
+      "tlyric": "透过你的双眸，我知道我定能找到那束光",
+      "remarkIdx": ["eye", "know"]
+    },
+    {
+      "time": 40000,
+      "lyric": "To light my way",
+      "tlyric": "照亮我的道路",
+      "remarkIdx": ["light", "way"]
+    },
+    {
+      "time": 43000,
+      "lyric": "And when I'm scared and losing ground",
+      "tlyric": "每当我恐惧和失利",
+      "remarkIdx": ["scared", "lose", "lose ground"]
+    },
+    {
+      "time": 51000,
+      "lyric": "When my world is going crazy",
+      "tlyric": "每当我的世界逐渐失控",
+      "remarkIdx": ["world", "crazy"]
+    },
+    {
+      "time": 55000,
+      "lyric": "You can turn it all around",
+      "tlyric": "你总能扭转一切困境",
+      "remarkIdx": ["turn around", "all"]
+    },
+    {
+      "time": 60000,
+      "lyric": "And when I'm down, you're there pushing me to the top",
+      "tlyric": "每当我意志消沉，你总是在我身旁，鞭策我不断攀登",
+      "remarkIdx": ["down", "push"]
+    },
+    {
+      "time": 67000,
+      "lyric": "You're always there giving me all you've got",
+      "tlyric": "你总是在一旁，给予我你所拥有的一切",
+      "remarkIdx": ["always", "give"]
+    },
+    {
+      "time": 73000,
+      "lyric": "For a shield from the storm",
+      "tlyric": "像是风雨中的庇护",
+      "remarkIdx": ["shield", "storm"]
+    },
+    {
+      "time": 77000,
+      "lyric": "For a friend, for a love",
+      "tlyric": "像朋友，亦像爱人",
+      "remarkIdx": ["friend", "love"]
+    },
+    {
+      "time": 80000,
+      "lyric": "To keep me safe and warm",
+      "tlyric": "保护我，给我温暖",
+      "remarkIdx": ["keep", "safe"]
+    },
+    {
+      "time": 85000,
+      "lyric": "I turn to you",
+      "tlyric": "你是我心之所向",
+      "remarkIdx": ["turn", "turn to"]
+    },
+    {
+      "time": 88000,
+      "lyric": "For the strength to be strong",
+      "tlyric": "你是那股让我坚强的力量",
+      "remarkIdx": ["strength", "strong"]
+    },
+    {
+      "time": 92000,
+      "lyric": "For the will to carry on",
+      "tlyric": "你是那份让我坚持下去的意志",
+      "remarkIdx": ["will", "carry on"]
+    },
+    {
+      "time": 97000,
+      "lyric": "For everything you do, for everything that's true",
+      "tlyric": "你为我付出的一切，都如此真切",
+      "remarkIdx": ["everything", "true"]
+    },
+    {
+      "time": 103000,
+      "lyric": "I turn to you",
+      "tlyric": "你是我心之所向",
+      "remarkIdx": ["turn", "turn to"]
+    },
+    {
+      "time": 111000,
+      "lyric": "When I lose the will to win",
+      "tlyric": "当我失去胜利的斗志",
+      "remarkIdx": ["lose", "will", "win"]
+    },
+    {
+      "time": 119000,
+      "lyric": "I just reach for you and",
+      "tlyric": "我总是会奔向你",
+      "remarkIdx": ["reach", "reach for"]
+    },
+    {
+      "time": 122000,
+      "lyric": "I can reach the sky again",
+      "tlyric": "便拥有了再次翱翔的信心",
+      "remarkIdx": ["sky", "again"]
+    },
+    {
+      "time": 126000,
+      "lyric": "I can do anything",
+      "tlyric": "变得无所不能",
+      "remarkIdx": ["can", "anything"]
+    },
+    {
+      "time": 134000,
+      "lyric": "'Cause your love is so amazing",
+      "tlyric": "因为你的爱是如此惊人",
+      "remarkIdx": ["'cause", "love", "amazing"]
+    },
+    {
+      "time": 137000,
+      "lyric": "'Cause your love inspires me",
+      "tlyric": "因为你的爱激励了我",
+      "remarkIdx": ["'cause", "love", "inspire"]
+    },
+    {
+      "time": 143000,
+      "lyric": "And when I need a friend",
+      "tlyric": "当我需要朋友时",
+      "remarkIdx": ["need", "friend"]
+    },
+    {
+      "time": 145000,
+      "lyric": "You're always on my side",
+      "tlyric": "你总是在我身边",
+      "remarkIdx": ["always", "side"]
+    },
+    {
+      "time": 150000,
+      "lyric": "Giving me faith",
+      "tlyric": "给予我信念",
+      "remarkIdx": ["give", "faith"]
+    },
+    {
+      "time": 152000,
+      "lyric": "That gets me through the night",
+      "tlyric": "伴我渡过黑夜",
+      "remarkIdx": ["get through", "night"]
+    },
+    {
+      "time": 156000,
+      "lyric": "For a shield from the storm",
+      "tlyric": "像是风雨中的庇护",
+      "remarkIdx": ["shield", "storm"]
+    },
+    {
+      "time": 160000,
+      "lyric": "For a friend, for a love",
+      "tlyric": "像朋友，亦像爱人",
+      "remarkIdx": ["friend", "love"]
+    },
+    {
+      "time": 163000,
+      "lyric": "To keep me safe and warm",
+      "tlyric": "保护我，给我温暖",
+      "remarkIdx": ["safe", "warm"]
+    },
+    {
+      "time": 168000,
+      "lyric": "I turn to you",
+      "tlyric": "你是我心之所向",
+      "remarkIdx": ["turn", "turn to"]
+    },
+    {
+      "time": 172000,
+      "lyric": "For the strength to be strong",
+      "tlyric": "你是那股让我坚强的力量",
+      "remarkIdx": ["strength", "strong"]
+    },
+    {
+      "time": 175000,
+      "lyric": "For the will to carry on",
+      "tlyric": "你是那份让我坚持下去的意志",
+      "remarkIdx": ["will", "carry on"]
+    },
+    {
+      "time": 181000,
+      "lyric": "For everything you do",
+      "tlyric": "你为我付出了一切",
+      "remarkIdx": ["everything"]
+    },
+    {
+      "time": 184000,
+      "lyric": "I turn to you",
+      "tlyric": "你是我心之所向",
+      "remarkIdx": ["turn", "turn to"]
+    },
+    {
+      "time": 190000,
+      "lyric": "For the arms to be my shelter",
+      "tlyric": "因为你的臂湾就是我的庇护所",
+      "remarkIdx": ["arm", "shelter"]
+    },
+    {
+      "time": 193000,
+      "lyric": "Through all the rain",
+      "tlyric": "让我避过所有的雨水",
+      "remarkIdx": ["through", "rain"]
+    },
+    {
+      "time": 196000,
+      "lyric": "For truth that will never change",
+      "tlyric": "因为真理永恒不变",
+      "remarkIdx": ["truth", "never", "change"]
+    },
+    {
+      "time": 200000,
+      "lyric": "For someone to lean on",
+      "tlyric": "因为你是我的依靠",
+      "remarkIdx": ["someone", "lean", "lean on"]
+    },
+    {
+      "time": 205000,
+      "lyric": "For a heart I can rely on through anything",
+      "tlyric": "因为你的真心可以支撑我度过一切",
+      "remarkIdx": ["heart", "rely", "anything"]
+    },
+    {
+      "time": 211000,
+      "lyric": "For that one who I can run to",
+      "tlyric": "我只想朝你奔去",
+      "remarkIdx": ["run"]
+    },
+    {
+      "time": 220000,
+      "lyric": "For a shield from the storm",
+      "tlyric": "像是风雨中的庇护",
+      "remarkIdx": ["shield", "storm"]
+    },
+    {
+      "time": 224000,
+      "lyric": "For a friend, for a love",
+      "tlyric": "像朋友，亦像爱人",
+      "remarkIdx": ["friend", "love"]
+    },
+    {
+      "time": 227000,
+      "lyric": "To keep me safe and warm",
+      "tlyric": "保护我，给我温暖",
+      "remarkIdx": ["keep", "safe"]
+    },
+    {
+      "time": 232000,
+      "lyric": "I turn to you",
+      "tlyric": "你是我心之所向",
+      "remarkIdx": ["turn", "turn to"]
+    },
+    {
+      "time": 235000,
+      "lyric": "For the strength to be strong",
+      "tlyric": "你是那股让我坚强的力量",
+      "remarkIdx": ["strength", "strong"]
+    },
+    {
+      "time": 238000,
+      "lyric": "For the will to carry on",
+      "tlyric": "你是那份让我坚持下去的意志",
+      "remarkIdx": ["will", "carry on"]
+    },
+    {
+      "time": 243000,
+      "lyric": "For everything you do, for everything that's true",
+      "tlyric": "你为我付出的一切，都如此真切",
+      "remarkIdx": ["everything", "true"]
+    },
+    {
+      "time": 257000,
+      "lyric": "I turn to you",
+      "tlyric": "你是我心之所向",
+      "remarkIdx": ["turn", "turn to"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 41910669,
+      "status": 99,
+      "demand": 1,
+      "userid": 77455367,
+      "nickname": "SusanHerh",
+      "uptime": 1476146173323
+    },
+    "lrc": {
+      "version": 9,
+      "lyric": "[00:00.00] 作词 : Warren\n[00:01.00] 作曲 : Diane Warren\n[00:28.00]When I'm lost in the rain,\n[00:36.00]In your eyes I know I'll find the light\n[00:40.00]To light my way.\n[00:43.00]And when I'm scared,\n[00:47.00]And losing ground,\n[00:51.00]When my world is going crazy,\n[00:55.00]You can turn it all around.\n[01:00.00]And when I'm down you're there\n[01:03.00]- pushing me to the top, girl.\n[01:07.00]You're always there,\n[01:09.00]giving me all you've got.\n[01:13.00]For a shield from the storm,\n[01:17.00]For a friend, for a love\n[01:20.00]to keep me safe and warm\n[01:25.00]I turn to you.\n[01:28.00]For the strength to be strong,\n[01:32.00]For the will to carry on\n[01:37.00]For everything you do,\n[01:40.00]for everything that's true\n[01:43.00]I turn to you.\n[01:51.00]When I lose the will to win,\n[01:59.00]I just reach for you and\n[02:02.00]I can reach the sky again.\n[02:06.00]I can do anything\n[02:14.00]'Cause your love is so amazing,\n[02:17.00]'Cause your love inspires me.\n[02:23.00]And when I need a friend,\n[02:25.00]You're always on my side\n[02:30.00]Giving me faith\n[02:32.00]that gets me through the night.\n[02:36.00]For a shield from the storm,\n[02:40.00]For a friend, for a love\n[02:43.00]to keep me safe and warm\n[02:48.00]I turn to you.\n[02:52.00]For the strength to be strong,\n[02:55.00]For the will to carry on\n[03:01.00]For everything you do,\n[03:04.00]I turn to you.\n[03:10.00]For the arms to be my shelter\n[03:13.00]through all the rain,\n[03:16.00]For truth that will never change,\n[03:20.00]For someone to lean on,\n[03:25.00]For a heart I can rely on through anything,\n[03:31.00]For that one who I can run to...\n[03:40.00]For a shield from the storm,\n[03:44.00]For a friend, for a love\n[03:47.00]to keep me safe and warm\n[03:52.00]I turn to you.\n[03:55.00]For the strength to be strong,\n[03:58.00]For the will to carry on\n[04:03.00]For everything you do,\n[04:07.00]for everything that's true\n[04:10.00]For everything you do,\n[04:14.00]for everything that's true\n[04:17.00]I turn to you.\n"
+    },
+    "tlyric": {
+      "version": 2,
+      "lyric": "[by:SusanHerh]\n[00:28.00]当我迷失在雨中\n[00:36.00]透过你的双眸 ，我知道自己定会找到明灯\n[00:40.00]照亮我的道路\n[00:43.00]当我恐惧\n[00:47.00]当我失去一切\n[00:51.00]当我的世界逐渐疯狂\n[00:55.00]你总能扭转乾坤\n[01:00.00]当我意志消沉你在我身旁\n[01:03.00]鞭策我不断攀登\n[01:07.00]你总是在一旁\n[01:09.00]给予我你所拥有的一切\n[01:13.00]像是风雨中的庇护\n[01:17.00]像朋友， 亦像恋人\n[01:20.00]保护我，给我温暖\n[01:25.00]我心属于你\n[01:28.00]因为那股让我变强的力量\n[01:32.00]因为让我坚持下去的意志\n[01:37.00]因为你所做的一切\n[01:40.00]因为所有真实的一切\n[01:43.00]我心属于你\n[01:51.00]当我失去成功的斗志\n[01:59.00]我总是会奔向你\n[02:02.00]便拥有了再次翱翔的信心\n[02:06.00]变得无所不能\n[02:14.00]因为你的爱是如此神奇\n[02:17.00]因为你的爱激励了我\n[02:23.00]当我需要朋友时\n[02:25.00]你总是在我身边\n[02:30.00]给予我信念\n[02:32.00]伴我渡过黑夜\n[02:36.00]像是风雨中的庇护\n[02:40.00]像朋友， 亦像恋人\n[02:43.00]保护我，给我温暖\n[02:48.00]我心属于你\n[02:52.00]因为那股让我变强的力量\n[02:55.00]因为让我坚持下去的意志\n[03:01.00]因为你所做的一切，因为所有真实的一切\n[03:04.00]我心属于你\n[03:10.00]因为你的臂湾就是我的庇护所\n[03:13.00]让我避过所有的雨水\n[03:16.00]因为永恒不变的真理\n[03:20.00]因为你是我的依靠\n[03:25.00]因为你的真心可以支撑我度过一切\n[03:31.00]我只想朝你奔去……\n[03:40.00]像是风雨中的庇护\n[03:44.00]像朋友， 亦像恋人\n[03:47.00]保护我，给我温暖\n[03:52.00]我心属于你\n[03:55.00]因为那股让我变强的力量\n[03:58.00]因为让我坚持下去的意志\n[04:03.00]因为你所做的一切\n[04:07.00]因为所有真实的一切\n[04:10.00]因为你所做的一切\n[04:14.00]因为所有真实的一切\n[04:17.00]我心属于你"
+    },
+    "code": 200
+  }
+}

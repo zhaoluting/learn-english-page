@@ -1,0 +1,280 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "The Best Day",
+      "tlyric": "最幸福的一天",
+      "singer": "Taylor Swift",
+      "remarkIdx": ["best"]
+    },
+    {
+      "time": 17920,
+      "lyric": "I'm five years old and it's getting cold",
+      "tlyric": "记得那年五岁，天气转凉",
+      "remarkIdx": ["year", "years old", "cold"]
+    },
+    {
+      "time": 22130,
+      "lyric": "I've got a big coat on",
+      "tlyric": "我已经套上大衣",
+      "remarkIdx": ["get on", "coat"]
+    },
+    {
+      "time": 25600,
+      "lyric": "I hear your laugh and look up smiling at you",
+      "tlyric": "我听见你的笑声，便抬头对你笑",
+      "remarkIdx": ["laugh", "look up", "smiling"]
+    },
+    {
+      "time": 30460,
+      "lyric": "I run and run",
+      "tlyric": "我跑呀跑",
+      "remarkIdx": ["run"]
+    },
+    {
+      "time": 33150,
+      "lyric": "Past the pumpkin patch and the tractor rides",
+      "tlyric": "穿过拖拉机轰隆作响的南瓜田",
+      "remarkIdx": ["pumpkin", "patch"]
+    },
+    {
+      "time": 37000,
+      "lyric": "Look now, the sky is gold",
+      "tlyric": "仰望着泛金光的天空",
+      "remarkIdx": ["sky", "gold"]
+    },
+    {
+      "time": 40430,
+      "lyric": "I hug your legs and fall asleep on the way home",
+      "tlyric": "在回家路上，我抱着你的腿睡着了",
+      "remarkIdx": ["asleep", "on one's way"]
+    },
+    {
+      "time": 48160,
+      "lyric": "I don't know why all the trees change in the fall",
+      "tlyric": "那时我还不知为何树在秋天都变了样",
+      "remarkIdx": ["change", "fall"]
+    },
+    {
+      "time": 55330,
+      "lyric": "I know that you're not scared of anything at all",
+      "tlyric": "但我相信你不惧世间一切",
+      "remarkIdx": ["know", "scare"]
+    },
+    {
+      "time": 62840,
+      "lyric": "Don't know if Snow White's house is near or far away",
+      "tlyric": "我不知道白雪公主的小屋在林中何处",
+      "remarkIdx": ["near", "far away"]
+    },
+    {
+      "time": 69510,
+      "lyric": "But I know I had the best day",
+      "tlyric": "但我知道最幸福的一天",
+      "remarkIdx": ["best", "day"]
+    },
+    {
+      "time": 72550,
+      "lyric": "With you today",
+      "tlyric": "是有你相伴的今天",
+      "remarkIdx": ["with", "today"]
+    },
+    {
+      "time": 82820,
+      "lyric": "I'm thirteen now and don't know how my friends could be so mean",
+      "tlyric": "十三岁那年，我不明白朋友们怎么会如此刻薄",
+      "remarkIdx": ["how could", "mean"]
+    },
+    {
+      "time": 90720,
+      "lyric": "I come home crying and you hold me tight",
+      "tlyric": "我哭着跑回家，是你紧紧拥我入怀",
+      "remarkIdx": ["crying", "tight"]
+    },
+    {
+      "time": 96020,
+      "lyric": "And grab the keys",
+      "tlyric": "抓起车钥匙",
+      "remarkIdx": ["grab", "keys"]
+    },
+    {
+      "time": 98120,
+      "lyric": "And we drive and drive",
+      "tlyric": "我们开啊开",
+      "remarkIdx": ["drive"]
+    },
+    {
+      "time": 101095,
+      "lyric": "Until we've found a town far enough away",
+      "tlyric": "一直开到足够远的一个镇子",
+      "remarkIdx": ["found", "enough"]
+    },
+    {
+      "time": 105870,
+      "lyric": "And we talk and window shop till I've forgotten all their names",
+      "tlyric": "我们边聊边逛街，直到我忘记她们的名字",
+      "remarkIdx": ["window shop", "till", "forget"]
+    },
+    {
+      "time": 113340,
+      "lyric": "I don't know who I'm gonna talk to now at school",
+      "tlyric": "我不知道以后在学校还能和谁聊天",
+      "remarkIdx": ["gonna", "talk"]
+    },
+    {
+      "time": 120870,
+      "lyric": "But I know I'm laughing on the car ride home with you",
+      "tlyric": "可我知道和你一起回家的路上，我笑得很开心",
+      "remarkIdx": ["laugh", "ride"]
+    },
+    {
+      "time": 128180,
+      "lyric": "Don't know how long it's gonna take to feel ok",
+      "tlyric": "不知道我的心情还有多久才会好转",
+      "remarkIdx": ["gonna", "take to", "feel"]
+    },
+    {
+      "time": 134670,
+      "lyric": "But I know I had the best day with you today",
+      "tlyric": "但我知道，今天有你在身旁，是我最幸福的一天",
+      "remarkIdx": ["know", "today"]
+    },
+    {
+      "time": 144020,
+      "lyric": "I have an excellent father",
+      "tlyric": "我拥有最棒的爸爸",
+      "remarkIdx": ["excellent", "father"]
+    },
+    {
+      "time": 147940,
+      "lyric": "His strength is making me stronger",
+      "tlyric": "他的坚韧使我更加坚强",
+      "remarkIdx": ["strength", "stronger"]
+    },
+    {
+      "time": 152080,
+      "lyric": "God smiles on my little brother",
+      "tlyric": "上帝眷顾我的小弟弟",
+      "remarkIdx": ["god", "smile", "smile on"]
+    },
+    {
+      "time": 155220,
+      "lyric": "Inside and out he's better than I am",
+      "tlyric": "里里外外他都比我更加优秀",
+      "remarkIdx": ["inside", "better"]
+    },
+    {
+      "time": 159800,
+      "lyric": "I grew up in a pretty house",
+      "tlyric": "我在漂亮的房子里茁壮成长",
+      "remarkIdx": ["grow", "grow up", "pretty"]
+    },
+    {
+      "time": 164765,
+      "lyric": "And I had space to run",
+      "tlyric": "有开阔空间让我奔跑",
+      "remarkIdx": ["space"]
+    },
+    {
+      "time": 167030,
+      "lyric": "And I have the best day with you",
+      "tlyric": "我和你度过了最幸福的一天",
+      "remarkIdx": ["best", "day"]
+    },
+    {
+      "time": 175030,
+      "lyric": "There is a video I found from back when I was three",
+      "tlyric": "在屋后我找到一卷我三岁时的录像",
+      "remarkIdx": ["video", "found"]
+    },
+    {
+      "time": 183050,
+      "lyric": "You set up a paint set in the kitchen and you're talking to me",
+      "tlyric": "那时你在厨房里支起画板，对我说道：",
+      "remarkIdx": ["set up", "set in", "paint"]
+    },
+    {
+      "time": 190720,
+      "lyric": "It's the age of princesses and pirate ships and the seven dwarfs",
+      "tlyric": "这是白雪公主、海盗船和七个小矮人的时代",
+      "remarkIdx": ["pirate", "dwarf"]
+    },
+    {
+      "time": 198340,
+      "lyric": "Daddy's smart and you're the prettiest lady in the whole wide world",
+      "tlyric": "爸爸很聪明，你是这广阔世界上最美丽的女士",
+      "remarkIdx": ["smart"]
+    },
+    {
+      "time": 206400,
+      "lyric": "Now I know why all the trees change in the fall",
+      "tlyric": "如今我已明白为何树在秋天都会变样",
+      "remarkIdx": ["change", "fall"]
+    },
+    {
+      "time": 213530,
+      "lyric": "I know you were on my side",
+      "tlyric": "你总会站在我身旁",
+      "remarkIdx": ["know", "side"]
+    },
+    {
+      "time": 217145,
+      "lyric": "Even when I was wrong",
+      "tlyric": "即便是我犯了错",
+      "remarkIdx": ["wrong"]
+    },
+    {
+      "time": 220760,
+      "lyric": "And I love you for giving me your eyes",
+      "tlyric": "我爱你给予的细心呵护",
+      "remarkIdx": ["love", "eye"]
+    },
+    {
+      "time": 225120,
+      "lyric": "Staying back and watching me shine",
+      "tlyric": "站在我身后，看着我闪耀光芒吧",
+      "remarkIdx": ["back"]
+    },
+    {
+      "time": 228960,
+      "lyric": "And I didn't know if you knew",
+      "tlyric": "我不知道你是否知晓",
+      "remarkIdx": ["know"]
+    },
+    {
+      "time": 231890,
+      "lyric": "So I'm taking this chance to say",
+      "tlyric": "所以我要抓住这个机会告诉你",
+      "remarkIdx": ["chance", "say"]
+    },
+    {
+      "time": 235450,
+      "lyric": "That I had the best day with you today",
+      "tlyric": "有你相伴的今天，是我最幸福的一天",
+      "remarkIdx": ["best", "day"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 2995454,
+      "status": 99,
+      "demand": 1,
+      "userid": 299631647,
+      "nickname": "wavesource",
+      "uptime": 1590025295636
+    },
+    "lrc": {
+      "version": 54,
+      "lyric": "[00:00.000] 作词 : Taylor Swift\n[00:01.000] 作曲 : Taylor Swift\n[00:17.920]I’m five years old and it’s getting cold\n[00:22.130]I’ve got a big coat on\n[00:25.600]I hear your laugh and look up smiling at you\n[00:30.460]I run and run\n[00:33.150]Past the pumpkin patch and the tractor rides\n[00:37.700]Look now the sky is gold\n[00:40.430]I hug your legs and fall asleep on the way home\n[00:48.160]I don’t know why all the trees change in the fall\n[00:55.330]I know that you’re not scared of anything at all\n[01:02.840]Don’t know if Snow White’s house is near or far away\n[01:09.010]But I know I had the best day\n[01:12.550]With you today\n[01:22.820]I’m thirteen now and don’t know how my friends could be so mean\n[01:30.720]I come home crying and you hold me tight and grab the keys\n[01:38.120]And we drive and drive until we've found a town far enough away\n[01:45.870]And we talk and window shop till I've forgotten all their names\n[01:53.340]I don’t know who I’m gonna talk to now at school\n[02:00.870]But I know I’m laughing on the car ride home with you\n[02:08.180]Don’t know how long it’s gonna take to feel ok\n[02:14.670]But I know I had the best day with you today\n[02:23.720]I have an excellent father\n[02:27.440]His strength is making me stronger\n[02:31.680]God smiles on my little brother\n[02:35.220]Inside and out he’s better than I am\n[02:39.000]I grew up in a pretty house and i had space to run and I\n[02:46.530]have the best day with you\n[02:52.030]There is a video i found from back when i was three\n[03:03.550]You set up a paint set in the kitchen and you’re talking to me\n[03:11.220]It’s the age of princesses and pirate ships and the seven dwarfs\n[03:18.840]Daddy’s smart and you’re the prettiest lady in the whole wide world\n[03:26.900]Now I know why all the trees change in the fall\n[03:33.530]I know you were on my side even when I was wrong\n[03:40.760]And I love you for giving me your eyes\n[03:45.420]Staying back and watching me shine\n[03:48.960]and I didn’t know if you knew\n[03:51.890]So I’m taking this chance to say\n[03:55.450]that i had the best day with you today\n"
+    },
+    "tlyric": {
+      "version": 48,
+      "lyric": "[00:17.920]记得那年五岁，天气正转凉\n[00:22.130]我已身着大衣\n[00:25.600]耳畔响起你的笑声，我便抬起头冲着你微笑\n[00:30.460]无休止地跑呀跑呀\n[00:33.150]穿过南瓜田和轰鸣作响的拖拉机\n[00:37.700]仰望泛着金色的天空\n[00:40.430]我枕着你的腿在归途中入眠\n[00:48.160]那时我还不知为何树叶在秋天转黄\n[00:55.330]但我相信你无畏世间万物\n[01:02.840]不知道白雪公主的小屋在林中何处\n[01:09.010]但我知道有你相伴的一天\n[01:12.550]便是最美好的今天\n[01:22.820]十三岁那年，我不明白朋友们为何如此刻薄\n[01:30.720]哭着跑回家中，是你紧紧拥我入怀，抓起车钥匙带我出发\n[01:38.120]你驾车不断行驶，直到驶入一个足够遥远的小镇\n[01:45.870]我们边聊边逛，直到我早已把她们的名字抛到脑后\n[01:53.340]我不知以后在学校还有谁能与我交谈\n[02:00.870]但我明了此刻我正与你在回家的车中谈笑风生\n[02:08.180]不知道我的心情还有多久才会好转\n[02:14.670]但我知道今天便是与你度过最美好的一天\n[02:23.720]我拥有世界上最棒的爸爸\n[02:27.440]他的坚韧使我更加坚强\n[02:31.680]上帝眷顾我的小弟弟\n[02:35.220]里里外外他都比我更加优秀\n[02:39.000]我在漂亮的大房子里茁壮成长，有开阔的空间跑跑跳跳\n[02:46.530]\n[02:52.030]我找到一卷三岁时的录像带\n[03:03.550]那时你在厨房里支起画板，对我说道：“\n[03:11.220]这是白雪公主、海盗船长和七个小矮人的时代\n[03:18.840]爸爸很聪敏，而你是广阔世界上最最美丽可爱的小姐。”\n[03:26.900]如今我早已明白为何树叶在秋季转黄\n[03:33.530]知道即使我犯错时，你也总会站在我身旁\n[03:40.760]我深爱着你，因我和你有着一样的眼眸\n[03:45.420]请站在我身后，看着我熠熠生辉吧\n[03:48.960]我不知道你是否知晓\n[03:51.890]所以我要抓住这个机会告诉你\n[03:55.450]有你相伴的每一天，都是最美好的今天"
+    },
+    "code": 200
+  }
+}

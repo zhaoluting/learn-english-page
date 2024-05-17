@@ -1,0 +1,348 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "So Far Away",
+      "tlyric": "遥不可及",
+      "singer": "Martin Garrix / David Guetta / Jamie Scott / Romy Dya",
+      "remarkIdx": ["far"]
+    },
+    {
+      "time": 12950,
+      "lyric": "Light 'em up, light 'em up",
+      "tlyric": "点燃一束光，照亮它们",
+      "remarkIdx": ["light"]
+    },
+    {
+      "time": 14880,
+      "lyric": "Tell me where you are, tell me where you are",
+      "tlyric": "告诉我你身在何处 身在何处",
+      "remarkIdx": ["tell"]
+    },
+    {
+      "time": 19210,
+      "lyric": "The summer nights, the bright lights",
+      "tlyric": "仲夏夜晚 烛光摇曳",
+      "remarkIdx": ["summer", "bright"]
+    },
+    {
+      "time": 21330,
+      "lyric": "And the shooting stars, they break my heart",
+      "tlyric": "流星划过夜空 也伤透了我的心",
+      "remarkIdx": ["shooting", "heart"]
+    },
+    {
+      "time": 24950,
+      "lyric": "I'm calling you now, but you're not picking up",
+      "tlyric": "现在我拨通你的电话 但你不会再接",
+      "remarkIdx": ["call"]
+    },
+    {
+      "time": 28120,
+      "lyric": "Your shadow‘s so close if you are still in love",
+      "tlyric": "你的身影近在咫尺 却远在天涯",
+      "remarkIdx": ["shadow"]
+    },
+    {
+      "time": 32100,
+      "lyric": "Then light a match, light a match",
+      "tlyric": "划亮一根火柴 照亮黑夜",
+      "remarkIdx": ["match"]
+    },
+    {
+      "time": 34260,
+      "lyric": "Baby, in the dark, show me where you are",
+      "tlyric": "宝贝告诉我 黑夜之中你在哪里",
+      "remarkIdx": ["dark", "show"]
+    },
+    {
+      "time": 39410,
+      "lyric": "Oh, love",
+      "tlyric": "噢 挚爱",
+      "remarkIdx": ["love"]
+    },
+    {
+      "time": 41020,
+      "lyric": "How I miss you every single day",
+      "tlyric": "我每日每夜无时无刻不想念着你",
+      "remarkIdx": ["miss", "single"]
+    },
+    {
+      "time": 43020,
+      "lyric": "When I see you on those streets",
+      "tlyric": "走在街上看到每个人都觉得是你的身影",
+      "remarkIdx": ["see", "street"]
+    },
+    {
+      "time": 45790,
+      "lyric": "Oh, love",
+      "tlyric": "噢 挚爱",
+      "remarkIdx": ["love"]
+    },
+    {
+      "time": 47490,
+      "lyric": "Tell me there's a river I can swim that will bring you back to me",
+      "tlyric": "告诉我我还有计可施 还有机会让你回心转意",
+      "remarkIdx": ["river", "swim", "bring"]
+    },
+    {
+      "time": 52080,
+      "lyric": "Cause I don't know how to love someone else",
+      "tlyric": "因为我真的不知道如何再去爱上别人",
+      "remarkIdx": ["cause", "know"]
+    },
+    {
+      "time": 55320,
+      "lyric": "I don't know how to forget your face",
+      "tlyric": "我不知道该如何忘掉你的容颜",
+      "remarkIdx": ["forget", "face"]
+    },
+    {
+      "time": 58680,
+      "lyric": "Oh, love",
+      "tlyric": "噢 挚爱",
+      "remarkIdx": ["love"]
+    },
+    {
+      "time": 60320,
+      "lyric": "God, I miss you every single day and now you're so far away",
+      "tlyric": "我对你朝思暮想 如今你遥不可及",
+      "remarkIdx": ["every", "day"]
+    },
+    {
+      "time": 69660,
+      "lyric": "So far away",
+      "tlyric": "如此遥不可及",
+      "remarkIdx": ["away"]
+    },
+    {
+      "time": 77180,
+      "lyric": "It's breaking me, I'm losing you",
+      "tlyric": "失去你我也痛彻心扉",
+      "remarkIdx": ["breaking", "losing"]
+    },
+    {
+      "time": 79290,
+      "lyric": "We were far from perfect",
+      "tlyric": "我们虽不是完美恋人",
+      "remarkIdx": ["from", "perfect"]
+    },
+    {
+      "time": 81220,
+      "lyric": "But we were worth it",
+      "tlyric": "但这一切的经历都值得",
+      "remarkIdx": ["but", "worth"]
+    },
+    {
+      "time": 83600,
+      "lyric": "Too many fights, and we cried",
+      "tlyric": "我们争吵过 也哭红过双眼",
+      "remarkIdx": ["fight", "cry"]
+    },
+    {
+      "time": 85680,
+      "lyric": "But never said we're sorry",
+      "tlyric": "但我们都从未说过抱歉",
+      "remarkIdx": ["never", "said", "sorry"]
+    },
+    {
+      "time": 87600,
+      "lyric": "Stop saying you love me",
+      "tlyric": "别告诉我你对我还存有爱意",
+      "remarkIdx": ["stop", "say"]
+    },
+    {
+      "time": 89170,
+      "lyric": "You're calling me now, but I can't pick up",
+      "tlyric": "你试图联系我 但我不能有任何回应",
+      "remarkIdx": ["pick", "pick up"]
+    },
+    {
+      "time": 92510,
+      "lyric": "Your shadow's too close, and I'm still in love",
+      "tlyric": "你的身影还是如此清晰 我也依然爱着你",
+      "remarkIdx": ["close"]
+    },
+    {
+      "time": 96120,
+      "lyric": "The summer's over now",
+      "tlyric": "夏天已经结束",
+      "remarkIdx": ["over"]
+    },
+    {
+      "time": 97620,
+      "lyric": "But somehow it still breaks my heart",
+      "tlyric": "不知怎么仍然刺痛我的心",
+      "remarkIdx": ["somehow", "still"]
+    },
+    {
+      "time": 100200,
+      "lyric": "We could have had the stars, oh",
+      "tlyric": "我们本可以拥有灿烂星河",
+      "remarkIdx": ["star"]
+    },
+    {
+      "time": 103900,
+      "lyric": "Oh, love",
+      "tlyric": "噢 挚爱",
+      "remarkIdx": ["love"]
+    },
+    {
+      "time": 105410,
+      "lyric": "How I miss you every single day",
+      "tlyric": "我每日每夜无时无刻不想念着你",
+      "remarkIdx": ["miss", "single"]
+    },
+    {
+      "time": 107430,
+      "lyric": "When I see you on those streets",
+      "tlyric": "走在街上看到每个人都觉得是你的身影",
+      "remarkIdx": ["see", "street"]
+    },
+    {
+      "time": 110260,
+      "lyric": "Oh, love",
+      "tlyric": "噢 挚爱",
+      "remarkIdx": ["love"]
+    },
+    {
+      "time": 110300,
+      "lyric": "Tell me there's a river I can swim that will bring you back to me",
+      "tlyric": "告诉我我还有计可施 还有机会让你回心转意",
+      "remarkIdx": ["back"]
+    },
+    {
+      "time": 116540,
+      "lyric": "Cause I don't know how to love someone else",
+      "tlyric": "因为我真的不知道如何再去爱上别人",
+      "remarkIdx": ["love", "someone", "else"]
+    },
+    {
+      "time": 119740,
+      "lyric": "I don't know how to forget your face",
+      "tlyric": "我不知道该如何忘掉你的容颜",
+      "remarkIdx": ["forget", "face"]
+    },
+    {
+      "time": 123170,
+      "lyric": "Oh, love",
+      "tlyric": "噢 挚爱",
+      "remarkIdx": ["love"]
+    },
+    {
+      "time": 124730,
+      "lyric": "God, I miss you every single day and now you're so far away",
+      "tlyric": "我对你朝思暮想 如今你遥不可及",
+      "remarkIdx": ["every", "day"]
+    },
+    {
+      "time": 133940,
+      "lyric": "So far away",
+      "tlyric": "如此遥不可及",
+      "remarkIdx": ["far"]
+    },
+    {
+      "time": 140560,
+      "lyric": "So far away, oh",
+      "tlyric": "如此遥不可及",
+      "remarkIdx": ["away"]
+    },
+    {
+      "time": 146870,
+      "lyric": "So far away",
+      "tlyric": "如此遥不可及",
+      "remarkIdx": ["far"]
+    },
+    {
+      "time": 153360,
+      "lyric": "So far away",
+      "tlyric": "如此遥不可及",
+      "remarkIdx": ["away"]
+    },
+    {
+      "time": 155490,
+      "lyric": "Oh, love",
+      "tlyric": "噢 挚爱",
+      "remarkIdx": ["love"]
+    },
+    {
+      "time": 157040,
+      "lyric": "How I miss you every single day",
+      "tlyric": "我每日每夜无时无刻不想念着你",
+      "remarkIdx": ["miss", "single"]
+    },
+    {
+      "time": 159030,
+      "lyric": "When I see you on those streets",
+      "tlyric": "走在街上看到每个人都觉得是你的身影",
+      "remarkIdx": ["see", "street"]
+    },
+    {
+      "time": 161860,
+      "lyric": "Oh, love",
+      "tlyric": "噢 挚爱",
+      "remarkIdx": ["love"]
+    },
+    {
+      "time": 163440,
+      "lyric": "Tell me there's a river I can swim that will bring you back to me",
+      "tlyric": "告诉我我还有计可施 还有机会让你回心转意",
+      "remarkIdx": ["river", "swim", "bring"]
+    },
+    {
+      "time": 168010,
+      "lyric": "Cause I don't know how to love someone else",
+      "tlyric": "因为我真的不知道如何再去爱上别人",
+      "remarkIdx": ["cause", "know", "else"]
+    },
+    {
+      "time": 171310,
+      "lyric": "I don't know how to forget your face",
+      "tlyric": "我不知道该如何忘掉你的容颜",
+      "remarkIdx": ["forget", "face"]
+    },
+    {
+      "time": 174800,
+      "lyric": "Oh, love",
+      "tlyric": "噢 挚爱",
+      "remarkIdx": ["love"]
+    },
+    {
+      "time": 176340,
+      "lyric": "God, I miss you every single day when you're so far away",
+      "tlyric": "我对你朝思暮想 如今你遥不可及",
+      "remarkIdx": ["every", "day"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 2743627,
+      "status": 99,
+      "demand": 1,
+      "userid": 53654839,
+      "nickname": "NickyRomero",
+      "uptime": 1512102224337
+    },
+    "lyricUser": {
+      "id": 2743615,
+      "status": 99,
+      "demand": 0,
+      "userid": 105176028,
+      "nickname": "hondoes",
+      "uptime": 1512102224337
+    },
+    "lrc": {
+      "version": 84,
+      "lyric": "[00:00.000] 作词 : David Guetta/Jamie Scott/Martijn Garritsen/Giorgio Tuinfort/Jason Boyd\n[00:01.000] 作曲 : David Guetta/Jamie Scott/Martijn Garritsen/Giorgio Tuinfort/Jason Boyd\n[00:12.950]Light 'em up, light 'em up\n[00:14.880]Tell me where you are, tell me where you are\n[00:19.210]The summer nights, the bright lights\n[00:21.330]And the shooting stars, they break my heart\n[00:24.510]\n[00:24.950]I'm Calling you now, but you're not picking up\n[00:28.120]Your shadow‘s so close if you are still in love\n[00:32.100]Then light a match, light a match\n[00:34.260]Baby, in the dark, show me where you are\n[00:37.760]\n[00:39.410]Oh, love\n[00:41.020]How I miss you every single day\n[00:43.020]When I see you on those streets\n[00:45.790]Oh, love\n[00:47.490]Tell me there's a river I can swim that will bring you back to me\n[00:52.080]Cause I don't know how to love someone else\n[00:55.320]I don't know how to forget your face\n[00:58.680]Oh, love\n[01:00.320]God, I miss you every single day and now you're so far away\n[01:09.660]So far away\n[01:11.040]\n[01:17.180]It's breaking me, I'm losing you\n[01:19.290]We were far from perfect\n[01:21.220]But we were worth it\n[01:23.600]Too many fights, and we cried\n[01:25.680]But never said we're sorry\n[01:27.600]Stop saying you love me\n[01:29.150]\n[01:29.170]You're calling me now, but I can't pick up\n[01:32.510]Your shadow's too close, and I'm still in love\n[01:36.120]The summer's over now\n[01:37.620]But somehow it still breaks my heart\n[01:40.200]We could have had the stars, oh\n[01:43.290]\n[01:43.900]Oh, love\n[01:45.410]How I miss you every single day\n[01:47.430]When I see you on those streets\n[01:50.260]Oh, love\n[01:50.300]Tell me there's a river I can swim that will bring you back to me\n[01:56.540]Cause I don't know how to love someone else\n[01:59.740]I don't know how to forget your face\n[02:03.170]Oh, love\n[02:04.730]God, I miss you every single day and now you're so far away\n[02:08.990]\n[02:13.940]So far away\n[02:20.560]So far away, oh\n[02:26.870]So far away\n[02:33.360]So far away\n[02:34.810]\n[02:35.490]Oh, love\n[02:37.040]How I miss you every single day\n[02:39.030]When I see you on those streets\n[02:41.860]Oh, love\n[02:43.440]Tell me there's a river I can swim that will bring you back to me\n[02:48.010]Cause I don't know how to love someone else\n[02:51.310]I don't know how to forget your face\n[02:54.800]Oh, love\n[02:56.340]God, I miss you every single day when you're so far away\n"
+    },
+    "tlyric": {
+      "version": 21,
+      "lyric": "[00:12.950]点燃一束光，照亮它们\n[00:14.880]告诉我你身在何处 身在何处\n[00:19.210]仲夏夜晚 烛光摇曳\n[00:21.330]流星划过夜空 也伤透了我的心\n[00:24.510]\n[00:24.950]现在我拨通你的电话 但你不会再接\n[00:28.120]你的身影近在咫尺 却远在天涯\n[00:32.100]划亮一根火柴 照亮黑夜\n[00:34.260]宝贝告诉我 黑夜之中你在哪里\n[00:37.760]\n[00:39.410]噢 挚爱\n[00:41.020]我每日每夜无时无刻不想念着你\n[00:43.020]走在街上看到每个人都觉得是你的身影\n[00:45.790]噢 挚爱\n[00:47.490]告诉我我还有计可施 还有机会让你回心转意\n[00:52.080]因为我真的不知道如何再去爱上别人\n[00:55.320]我不知道该如何忘掉你的容颜\n[00:58.680]噢 挚爱\n[01:00.320]我对你朝思暮想 如今你遥不可及\n[01:09.660]如此遥不可及\n[01:11.040]\n[01:17.180]失去你我也痛彻心扉\n[01:19.290]我们虽不是完美恋人\n[01:21.220]但这一切的经历都值得\n[01:23.600]我们争吵过 也哭红过双眼\n[01:25.680]但我们都从未说过抱歉\n[01:27.600]别告诉我你对我还存有爱意\n[01:29.150]\n[01:29.170]你试图联系我 但我不能有任何回应\n[01:32.510]你的身影还是如此清晰 我也依然爱着你\n[01:36.120]夏天已经结束\n[01:37.620]不知怎么仍然刺痛我的心\n\n[01:40.200]我们本可以拥有灿烂星河\n[01:43.290]\n[01:43.900]噢 挚爱\n[01:45.410]我每日每夜无时无刻不想念着你\n[01:47.430]走在街上看到每个人都觉得是你的身影\n[01:50.260]噢 挚爱\n[01:50.300]告诉我我还有计可施 还有机会让你回心转意\n[01:56.540]因为我真的不知道如何再去爱上别人\n[01:59.740]我不知道该如何忘掉你的容颜\n[02:03.170]噢 挚爱\n[02:04.730]我对你朝思暮想 如今你遥不可及\n[02:08.990]\n[02:13.940]如此遥不可及\n[02:20.560]如此遥不可及\n[02:26.870]如此遥不可及\n[02:33.360]如此遥不可及\n[02:34.810]\n[02:35.490]噢 挚爱\n[02:37.040]我每日每夜无时无刻不想念着你\n[02:39.030]走在街上看到每个人都觉得是你的身影\n[02:41.860]噢 挚爱\n[02:43.440]告诉我我还有计可施 还有机会让你回心转意\n[02:48.010]因为我真的不知道如何再去爱上别人\n[02:51.310]我不知道该如何忘掉你的容颜\n[02:54.800]噢 挚爱\n[02:56.340]我对你朝思暮想 如今你遥不可及"
+    },
+    "code": 200
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "A Song For Mama",
+      "tlyric": "献给妈妈的歌",
+      "singer": "Boyz II Men",
+      "remarkIdx": ["song", "mama"]
+    },
+    {
+      "time": 13518,
+      "lyric": "You taught me everything, everything you've given me",
+      "tlyric": "你教会我的一切，你给予我的一切",
+      "remarkIdx": ["teach", "everything", "give"]
+    },
+    {
+      "time": 16551,
+      "lyric": "I'll always keep it inside",
+      "tlyric": "我都会珍藏在内心深处",
+      "remarkIdx": ["keep", "inside"]
+    },
+    {
+      "time": 20060,
+      "lyric": "You're the driving force in my life ",
+      "tlyric": "你是我生命中前进的动力",
+      "remarkIdx": ["driving", "force"]
+    },
+    {
+      "time": 26415,
+      "lyric": "There isn't anything or anyone I can be",
+      "tlyric": "没有你，就没有我今天的一切",
+      "remarkIdx": ["anything", "or", "anyone"]
+    },
+    {
+      "time": 29529,
+      "lyric": "And it just wouldn't feel right, if I didn't have you by my side",
+      "tlyric": "如果没有你在我身边，一切都会不对劲",
+      "remarkIdx": ["feel", "side"]
+    },
+    {
+      "time": 38532,
+      "lyric": "You were there for me to love and care for me",
+      "tlyric": "是你一直爱护我，照顾我",
+      "remarkIdx": ["love", "care"]
+    },
+    {
+      "time": 41594,
+      "lyric": "When skies were grey",
+      "tlyric": "当天空灰暗的时候",
+      "remarkIdx": ["sky", "grey"]
+    },
+    {
+      "time": 45096,
+      "lyric": "Whenever I was down",
+      "tlyric": "当我低落的时候",
+      "remarkIdx": ["whenever", "down"]
+    },
+    {
+      "time": 47065,
+      "lyric": "You were always there to comfort me",
+      "tlyric": "是你一直在安慰我",
+      "remarkIdx": ["always", "comfort"]
+    },
+    {
+      "time": 51416,
+      "lyric": "And no one else can be what you have been to me",
+      "tlyric": "没有人会像你这般爱我",
+      "remarkIdx": ["else", "have"]
+    },
+    {
+      "time": 54656,
+      "lyric": "You'll always be, you will always be the girl",
+      "tlyric": "你永远是我最重要的女人",
+      "remarkIdx": ["always", "girl"]
+    },
+    {
+      "time": 60563,
+      "lyric": "In my life for all times",
+      "tlyric": "在我的人生中永远都是",
+      "remarkIdx": ["life", "times"]
+    },
+    {
+      "time": 64490,
+      "lyric": "Mama, mama, you know I love you",
+      "tlyric": "妈妈，妈妈，你知道我爱你",
+      "remarkIdx": ["know", "love"]
+    },
+    {
+      "time": 78087,
+      "lyric": "Mama, mama, you're the queen of my heart",
+      "tlyric": "妈妈，妈妈，你是我心中的女王",
+      "remarkIdx": ["queen", "heart"]
+    },
+    {
+      "time": 87032,
+      "lyric": "Your love is like tears from the stars",
+      "tlyric": "你的爱就像群星洒下的泪",
+      "remarkIdx": ["tear", "star"]
+    },
+    {
+      "time": 93181,
+      "lyric": "Mama, I just want you to know",
+      "tlyric": "妈妈，我只是想让你知道",
+      "remarkIdx": ["want", "know"]
+    },
+    {
+      "time": 99530,
+      "lyric": "Loving you is like food to my soul",
+      "tlyric": "爱你就像滋养我的灵魂",
+      "remarkIdx": ["loving", "food", "soul"]
+    },
+    {
+      "time": 109074,
+      "lyric": "You're always there for me",
+      "tlyric": "你总是在那里为我守候",
+      "remarkIdx": ["always"]
+    },
+    {
+      "time": 110518,
+      "lyric": "Have always been around for me, even when I was bad",
+      "tlyric": "即使我糟糕透顶，你依然陪伴在我身边",
+      "remarkIdx": ["around", "even"]
+    },
+    {
+      "time": 116057,
+      "lyric": "You showed me right from my wrong (Yes, you did)",
+      "tlyric": "你教会我什么是对错（是的，就是这样）",
+      "remarkIdx": ["wrong", "yes"]
+    },
+    {
+      "time": 122092,
+      "lyric": "And you took up for me",
+      "tlyric": "你鼓励着我",
+      "remarkIdx": ["take", "take up"]
+    },
+    {
+      "time": 123507,
+      "lyric": "When everyone was downin' me, you always did understand",
+      "tlyric": "当每个人都看低我的时候，你总是能理解我",
+      "remarkIdx": ["down", "understand"]
+    },
+    {
+      "time": 128037,
+      "lyric": "You gave me strength to go on",
+      "tlyric": "你给我继续下去的力量",
+      "remarkIdx": ["strength", "go on"]
+    },
+    {
+      "time": 132535,
+      "lyric": "There were so many times",
+      "tlyric": "很多时候",
+      "remarkIdx": ["so many", "times"]
+    },
+    {
+      "time": 135584,
+      "lyric": "Looking back when I was so afraid",
+      "tlyric": "回忆起我害怕的时候",
+      "remarkIdx": ["look back", "afraid"]
+    },
+    {
+      "time": 140047,
+      "lyric": "And then you'd come to me",
+      "tlyric": "你总会来到我身边",
+      "remarkIdx": ["then", "come"]
+    },
+    {
+      "time": 142516,
+      "lyric": "And say to me, I can face anything",
+      "tlyric": "告诉我，我能面对一切",
+      "remarkIdx": ["say", "face"]
+    },
+    {
+      "time": 147091,
+      "lyric": "And no one else can do what you have done for me",
+      "tlyric": "没有人能做到，你为我所付出的一切",
+      "remarkIdx": ["else", "done"]
+    },
+    {
+      "time": 150530,
+      "lyric": "You'll always be, you will always be the girl in my life",
+      "tlyric": "你永远都是我生命中最重要的女人",
+      "remarkIdx": ["girl", "life"]
+    },
+    {
+      "time": 160539,
+      "lyric": "Mama, mama, you know I love you",
+      "tlyric": "妈妈，妈妈，你知道我爱你",
+      "remarkIdx": ["know", "love"]
+    },
+    {
+      "time": 173057,
+      "lyric": "Mama, mama, you're the queen of my heart",
+      "tlyric": "妈妈，妈妈，你是我心中的女王",
+      "remarkIdx": ["queen", "heart"]
+    },
+    {
+      "time": 182011,
+      "lyric": "Your love is like tears from the stars",
+      "tlyric": "你的爱就像群星洒下的泪",
+      "remarkIdx": ["tear", "star"]
+    },
+    {
+      "time": 188067,
+      "lyric": "Mama, I just want you to know",
+      "tlyric": "妈妈，我只是想让你知道",
+      "remarkIdx": ["want", "know"]
+    },
+    {
+      "time": 195007,
+      "lyric": "Loving you is like food to my soul",
+      "tlyric": "爱你就如同滋养我的灵魂",
+      "remarkIdx": ["loving", "food", "soul"]
+    },
+    {
+      "time": 201061,
+      "lyric": "Never gonna go a day without you",
+      "tlyric": "不想过一天没有你的日子",
+      "remarkIdx": ["never", "gonna", "go a day", "without"]
+    },
+    {
+      "time": 205001,
+      "lyric": "Fills me up just thinkin' about you",
+      "tlyric": "想起你就能感觉不再空虚",
+      "remarkIdx": ["fill up", "just", "think about"]
+    },
+    {
+      "time": 211026,
+      "lyric": "I'll never go a day without my mama",
+      "tlyric": "我会与你度过每一天，我的妈妈",
+      "remarkIdx": ["never", "without", "mama"]
+    },
+    {
+      "time": 218082,
+      "lyric": "Mama, mama, you know I love you",
+      "tlyric": "妈妈，妈妈，你知道我爱你",
+      "remarkIdx": ["know", "love"]
+    },
+    {
+      "time": 231003,
+      "lyric": "Mama, mama, you're the queen of my heart",
+      "tlyric": "妈妈，妈妈，你是我心中的女王",
+      "remarkIdx": ["queen", "heart"]
+    },
+    {
+      "time": 241059,
+      "lyric": "Your love is like tears from the stars",
+      "tlyric": "你的爱就像群星洒下的泪",
+      "remarkIdx": ["tear", "star"]
+    },
+    {
+      "time": 245034,
+      "lyric": "Mama, I just want you to know",
+      "tlyric": "妈妈，我只是想让你知道",
+      "remarkIdx": ["want", "know"]
+    },
+    {
+      "time": 250042,
+      "lyric": "Loving you is like food to my soul",
+      "tlyric": "爱你如同滋养我的灵魂",
+      "remarkIdx": ["loving", "food", "soul"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 2925563,
+      "status": 99,
+      "demand": 1,
+      "userid": 0,
+      "nickname": "CorangeL",
+      "uptime": 1495507721929
+    },
+    "lrc": {
+      "version": 16,
+      "lyric": "[00:00.000] 作词 : EDMONDS, KENNETH BABYFACE\n[00:01.000] 作曲 : Babyface\n[00:25.100]You taught me everything\n[00:27.100]And everything you've given me\n[00:29.100]I always keep it inside\n[00:32.100]You'e the driving force in my life, yeah\n[00:38.100]There isn't anything\n[00:39.100]Or anyone I can be\n[00:42.100]And it just wouldn't feel right\n[00:44.100]If I didn't have you by my side\n[00:50.100]You were there for me to love and care for me\n[00:54.100]When skies were grey\n[00:57.100]Whenever I was down\n[00:58.100]You were always there to comfort me\n[01:03.100]And no one else can be what you have been to me\n[01:06.100]You'll always be you always will be the girl\n[01:12.100]In my life for all times\n[01:16.100]Mama, mama you know I love you\n[01:27.100]Oh you know I love you\n[01:30.100]Mama, mama you're the queen of my heart\n[01:39.100]Your love is like\n[01:40.100]Tears from the stars\n[01:45.100]Mama, I just want you to know\n[01:52.100]Lovin' you is like food to my soul\n[01:56.100]\n[02:08.100]You're always down for me\n[02:09.100]Have always been around for me even when I was bad\n[02:15.100]You showed me right from my wrong\n[02:19.100]Yes you did\n[02:21.100]And you took up for me\n[02:22.100]When everyone was downin'me\n[02:24.100]You always did understand\n[02:27.100]You gave me strength to go on\n[02:31.100]There was so many times\n[02:34.100]Looking back when I was so afraid\n[02:39.100]And then you come to me\n[02:40.100]And say to me I can face anything\n[02:45.100]And no one else can do\n[02:47.100]What you have done for me\n[02:49.100]You'll always be\n[02:52.100]You will always be the girl in my life\n[03:00.100]Mama, mama you know I love you\n[03:06.100]Oh you know I love you\n[03:12.100]Mama, mama you're the queen of my heart\n[03:21.100]Your love is like\n[03:23.100]Tears from the stars\n[03:28.100]Mama, I just want you to know\n[03:34.100]Lovin' you is like food to my soul\n[03:39.100]Never gonna go a day without you\n[03:46.100]Fills me up just thinking about you\n[03:52.100]I'll never go a day with out my mama\n[03:57.100]Mama, mama you know I love you\n[04:06.100]Oh you know I love you\n[04:09.100]Mama, mama you're the queen of my heart\n[04:19.100]Your love is like\n[04:20.100]Tears from the stars\n[04:25.100]Mama, I just want you to know\n[04:31.100]Lovin' you is like food to my soul\n[04:35.100]Lovin' you is like food to my soul\n"
+    },
+    "tlyric": {
+      "version": 2,
+      "lyric": "[by:CorangeL]\n[00:25.100]您教会我一切\n[00:27.100]您给予我的一切\n[00:29.100]您会永远深藏在心\n[00:32.100]您是我不懈奋斗的力量之源\n[00:38.100]无论我是无名小卒\n[00:39.100]还是蜚声国际\n[00:42.100]我都不在乎\n[00:44.100]如果没有您在我身边的话\n[00:50.100]您是那个一直爱护我，照顾我的人\n[00:54.100]当天空灰暗的时候\n[00:57.100]当我心情低落的时候\n[00:58.100]都是您一直在陪伴安慰我\n[01:03.100]再没有任何人会像您这般爱我\n[01:06.100]您会一直都是我生命中最重要的女人\n[01:12.100]永远都是\n[01:16.100]妈妈，妈妈您知道的我爱您\n[01:27.100]您知道的，我爱您\n[01:30.100]妈妈，妈妈，您是我心中的女王\n[01:39.100]您的爱就像\n[01:40.100]群星洒下的泪\n[01:45.100]妈妈，我就是想让您知道\n[01:52.100]爱您就像滋养我的灵魂\n[02:08.100]您总为我受伤\n[02:09.100]就算我坏到透顶您依然陪伴在我身边\n[02:15.100]您教会我什么是对错\n[02:19.100]您所做的\n[02:21.100]您为我所做的一切\n[02:22.100]当每个人都看低我的时候\n[02:24.100]是您，让我明白\n[02:27.100]您会是我坚强的后盾护我前行\n[02:31.100]很多时候\n[02:34.100]当我害怕想退缩的时候\n[02:39.100]您总会来到我身边\n[02:40.100]告诉我，勇敢面对一切\n[02:45.100]没有任何人能如您这般对我\n[02:47.100]您为我所付出的一切\n[02:49.100]您永远\n[02:52.100]永远都是我生命中最重要的女人\n[03:00.100]妈妈，妈妈我爱您\n[03:06.100]一直爱您\n[03:12.100]妈妈，妈妈您就是我心中的女王\n[03:21.100]您的爱就像\n[03:23.100]群星洒下的泪\n[03:28.100]妈妈，我想让您知道\n[03:34.100]爱您就如同滋养我的灵魂\n[03:39.100]每天都与您同在\n[03:46.100]心心念念的都是您\n[03:52.100]永远不愿与您分离，我亲爱的妈妈\n[03:57.100]妈妈，妈妈，你知道的我爱您\n[04:06.100]我爱您\n[04:09.100]妈妈，妈妈你是我心中的女王\n[04:19.100]您的爱就像\n[04:20.100]群星洒下的泪\n[04:25.100]妈妈，我想让你知道\n[04:31.100]爱您如同滋养我的灵魂\n[04:35.100]爱您就如同滋养我的灵魂\n"
+    },
+    "code": 200
+  }
+}

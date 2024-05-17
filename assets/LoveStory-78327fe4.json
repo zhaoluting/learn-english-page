@@ -1,0 +1,392 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Love Story",
+      "tlyric": "爱情故事",
+      "singer": "Taylor Swift",
+      "remarkIdx": ["love", "story"]
+    },
+    {
+      "time": 15840,
+      "lyric": "We were both young when I first saw you",
+      "tlyric": "第一次见到你的时候我们都还很年轻",
+      "remarkIdx": ["young", "first"]
+    },
+    {
+      "time": 19680,
+      "lyric": "I close my eyes and the flashback starts",
+      "tlyric": "我闭上眼睛 我们的故事在脑海里一幕幕回放",
+      "remarkIdx": ["flashback", "start"]
+    },
+    {
+      "time": 23140,
+      "lyric": "I'm standing there",
+      "tlyric": "我站在那里",
+      "remarkIdx": ["stand"]
+    },
+    {
+      "time": 26440,
+      "lyric": "On a balcony in summer air",
+      "tlyric": "炎炎夏日的阳台上",
+      "remarkIdx": ["balcony", "air"]
+    },
+    {
+      "time": 31940,
+      "lyric": "See the lights see the party the ball gowns",
+      "tlyric": "看着这些灯光，派对和舞会礼服",
+      "remarkIdx": ["party", "ball"]
+    },
+    {
+      "time": 36030,
+      "lyric": "see you make your way through the crowd",
+      "tlyric": "我看见你穿过拥挤的人群",
+      "remarkIdx": ["through", "crowd"]
+    },
+    {
+      "time": 39290,
+      "lyric": "And say hello",
+      "tlyric": "向我打招呼",
+      "remarkIdx": ["say", "hello"]
+    },
+    {
+      "time": 42600,
+      "lyric": "Little did I know",
+      "tlyric": "我却一无所知",
+      "remarkIdx": ["little"]
+    },
+    {
+      "time": 47860,
+      "lyric": "That you were Romeo you were throwing pebbles",
+      "tlyric": "你就是罗密欧，你扔石子（敲打窗户来找我）",
+      "remarkIdx": ["Romeo", "pebble"]
+    },
+    {
+      "time": 51610,
+      "lyric": "And my daddy said stay away from Juliet",
+      "tlyric": "我爸爸说：“离朱丽叶远点”",
+      "remarkIdx": ["stay"]
+    },
+    {
+      "time": 55410,
+      "lyric": "And I was crying on the staircase",
+      "tlyric": "我在楼梯上不停地哭泣",
+      "remarkIdx": ["cry", "staircase"]
+    },
+    {
+      "time": 58200,
+      "lyric": "Begging you please don't go",
+      "tlyric": "心中乞求你不要离开",
+      "remarkIdx": ["beg", "please"]
+    },
+    {
+      "time": 62710,
+      "lyric": "And I said",
+      "tlyric": "我说",
+      "remarkIdx": ["said"]
+    },
+    {
+      "time": 64220,
+      "lyric": "Romeo take me somewhere we can be alone",
+      "tlyric": "罗密欧，带我去一个我们能单独相处的地方吧",
+      "remarkIdx": ["somewhere", "alone"]
+    },
+    {
+      "time": 68350,
+      "lyric": "I'll be waiting all there's left to do is run",
+      "tlyric": "我等待着这一天，剩下要做的只有逃离",
+      "remarkIdx": ["wait", "left"]
+    },
+    {
+      "time": 72260,
+      "lyric": "You'll be the prince and I'll be the princess",
+      "tlyric": "你会成为王子，而我也将会是公主",
+      "remarkIdx": ["prince", "princess"]
+    },
+    {
+      "time": 76320,
+      "lyric": "It's a love story",
+      "tlyric": "这是一个爱情故事",
+      "remarkIdx": ["love", "story"]
+    },
+    {
+      "time": 78350,
+      "lyric": "Baby just say yes",
+      "tlyric": "亲爱的，你只需答应我",
+      "remarkIdx": ["baby", "yes"]
+    },
+    {
+      "time": 84340,
+      "lyric": "So I sneak out to the garden to see you",
+      "tlyric": "于是，我偷偷地到花园去见你",
+      "remarkIdx": ["sneak", "garden"]
+    },
+    {
+      "time": 88350,
+      "lyric": "We keep quiet cause we're dead if they knew",
+      "tlyric": "我们保持低调因为如果被他们知道的话我们就死定了",
+      "remarkIdx": ["quiet", "dead"]
+    },
+    {
+      "time": 91610,
+      "lyric": "So close your eyes",
+      "tlyric": "所以请闭上你的眼睛",
+      "remarkIdx": ["close"]
+    },
+    {
+      "time": 94900,
+      "lyric": "Escape this town for a little while",
+      "tlyric": "逃避尘世 即使如此短暂的一刻",
+      "remarkIdx": ["escape", "town"]
+    },
+    {
+      "time": 98390,
+      "lyric": "Oh oh",
+      "tlyric": "oh oh",
+      "remarkIdx": ["oh"]
+    },
+    {
+      "time": 100550,
+      "lyric": "Cause you were Romeo I was a scarlet letter",
+      "tlyric": "因为你是罗密欧，世俗不允许我们相恋",
+      "remarkIdx": ["scarlet", "letter", "scarlet letter"]
+    },
+    {
+      "time": 104000,
+      "lyric": "And my daddy said stay away from Juliet",
+      "tlyric": "我爸爸说：“离朱丽叶远点”",
+      "remarkIdx": ["away"]
+    },
+    {
+      "time": 107820,
+      "lyric": "But you were everything to me",
+      "tlyric": "但是你就是我的一切",
+      "remarkIdx": ["but", "everything"]
+    },
+    {
+      "time": 110090,
+      "lyric": "I was begging you please don't go",
+      "tlyric": "心中乞求你不要离开",
+      "remarkIdx": ["beg", "please"]
+    },
+    {
+      "time": 115130,
+      "lyric": "And I said",
+      "tlyric": "然后我说",
+      "remarkIdx": ["said"]
+    },
+    {
+      "time": 116720,
+      "lyric": "Romeo take me somewhere we can be alone",
+      "tlyric": "罗密欧，带着我去一个只有我们两个人的地方吧",
+      "remarkIdx": ["take", "alone"]
+    },
+    {
+      "time": 120720,
+      "lyric": "I'll be waiting all there's left to do is run",
+      "tlyric": "我等待着这一天，剩下要做的只有逃离",
+      "remarkIdx": [ "run"]
+    },
+    {
+      "time": 124750,
+      "lyric": "You'll be the prince and I'll be the princess",
+      "tlyric": "你会成为我的王子，而我也将会是你的公主",
+      "remarkIdx": ["prince", "princess"]
+    },
+    {
+      "time": 128720,
+      "lyric": "It's a love story",
+      "tlyric": "这是一个爱情故事",
+      "remarkIdx": ["love", "story"]
+    },
+    {
+      "time": 130810,
+      "lyric": "Baby just say yes",
+      "tlyric": "亲爱的，你只需答应我",
+      "remarkIdx": ["just", "say"]
+    },
+    {
+      "time": 132770,
+      "lyric": "Romeo save me",
+      "tlyric": "罗密欧，拯救我",
+      "remarkIdx": ["save"]
+    },
+    {
+      "time": 134590,
+      "lyric": "They’re trying to tell me how to feel",
+      "tlyric": "他们总在试图左右我的思想",
+      "remarkIdx": ["try", "feel"]
+    },
+    {
+      "time": 137070,
+      "lyric": "This love is difficult but it's real",
+      "tlyric": "这种的爱是困难的，但它是真实的",
+      "remarkIdx": ["difficult", "real"]
+    },
+    {
+      "time": 140890,
+      "lyric": "Don't be afraid we'll make it out of this mess",
+      "tlyric": "别害怕，我们终究会冲破困境",
+      "remarkIdx": ["afraid", "mess"]
+    },
+    {
+      "time": 144880,
+      "lyric": "It's a love story",
+      "tlyric": "这就是我们的爱情",
+      "remarkIdx": ["love", "story"]
+    },
+    {
+      "time": 146890,
+      "lyric": "Baby just say yes",
+      "tlyric": "亲爱的，你只需答应我",
+      "remarkIdx": ["baby", "yes"]
+    },
+    {
+      "time": 151890,
+      "lyric": "Oh oh",
+      "tlyric": "Oh oh",
+      "remarkIdx": ["oh"]
+    },
+    {
+      "time": 164080,
+      "lyric": "I got tired of waiting",
+      "tlyric": "我厌倦了等待",
+      "remarkIdx": ["tired", "wait"]
+    },
+    {
+      "time": 168000,
+      "lyric": "Wondering if you were ever coming around",
+      "tlyric": "怀疑你是否会如期出现在我的面前",
+      "remarkIdx": ["wonder", "around"]
+    },
+    {
+      "time": 171910,
+      "lyric": "My faith in you was fading",
+      "tlyric": "曾经坚定的信念开始动摇",
+      "remarkIdx": ["faith", "fading"]
+    },
+    {
+      "time": 176770,
+      "lyric": "When I met you on the outskirts of town",
+      "tlyric": "当我在城郊与你相会",
+      "remarkIdx": ["outskirts", "town"]
+    },
+    {
+      "time": 179980,
+      "lyric": "And I said",
+      "tlyric": "我说",
+      "remarkIdx": ["said"]
+    },
+    {
+      "time": 181160,
+      "lyric": "Romeo save me",
+      "tlyric": "罗密欧，救救我",
+      "remarkIdx": ["save"]
+    },
+    {
+      "time": 183260,
+      "lyric": "I've been feeling so alone",
+      "tlyric": "孤独的感觉一直缠绕着我",
+      "remarkIdx": ["feel", "alone"]
+    },
+    {
+      "time": 185240,
+      "lyric": "I keep waiting for you but you never come",
+      "tlyric": "我一直在等你，而你却沓然无踪",
+      "remarkIdx": ["wait", "never"]
+    },
+    {
+      "time": 189070,
+      "lyric": "Is this in my head",
+      "tlyric": "我的脑海里",
+      "remarkIdx": ["head"]
+    },
+    {
+      "time": 190850,
+      "lyric": "I don't know what to think",
+      "tlyric": "一片空白",
+      "remarkIdx": ["know", "think"]
+    },
+    {
+      "time": 192810,
+      "lyric": "He knelt to the ground and pulled out a ring",
+      "tlyric": "他跪在地上，并掏出一枚钻戒",
+      "remarkIdx": ["kneel", "ring"]
+    },
+    {
+      "time": 196600,
+      "lyric": "And said",
+      "tlyric": "对我说",
+      "remarkIdx": ["said"]
+    },
+    {
+      "time": 197300,
+      "lyric": "Marry me Juliet you'll never have to be alone",
+      "tlyric": "嫁给我吧 朱丽叶，我不会再让你感到孤单",
+      "remarkIdx": ["marry", "alone"]
+    },
+    {
+      "time": 201360,
+      "lyric": "I love you and that's all I really know",
+      "tlyric": "我知道我一直深爱着你",
+      "remarkIdx": ["really"]
+    },
+    {
+      "time": 205440,
+      "lyric": "I talked to your dad",
+      "tlyric": "我和你的爸爸谈话了",
+      "remarkIdx": ["talk", "dad"]
+    },
+    {
+      "time": 206940,
+      "lyric": "Go pick out a white dress",
+      "tlyric": "快去挑选一件洁白的婚纱",
+      "remarkIdx": ["white", "dress"]
+    },
+    {
+      "time": 209440,
+      "lyric": "It's a love story",
+      "tlyric": "这是一个爱情故事",
+      "remarkIdx": ["love", "story"]
+    },
+    {
+      "time": 211410,
+      "lyric": "Baby just say yes",
+      "tlyric": "宝贝，你只需答应我",
+      "remarkIdx": ["just", "say"]
+    },
+    {
+      "time": 216700,
+      "lyric": "Oh oh oh",
+      "tlyric": "Oh oh oh",
+      "remarkIdx": ["oh"]
+    },
+    {
+      "time": 220440,
+      "lyric": "Oh oh oh oh",
+      "tlyric": "Oh oh oh oh",
+      "remarkIdx": ["oh"]
+    },
+    {
+      "time": 225390,
+      "lyric": "'Cause we were both young when I first saw you",
+      "tlyric": "因为当我第一次见到你的时候我们都还很年轻",
+      "remarkIdx": ["Cause", "young"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "lrc": {
+      "version": 27,
+      "lyric": "[00:00.000] 作词 : Taylor Swift\n[00:01.000] 作曲 : Taylor Swift\n[00:15.840]We were both young when I first saw you\n[00:19.680]I close my eyes and the flashback starts\n[00:23.140]I'm standing there\n[00:26.440]On a balcony in summer air\n[00:31.940]See the lights see the party the ball gowns\n[00:36.030]see you make your way through the crowd\n[00:39.290]And say hello\n[00:42.600]Little did I know\n[00:47.860]That you were Romeo you were throwing pebbles\n[00:51.610]And my daddy said stay away from Juliet\n[00:55.410]And I was crying on the staircase\n[00:58.200]Begging you please don't go\n[01:02.710]And I said\n[01:04.220]Romeo take me somewhere we can be alone\n[01:08.350]I'll be waiting all there's left to do is run\n[01:12.260]You'll be the prince and I'll be the princess\n[01:16.320]It's a love story\n[01:18.350]Baby just say yes\n[01:24.340]So I sneak out to the garden to see you\n[01:28.350]We keep quiet cause we're dead if they knew\n[01:31.610]So close your eyes\n[01:34.900]Escape this town for a little while\n[01:38.390]Oh oh\n[01:40.550]Cause you were Romeo I was  a scarlet letter\n[01:44.000]And my daddy said stay away from Juliet\n[01:47.820]But you were everything to me\n[01:50.090]I was begging you please don't go\n[01:55.130]And I said\n[01:56.720]Romeo take me somewhere we can be alone\n[02:00.720]I'll be waiting all there's left to do is run\n[02:04.750]You'll be the prince and I'll be the princess\n[02:08.720]It's a love story\n[02:10.810]Baby just say yes\n[02:12.770]Romeo save me\n[02:14.590]They’re trying to tell me how to feel\n[02:17.070]This love is difficult but it's real\n[02:20.890]Don't be afraid we'll make it out of this mess\n[02:24.880]It's a love story\n[02:26.890]Baby just say yes\n[02:31.890]Oh oh\n[02:44.080]I got tired of waiting\n[02:48.000]Wondering if you were ever coming around\n[02:51.910]My faith in you was fading\n[02:56.770]When I met you on the outskirts of town\n[02:59.980]And I said\n[03:01.160]Romeo save me\n[03:03.260]I've been feeling so alone\n[03:05.240]I keep waiting for you but you never come\n[03:09.070]Is this in my head\n[03:10.850]I don't know what to think\n[03:12.810]He knelt to the ground and pulled out a ring\n[03:16.600]And said\n[03:17.300]Marry me Juliet you'll never have to be alone\n[03:21.360]I love you and that's all I really know\n[03:25.440]I talked to your dad\n[03:26.940]Go pick out a white dress\n[03:29.440]It's a love story\n[03:31.410]Baby just say yes\n[03:36.700]Oh oh oh\n[03:40.440]Oh oh oh oh\n[03:45.390]'Cause we were both young when I first saw you\n"
+    },
+    "tlyric": {
+      "version": 27,
+      "lyric": "[00:15.840]第一次见到你的时候我们都还很年轻\n[00:19.680]我闭上眼睛 我们的故事在我脑海里一幕幕回放\n[00:23.140]我站在那里\n[00:26.440]炎炎夏日的阳台上\n[00:31.940]看着这些灯光，派对和舞会礼服\n[00:36.030]我看见你穿过拥挤的人群\n[00:39.290]向我打招呼\n[00:42.600]我却一无所知\n[00:47.860]你就是罗密欧，你扔石子（敲打窗户来找我）\n[00:51.610]我爸爸说：“离朱丽叶远点”\n[00:55.410]我在楼梯上不停地哭泣\n[00:58.200]心中乞求你不要离开\n[01:02.710]我说\n[01:04.220]罗密欧，带我去一个我们能单独相处的地方吧\n[01:08.350]我等待着这一天，只有逃离才能让我们摆脱束缚\n[01:12.260]你会成为王子，而我也将会是公主\n[01:16.320]这是一个爱情故事\n[01:18.350]亲爱的，你只需答应我\n[01:24.340]于是，我偷偷地到花园去见你\n[01:28.350]我们保持低调因为如果被他们知道的话我们就死定了\n[01:31.610]所以请闭上你的眼睛\n[01:34.900]逃避尘世 即使如此短暂的一刻\n[01:38.390]oh oh\n[01:40.550]因为你是罗密欧，世俗不允许我们相恋\n[01:44.000]我爸爸说：“离朱丽叶远点”\n[01:47.820]但是你就是我的一切\n[01:50.090]心中乞求你不要离开\n[01:55.130]然后我说\n[01:56.720]罗密欧，带着我去一个只有我们两个人的地方吧\n[02:00.720]我等待着这一天，只有逃离才能让我们摆脱束缚\n[02:04.750]你会成为我的王子，而我也将会是你的公主\n[02:08.720]这是一个爱情故事\n[02:10.810]亲爱的，你只需答应我\n[02:12.770]罗密欧，拯救我\n[02:14.590]他们总在试图左右我的思想\n[02:17.070]这种的爱是困难的，但它是真实的\n[02:20.890]别害怕，我们终究会冲破困境\n[02:24.880]这就是我们的爱情\n[02:26.890]亲爱的，你只需答应我\n[02:31.890]Oh oh\n[02:44.080]我厌倦了等待\n[02:48.000]怀疑你是否会如期出现在我的面前\n[02:51.910]曾经坚定的信念开始动摇\n[02:56.770]当我在城郊与你相会\n[02:59.980]我说\n[03:01.160]罗密欧，救救我\n[03:03.260]孤独的感觉一直缠绕着我\n[03:05.240]我一直在等你，而你却沓然无踪\n[03:09.070]我的脑海里\n[03:10.850]一片空白\n[03:12.810]他跪在地上，并掏出一枚钻戒\n[03:16.600]对我说\n[03:17.300]嫁给我吧 朱丽叶，我不会再让你感到孤单\n[03:21.360]我知道我一直深爱着你\n[03:25.440]我和你的爸爸谈话了\n[03:26.940]快去挑选一件洁白的婚纱\n[03:29.440]这是一个爱情故事\n[03:31.410]宝贝，你只需答应我\n[03:36.700]Oh oh oh\n[03:40.440]Oh oh oh oh\n[03:45.390]因为当我第一次见到你的时候我们都还很年轻"
+    },
+    "code": 200
+  }
+}

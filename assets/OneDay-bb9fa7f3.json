@@ -1,0 +1,396 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "One Day",
+      "tlyric": "有朝一日",
+      "singer": "Matisyahu",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 13734,
+      "lyric": "Sometimes I lay under the moon",
+      "tlyric": "有时候我躺在月光下",
+      "remarkIdx": ["lay"]
+    },
+    {
+      "time": 17360,
+      "lyric": "And thank God I'm breathing",
+      "tlyric": "感谢上帝让我还继续呼吸着",
+      "remarkIdx": ["thank", "breathing"]
+    },
+    {
+      "time": 20682,
+      "lyric": "Then I pray don't take me soon",
+      "tlyric": "然后祈祷别这么快把我带走",
+      "remarkIdx": ["then", "pray", "soon"]
+    },
+    {
+      "time": 23927,
+      "lyric": "'Cause I am here for a reason",
+      "tlyric": "因为我留在这是有原因的",
+      "remarkIdx": ["'cause", "reason"]
+    },
+    {
+      "time": 26374,
+      "lyric": "Sometimes in my tears I drown",
+      "tlyric": "有时候我沉溺在自己的眼泪中",
+      "remarkIdx": ["tear", "drown"]
+    },
+    {
+      "time": 29375,
+      "lyric": "But I never let it get me down",
+      "tlyric": "但是我从不被此击垮",
+      "remarkIdx": ["never", "down"]
+    },
+    {
+      "time": 32655,
+      "lyric": "So when negativity surrounds",
+      "tlyric": "所以每当被消极的情绪包围着",
+      "remarkIdx": ["negativity", "surround"]
+    },
+    {
+      "time": 35964,
+      "lyric": "I know some day it'll all turn around",
+      "tlyric": "我也知道总有一天一切都会好转",
+      "remarkIdx": ["know", "around"]
+    },
+    {
+      "time": 38998,
+      "lyric": "Because all my life I've been waiting for",
+      "tlyric": "因为我这一生所等待的",
+      "remarkIdx": ["life"]
+    },
+    {
+      "time": 42463,
+      "lyric": "I've been praying for, for the people to say",
+      "tlyric": "我一直为之祈祷的，是为了让人们说出",
+      "remarkIdx": ["people"]
+    },
+    {
+      "time": 46247,
+      "lyric": "That we don't wanna fight no more",
+      "tlyric": "我们不想再打仗了",
+      "remarkIdx": ["wanna", "fight"]
+    },
+    {
+      "time": 49137,
+      "lyric": "There'll be no more wars",
+      "tlyric": "世界不会再战火纷飞",
+      "remarkIdx": ["no", "war"]
+    },
+    {
+      "time": 50775,
+      "lyric": "And our children will play",
+      "tlyric": "我们的孩子将尽情玩耍",
+      "remarkIdx": ["children", "play"]
+    },
+    {
+      "time": 52857,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 54526,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 56217,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 59542,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 61168,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 62787,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 66810,
+      "lyric": "It's not about win or lose",
+      "tlyric": "这无关胜败",
+      "remarkIdx": ["about", "win"]
+    },
+    {
+      "time": 70201,
+      "lyric": "we all lose",
+      "tlyric": "因为我们都输了",
+      "remarkIdx": ["all", "lose"]
+    },
+    {
+      "time": 71469,
+      "lyric": "When they feed on the souls of the innocent",
+      "tlyric": "当他们以无辜的灵魂为食",
+      "remarkIdx": ["feed", "innocent"]
+    },
+    {
+      "time": 74396,
+      "lyric": "Blood-drenched pavement",
+      "tlyric": "鲜血淋湿道路",
+      "remarkIdx": ["drenched", "pavement"]
+    },
+    {
+      "time": 76058,
+      "lyric": "Keep on moving though the waters stay raging",
+      "tlyric": "即使面对汹涌洪流也不停下脚步",
+      "remarkIdx": ["waters", "raging"]
+    },
+    {
+      "time": 80201,
+      "lyric": "In this maze, you can lose your way, you way",
+      "tlyric": "在这个迷宫里你会迷路，迷失你的路",
+      "remarkIdx": ["maze", "way"]
+    },
+    {
+      "time": 85620,
+      "lyric": "It might drive you crazy",
+      "tlyric": "它也许会让你发疯",
+      "remarkIdx": ["drive","crazy"]
+    },
+    {
+      "time": 87187,
+      "lyric": "But don't let it faze you, no way, no way",
+      "tlyric": "但不要轻易被它打倒，绝不，绝不",
+      "remarkIdx": ["faze", "way"]
+    },
+    {
+      "time": 92529,
+      "lyric": "Sometimes in my tears I drown，I drown",
+      "tlyric": "有时候我沉溺在自己的眼泪中",
+      "remarkIdx": ["sometimes", "drown"]
+    },
+    {
+      "time": 95498,
+      "lyric": "But I never let it get me down",
+      "tlyric": "但是我从不被此击垮",
+      "remarkIdx": ["never", "down"]
+    },
+    {
+      "time": 98804,
+      "lyric": "So when negativity surrounds",
+      "tlyric": "所以每当被消极的情绪包围着",
+      "remarkIdx": ["negativity", "surround"]
+    },
+    {
+      "time": 102315,
+      "lyric": "I know some day it'll all turn around",
+      "tlyric": "我也知道总有一天一切都会好转",
+      "remarkIdx": ["turn"]
+    },
+    {
+      "time": 105149,
+      "lyric": "Because all my life I've been waiting for",
+      "tlyric": "因为我这一生所等待的",
+      "remarkIdx": ["because", "wait"]
+    },
+    {
+      "time": 108681,
+      "lyric": "I've been praying for, for the people to say",
+      "tlyric": "我一直为之祈祷的，是为了让人们说出",
+      "remarkIdx": ["say"]
+    },
+    {
+      "time": 112483,
+      "lyric": "That we don't wanna fight no more",
+      "tlyric": "我们不想再打仗了",
+      "remarkIdx": ["wanna", "fight"]
+    },
+    {
+      "time": 115323,
+      "lyric": "There'll be no more wars",
+      "tlyric": "世界不会再战火纷飞",
+      "remarkIdx": ["no", "more"]
+    },
+    {
+      "time": 116914,
+      "lyric": "And our children will play",
+      "tlyric": "我们的孩子将尽情玩耍",
+      "remarkIdx": ["children", "play"]
+    },
+    {
+      "time": 119034,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 120704,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 122416,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 125732,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 127386,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 128987,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 132178,
+      "lyric": "One day this all will change",
+      "tlyric": "有朝一日这一切都将改变",
+      "remarkIdx": ["all", "change"]
+    },
+    {
+      "time": 133871,
+      "lyric": "Treat people the same, stop with the violence",
+      "tlyric": "不再有歧视，不再有暴力",
+      "remarkIdx": ["treat", "violence"]
+    },
+    {
+      "time": 137244,
+      "lyric": "Down with the hate",
+      "tlyric": "放下仇恨",
+      "remarkIdx": ["down", "down with", "hate"]
+    },
+    {
+      "time": 138896,
+      "lyric": "One day we'll all be free",
+      "tlyric": "有朝一日我们都将自由",
+      "remarkIdx": ["free"]
+    },
+    {
+      "time": 140517,
+      "lyric": "And proud to be under the same sun",
+      "tlyric": "在同一个太阳下都满怀骄傲",
+      "remarkIdx": ["proud", "same"]
+    },
+    {
+      "time": 143897,
+      "lyric": "Singing songs of freedom like why-oh why-oh",
+      "tlyric": "唱着自由的歌，就像这样",
+      "remarkIdx": ["sing", "freedom"]
+    },
+    {
+      "time": 158810,
+      "lyric": "All my life I've been waiting for",
+      "tlyric": "我这一生所等待的",
+      "remarkIdx": ["life"]
+    },
+    {
+      "time": 161718,
+      "lyric": "I've been praying for, for the people to say",
+      "tlyric": "我一直为之祈祷的，是为了让人们说出",
+      "remarkIdx": ["pray"]
+    },
+    {
+      "time": 165477,
+      "lyric": "That we don't wanna fight no more",
+      "tlyric": "我们不想再打仗了",
+      "remarkIdx": ["wanna", "fight"]
+    },
+    {
+      "time": 168267,
+      "lyric": "There'll be no more wars",
+      "tlyric": "世界不会再战火纷飞",
+      "remarkIdx": ["no", "war"]
+    },
+    {
+      "time": 169946,
+      "lyric": "And our children will play",
+      "tlyric": "我们的孩子将尽情玩耍",
+      "remarkIdx": ["children", "play"]
+    },
+    {
+      "time": 172074,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 173741,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 175382,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 178719,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 180359,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    },
+    {
+      "time": 181981,
+      "lyric": "One day",
+      "tlyric": "这一天终会到来",
+      "remarkIdx": ["one", "day"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 11017061,
+      "status": 99,
+      "demand": 1,
+      "userid": 60823735,
+      "nickname": "-羽山秋人-",
+      "uptime": 1593397503596
+    },
+    "lyricUser": {
+      "id": 11017051,
+      "status": 99,
+      "demand": 0,
+      "userid": 60823735,
+      "nickname": "-羽山秋人-",
+      "uptime": 1593397469518
+    },
+    "lrc": {
+      "version": 23,
+      "lyric": "[00:00.000] 作词 : Matisyahu/The Smeezingtons (Bruno Mars/Ari Levine and Philip Lawrence)\n[00:01.000] 作曲 : Matisyahu/The Smeezingtons (Bruno Mars/Ari Levine and Philip Lawrence)\n[00:10.734]Producers : David Kahne/Eric Krasno & Adam Deitch/Prince Ben/Di Genius (Son of Freddie)/Philip \"Fish\" Fisher (Fishbone)/John Norwood Fisher (Fishbone)/Sly & Robbie\n[00:13.734]Sometimes I lay under the moon\n[00:17.360]And thank God I'm breathing\n[00:20.682]Then I pray don't take me soon\n[00:23.927]'Cause I am here for a reason\n[00:26.374]Sometimes in my tears I drown\n[00:29.375]But I never let it get me down\n[00:32.655]So when negativity surrounds\n[00:35.964]I know some day it'll all turn around\n[00:38.998]Because all my life I've been waiting for\n[00:42.463]I've been praying for, for the people to say\n[00:46.247]That we don't wanna fight no more\n[00:49.137]There'll be no more wars\n[00:50.775]And our children will play\n[00:52.857]One day\n[00:54.526]One day\n[00:56.217]One day\n[00:59.542]One day\n[01:01.168]One day\n[01:02.787]One day\n[01:06.810]It's not about win or lose\n[01:10.201]'Cause we all lose\n[01:11.469]When they feed on the souls of the innocent\n[01:14.396]Blood-drenched pavement\n[01:16.058]Keep on moving though the waters stay raging\n[01:20.201]In this maze, you can lose your way, you way\n[01:25.620]It might drive you crazy\n[01:27.187]But don't let it faze you, no way, no way\n[01:32.529]Sometimes in my tears I drown\n[01:35.498]But I never let it get me down\n[01:38.804]So when negativity surrounds\n[01:42.315]I know some day it'll all turn around\n[01:45.149]Because all my life I've been waiting for\n[01:48.681]I've been praying for, for the people to say\n[01:52.483]That we don't wanna fight no more\n[01:55.323]There'll be no more wars\n[01:56.914]And our children will play\n[01:59.034]One day\n[02:00.704]One day\n[02:02.416]One day\n[02:05.732]One day\n[02:07.386]One day\n[02:08.987]One day\n[02:12.178]One day this all will change\n[02:13.871]Treat people the same, stop with the violence\n[02:17.244]Down with the hate\n[02:18.896]One day we'll all be free\n[02:20.517]And proud to be under the same sun\n[02:23.897]Singing songs of freedom like why-oh why-oh\n[02:38.810]All my life I've been waiting for\n[02:41.718]I've been praying for, for the people to say\n[02:45.477]That we don't wanna fight no more\n[02:48.267]There'll be no more wars\n[02:49.946]And our children will play\n[02:52.074]One day\n[02:53.741]One day\n[02:55.382]One day\n[02:58.719]One day\n[03:00.359]One day\n[03:01.981]One day\n"
+    },
+    "tlyric": {
+      "version": 11,
+      "lyric": "[by:-羽山秋人-]\n[00:13.734]有时候躺在月光下的我\n[00:17.360]感恩上帝让我还能活着\n[00:20.682]祈祷祂暂别带我入天国\n[00:23.927]因为我在此是有原因的\n[00:26.374]有时候眼泪会将我吞没\n[00:29.375]但我从不放弃得过且过\n[00:32.655]所以即使沮丧环绕着我\n[00:35.964]我相信它终将化为泡沫\n[00:38.998]我穷尽一生等一个结果\n[00:42.463]祈祷人们发自肺腑地说\n[00:46.247]不愿相互争夺杀戮同伙\n[00:49.137]不再有纷飞连天的战火\n[00:50.775]我们的孩子尽情玩耍着\n[00:52.857]这一天终会到来\n[00:54.526]这一天终会到来\n[00:56.217]这一天终会到来\n[00:59.542]这一天终会到来\n[01:01.168]这一天终会到来\n[01:02.787]这一天终会到来\n[01:06.810]这并非你胜我败的竞赛\n[01:10.201]当无辜的人们惨遭戕害\n[01:11.469]流离失所城市血海成灾\n[01:14.396]我们谁都无法置身事外\n[01:16.058]汹涌潮水无法将你阻碍\n[01:20.201]即使茫茫大雾将你困住\n[01:25.620]或许会逼得你疯狂怯步\n[01:27.187]但请不要轻易低头认输\n[01:32.529]有时候眼泪会将我吞没\n[01:35.498]但我从不放弃得过且过\n[01:38.804]所以即使沮丧环绕着我\n[01:42.315]我相信它终将化为泡沫\n[01:45.149]我穷尽一生等一个结果\n[01:48.681]祈祷人们发自肺腑地说\n[01:52.483]不愿相互争夺杀戮同伙\n[01:55.323]不再有纷飞连天的战火\n[01:56.914]我们的孩子尽情玩耍着\n[01:59.034]这一天终会到来\n[02:00.704]这一天终会到来\n[02:02.416]这一天终会到来\n[02:05.732]这一天终会到来\n[02:07.386]这一天终会到来\n[02:08.987]这一天终会到来\n[02:12.178]有朝一日恶行将被遏止\n[02:13.871]不会有暴力不再有歧视\n[02:17.244]仇恨的目光将彻底消失\n[02:18.896]有朝一日我们都将自由\n[02:20.517]在同个太阳下骄傲昂首\n[02:23.897]快乐地吟唱歌颂着自由\n[02:38.810]我穷尽一生等一个结果\n[02:41.718]祈祷人们发自肺腑地说\n[02:45.477]不愿相互争夺杀戮同伙\n[02:48.267]不再有纷飞连天的战火\n[02:49.946]我们的孩子尽情玩耍着\n[02:52.074]这一天终会到来\n[02:53.741]这一天终会到来\n[02:55.382]这一天终会到来\n[02:58.719]这一天终会到来\n[03:00.359]这一天终会到来\n[03:01.981]这一天终会到来"
+    },
+    "code": 200
+  }
+}

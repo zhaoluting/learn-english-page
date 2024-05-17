@@ -1,0 +1,346 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Good Time",
+      "tlyric": "美好时光",
+      "singer": "Owl City / Carly Rae Jepsen",
+      "remarkIdx": ["good"]
+    },
+    {
+      "time": 4580,
+      "lyric": "Woah-oh-oh-oh",
+      "tlyric": "Woah-oh-oh-oh",
+      "remarkIdx": ["Woah", "oh"]
+    },
+    {
+      "time": 6120,
+      "lyric": "It's always a good time",
+      "tlyric": "每一刻都是美好时光",
+      "remarkIdx": ["always"]
+    },
+    {
+      "time": 8230,
+      "lyric": "Woah-oh-oh-oh",
+      "tlyric": "Woah-oh-oh-oh",
+      "remarkIdx": ["Woah", "oh"]
+    },
+    {
+      "time": 9769,
+      "lyric": "It's always a good time",
+      "tlyric": "每一刻都是美好时光",
+      "remarkIdx": ["good"]
+    },
+    {
+      "time": 16100,
+      "lyric": "Woke up on the right side of the bed",
+      "tlyric": "今天心情特别好（俚语）",
+      "remarkIdx": ["right"]
+    },
+    {
+      "time": 19660,
+      "lyric": "What's up with this Prince song inside my head?",
+      "tlyric": "不知怎么的 脑中突然回想起王子的歌曲",
+      "remarkIdx": ["prince", "inside"]
+    },
+    {
+      "time": 23480,
+      "lyric": "Hands up if you're down to get down tonight",
+      "tlyric": "如果你也打算来狂欢那就举起手来欢呼吧",
+      "remarkIdx": ["hand", "down"]
+    },
+    {
+      "time": 28660,
+      "lyric": "Cause it's always a good time.",
+      "tlyric": "因为每一刻都是美好时光",
+      "remarkIdx": ["cause", "time"]
+    },
+    {
+      "time": 31099,
+      "lyric": "Slept in all my clothes like I didn't care",
+      "tlyric": "是否伴衣入睡我毫不在乎",
+      "remarkIdx": ["clothes", "care"]
+    },
+    {
+      "time": 34830,
+      "lyric": "Hopped into a cab, take me anywhere",
+      "tlyric": "跳进出租车 带我去任何好玩的地方",
+      "remarkIdx": ["hop", "cab"]
+    },
+    {
+      "time": 38690,
+      "lyric": "I'm in if you're down to get down tonight",
+      "tlyric": "如果今夜你打算狂欢的话我也加入",
+      "remarkIdx": ["down", "tonight"]
+    },
+    {
+      "time": 43990,
+      "lyric": "Cuz it's always a good time",
+      "tlyric": "因为每一刻都是美好时光",
+      "remarkIdx": ["cuz", "always"]
+    },
+    {
+      "time": 46810,
+      "lyric": "Good morning and good night",
+      "tlyric": "无论早晚都你好啊",
+      "remarkIdx": ["morning", "night"]
+    },
+    {
+      "time": 50410,
+      "lyric": "I wake up at twilight",
+      "tlyric": "我在暮色中醒来",
+      "remarkIdx": ["wake", "twilight"]
+    },
+    {
+      "time": 54290,
+      "lyric": "It's gonna be alright",
+      "tlyric": "一切都会好起来的",
+      "remarkIdx": ["gonna", "alright"]
+    },
+    {
+      "time": 57560,
+      "lyric": "We don't even have to try",
+      "tlyric": "我们都不必在意",
+      "remarkIdx": ["even"]
+    },
+    {
+      "time": 59700,
+      "lyric": "It's always a good time",
+      "tlyric": "每一刻都是美好时光",
+      "remarkIdx": ["good"]
+    },
+    {
+      "time": 61560,
+      "lyric": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "tlyric": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "remarkIdx": ["Woah", "oh"]
+    },
+    {
+      "time": 67200,
+      "lyric": "It's always a good time",
+      "tlyric": "每一刻都是美好时光",
+      "remarkIdx": ["time"]
+    },
+    {
+      "time": 69100,
+      "lyric": "Woah-oh-oh-oh",
+      "tlyric": "Woah-oh-oh-oh",
+      "remarkIdx": ["Woah", "oh"]
+    },
+    {
+      "time": 72570,
+      "lyric": "We don't even have to try, it's always a good time.",
+      "tlyric": "我们甚至无需刻意追求 每一刻都是美好时光",
+      "remarkIdx": ["have"]
+    },
+    {
+      "time": 84420,
+      "lyric": "Freaked out dropped my phone in the pool again",
+      "tlyric": "一不留神又把手机掉进了泳池里",
+      "remarkIdx": ["freak", "freak out", "dropped"]
+    },
+    {
+      "time": 88289,
+      "lyric": "Checked out of my room hit the ATM",
+      "tlyric": "退房结账后直奔ATM",
+      "remarkIdx": ["check out", "room", "hit"]
+    },
+    {
+      "time": 91980,
+      "lyric": "Let's hang out if you're down to get down tonight",
+      "tlyric": "让我们今夜一起出去狂欢吧",
+      "remarkIdx": ["hang", "hang out"]
+    },
+    {
+      "time": 97160,
+      "lyric": "Cuz it's always a good time",
+      "tlyric": "因为每一刻都是美好时光",
+      "remarkIdx": ["cuz", "always"]
+    },
+    {
+      "time": 100180,
+      "lyric": "Good morning and good night",
+      "tlyric": "无论早晚都你好啊",
+      "remarkIdx": ["morning", "night"]
+    },
+    {
+      "time": 103740,
+      "lyric": "I wake up at twilight",
+      "tlyric": "我在暮色中醒来",
+      "remarkIdx": ["wake", "twilight"]
+    },
+    {
+      "time": 107580,
+      "lyric": "It's gonna be alright we don't even have to try",
+      "tlyric": "一切都会好起来的 我们都不必在意",
+      "remarkIdx": ["gonna", "alright"]
+    },
+    {
+      "time": 112729,
+      "lyric": "It's always a good time.",
+      "tlyric": "每一刻都是美好时光",
+      "remarkIdx": ["good"]
+    },
+    {
+      "time": 114979,
+      "lyric": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "tlyric": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "remarkIdx": ["Woah", "oh"]
+    },
+    {
+      "time": 119700,
+      "lyric": "It's always a good time",
+      "tlyric": "每一刻都是美好时光",
+      "remarkIdx": ["time"]
+    },
+    {
+      "time": 122280,
+      "lyric": "Woah-oh-oh-oh",
+      "tlyric": "Woah-oh-oh-oh",
+      "remarkIdx": ["Woah", "oh"]
+    },
+    {
+      "time": 125840,
+      "lyric": "We don't even have to try, it's always a good time.",
+      "tlyric": "我们甚至无需刻意追求 每一刻都是美好时光",
+      "remarkIdx": ["try"]
+    },
+    {
+      "time": 130300,
+      "lyric": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "tlyric": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "remarkIdx": ["Woah", "oh"]
+    },
+    {
+      "time": 136090,
+      "lyric": "It's always a good time",
+      "tlyric": "每一刻都是美好时光",
+      "remarkIdx": ["always"]
+    },
+    {
+      "time": 137300,
+      "lyric": "Woah-oh-oh-oh",
+      "tlyric": "Woah-oh-oh-oh",
+      "remarkIdx": ["Woah", "oh"]
+    },
+    {
+      "time": 141500,
+      "lyric": "We don't even have to try, it's always a good time.",
+      "tlyric": "我们甚至无需刻意追求 每一刻都是美好时光",
+      "remarkIdx": ["have"]
+    },
+    {
+      "time": 145269,
+      "lyric": "Doesn't matter when",
+      "tlyric": "无论何时",
+      "remarkIdx": ["matter"]
+    },
+    {
+      "time": 147000,
+      "lyric": "It's always a good time then",
+      "tlyric": "那一刻总会是美好时光",
+      "remarkIdx": ["good"]
+    },
+    {
+      "time": 148998,
+      "lyric": "Doesn't matter where",
+      "tlyric": "无论何地",
+      "remarkIdx": ["matter"]
+    },
+    {
+      "time": 150190,
+      "lyric": "It's always a good time there",
+      "tlyric": "那里每一刻都是美好时光",
+      "remarkIdx": ["time"]
+    },
+    {
+      "time": 152810,
+      "lyric": "Doesn't matter when,",
+      "tlyric": "无论何时",
+      "remarkIdx": ["matter"]
+    },
+    {
+      "time": 154239,
+      "lyric": "It's always a good time then",
+      "tlyric": "那一刻总会是美好时光",
+      "remarkIdx": ["then"]
+    },
+    {
+      "time": 158649,
+      "lyric": "It's always a good time",
+      "tlyric": "每一刻都是美好时光",
+      "remarkIdx": ["always"]
+    },
+    {
+      "time": 160129,
+      "lyric": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "tlyric": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "remarkIdx": ["Woah", "oh"]
+    },
+    {
+      "time": 165539,
+      "lyric": "It's always a good time",
+      "tlyric": "每一刻都是美好时光",
+      "remarkIdx": ["good"]
+    },
+    {
+      "time": 167799,
+      "lyric": "Woah-oh-oh-oh",
+      "tlyric": "Woah-oh-oh-oh",
+      "remarkIdx": ["Woah", "oh"]
+    },
+    {
+      "time": 171190,
+      "lyric": "We don't even have to try, it's always a good time",
+      "tlyric": "我们甚至无需刻意追求 每一刻都是美好时光",
+      "remarkIdx": ["even"]
+    },
+    {
+      "time": 176190,
+      "lyric": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "tlyric": "Woah-oh-oh-oh Woah-oh-oh-oh",
+      "remarkIdx": ["Woah", "oh"]
+    },
+    {
+      "time": 180929,
+      "lyric": "It's always a good time",
+      "tlyric": "每一刻都是美好时光",
+      "remarkIdx": ["time"]
+    },
+    {
+      "time": 183179,
+      "lyric": "Woah-oh-oh-oh",
+      "tlyric": "Woah-oh-oh-oh",
+      "remarkIdx": ["Woah", "oh"]
+    },
+    {
+      "time": 186869,
+      "lyric": "We don't even have to try, it's always a good time",
+      "tlyric": "我们甚至无需刻意追求 每一刻都是美好时光",
+      "remarkIdx": ["good"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 1703284,
+      "status": 99,
+      "demand": 1,
+      "userid": 6345082,
+      "nickname": "大评论家",
+      "uptime": 1432362512469
+    },
+    "lrc": {
+      "version": 36,
+      "lyric": "[00:00.000] 作词 : Adam Young/Matthew Thiessen/Brian Lee\n[00:01.000] 作曲 : Adam Young/Matthew Thiessen/Brian Lee\n[00:04.580]Woah-oh-oh-oh\n[00:06.120]It's always a good time\n[00:08.230]Woah-oh-oh-oh\n[00:09.769]It's always a good time\n[00:16.100]Woke up on the right side of the bed\n[00:19.660]What's up with this Prince song inside my head?\n[00:23.480]Hands up if you're down to get down tonight\n[00:28.660]Cause it's always a good time.\n[00:31.099]Slept in all my clothes like I didn't care\n[00:34.830]Hopped into a cab, take me anywhere\n[00:38.690]I'm in if you're down to get down tonight\n[00:43.990]Cuz it's always a good time\n[00:46.810]Good morning and good night\n[00:50.410]I wake up at twilight\n[00:54.290]It's gonna be alright\n[00:57.560]We don't even have to try\n[00:59.700]It's always a good time\n[01:01.560]Woah-oh-oh-oh Woah-oh-oh-oh\n[01:07.200]It's always a good time\n[01:09.100]Woah-oh-oh-oh\n[01:12.570]We don't even have to try, it's always a good time.\n[01:24.420]Freaked out dropped my phone in the pool again\n[01:28.289]Checked out of my room hit the ATM\n[01:31.980]Let's hang out if you're down to get down tonight\n[01:37.160]Cuz it's always a good time\n[01:40.180]Good morning and good night\n[01:43.740]I wake up at twilight\n[01:47.580]It's gonna be alright we don't even have to try\n[01:52.729]It's always a good time.\n[01:54.979]Woah-oh-oh-oh Woah-oh-oh-oh\n[01:59.700]It's always a good time\n[02:02.280]Woah-oh-oh-oh\n[02:05.840]We don't even have to try, it's always a good time.\n[02:10.300]Woah-oh-oh-oh Woah-oh-oh-oh\n[02:16.090]It's always a good time\n[02:17.300]Woah-oh-oh-oh\n[02:21.500]We don't even have to try, it's always a good time.\n[02:25.269]Doesn't matter when\n[02:27.000]It's always a good time then\n[02:28.998]Doesn't matter where\n[02:30.190]It's always a good time there\n[02:32.810]Doesn't matter when,\n[02:34.239]It's always a good time then\n[02:38.649]It's always a good time\n[02:40.129]Woah-oh-oh-oh Woah-oh-oh-oh\n[02:45.539]It's always a good time\n[02:47.799]Woah-oh-oh-oh\n[02:51.190]We don't even have to try, it's always a good time\n[02:56.190]Woah-oh-oh-oh Woah-oh-oh-oh\n[03:00.929]It's always a good time\n[03:03.179]Woah-oh-oh-oh\n[03:06.869]We don't even have to try, it's always a good time\n"
+    },
+    "tlyric": {
+      "version": 8,
+      "lyric": "[by:大评论家]\n\n[00:06.120]共度美好时光\n\n[00:09.769]共度美好时光吧\n[00:16.100]一觉醒来发现自己躺在床的右边\n[00:19.660]不知怎么的  脑中突然回想起王子的歌曲\n[00:23.480]今夜我们来借舞消愁\n[00:28.660]因为我们共度美好时光\n[00:31.099]伴衣入睡如同我们毫不在乎\n[00:34.830]跳进出租车  带我去任何好玩的地方\n[00:38.690]今夜我们来借舞消愁\n[00:43.990]一起共度美好时光吧\n[00:46.810]美好的一天\n[00:50.410]总之我在暮色中醒来\n[00:54.290]一切都会好起来的\n[00:57.560]我们都不必在意\n[00:59.700]一起共度美好时光吧\n\n[01:07.200]共度美好时光\n\n[01:12.570]我们都不必在意  一起共度美好时光吧\n[01:24.420]手机不小心又掉进了水池\n[01:28.289]离开家出去取些钱\n[01:31.980]今夜我们来借舞消愁\n[01:37.160]一起共度美好时光吧\n[01:40.180]美好的一天\n[01:43.740]总之我在暮色中醒来\n[01:47.580]一切都会好起来的  我们都不必在意\n[01:52.729]一起共度美好时光吧\n\n[01:59.700]共度美好时光\n\n[02:05.840]我们都不必在意 一起共度美好时光吧\n\n[02:16.090]一起共度美好时光吧\n\n[02:21.500]我们都不必在意 一起共度美好时光吧\n[02:25.269]无论何时\n[02:27.000]共度美好时光吧\n[02:28.998]无论何地\n[02:30.190]共度美好时光吧\n[02:32.810]无论何时\n[02:34.239]一起共度美好时光吧\n[02:38.649]共度美好时光吧\n\n[02:45.539]共度美好时光吧\n\n[02:51.190]我们都不必在意 一起共度美好时光吧\n\n[03:00.929]共度美好时光吧\n\n[03:06.869]我们都不必在意 一起共度美好时光吧"
+    },
+    "code": 200
+  }
+}

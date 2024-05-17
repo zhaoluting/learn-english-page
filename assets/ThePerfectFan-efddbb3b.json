@@ -1,0 +1,358 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "The Perfect Fan",
+      "tlyric": "完美粉丝",
+      "singer": "Backstreet Boys",
+      "remarkIdx": ["perfect"]
+    },
+    {
+      "time": 16590,
+      "lyric": "It takes a lot to know what is love",
+      "tlyric": "需要经历很多，才能明白什么是爱",
+      "remarkIdx": ["know", "love"]
+    },
+    {
+      "time": 23460,
+      "lyric": "It's not the big things",
+      "tlyric": "不是什么大事",
+      "remarkIdx": ["big", "thing"]
+    },
+    {
+      "time": 25030,
+      "lyric": "But the little things",
+      "tlyric": "而是些细碎小事",
+      "remarkIdx": ["little"]
+    },
+    {
+      "time": 26600,
+      "lyric": "That can mean enough",
+      "tlyric": "就足以证明爱",
+      "remarkIdx": ["mean"]
+    },
+    {
+      "time": 30040,
+      "lyric": "A lot of prayers to get me through",
+      "tlyric": "很多次的祈祷帮我渡过了难关",
+      "remarkIdx": ["prayer", "get through"]
+    },
+    {
+      "time": 36502,
+      "lyric": "And there is never a day that passes by",
+      "tlyric": "过去的日子里没有一天",
+      "remarkIdx": ["never", "day", "pass by"]
+    },
+    {
+      "time": 39940,
+      "lyric": "I don't think of you",
+      "tlyric": "我不在想念你",
+      "remarkIdx": ["think", "think of"]
+    },
+    {
+      "time": 43870,
+      "lyric": "You were always there for me",
+      "tlyric": "你总是陪伴在我身边",
+      "remarkIdx": ["always", "there"]
+    },
+    {
+      "time": 50027,
+      "lyric": "Pushing me and guiding me",
+      "tlyric": "鞭策我，指引我",
+      "remarkIdx": ["push", "guide"]
+    },
+    {
+      "time": 53063,
+      "lyric": "Always to succeed",
+      "tlyric": "直到我成功为止",
+      "remarkIdx": ["always", "succeed"]
+    },
+    {
+      "time": 57529,
+      "lyric": "You showed me",
+      "tlyric": "你教会了我",
+      "remarkIdx": ["show"]
+    },
+    {
+      "time": 60459,
+      "lyric": "When I was young just how to grow",
+      "tlyric": "当年轻时，我该如何成长",
+      "remarkIdx": ["young", "grow"]
+    },
+    {
+      "time": 64230,
+      "lyric": "You showed me",
+      "tlyric": "你教会了我",
+      "remarkIdx": ["show"]
+    },
+    {
+      "time": 67140,
+      "lyric": "Everything that I should know",
+      "tlyric": "我应该知晓的每一件事",
+      "remarkIdx": ["everything", "should", "know"]
+    },
+    {
+      "time": 70899,
+      "lyric": "You showed me",
+      "tlyric": "你教会了我",
+      "remarkIdx": ["show"]
+    },
+    {
+      "time": 73800,
+      "lyric": "Just how to walk without your hands",
+      "tlyric": "离开你时我该怎样前进",
+      "remarkIdx": ["without", "hand"]
+    },
+    {
+      "time": 78300,
+      "lyric": "'Cause mom you always were",
+      "tlyric": "因为妈妈你一直都是",
+      "remarkIdx": ["'cause", "because", "always"]
+    },
+    {
+      "time": 80229,
+      "lyric": "The perfect fan",
+      "tlyric": "我的完美粉丝",
+      "remarkIdx": ["perfect"]
+    },
+    {
+      "time": 97759,
+      "lyric": "God has been so good",
+      "tlyric": "上帝如此慷慨",
+      "remarkIdx": ["God", "good"]
+    },
+    {
+      "time": 104280,
+      "lyric": "Blessing me with a family",
+      "tlyric": "赐予我一个家庭",
+      "remarkIdx": ["bless", "family"]
+    },
+    {
+      "time": 107770,
+      "lyric": "Who did all they could",
+      "tlyric": "家人愿意为我付出一切",
+      "remarkIdx": ["all", "could"]
+    },
+    {
+      "time": 111229,
+      "lyric": "And I've had many years of grace",
+      "tlyric": "我享受了多年的恩宠",
+      "remarkIdx": ["year", "grace"]
+    },
+    {
+      "time": 117750,
+      "lyric": "And it flatters me when I see a smile on your face",
+      "tlyric": "你脸上的笑容也让我感到高兴",
+      "remarkIdx": ["flatter", "face"]
+    },
+    {
+      "time": 124520,
+      "lyric": "I wanna thank you for what you've done",
+      "tlyric": "我要感谢你所做的一切",
+      "remarkIdx": ["wanna", "thank", "done"]
+    },
+    {
+      "time": 131400,
+      "lyric": "In hopes I can give back to you",
+      "tlyric": "希望我可以好好报答你",
+      "remarkIdx": ["hope", "give", "give back"]
+    },
+    {
+      "time": 134540,
+      "lyric": "And be the perfect son",
+      "tlyric": "做一个优秀的儿子",
+      "remarkIdx": ["perfect", "son"]
+    },
+    {
+      "time": 138329,
+      "lyric": "You showed me",
+      "tlyric": "你教会了我",
+      "remarkIdx": ["show"]
+    },
+    {
+      "time": 141460,
+      "lyric": "When I was young just how to grow",
+      "tlyric": "当年轻时，我该如何成长",
+      "remarkIdx": ["young", "grow"]
+    },
+    {
+      "time": 145280,
+      "lyric": "You showed me",
+      "tlyric": "你教会了我",
+      "remarkIdx": ["show"]
+    },
+    {
+      "time": 148220,
+      "lyric": "Everything that I should know",
+      "tlyric": "我应该知晓的每一件事",
+      "remarkIdx": ["everything", "should", "know"]
+    },
+    {
+      "time": 151170,
+      "lyric": "You showed me",
+      "tlyric": "你教会了我",
+      "remarkIdx": ["show"]
+    },
+    {
+      "time": 154720,
+      "lyric": "Just how to walk without your hands",
+      "tlyric": "离开你时我该怎样前进",
+      "remarkIdx": ["without", "hand"]
+    },
+    {
+      "time": 157970,
+      "lyric": "'Cause mom you always were",
+      "tlyric": "因为妈妈你一直都是",
+      "remarkIdx": ["'cause", "because", "always"]
+    },
+    {
+      "time": 161210,
+      "lyric": "The perfect fan",
+      "tlyric": "我的完美粉丝",
+      "remarkIdx": ["perfect"]
+    },
+    {
+      "time": 165900,
+      "lyric": "You showed me how to love",
+      "tlyric": "你教会我如何去爱",
+      "remarkIdx": ["show", "love"]
+    },
+    {
+      "time": 172340,
+      "lyric": "You showed me how to care",
+      "tlyric": "你教会我如何关怀",
+      "remarkIdx": ["show", "care"]
+    },
+    {
+      "time": 179110,
+      "lyric": "And you showed me that you would always be there",
+      "tlyric": "你教会了我，你会一直在那里守护我",
+      "remarkIdx": ["show", "would"]
+    },
+    {
+      "time": 185860,
+      "lyric": "I wanna thank you for that time",
+      "tlyric": "我要感谢那些你陪伴我的时光",
+      "remarkIdx": ["time"]
+    },
+    {
+      "time": 189400,
+      "lyric": "And I'm proud to say you're mine",
+      "tlyric": "我可以自豪地说，你是属于我的",
+      "remarkIdx": ["proud", "mine"]
+    },
+    {
+      "time": 193360,
+      "lyric": "You showed me",
+      "tlyric": "你教会了我",
+      "remarkIdx": ["show"]
+    },
+    {
+      "time": 196340,
+      "lyric": "When I was young just how to grow",
+      "tlyric": "当年轻时，我该如何成长",
+      "remarkIdx": ["young", "grow"]
+    },
+    {
+      "time": 200100,
+      "lyric": "You showed me",
+      "tlyric": "你教会了我",
+      "remarkIdx": ["show"]
+    },
+    {
+      "time": 203120,
+      "lyric": "Everything that I should know",
+      "tlyric": "我应该知晓的每一件事",
+      "remarkIdx": ["everything", "should", "know"]
+    },
+    {
+      "time": 206560,
+      "lyric": "You showed me",
+      "tlyric": "你教会了我",
+      "remarkIdx": ["show"]
+    },
+    {
+      "time": 209940,
+      "lyric": "Just how to walk without your hands",
+      "tlyric": "离开你时我该怎样前进",
+      "remarkIdx": ["without", "hand"]
+    },
+    {
+      "time": 213170,
+      "lyric": "'Cause mom you always were",
+      "tlyric": "因为妈妈你一直都是",
+      "remarkIdx": ["'cause", "because", "always"]
+    },
+    {
+      "time": 217090,
+      "lyric": "The perfect fan",
+      "tlyric": "我的完美粉丝",
+      "remarkIdx": ["perfect"]
+    },
+    {
+      "time": 224440,
+      "lyric": "'Cause mom you always were",
+      "tlyric": "因为妈妈你一直都是",
+      "remarkIdx": ["'cause", "because", "always"]
+    },
+    {
+      "time": 226800,
+      "lyric": "Mom you always were",
+      "tlyric": "妈妈你一直都是",
+      "remarkIdx": ["mom", "always"]
+    },
+    {
+      "time": 228210,
+      "lyric": "Mom you always were",
+      "tlyric": "妈妈你一直都是",
+      "remarkIdx": ["mom", "always"]
+    },
+    {
+      "time": 230160,
+      "lyric": "You know you always were",
+      "tlyric": "你知道你一直都是",
+      "remarkIdx": ["know", "always"]
+    },
+    {
+      "time": 230260,
+      "lyric": "'Cause mom you always were",
+      "tlyric": "因为妈妈你一直都是",
+      "remarkIdx": [ "'cause", "because", "always"]
+    },
+    {
+      "time": 235760,
+      "lyric": "The perfect fan",
+      "tlyric": "我的完美粉丝",
+      "remarkIdx": ["fan"]
+    },
+    {
+      "time": 245500,
+      "lyric": "I love you mom",
+      "tlyric": "我爱你妈妈",
+      "remarkIdx": ["love", "mom"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 1070881,
+      "status": 99,
+      "demand": 1,
+      "userid": 0,
+      "nickname": "Octothorpe",
+      "uptime": 1464510076423
+    },
+    "lrc": {
+      "version": 12,
+      "lyric": "[00:00.000] 作词 : Littrell, Smith\n[00:01.000] 作曲 : Brian T. Littrell/Thomas L. Smith\n[00:16.590]It takes a lot to know what is love\n[00:23.460]It's not the big things, but the little things\n[00:26.600]That can mean enough\n[00:30.0]A lot of prayers to get me through\n[00:34.800]And there is never a day that passes by\n[00:39.940]I don't think of you\n[00:43.870]You were always there for me\n[00:49.870]Pushing me and guiding me\n[00:53.230]Always to succeed\n[00:57.529]You showed me\n[01:00.459]When I was young just how to grow\n[01:04.230]You showed me\n[01:07.140]Everything that I should know\n[01:10.899]You showed me\n[01:13.800]Just how to walk without your hands\n[01:18.300]'Cause mom you always were\n[01:20.229]The perfect fan\n[01:37.759]God has been so good\n[01:44.280]Blessing me with a family\n[01:47.770]Who did all they could\n[01:51.229]And I've had many years of grace\n[01:57.750]And it flatters me when I see a smile on your face\n[02:04.520]I wanna thank you for what you've done\n[02:08.400]In hopes I can give back to you\n[02:14.540]And be the perfect son\n[02:18.329]You showed me\n[02:21.460]When I was young just how to grow\n[02:25.280]You showed me\n[02:28.220]Everything that I should know\n[02:31.170]You showed me\n[02:34.720]Just how to walk without your hands\n[02:37.970]'Cause mom you always were\n[02:41.210]The perfect fan\n[02:45.900]You showed me how to love\n[02:52.340]You showed me how to care\n[02:59.110]And you showed me that you would\n[03:03.250]always be there\n[03:05.860]I wanna thank you for that time\n[03:09.400]And I'm proud to say you're mine\n[03:13.360]You showed me\n[03:16.340]When I was young just how to grow\n[03:20.100]You showed me\n[03:23.120]Everything that I should know\n[03:26.560]You showed me\n[03:29.940]Just how to walk without your hands\n[03:33.170]'Cause mom you always were\n[03:37.390]The perfect fan\n[03:44.440]'Cause mom you always were,\n[03:46.800]mom you always were\n[03:48.210]Mom you always were,\n[03:50.160]you know you always were\n[03:53.390]'Cause mom you always were...\n[03:55.760] the perfect fan\n[04:06.100]I love you mom\n"
+    },
+    "tlyric": {
+      "version": 4,
+      "lyric": "[by:Octothorpe]\n[00:16.590]经过很多事情，才知道什么是爱\n[00:23.460]不是宏伟大事，而是日常小事\n[00:26.600]这已足够证明你的爱\n[00:30.0]很多祈望让我明白\n[00:34.800]因为我知道\n[00:39.940]你的陪伴，从未离开\n[00:43.870]你一直在那儿\n[00:49.870]激励我，指引我\n[00:53.230]直到成功\n[00:57.529]你教会我\n[01:00.459]怎样从稚嫩走向成熟\n[01:04.230]你教会我\n[01:07.140]我应知晓的每件事情\n[01:10.899]你教会我\n[01:13.800]怎样离开你的怀抱，扬帆起航\n[01:18.300]因为妈妈你总是我的\n[01:20.229]最棒的粉丝\n[01:37.759]上帝真是太好了\n[01:44.280]保佑我有了一个\n[01:47.770]愿意为我付出一切的家\n[01:51.229]我已受到多年的恩宠\n[01:57.750]你脸上的笑容，更是对我的恩泽\n[02:04.520]谢谢你，为我所做的一切\n[02:08.400]希望有天我能报答你\n[02:14.540]并做你最棒的儿子\n[02:18.329]你教会我\n[02:21.460]怎样从稚嫩走向成熟\n[02:25.280]你教会我\n[02:28.220]我应知晓的每件事情\n[02:31.170]你教会我\n[02:34.720]怎样离开你的怀抱，扬帆起航\n[02:37.970]因为妈妈你总是我的\n[02:41.210]最棒的粉丝\n[02:45.900]你教会我怎样爱\n[02:52.340]你教会我怎样关心\n[02:59.110]我知道\n[03:03.250]你会永远在那守护我\n[03:05.860]谢谢你陪我的时光\n[03:09.400]我可以傲娇的说，你是我的\n[03:13.360]你教会我\n[03:16.340]怎样从稚嫩走向成熟\n[03:20.100]你教会我\n[03:23.120]我应知晓的每件事情\n[03:26.560]你教会我\n[03:29.940]怎样离开你的怀抱，扬帆起航\n[03:33.170]因为妈妈你总是我的\n[03:37.390]最棒的粉丝\n[03:44.440]因为妈妈你总是我的\n[03:46.800]总是我的\n[03:48.210]总是我的\n[03:50.160]你知道你永远是我的\n[03:53.390]因为妈妈你总是我的\n[03:55.760]最棒的粉丝\n[04:06.100]爱你，妈妈（送给全天下的妈妈，I'm sugarman,hiahia～）\n"
+    },
+    "code": 200
+  }
+}

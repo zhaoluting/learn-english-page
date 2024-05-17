@@ -1,0 +1,314 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "The Lazy Song",
+      "tlyric": "懒人之歌",
+      "singer": "Bruno Mars",
+      "remarkIdx": ["lazy", "song"]
+    },
+    {
+      "time": 5020,
+      "lyric": "today I don't feel like doing anything",
+      "tlyric": "我今天啥事都不想干",
+      "remarkIdx": ["feel", "feel like", "anything"]
+    },
+    {
+      "time": 10610,
+      "lyric": "I just wanna lay in my bed",
+      "tlyric": "只想赖在床上",
+      "remarkIdx": ["lay"]
+    },
+    {
+      "time": 15740,
+      "lyric": "don't feel like picking up my phone",
+      "tlyric": "电话也懒得接",
+      "remarkIdx": ["feel like", "pick up", "phone"]
+    },
+    {
+      "time": 18710,
+      "lyric": "so leave a message at the tone",
+      "tlyric": "就在留言箱里留话吧",
+      "remarkIdx": ["tone", "at the tone"]
+    },
+    {
+      "time": 21230,
+      "lyric": "cause today I swear I'm not doing anything",
+      "tlyric": "因为今天我发誓啥事都不做",
+      "remarkIdx": ["cause", "today", "swear"]
+    },
+    {
+      "time": 26650,
+      "lyric": "I'm gonna kick my feet up and stare at the fan",
+      "tlyric": "把脚翘高高，呆望电风扇",
+      "remarkIdx": ["kick", "stare"]
+    },
+    {
+      "time": 29850,
+      "lyric": "turn the TV on, throw my hands in my pants",
+      "tlyric": "开着电视，手插裤子里",
+      "remarkIdx": ["turn on", "throw in", "pants"]
+    },
+    {
+      "time": 32560,
+      "lyric": "nobody's gone tell me I can't",
+      "tlyric": "谁都别和我说不行",
+      "remarkIdx": ["nobody", "tell"]
+    },
+    {
+      "time": 37070,
+      "lyric": "now I'll be lounging on the couch just chillin' in my Snuggie",
+      "tlyric": "我就窝在沙发里，缩在懒人毯里",
+      "remarkIdx": ["lounge", "couch", "chillin'", "Snuggie"]
+    },
+    {
+      "time": 40780,
+      "lyric": "click to MTV so they can teach me how to Dougie",
+      "tlyric": "打开MTV，看看他们怎么教我跳Dougie舞",
+      "remarkIdx": ["click", "teach"]
+    },
+    {
+      "time": 43420,
+      "lyric": "cause in my castle I'm the freaking man",
+      "tlyric": "因为在我地盘我说了算",
+      "remarkIdx": ["castle", "freaking"]
+    },
+    {
+      "time": 48500,
+      "lyric": "oooh yes I said",
+      "tlyric": "这是我说的",
+      "remarkIdx": ["yes", "said", "say"]
+    },
+    {
+      "time": 50740,
+      "lyric": "I said it",
+      "tlyric": "这是我说的",
+      "remarkIdx": ["said", "say"]
+    },
+    {
+      "time": 51640,
+      "lyric": "I said it 'cause I can",
+      "tlyric": "因为我可以，所以我能说",
+      "remarkIdx": ["'cause", "can"]
+    },
+    {
+      "time": 54500,
+      "lyric": "today I don't feel like doing anything",
+      "tlyric": "我今天啥事都不想干",
+      "remarkIdx": ["feel", "feel like", "anything"]
+    },
+    {
+      "time": 59980,
+      "lyric": "I just wanna lay in my bed",
+      "tlyric": "只想赖在床上",
+      "remarkIdx": ["just", "wanna", "bed"]
+    },
+    {
+      "time": 65110,
+      "lyric": "don't feel like picking up my phone",
+      "tlyric": "电话也懒得接",
+      "remarkIdx": ["feel like", "pick up", "phone"]
+    },
+    {
+      "time": 68060,
+      "lyric": "so leave a message at the tone",
+      "tlyric": "就在留言箱里留话吧",
+      "remarkIdx": ["leave", "message"]
+    },
+    {
+      "time": 70600,
+      "lyric": "cause today I swear I'm not doing anything",
+      "tlyric": "因为今天我发誓啥事都不做",
+      "remarkIdx": ["cause", "today", "swear"]
+    },
+    {
+      "time": 75090,
+      "lyric": "nothing at all",
+      "tlyric": "啥都不干",
+      "remarkIdx": ["nothing", "at all"]
+    },
+    {
+      "time": 80530,
+      "lyric": "nothing at all",
+      "tlyric": "啥都不干",
+      "remarkIdx": ["nothing", "at all"]
+    },
+    {
+      "time": 86940,
+      "lyric": "tomorrow I'll wake up do some P90X, meet a really nice girl",
+      "tlyric": "明天起床做做P90X，约一个超棒的女孩",
+      "remarkIdx": ["tomorrow", "wake up", "P90X"]
+    },
+    {
+      "time": 91250,
+      "lyric": "have some really nice sex",
+      "tlyric": "做点儿超棒的事情",
+      "remarkIdx": ["really", "sex"]
+    },
+    {
+      "time": 92880,
+      "lyric": "and she's gonna scream out this is great",
+      "tlyric": "她会大叫：“太棒了！”",
+      "remarkIdx": ["scream", "great"]
+    },
+    {
+      "time": 96290,
+      "lyric": "（oh this is great）",
+      "tlyric": "（太棒了）",
+      "remarkIdx": ["great"]
+    },
+    {
+      "time": 97340,
+      "lyric": "yeeah I might mess around and get my college degree",
+      "tlyric": "我可能会瞎搞搞，拿到我的大学学位",
+      "remarkIdx": ["mess around", "degree"]
+    },
+    {
+      "time": 101100,
+      "lyric": "I bet my old man will be so proud of me",
+      "tlyric": "我打赌老爸一定以我为荣",
+      "remarkIdx": ["bet", "old man", "proud"]
+    },
+    {
+      "time": 103740,
+      "lyric": "but sorry pops, you'll just have to wait",
+      "tlyric": "但抱歉啦，老爸，你还得再等等",
+      "remarkIdx": ["pops", "wait"]
+    },
+    {
+      "time": 108670,
+      "lyric": "ooooh yes I said it",
+      "tlyric": "这是我说的",
+      "remarkIdx": ["yes", "said", "say"]
+    },
+    {
+      "time": 111000,
+      "lyric": "I said it",
+      "tlyric": "这是我说的",
+      "remarkIdx": ["said", "say"]
+    },
+    {
+      "time": 111990,
+      "lyric": "I said it 'cause I can",
+      "tlyric": "因为我可以，所以我能说",
+      "remarkIdx": ["cause", "can"]
+    },
+    {
+      "time": 114760,
+      "lyric": "today I don't feel like doing anything",
+      "tlyric": "我今天啥事都不想干",
+      "remarkIdx": ["feel", "feel like", "anything"]
+    },
+    {
+      "time": 120300,
+      "lyric": "I just wanna lay in my bed",
+      "tlyric": "只想赖在床上",
+      "remarkIdx": ["lay"]
+    },
+    {
+      "time": 125430,
+      "lyric": "don't feel like picking up my phone",
+      "tlyric": "电话也懒得接",
+      "remarkIdx": ["feel like", "pick up", "phone"]
+    },
+    {
+      "time": 128380,
+      "lyric": "so leave a message at the tone",
+      "tlyric": "就在留言箱里留话吧",
+      "remarkIdx": ["tone", "at the tone"]
+    },
+    {
+      "time": 130930,
+      "lyric": "cause today I swear I'm not doing anything",
+      "tlyric": "因为今天我发誓啥事都不做",
+      "remarkIdx": ["cause", "today", "swear"]
+    },
+    {
+      "time": 135460,
+      "lyric": "no, I ain't gonna comb my hair",
+      "tlyric": "不，我不想整理我的头发",
+      "remarkIdx": ["ain't", "comb", "hair"]
+    },
+    {
+      "time": 139370,
+      "lyric": "cause I ain't going anywhere",
+      "tlyric": "反正我也不去哪里",
+      "remarkIdx": ["ain't", "going", "anywhere"]
+    },
+    {
+      "time": 147040,
+      "lyric": "I'll just strut in my birthday suit",
+      "tlyric": "我想要光着身子",
+      "remarkIdx": ["strut", "suit", "in one's birthday suit"]
+    },
+    {
+      "time": 150040,
+      "lyric": "and let everything hang loose",
+      "tlyric": "一切都放轻松点儿吧",
+      "remarkIdx": ["hang", "loose"]
+    },
+    {
+      "time": 157700,
+      "lyric": "oh Today I don't feel like doing anything",
+      "tlyric": "我今天啥事都不想干",
+      "remarkIdx": ["feel", "feel like", "anything"]
+    },
+    {
+      "time": 164210,
+      "lyric": "I just wanna lay in my bed",
+      "tlyric": "只想赖在床上",
+      "remarkIdx": ["just", "wanna", "bed"]
+    },
+    {
+      "time": 169340,
+      "lyric": "don't feel like picking up my phone",
+      "tlyric": "电话也懒得接",
+      "remarkIdx": ["feel like", "pick up", "phone"]
+    },
+    {
+      "time": 172300,
+      "lyric": "so leave a message at the tone",
+      "tlyric": "就在留言箱里留话吧",
+      "remarkIdx": ["leave", "message"]
+    },
+    {
+      "time": 174840,
+      "lyric": "cause today I swear I'm not doing anything",
+      "tlyric": "因为今天我发誓啥事都不做",
+      "remarkIdx": ["cause", "today", "swear"]
+    },
+    {
+      "time": 179360,
+      "lyric": "nothing at all",
+      "tlyric": "啥都不干",
+      "remarkIdx": ["nothing", "at all"]
+    },
+    {
+      "time": 184740,
+      "lyric": "nothing at all",
+      "tlyric": "啥都不干",
+      "remarkIdx": ["nothing", "at all"]
+    },
+    {
+      "time": 190230,
+      "lyric": "nothing at all",
+      "tlyric": "啥都不干",
+      "remarkIdx": ["nothing", "at all"]
+    } 
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "lrc": {
+      "version": 20,
+      "lyric": "[00:00.000] 作词 : K'NAAN/Bruno Mars/Philip Lawrence/Ari Levine\n[00:01.000] 作曲 : K'NAAN/Bruno Mars/Philip Lawrence/Ari Levine\n[00:05.020]Today I don't feel like doing anything\n[00:10.610]I just wanna lay in my bed\n[00:15.740]don't feel like picking up my phone\n[00:18.710]so leave a message at the tone\n[00:21.230]cause today I swear I'm not doing anything\n[00:26.650]I'm gonna kick my feet up and stare at the fan\n[00:29.850]Turn the TV on throw my hands in my pants\n[00:32.560]nobody's gone tell me I can't\n[00:37.070]now I'll be lounging on the couch just chillin in my snuggie\n[00:40.780]click to MTV so they can teach me how to dougie\n[00:43.420]cause in my castle I'm the freaking man\n[00:48.500]oooh yes I said\n[00:50.740]I said it\n[00:51.640]I said it cause I can\n[00:54.500]today I don't feel like doing anything\n[00:59.980]I just wanna lay in my bed\n[01:05.110]don't feel like picking up my phone\n[01:08.060]so leave a message at the tone\n[01:10.600]cause today I swear I'm not doing anything\n[01:15.090]nothing at all\n[01:16.820]Wuuuuho wuho hooo\n[01:20.530]nothing at all\n[01:22.250]Wuuuuho wuho hoooo\n[01:26.940]tomorrow I'll wake up do some p90x meet a really nice girl\n[01:31.250]have some really nice sex\n[01:32.880]and she's gonna scream out this is great\n[01:36.290]（oh this is great）\n[01:37.340]yeeah I might mess around and get my college degree\n[01:41.100]I bet my old man will be so proud of me\n[01:43.740]but sorry pops you'll just have to wait\n[01:48.670]ooooh yes I said it\n[01:51.000]I said it\n[01:51.990]I said it cause I can\n[01:54.760]today I don't feel like doing anything\n[02:00.300]I just wanna lay in my bed\n[02:05.430]don't feel like picking up my phone\n[02:08.380]so leave a message at the tone\n[02:10.930]cause today I swear I'm not doing anything\n[02:15.460]no I ain't gonna comb my hair\n[02:19.370]cause I ain't goin' anywhere\n[02:22.260]no no no no no noooo\n[02:27.040]I'll just strut in my birthday suit\n[02:30.040]and let everything hang loose\n[02:33.230]yeah yeah yeah yeah yeah yeah yeah yeaahhh\n[02:37.700]oh Today I don't feel like doin' anything\n[02:44.210]I just wanna lay in my bed\n[02:49.340]don't feel like picking up my phone\n[02:52.300]so leave a message at the tone\n[02:54.840]cause today I swear I'm not doing anything\n[02:59.360]nothing at all\n[03:01.000]Wuuuuho wuho hooo\n[03:04.740]nothing at all\n[03:06.520]Wuuuuho wuho hoooo\n[03:10.230]nothing at all\n[03:10.952] 器乐 : Ari Levine/Bruno Mars\n[03:11.674] 混音师 : Manny Marroquin\n[03:12.396] 混音助理 : Christian Plata/Erik Madrid\n[03:13.118] 监制 : The Smeezingtons\n[03:13.840] 母带工程师 : Stephen Marcussen\n"
+    },
+    "tlyric": {
+      "version": 16,
+      "lyric": "[00:05.020]我今天啥事都不想干\n[00:10.610]只想赖在床上\n[00:15.740]电话也懒得接\n[00:18.710]就在留言箱里留话吧\n[00:21.230]因为今天我发誓啥事都不做\n[00:26.650]把脚翘高高呆望电风扇\n[00:29.850]开着电视手插裤子里\n[00:32.560]谁都没权力管我\n[00:37.070]我就在窝在沙发上 穿著懒人毯\n[00:40.780]打开MTV看看他们怎么教我跳街舞\n[00:43.420]因为在我地盘他妈我说了算\n[00:48.500]我说了算\n[00:50.740]我说了算\n[00:51.640]因为我说的算\n[00:54.500]我今天啥事都不想干\n[00:59.980]只想赖在床上\n[01:05.110]电话也懒得接\n[01:08.060]就在留言箱里留话吧\n[01:10.600]因为今天我发誓啥事都不做\n[01:15.090]啥都不干\n[01:16.820]Wuuuuho wuho hooo\n[01:20.530]啥都不干\n[01:22.250]Wuuuuho wuho hooo\n[01:26.940]明天起床练成肌肉男\n[01:31.250]\n[01:32.880]\n[01:36.290]太棒了\n[01:37.340]我可能瞎弄搞出个大学文凭\n[01:41.100]我打赌老爸一定以我为荣\n[01:43.740]但 抱歉啦老爸你慢慢等吧\n[01:48.670]我说了算\n[01:51.000]我说了算\n[01:51.990]因为我说了算\n[01:54.760]我今天啥事都不想干\n[02:00.300]只想赖在床上\n[02:05.430]电话也懒得接\n[02:08.380]就在留言箱里留话吧\n[02:10.930]因为今天我发誓啥事都不做\n[02:15.460]不想整理我的乱发\n[02:19.370]反正我也不去哪里\n[02:22.260]no no no no no noooo\n[02:27.040]我想要光着身子\n[02:30.040]所有事都放松吧\n[02:33.230]yeah yeah yeah yeah yeah yeah yeah yeaahhh\n[02:37.700]我今天啥事都不想干\n[02:44.210]只想赖在床上\n[02:49.340]电话也懒得接\n[02:52.300]就在留言箱里留话吧\n[02:54.840]因为今天我发誓啥事都不做\n[02:59.360]啥都不干\n[03:01.000]Wuuuuho wuho hooo\n[03:04.740]啥都不干\n[03:06.520]Wuuuuho wuho hooo\n[03:10.230]啥都不干"
+    },
+    "code": 200
+  }
+}

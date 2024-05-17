@@ -1,0 +1,368 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Try",
+      "tlyric": "尝试",
+      "singer": "Colbie Caillat",
+      "remarkIdx": ["try"]
+    },
+    {
+      "time": 13200,
+      "lyric": "Put your make up on",
+      "tlyric": "化好妆容",
+      "remarkIdx": ["put on", "make up"]
+    },
+    {
+      "time": 14690,
+      "lyric": "Get your nails done",
+      "tlyric": "做好指甲",
+      "remarkIdx": ["nail", "done"]
+    },
+    {
+      "time": 15980,
+      "lyric": "Curl your hair",
+      "tlyric": "卷好头发",
+      "remarkIdx": ["curl", "hair"]
+    },
+    {
+      "time": 16880,
+      "lyric": "Run the extra mile",
+      "tlyric": "多跑几英里",
+      "remarkIdx": ["extra", "mile"]
+    },
+    {
+      "time": 18180,
+      "lyric": "Keep it slim so they like you, do they like you?",
+      "tlyric": "保持苗条，让他们喜欢你，但他们真的喜欢你吗？",
+      "remarkIdx": ["keep", "slim"]
+    },
+    {
+      "time": 27160,
+      "lyric": "Get your sexy on",
+      "tlyric": "穿得性感点",
+      "remarkIdx": ["sexy", "get on"]
+    },
+    {
+      "time": 28270,
+      "lyric": "Don't be shy, girl",
+      "tlyric": "不要害羞，女孩",
+      "remarkIdx": ["shy", "girl"]
+    },
+    {
+      "time": 29630,
+      "lyric": "Take it off",
+      "tlyric": "露出身段",
+      "remarkIdx": ["take off", "off"]
+    },
+    {
+      "time": 30630,
+      "lyric": "This is what you want, to belong, so they like you",
+      "tlyric": "这就是你想要的，属于你的，所以他们喜欢你",
+      "remarkIdx": ["want", "belong"]
+    },
+    {
+      "time": 36100,
+      "lyric": "Do you like you?",
+      "tlyric": "但你喜欢你自己吗？",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 39880,
+      "lyric": "You don't have to try so hard",
+      "tlyric": "你不必竭尽全力尝试改变",
+      "remarkIdx": ["so", "hard"]
+    },
+    {
+      "time": 43400,
+      "lyric": "You don't have to, give it all away",
+      "tlyric": "你不必让自己毫无保留",
+      "remarkIdx": ["have to", "give away"]
+    },
+    {
+      "time": 46880,
+      "lyric": "You just have to get up, get up, get up, get up",
+      "tlyric": "你只需要振作起来",
+      "remarkIdx": ["just", "get up"]
+    },
+    {
+      "time": 50510,
+      "lyric": "You don't have to change a single thing",
+      "tlyric": "你不必做任何改变",
+      "remarkIdx": ["change"]
+    },
+    {
+      "time": 53650,
+      "lyric": "You don't have to try, try, try, try",
+      "tlyric": "你不需要尝试改变，去迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 57170,
+      "lyric": "You don't have to try, try, try, try",
+      "tlyric": "你不需要尝试改变，去迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 60310,
+      "lyric": "You don't have to try, try, try, try",
+      "tlyric": "你不需要尝试改变，去迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 63990,
+      "lyric": "You don't have to try",
+      "tlyric": "你不必尝试迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 66230,
+      "lyric": "Yooou don't have to try",
+      "tlyric": "你不必尝试",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 81980,
+      "lyric": "Get your shopping on, at the mall, max your credit cards",
+      "tlyric": "逛遍商场，疯狂购物，刷爆信用卡",
+      "remarkIdx": ["mall", "credit"]
+    },
+    {
+      "time": 85900,
+      "lyric": "You don't have to choose, buy it all, so they like you",
+      "tlyric": "你不需要选择，全部买下，这样他们才会喜欢你",
+      "remarkIdx": ["choose", "buy"]
+    },
+    {
+      "time": 90920,
+      "lyric": "Do they like you?",
+      "tlyric": "但他们真的喜欢你吗？",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 95560,
+      "lyric": "Wait a second,",
+      "tlyric": "等一等",
+      "remarkIdx": ["second"]
+    },
+    {
+      "time": 97050,
+      "lyric": "Why, should you care, what they think of you",
+      "tlyric": "为什么你要在乎别人如何看待你",
+      "remarkIdx": ["care", "think"]
+    },
+    {
+      "time": 99210,
+      "lyric": "When you're all alone, by yourself, do you like you?",
+      "tlyric": "当你独自一人的时候 你喜欢你自己吗？",
+      "remarkIdx": ["alone", "yourself", "all alone", "by yourself"]
+    },
+    {
+      "time": 104660,
+      "lyric": "Do you like you?",
+      "tlyric": "你喜欢你自己吗？",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 108450,
+      "lyric": "You don't have to try so hard",
+      "tlyric": "你不必竭尽全力尝试改变",
+      "remarkIdx": ["so", "hard"]
+    },
+    {
+      "time": 111760,
+      "lyric": "You don't have to, give it all away",
+      "tlyric": "你不必让自己毫无保留",
+      "remarkIdx": ["give", "away"]
+    },
+    {
+      "time": 115640,
+      "lyric": "You just have to get up, get up, get up, get up",
+      "tlyric": "你只需要振作起来",
+      "remarkIdx": ["just", "get up"]
+    },
+    {
+      "time": 119090,
+      "lyric": "You don't have to change a single thing",
+      "tlyric": "你不必做任何改变",
+      "remarkIdx": ["single"]
+    },
+    {
+      "time": 122030,
+      "lyric": "You don't have to try so hard",
+      "tlyric": "你不必竭尽全力尝试改变",
+      "remarkIdx": ["so", "hard"]
+    },
+    {
+      "time": 126000,
+      "lyric": "You don't have to bend until you break",
+      "tlyric": "你不必委曲求全",
+      "remarkIdx": ["bend", "until"]
+    },
+    {
+      "time": 129060,
+      "lyric": "You just have to get up, get up, get up, get up",
+      "tlyric": "你只需要振作起来",
+      "remarkIdx": ["just", "get up"]
+    },
+    {
+      "time": 132410,
+      "lyric": "You don't have to change a single thing",
+      "tlyric": "你不必做任何改变",
+      "remarkIdx": ["thing"]
+    },
+    {
+      "time": 136040,
+      "lyric": "You don't have to try, try, try, try",
+      "tlyric": "你不需要尝试改变，去迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 139560,
+      "lyric": "You don't have to try, try, try, try",
+      "tlyric": "你不需要尝试改变，去迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 142800,
+      "lyric": "You don't have to try, try, try, try",
+      "tlyric": "你不需要尝试改变，去迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 146260,
+      "lyric": "You don't have to try",
+      "tlyric": "你不必尝试迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 149480,
+      "lyric": "You don't have to try, try, try, try",
+      "tlyric": "你不需要尝试改变，去迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 153040,
+      "lyric": "You don't have to try, try, try, try",
+      "tlyric": "你不需要尝试改变，去迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 156410,
+      "lyric": "You don't have to try, try, try, try",
+      "tlyric": "你不需要尝试改变，去迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 160080,
+      "lyric": "You don't have to try",
+      "tlyric": "你不必尝试迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 162440,
+      "lyric": "Yooou don't have to try",
+      "tlyric": "你不必尝试",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 176910,
+      "lyric": "You don't have to try so hard",
+      "tlyric": "你不必竭尽全力尝试改变",
+      "remarkIdx": ["so", "hard"]
+    },
+    {
+      "time": 180360,
+      "lyric": "You don't have to, give it all away",
+      "tlyric": "你不必让自己毫无保留",
+      "remarkIdx": ["all"]
+    },
+    {
+      "time": 183900,
+      "lyric": "You just have to get up, get up, get up, get up",
+      "tlyric": "你只需要振作起来",
+      "remarkIdx": ["just", "get up"]
+    },
+    {
+      "time": 187450,
+      "lyric": "You don't have to change a single thing",
+      "tlyric": "你不必做任何改变",
+      "remarkIdx": ["change"]
+    },
+    {
+      "time": 190920,
+      "lyric": "You don't have to try, try, try, try",
+      "tlyric": "你不需要尝试改变，去迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 194410,
+      "lyric": "You don't have to try, try, try, try",
+      "tlyric": "你不需要尝试改变，去迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 197620,
+      "lyric": "You don't have to try",
+      "tlyric": "你不必尝试迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 201770,
+      "lyric": "You don't have to try",
+      "tlyric": "你不必尝试迎合他人",
+      "remarkIdx": ["have to", "try"]
+    },
+    {
+      "time": 205860,
+      "lyric": "Take your make up off",
+      "tlyric": "卸掉妆",
+      "remarkIdx": ["take off", "make up"]
+    },
+    {
+      "time": 206880,
+      "lyric": "Put your hair down",
+      "tlyric": "散开头发",
+      "remarkIdx": ["put down", "hair"]
+    },
+    {
+      "time": 207980,
+      "lyric": "Take a breath",
+      "tlyric": "深呼吸",
+      "remarkIdx": ["take", "breath"]
+    },
+    {
+      "time": 208950,
+      "lyric": "Look into the mirror, at yourself",
+      "tlyric": "看着镜中的自己",
+      "remarkIdx": ["look into", "mirror"]
+    },
+    {
+      "time": 211010,
+      "lyric": "Don't you like you?",
+      "tlyric": "难道你真的不喜欢这样的自己吗？",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 214400,
+      "lyric": "Cause I like you",
+      "tlyric": "因为我喜欢你",
+      "remarkIdx": ["cause", "like"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "lrc": {
+      "version": 36,
+      "lyric": "[00:00.000] 作词 : Antonio Dixon/Kenny \"Babyface\" Edmonds/Colbie Caillat/Jason Reeves\n[00:01.000] 作曲 : Antonio Dixon/Kenny \"Babyface\" Edmonds/Colbie Caillat/Jason Reeves\n[00:13.200]Put your make up on\n[00:14.690]Get your nails done\n[00:15.980]Curl your hair\n[00:17.080]Run the extra mile\n[00:18.180]Keep it slim so they like you, do they like you?\n[00:27.860]Get your sexy on\n[00:28.770]Don't be shy, girl\n[00:29.630]Take it off\n[00:30.630]This is what you want, to belong, so they like you\n[00:36.100]Do you like you?\n[00:39.880]You don't have to try so hard\n[00:43.400]You don't have to, give it all away\n[00:46.880]You just have to get up, get up, get up, get up\n[00:50.510]You don't have to change a single thing\n[00:53.650]You don't have to try, try, try, try\n[00:57.170]You don't have to try, try, try, try\n[01:00.310]You don't have to try, try, try, try\n[01:03.990]You don't have to try\n[01:06.230]Yooou don't have to try\n[01:21.980]Get your shopping on, at the mall, max your credit cards\n[01:25.900]You don't have to choose, buy it all, so they like you\n[01:30.920]Do they like you?\n[01:35.560]Wait a second,\n[01:37.050]Why, should you care, what they think of you\n[01:39.210]When you're all alone, by yourself, do you like you?\n[01:44.660]Do you like you?\n[01:48.450]You don't have to try so hard\n[01:51.760]You don't have to, give it all away\n[01:55.640]You just have to get up, get up, get up, get up\n[01:59.090]You don't have to change a single thing\n[02:02.030]You don't have to try so hard\n[02:06.450]You don't have to bend until you break\n[02:09.060]You just have to get up, get up, get up, get up\n[02:12.410]You don't have to change a single thing\n[02:16.040]You don't have to try, try, try, try\n[02:19.560]You don't have to try, try, try, try\n[02:22.800]You don't have to try, try, try, try\n[02:26.260]You don't have to try\n[02:29.480]You don't have to try, try, try, try\n[02:33.040]You don't have to try, try, try, try\n[02:36.410]You don't have to try, try, try, try\n[02:40.080]You don't have to try\n[02:42.440]Yooou don't have to try\n[02:56.910]You don't have to try so hard\n[03:00.360]You don't have to, give it all away\n[03:03.900]You just have to get up, get up, get up, get up\n[03:07.450]You don't have to change a single thing\n[03:10.920]You don't have to try, try, try, try\n[03:14.410]You don't have to try, try, try, try\n[03:17.620]You don't have to try\n[03:21.770]You don't have to try\n[03:25.860]Take your make up off\n[03:26.880]Put your hair down\n[03:27.980]Take a breath\n[03:28.950]Look into the mirror, at yourself\n[03:31.010]Don't you like you?\n[03:34.400]Cause I like you\n"
+    },
+    "tlyric": {
+      "version": 15,
+      "lyric": "[00:13.200]化好妆\n[00:14.690]涂好指甲\n[00:15.980]盘好秀发\n[00:17.080]多跑跑步\n[00:18.180]保持苗条 他们才喜欢你 他们真的喜欢你吗？\n[00:27.860]妩媚性感\n[00:28.770]不要害羞 女孩\n[00:29.630]袒露身段\n[00:30.630]这就是你想要的吗？因为这样他们才喜欢你\n[00:36.100]你喜欢自己吗？\n[00:39.880]你不必逼自己竭尽全力\n[00:43.400]你不必逼自己毫无保留\n[00:46.880]你只需要振作起来\n[00:50.510]你不必逼自己做任何改变\n[00:53.650]你不必去努力尝试\n[00:57.170]你不必去努力尝试\n[01:00.310]你不必去努力尝试\n[01:03.990]你不必尝试\n[01:06.230]你不必尝试\n[01:21.980]疯狂购物 逛遍商场 刷爆信用卡\n[01:25.900]你没有选择，只能一口气买完 因为这样他们才喜欢你\n[01:30.920]他们真的喜欢你吗？\n[01:35.560]等一下\n[01:37.050]为什么你需要在乎他们如何想你\n[01:39.210]当你一个人的时候 你喜欢你自己吗？\n[01:44.660]你爱你自己吗？\n[01:48.450]你不必逼自己竭尽全力\n[01:51.760]你不必逼自己毫无保留\n[01:55.640]你只需要振作起来\n[01:59.090]你不必逼自己做任何改变\n[02:02.030]你不必逼自己竭尽全力\n[02:06.450]你不必委曲求全\n[02:09.060]你只需要振作起来\n[02:12.410]你不必逼自己做任何改变\n[02:16.040]你不必去努力尝试\n[02:19.560]你不必去努力尝试\n[02:22.800]你不必尝试\n[02:26.260]你不必尝试\n[02:29.480]你不必去努力尝试\n[02:33.040]你不必去努力尝试\n[02:36.410]你不必去努力尝试\n[02:40.080]你不必尝试\n[02:42.440]你不必尝试\n[02:56.910]你不必逼自己竭尽全力\n[03:00.360]你不必逼自己毫无保留\n[03:03.900]你只需要振作起来\n[03:07.450]你不必逼自己做任何改变\n[03:10.920]你不必去努力尝试\n[03:14.410]你不必去努力尝试\n[03:17.620]你不必尝试\n[03:21.770]你不必尝试\n[03:25.860]卸掉妆\n[03:26.880]披落秀发\n[03:27.980]轻声呼吸\n[03:28.950]对着镜子 看着自己\n[03:31.010]你不喜欢你自己吗？\n[03:34.400]但是我喜欢真实的你"
+    },
+    "code": 200
+  }
+}

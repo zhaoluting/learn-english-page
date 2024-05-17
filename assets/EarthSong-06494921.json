@@ -1,0 +1,426 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Earth Song",
+      "tlyric": "地球之歌",
+      "singer": "Michael Jackson",
+      "remarkIdx" : ["earth", "song"]
+    },
+    {
+      "time": 47000,
+      "lyric": "What about sunrise",
+      "tlyric": "日出呢",
+      "remarkIdx": ["about", "sunrise"]
+    },
+    {
+      "time": 50500,
+      "lyric": "What about rain",
+      "tlyric": "雨呢",
+      "remarkIdx": ["about", "rain"]
+    },
+    {
+      "time": 54000,
+      "lyric": "What about all the things",
+      "tlyric": "还有那一切呢",
+      "remarkIdx": ["thing"]
+    },
+    {
+      "time": 56000,
+      "lyric": "That you said we were to gain",
+      "tlyric": "你说过的我们曾为之努力的那一切",
+      "remarkIdx": ["said", "gain"]
+    },
+    {
+      "time": 61000,
+      "lyric": "What about killing fields",
+      "tlyric": "杀戮之地呢？",
+      "remarkIdx": ["kill"]
+    },
+    {
+      "time": 64000,
+      "lyric": "Is there a time",
+      "tlyric": "有没有结束的时候",
+      "remarkIdx": ["time"]
+    },
+    {
+      "time": 68000,
+      "lyric": "What about all the things",
+      "tlyric": "还有那一切呢",
+      "remarkIdx": ["all"]
+    },
+    {
+      "time": 70000,
+      "lyric": "That you said was yours and mine",
+      "tlyric": "你说过的属于你我的一切呢",
+      "remarkIdx": ["said", "yours", "mine"]
+    },
+    {
+      "time": 73000,
+      "lyric": "Did you ever stop to notice",
+      "tlyric": "你是否曾停下脚步去关注",
+      "remarkIdx": ["stop", "notice"]
+    },
+    {
+      "time": 77000,
+      "lyric": "All the blood we've shed before",
+      "tlyric": "我们曾挥洒下的血汗",
+      "remarkIdx": ["blood", "shed"]
+    },
+    {
+      "time": 80500,
+      "lyric": "Did you ever stop to notice",
+      "tlyric": "你是否曾停下脚步去关注",
+      "remarkIdx": ["stop", "notice"]
+    },
+    {
+      "time": 83800,
+      "lyric": "This crying Earth,this weeping shores",
+      "tlyric": "地球在流泪，海岸在哭泣",
+      "remarkIdx": ["crying", "weeping", "shore"]
+    },
+    {
+      "time": 87000,
+      "lyric": "Aaaaaaaaaah Oooooooooh",
+      "tlyric": "Aaaaaaaaaah Oooooooooh",
+      "remarkIdx": []
+    },
+    {
+      "time": 117000,
+      "lyric": "What have we done to the world",
+      "tlyric": "我们对地球做了些什么",
+      "remarkIdx": ["have", "world"]
+    },
+    {
+      "time": 120000,
+      "lyric": "Look what we've done",
+      "tlyric": "看看我们都做了些什么",
+      "remarkIdx": ["look"]
+    },
+    {
+      "time": 123000,
+      "lyric": "What about all the peace",
+      "tlyric": "所有的和平呢",
+      "remarkIdx": ["all", "peace"]
+    },
+    {
+      "time": 125500,
+      "lyric": "That you pledge your only son",
+      "tlyric": "那是你向你唯一的后裔许诺过的",
+      "remarkIdx": ["pledge", "son"]
+    },
+    {
+      "time": 130000,
+      "lyric": "What about flowering fields",
+      "tlyric": "百花争艳的大地呢",
+      "remarkIdx": ["flowering", "field"]
+    },
+    {
+      "time": 134000,
+      "lyric": "Is there a time",
+      "tlyric": "还会再有吗",
+      "remarkIdx": ["time"]
+    },
+    {
+      "time": 137000,
+      "lyric": "What about all the dreams",
+      "tlyric": "所有的梦想呢",
+      "remarkIdx": ["dream"]
+    },
+    {
+      "time": 139000,
+      "lyric": "That you said was yours and mine",
+      "tlyric": "你说过的属于你我的所有梦想",
+      "remarkIdx": ["said", "yours", "mine"]
+    },
+    {
+      "time": 143000,
+      "lyric": "Did you ever stop to notice",
+      "tlyric": "你是否曾停下脚步去关注",
+      "remarkIdx": ["stop", "notice"]
+    },
+    {
+      "time": 146000,
+      "lyric": "All the children dead from war",
+      "tlyric": "战争中死去的那些孩子",
+      "remarkIdx": ["children", "dead", "war"]
+    },
+    {
+      "time": 150000,
+      "lyric": "Did you ever stop to notice",
+      "tlyric": "你是否曾停下脚步去关注",
+      "remarkIdx": ["stop", "notice"]
+    },
+    {
+      "time": 153000,
+      "lyric": "This crying Earth,this weeping shores",
+      "tlyric": "地球在流泪，海岸在哭泣",
+      "remarkIdx": ["crying", "weeping", "shore"]
+    },
+    {
+      "time": 156000,
+      "lyric": "Aaaaaaaaaah Oooooooooh",
+      "tlyric": "Aaaaaaaaaah Oooooooooh",
+      "remarkIdx": []
+    },
+    {
+      "time": 185000,
+      "lyric": "I used to dream",
+      "tlyric": "我曾经梦想",
+      "remarkIdx": ["used to", "dream"]
+    },
+    {
+      "time": 188000,
+      "lyric": "I used to glance beyond the stars",
+      "tlyric": "我曾经遥望群星之上",
+      "remarkIdx": ["glance", "beyond"]
+    },
+    {
+      "time": 192000,
+      "lyric": "Now I don't know where we are",
+      "tlyric": "如今不知我们身在何方",
+      "remarkIdx": ["now", "know"]
+    },
+    {
+      "time": 195000,
+      "lyric": "Although I know we've drifted far",
+      "tlyric": "尽管我明白我们漂泊了太远",
+      "remarkIdx": ["although", "drift"]
+    },
+    {
+      "time": 198000,
+      "lyric": "Aaaaaaaaaah Oooooooooh",
+      "tlyric": "Aaaaaaaaaah Oooooooooh",
+      "remarkIdx": []
+    },
+    {
+      "time": 253000,
+      "lyric": "Hey, what about yesterday (What about us)",
+      "tlyric": "嘿，往昔呢（而我们呢）",
+      "remarkIdx": ["hey", "yesterday"]
+    },
+    {
+      "time": 259000,
+      "lyric": "What about the seas (What about us)",
+      "tlyric": "海洋呢（而我们呢）",
+      "remarkIdx": ["sea", "about"]
+    },
+    {
+      "time": 262000,
+      "lyric": "The heavens are falling down (What about us)",
+      "tlyric": "天空正在堕落（而我们呢）",
+      "remarkIdx": ["heaven", "down"]
+    },
+    {
+      "time": 265000,
+      "lyric": "I can't even breathe (What about us)",
+      "tlyric": "我甚至无法呼吸（而我们呢）",
+      "remarkIdx": ["even", "breathe"]
+    },
+    {
+      "time": 269000,
+      "lyric": "What about lost again (What about us)",
+      "tlyric": "再次失去呢（而我们呢）",
+      "remarkIdx": ["lost", "again"]
+    },
+    {
+      "time": 272000,
+      "lyric": "I leaded the woe (What about us)",
+      "tlyric": "我造成了这灾难（而我们呢）",
+      "remarkIdx": ["lead", "woe"]
+    },
+    {
+      "time": 276000,
+      "lyric": "What about nature's worth (Oooooo)",
+      "tlyric": "宝贵的自然呢（唔～）",
+      "remarkIdx": ["nature", "worth"]
+    },
+    {
+      "time": 279000,
+      "lyric": "It's our planet's womb (What about us)",
+      "tlyric": "那是我们地球的孕育地（而我们呢）",
+      "remarkIdx": ["planet", "womb"]
+    },
+    {
+      "time": 283000,
+      "lyric": "What about animals (What about it)",
+      "tlyric": "动物呢（那么它们呢）",
+      "remarkIdx": ["animal"]
+    },
+    {
+      "time": 286000,
+      "lyric": "We've turned kingdoms to dust (What about us)",
+      "tlyric": "我们把他们的乐土化为灰烬（我们呢）",
+      "remarkIdx": ["turned", "kingdom", "dust"]
+    },
+    {
+      "time": 290000,
+      "lyric": "What about elephants (What about us)",
+      "tlyric": "大象呢（而我们呢）",
+      "remarkIdx": ["elephant"]
+    },
+    {
+      "time": 293000,
+      "lyric": "Have we lost their trust (What about us)",
+      "tlyric": "我们是不是已失去它们的信任（而我们呢）",
+      "remarkIdx": ["lost", "trust"]
+    },
+    {
+      "time": 297000,
+      "lyric": "What about crying whales (What about us)",
+      "tlyric": "哭泣的鲸鱼呢（而我们呢）",
+      "remarkIdx": ["crying", "whale"]
+    },
+    {
+      "time": 300000,
+      "lyric": "We're ravaging the seas (What about us)",
+      "tlyric": "我们污染了海洋（而我们呢）",
+      "remarkIdx": ["ravage", "sea"]
+    },
+    {
+      "time": 304000,
+      "lyric": "What about forest trails (Oooooo)",
+      "tlyric": "森林小径呢（唔～）",
+      "remarkIdx": ["forest", "trail"]
+    },
+    {
+      "time": 307000,
+      "lyric": "Burnt despite our pleas (What about us)",
+      "tlyric": "不顾我们的恳求而燃烧（而我们呢）",
+      "remarkIdx": ["despite", "plea"]
+    },
+    {
+      "time": 310000,
+      "lyric": "What about the holy land (What about it)",
+      "tlyric": "神圣的土地呢（它呢）",
+      "remarkIdx": ["holy", "land"]
+    },
+    {
+      "time": 314000,
+      "lyric": "Torn apart by creed (What about us)",
+      "tlyric": "被信仰四分五裂了（而我们呢）",
+      "remarkIdx": ["torn", "creed"]
+    },
+    {
+      "time": 317000,
+      "lyric": "What about the common man (What about us)",
+      "tlyric": "普通人呢（而我们呢）",
+      "remarkIdx": ["common", "man"]
+    },
+    {
+      "time": 321000,
+      "lyric": "Can't we set him free (What about us)",
+      "tlyric": "我们不能给予他自由吗（而我们呢）",
+      "remarkIdx": ["free"]
+    },
+    {
+      "time": 325000,
+      "lyric": "What about children dying (What about us)",
+      "tlyric": "奄奄一息的孩子呢（而我们呢）",
+      "remarkIdx": ["children", "dying"]
+    },
+    {
+      "time": 328000,
+      "lyric": "Can't you hear them cry (What about us)",
+      "tlyric": "你没有听到他们的哭声吗（而我们呢）",
+      "remarkIdx": ["hear", "cry"]
+    },
+    {
+      "time": 331000,
+      "lyric": "Where did we go wrong (Oooooo)",
+      "tlyric": "我们到底哪里错了（唔～）",
+      "remarkIdx": ["wrong"]
+    },
+    {
+      "time": 335000,
+      "lyric": "Someone tell me why (What about us)",
+      "tlyric": "有没有人告诉我为什么（而我们呢）",
+      "remarkIdx": ["someone", "tell"]
+    },
+    {
+      "time": 338000,
+      "lyric": "What about baby boys (What about it)",
+      "tlyric": "年幼的孩子们呢（而他们呢）",
+      "remarkIdx": ["baby", "boy"]
+    },
+    {
+      "time": 341000,
+      "lyric": "What about the days (What about us)",
+      "tlyric": "这个时代怎么办（而我们呢）",
+      "remarkIdx": ["about", "days"]
+    },
+    {
+      "time": 345000,
+      "lyric": "What about all their joy (What about us)",
+      "tlyric": "他们所有的欢乐呢（而我们呢）",
+      "remarkIdx": ["all", "joy"]
+    },
+    {
+      "time": 349000,
+      "lyric": "What about the man (What about us)",
+      "tlyric": "人类呢（而我们呢）",
+      "remarkIdx": ["man"]
+    },
+    {
+      "time": 352000,
+      "lyric": "What about the crying man (What about us)",
+      "tlyric": "哭喊的人们呢（而我们呢）",
+      "remarkIdx": ["crying"]
+    },
+    {
+      "time": 356000,
+      "lyric": "What about Abraham (What was us)",
+      "tlyric": "亚伯拉罕呢（而我们呢）",
+      "remarkIdx": ["Abraham"]
+    },
+    {
+      "time": 359000,
+      "lyric": "What about death again (Oooooo)",
+      "tlyric": "再一次灭亡会怎样（唔～）",
+      "remarkIdx": ["death", "again"]
+    },
+    {
+      "time": 362000,
+      "lyric": "Do we give a damn",
+      "tlyric": "我们都不在乎吗",
+      "remarkIdx": ["give", "damn"]
+    },
+    {
+      "time": 365000,
+      "lyric": "Aaaaaaaaaah Oooooooooh",
+      "tlyric": "Aaaaaaaaaah Oooooooooh",
+      "remarkIdx": []
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 852702,
+      "status": 99,
+      "demand": 1,
+      "userid": 34575713,
+      "nickname": "蔡宝",
+      "uptime": 1457749360760
+    },
+    "lyricUser": {
+      "id": 852691,
+      "status": 99,
+      "demand": 0,
+      "userid": 82135929,
+      "nickname": "Howyoung",
+      "uptime": 1457749360760
+    },
+    "lrc": {
+      "version": 60,
+      "lyric": "[00:00.000] 作词 : Michael Jackson\n[00:01.000] 作曲 : Michael Jackson\n[00:02.000] 制作人 : Michael Jackson\n[00:47.000]What about sunrise\n[00:50.500]What about rain\n[00:54.000]What about all the things\n[00:56.000]That you said we were to gain\n[01:01.000]What about killing fields\n[01:04.000]Is there a time\n[01:08.000]What about all the things\n[01:10.000]That you said was yours and mine\n[01:13.000]Did you ever stop to notice\n[01:17.000]All the blood we've shed before\n[01:20.500]Did you ever stop to notice\n[01:23.800]This crying Earth this weeping shores\n[01:27.000]Aaaaaaaaaah Oooooooooh (x2)\n[01:57.000]What have we done to the world\n[02:00.000]Look what we've done\n[02:03.000]What about all the peace\n[02:05.500]That you pledge your only son\n[02:10.000]What about flowering fields\n[02:14.000]Is there a time\n[02:17.000]What about all the dreams\n[02:19.000]That you said was yours and mine\n[02:23.000]Did you ever stop to notice\n[02:26.000]All the children dead from war\n[02:30.000]Did you ever stop to notice\n[02:33.000]This crying Earth this weeping shores\n[02:36.000]Aaaaaaaaaah Oooooooooh (x2)\n[03:05.000]I used to dream\n[03:08.000]I used to glance beyond the stars\n[03:12.000]Now I don't know where we are\n[03:15.000]Although I know we've drifted far\n[03:18.000]Aaaaaaaaaah Oooooooooh (x4)\n[04:13.000]Hey, what about yesterday (What about us)\n[04:19.000]What about the seas (What about us)\n[04:22.000]The heavens are falling down (What about us)\n[04:25.000]I can't even breathe (What about us)\n[04:29.000]What about apathy (What about us)\n[04:32.000]I ain't even though! (What about us)\n[04:36.000]What about nature's worth (Oooooo)\n[04:39.000]It's our planet's womb (What about us)\n[04:43.000]What about animals (What about it)\n[04:46.000]We've turned kingdoms to dust (What about us)\n[04:50.000]What about elephants (What about us)\n[04:53.000]Have we lost their trust (What about us)\n[04:57.000]What about crying whales (What about us)\n[05:00.000]We're ravaging the seas (What about us)\n[05:04.000]What about forest trails (Oooooo)\n[05:07.000]Burnt despite our pleas (What about us)\n[05:10.000]What about the holy land (What about it)\n[05:14.000]Torn apart by creed (What about us)\n[05:17.000]What about the common man (What about us)\n[05:21.000]Can't we set him free (What about us)\n[05:25.000]What about children dying (What about us)\n[05:28.000]Can't you hear them cry (What about us)\n[05:31.000]Where did we go wrong (Oooooo)\n[05:35.000]Someone tell me why (What about us)\n[05:38.000]What about baby boys (What about it)\n[05:41.000]What about the days (What about us)\n[05:45.000]What about all their joy (What about us)\n[05:49.000]What about the man (What about us)\n[05:52.000]What about the crying man (What about us)\n[05:56.000]What about Abraham (What was us)\n[05:59.000]What about death again (Oooooo)\n[06:02.000]Do we give a damn\n[06:05.000]Aaaaaaaaaah Oooooooooh (x2)\n[06:06.580] 主人声 : Michael Jackson\n[06:08.160] 和声 : Michael Jackson/Andraé Crouch/Sandra Crouch/Andraé Crouch Choir\n[06:09.740] 钢琴 : David Paich\n[06:11.320] 吉他 : Bill Bottrell/Michael Thompson\n[06:12.900] 贝斯 : Guy Pratt\n[06:14.480] 鼓 : Steve Ferrone\n[06:16.060] 键盘 : Michael Jackson/David Foster/David Paich\n[06:17.640] Synthesizers : Michael Jackson / David Foster / David Paich\n[06:19.220] \n[06:20.800] Vocal Arrangements : Michael Jackson / David Foster\n[06:22.380] \n[06:23.960] Rhythm Arrangements : Michael Jackson / David Foster\n[06:25.540] \n[06:27.120] Orchestral Arrangements : David Foster\n[06:28.700] \n[06:30.280] Recording Engineer & Mixing : Bruce Swedien\n[06:31.860] \n[06:33.440] Orchestration : Bill Ross\n[06:35.020] \n[06:36.600] Synthesizer Programming : Steve Porcaro\n[06:38.180] \n[06:39.760] Co-performance by London Philharmonic Orchestra (Orchestral Mix only)\n[06:41.340] \n[06:42.920] Orchestral arrangement by James Horner (Orchestral Mix only)\n[06:44.500] \n[06:46.080] Producers : Michael Jackson / David Foster / Bill Bottrell (Co.)\n"
+    },
+    "tlyric": {
+      "version": 26,
+      "lyric": "[00:47.000]日出呢\n[00:50.500]雨呢\n[00:54.000]还有你说过\n[00:56.000]我们会得到的一切呢？\n[01:01.000]杀戮的土地呢？\n[01:04.000]有没有结束的时候\n[01:08.000]还有你说过\n[01:10.000]属于你和我的一切呢......\n[01:13.000]你是不是忘了\n[01:17.000]我们曾挥洒下的血汗\n[01:20.500]你有没有注意到\n[01:23.800]地球在流泪，海岸在哭泣\n[01:27.000]啊～  呜～ (x2)\n[01:57.000]我们对世界做错了什么\n[02:00.000]看看我们做错了什么吧\n[02:03.000]还有你向独子许诺过的\n[02:05.500]一切和平呢\n[02:10.000]百花争艳的大地呢\n[02:14.000]有没有结束的时候\n[02:17.000]还有你说过\n[02:19.000]属于你和我的所有梦想呢\n[02:23.000]你是不是忘了\n[02:26.000]许许多多的孩子死于战争\n[02:30.000]你有没有注意到\n[02:33.000]地球在流泪，海岸在哭泣\n[02:36.000]啊～   呜～ (x2)\n[03:05.000]我曾经梦想\n[03:08.000]我曾经遥望群星之上\n[03:12.000]如今不知我们身在何方\n[03:15.000]尽管我明白我们漂泊了太远\n[03:18.000]啊～     呜～(x4)\n[04:13.000]嘿,昨天呢（而我们呢）\n[04:19.000]海洋呢（而我们呢）\n[04:22.000]天堂正在堕落（而我们呢）\n[04:25.000]我简直不能呼吸（而我们呢）\n[04:29.000]再次失去呢（而我们呢）\n[04:32.000]我造成了这灾难（而我们呢）\n[04:36.000]宝贵的自然呢（唔～）\n[04:39.000]那是我们地球的孕育地（而我们呢）\n[04:43.000]动物呢（那么它们呢）\n[04:46.000]我们把他们的王国化为灰烬（我们呢）\n[04:50.000]大象呢（而我们呢）\n[04:53.000]我们是不是已失去它们的信任（而我们呢）\n[04:57.000]哭泣的鲸鱼呢（而我们呢）\n[05:00.000]我们污染了海洋（而我们呢）\n[05:04.000]森林呢（唔～）\n[05:07.000]被我们用恶意的借口烧毁了（而我们呢）\n[05:10.000]神圣的土地呢（它呢）\n[05:14.000]被四分五裂了（而我们呢）\n[05:17.000]普通人呢（而我们呢）\n[05:21.000]我们难道不给予他自由吗（而我们呢）\n[05:25.000]奄奄一息的孩子呢（而我们呢）\n[05:28.000]你有没有听到他们的哭声（而我们呢）\n[05:31.000]我们到底哪一步走错了（唔～）\n[05:35.000]有没有人告诉我原因（而我们呢）\n[05:38.000]小孩子呢（而他们呢）\n[05:41.000]这个时代怎么办（而我们呢）\n[05:45.000]他们所有的欢乐呢（而我们呢）\n[05:49.000]人类呢（而我们呢）\n[05:52.000]哭喊的人们呢（而我们呢）\n[05:56.000]亚伯拉罕呢（而我们呢）\n[05:59.000]再一次灭亡会怎样（唔～）\n[06:02.000]我们都不在乎吗\n[06:05.000]啊～   呜～(x2)"
+    },
+    "code": 200
+  }
+}

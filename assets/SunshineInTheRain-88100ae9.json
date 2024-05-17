@@ -1,0 +1,370 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Sunshine in the Rain",
+      "tlyric": "雨中阳光",
+      "singer": "Bodies Without Organs",
+      "remarkIdx": ["sunshine", "rain"]
+    },
+    {
+      "time": 12520,
+      "lyric": "When I'm in Berlin you're off to London",
+      "tlyric": "当我在柏林时你正起飞去伦敦",
+      "remarkIdx": ["off", "be off to"]
+    },
+    {
+      "time": 17270,
+      "lyric": "When I'm in New York you're doing Rome",
+      "tlyric": "当我在纽约时你正在罗马",
+      "remarkIdx": ["doing", "Rome"]
+    },
+    {
+      "time": 21070,
+      "lyric": "All those crazy nights we spend together",
+      "tlyric": "所有那些我们共同度过的疯狂夜晚",
+      "remarkIdx": ["crazy", "spend"]
+    },
+    {
+      "time": 25220,
+      "lyric": "As voices on the phone",
+      "tlyric": "就像电话里的声音一样飘渺虚幻了",
+      "remarkIdx": ["voice", "phone"]
+    },
+    {
+      "time": 29020,
+      "lyric": "Wishing we could be more telepathic",
+      "tlyric": "希望我们能更加心有灵犀",
+      "remarkIdx": ["wish", "could", "telepathic"]
+    },
+    {
+      "time": 32590,
+      "lyric": "Tired of the nights I sleep alone",
+      "tlyric": "我厌倦了那些独眠的夜晚",
+      "remarkIdx": ["tired", "sleep"]
+    },
+    {
+      "time": 36539,
+      "lyric": "Wishing we could redirect the traffic",
+      "tlyric": "希望我们能够重定方向",
+      "remarkIdx": ["redirect", "traffic"]
+    },
+    {
+      "time": 40290,
+      "lyric": "And we find ourselves a home",
+      "tlyric": "找到一个属于我们自己的家",
+      "remarkIdx": ["find", "home"]
+    },
+    {
+      "time": 44059,
+      "lyric": "Can you feel the raindrops in the desert",
+      "tlyric": "你是否能感觉到沙漠中的雨滴",
+      "remarkIdx": ["raindrop", "desert"]
+    },
+    {
+      "time": 47459,
+      "lyric": "Have you seen the sunrays in the dark",
+      "tlyric": "你可曾见过黑暗中的曙光",
+      "remarkIdx": ["see", "sunray", "dark"]
+    },
+    {
+      "time": 51589,
+      "lyric": "Do you feel my love when I'm not present",
+      "tlyric": "当我不在你身旁你可否感觉到我的爱",
+      "remarkIdx": ["feel", "present"]
+    },
+    {
+      "time": 55329,
+      "lyric": "Standing by your side while miles apart",
+      "tlyric": "虽远隔千里它却依然伴你身旁",
+      "remarkIdx": ["stand", "apart"]
+    },
+    {
+      "time": 59069,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "(我的爱如)风雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 61029,
+      "lyric": "Love is still the same",
+      "tlyric": "对你的爱依然如故",
+      "remarkIdx": ["love", "still"]
+    },
+    {
+      "time": 63000,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "如雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 66659,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 68479,
+      "lyric": "Love is still the same",
+      "tlyric": "对你的爱依然如故",
+      "remarkIdx": ["still", "same"]
+    },
+    {
+      "time": 70339,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "如雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 74189,
+      "lyric": "Even if we call the highest power",
+      "tlyric": "即使我们穷尽力气",
+      "remarkIdx": ["even if", "power"]
+    },
+    {
+      "time": 77709,
+      "lyric": "We can only do one town a time",
+      "tlyric": "一次也只能游历一座城",
+      "remarkIdx": ["town", "time"]
+    },
+    {
+      "time": 81300,
+      "lyric": "Words are not enough, action speaks louder",
+      "tlyric": "行动总是胜过语言",
+      "remarkIdx": ["action", "speak", "loud"]
+    },
+    {
+      "time": 85419,
+      "lyric": "Second time around",
+      "tlyric": "(让我们)重拾往昔",
+      "remarkIdx": ["second", "around"]
+    },
+    {
+      "time": 88990,
+      "lyric": "Can you feel the raindrops in the desert",
+      "tlyric": "你是否能感觉到沙漠中的雨滴",
+      "remarkIdx": ["raindrop", "desert"]
+    },
+    {
+      "time": 92689,
+      "lyric": "Have you seen the sunrays in the dark",
+      "tlyric": "你可曾见过黑暗中的曙光",
+      "remarkIdx": ["see", "sunray", "dark"]
+    },
+    {
+      "time": 96299,
+      "lyric": "Do you feel my love when I'm not present",
+      "tlyric": "当我不在你身旁你可否感觉到我的爱",
+      "remarkIdx": ["feel", "present"]
+    },
+    {
+      "time": 100069,
+      "lyric": "Standing by your side while miles apart",
+      "tlyric": "虽远隔千里它却依然伴你身旁",
+      "remarkIdx": ["side", "mile"]
+    },
+    {
+      "time": 102999,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "(我的爱如)风雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 106249,
+      "lyric": "Love is still the same",
+      "tlyric": "对你的爱依然如故",
+      "remarkIdx": ["love", "still"]
+    },
+    {
+      "time": 107299,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "如雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 109869,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "如雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 113589,
+      "lyric": "Love is still the same",
+      "tlyric": "对你的爱依然如故",
+      "remarkIdx": ["still", "same"]
+    },
+    {
+      "time": 115440,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "如雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 134040,
+      "lyric": "When I'm in Berlin you're off to London",
+      "tlyric": "当我在柏林时你正起飞去伦敦",
+      "remarkIdx": ["off", "be off to"]
+    },
+    {
+      "time": 137800,
+      "lyric": "When I'm in New York you're doing Rome",
+      "tlyric": "当我在纽约时你正在罗马",
+      "remarkIdx": ["doing", "Rome"]
+    },
+    {
+      "time": 141420,
+      "lyric": "All those crazy nights we spend together",
+      "tlyric": "所有那些我们共同度过的疯狂夜晚",
+      "remarkIdx": ["crazy", "spend"]
+    },
+    {
+      "time": 145080,
+      "lyric": "As voices on the phone",
+      "tlyric": "就像电话里的声音一样飘渺虚幻了",
+      "remarkIdx": ["voice", "phone"]
+    },
+    {
+      "time": 149010,
+      "lyric": "Can you feel the raindrops in the desert",
+      "tlyric": "你是否能感觉到沙漠中的雨滴",
+      "remarkIdx": ["raindrop", "desert"]
+    },
+    {
+      "time": 152400,
+      "lyric": "Have you seen the sunrays in the dark",
+      "tlyric": "你可曾见过黑暗中的曙光",
+      "remarkIdx": ["see", "sunray", "dark"]
+    },
+    {
+      "time": 155970,
+      "lyric": "Do you feel my love when I'm not present",
+      "tlyric": "当我不在你身旁你可否感觉到我的爱",
+      "remarkIdx": ["feel", "present"]
+    },
+    {
+      "time": 160030,
+      "lyric": "Standing by your side while miles apart",
+      "tlyric": "虽远隔千里它却依然伴你身旁",
+      "remarkIdx": ["stand", "apart"]
+    },
+    {
+      "time": 163740,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "(我的爱如)风雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 165770,
+      "lyric": "Love is still the same",
+      "tlyric": "对你的爱依然如故",
+      "remarkIdx": ["love", "still"]
+    },
+    {
+      "time": 167520,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "如雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 169600,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "如雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 173590,
+      "lyric": "Love is still the same",
+      "tlyric": "对你的爱依然如故",
+      "remarkIdx": ["still", "same"]
+    },
+    {
+      "time": 175310,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "如雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 179030,
+      "lyric": "Can you feel the raindrops in the desert",
+      "tlyric": "你是否能感觉到沙漠中的雨滴",
+      "remarkIdx": ["raindrop", "desert"]
+    },
+    {
+      "time": 182540,
+      "lyric": "Have you seen the sunrays in the dark",
+      "tlyric": "你可曾见过黑暗中的曙光",
+      "remarkIdx": ["see", "sunray", "dark"]
+    },
+    {
+      "time": 186560,
+      "lyric": "Do you feel my love when I'm not present",
+      "tlyric": "当我不在你身旁你可否感觉到我的爱",
+      "remarkIdx": ["feel", "present"]
+    },
+    {
+      "time": 190050,
+      "lyric": "Standing by your side while miles apart",
+      "tlyric": "虽远隔千里它却依然伴你身旁",
+      "remarkIdx": ["side", "mile"]
+    },
+    {
+      "time": 194040,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "(我的爱如)风雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 196080,
+      "lyric": "Love is still the same",
+      "tlyric": "对你的爱依然如故",
+      "remarkIdx": ["love", "still"]
+    },
+    {
+      "time": 197920,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "如雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 201280,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "如雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    },
+    {
+      "time": 203240,
+      "lyric": "Love is still the same",
+      "tlyric": "对你的爱依然如故",
+      "remarkIdx": ["still", "same"]
+    },
+    {
+      "time": 205000,
+      "lyric": "Sunshine in the rain",
+      "tlyric": "如雨中的阳光",
+      "remarkIdx": ["sunshine", "sun", "shine", "rain"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "lyricUser": {
+      "id": 1129333,
+      "status": 99,
+      "demand": 0,
+      "userid": 0,
+      "nickname": "Hopegay",
+      "uptime": 1387507904384
+    },
+    "lrc": {
+      "version": 30,
+      "lyric": "[00:00.000] 作词 : Alexander Bard/Anders Hansson\n[00:01.000] 作曲 : Alexander Bard/Anders Hansson\n[00:13.420]When I'm in Berlin you're off to London\n[00:16.770]When I'm in New York you're doing Rome\n[00:21.070]All those crazy nights we spend together\n[00:24.720]As voices on the phone\n[00:29.020]Wishing we could be more telepathic\n[00:32.590]Tired of the nights I sleep alone\n[00:36.539]Wishing we could redirect the traffic\n[00:40.290]And we find ourselves a home\n[00:44.359]Can you feel the raindrops in the desert\n[00:47.959]Have you seen the sunrays in the dark\n[00:51.589]Do you feel my love when I'm not present\n[00:55.329]Standing by your side while miles apart\n[00:59.269]Sunshine in the rain\n[01:01.129]Love is still the same\n[01:03.199]Sunshine in the rain\n[01:06.659]Sunshine in the rain\n[01:08.479]Love is still the same\n[01:10.339]Sunshine in the rain\n[01:14.189]Even if we call the highest power\n[01:17.709]We can only do one town a time\n[01:21.699]Words are not enough action speaks louder\n[01:25.419]Second time around\n[01:29.990]Can you feel the raindrops in the desert\n[01:33.189]Have you seen the sunrays in the dark\n[01:37.299]Do you feel my love when I'm not present\n[01:40.469]Standing by your side while miles apart\n[01:44.999]Sunshine in the rain\n[01:46.249]Love is still the same\n[01:49.299]Sunshine in the rain\n[01:50.869]Sunshine in the rain\n[01:53.289]Love is still the same\n[01:55.440]Sunshine in the rain\n[02:04.099]Oh oh la la la\n[02:07.840]Oh oh la la la\n[02:14.440]When I'm in Berlin you're off to London\n[02:17.300]When I'm in New York you're doing Rome\n[02:20.920]All those crazy nights we spend together\n[02:25.180]As voices on the phone\n[02:30.510]Can you feel the raindrops in the desert\n[02:33.900]Have you seen the sunrays in the dark\n[02:37.470]Do you feel my love when I'm not present\n[02:41.230]Standing by your side while miles apart\n[02:45.240]Sunshine in the rain\n[02:47.270]Love is still the same\n[02:49.020]Sunshine in the rain\n[02:51.100]Sunshine in the rain\n[02:55.090]Love is still the same\n[02:56.810]Sunshine in the rain\n[03:00.530]Can you feel the raindrops in the desert\n[03:04.040]Have you seen the sunrays in the dark\n[03:08.060]Do you feel my love when I'm not present\n[03:11.950]Standing by your side while miles apart\n[03:15.940]Sunshine in the rain\n[03:17.880]Love is still the same\n[03:19.420]Sunshine in the rain\n[03:22.780]Sunshine in the rain\n[03:24.740]Love is still the same\n[03:27.000]Sunshine in the rain\n"
+    },
+    "tlyric": {
+      "version": 5,
+      "lyric": "[00:13.420]当我在柏林时你正起飞去伦敦\n[00:16.770]当我在纽约时你正在罗马\n[00:21.070]所有那些我们共同度过的疯狂的夜晚\n[00:24.720]就像电话里的声音一样飘渺虚幻了\n[00:29.020]希望我们能更加心有灵犀\n[00:32.590]我厌倦了那些独眠的夜晚\n[00:36.539]希望我们能够重定方向\n[00:40.290]找到一个属于我们自己的家\n[00:44.359]你是否能感觉到沙漠中的雨滴\n[00:47.959]你可曾见过黑暗中的曙光\n[00:51.589]当我不在你身旁你可否感觉到我的爱\n[00:55.329]虽远隔千里它却依然伴你身旁\n[00:59.269](我的爱如)风雨中的阳光\n[01:01.129]对你的爱依然如故\n[01:03.199]如雨中的阳光\n[01:06.659]雨中的阳光\n[01:08.479]对你的爱依然如故\n[01:10.339]如雨中的阳光\n[01:14.189]即使我们穷尽力气\n[01:17.709]一次也只能游历一座城\n[01:21.699]行动总是胜过语言\n[01:25.419](让我们)重拾往昔\n[01:29.990]你是否能感觉到沙漠中的雨滴\n[01:33.189]你可曾见过黑暗中的曙光\n[01:37.299]当我不在你身旁你可否感觉到我的爱\n[01:40.469]虽远隔千里它却依然伴你身旁\n[01:44.999](我的爱如)风雨中的阳光\n[01:46.249]对你的爱依然如故\n[01:49.299]如雨中的阳光\n[01:50.869]如雨中的阳光\n[01:53.289]对你的爱依然如故\n[01:55.440]如雨中的阳光\n[02:04.099]哦哦啦啦啦\n[02:07.840]哦哦啦啦啦\n[02:14.440]当我在柏林时你正起飞去伦敦\n[02:17.300]当我在纽约时你正在罗马\n[02:20.920]所有那些我们共同度过的疯狂的夜晚\n[02:25.180]就像电话里的声音一样飘渺虚幻了\n[02:30.510]你是否能感觉到沙漠中的雨滴\n[02:33.900]你可曾见过黑暗中的曙光\n[02:37.470]当我不在你身旁你可否感觉到我的爱\n[02:41.230]虽远隔千里它却依然伴你身旁\n[02:45.240](我的爱如)风雨中的阳光\n[02:47.270]对你的爱依然如故\n[02:49.020]如雨中的阳光\n[02:51.100]如雨中的阳光\n[02:55.090]对你的爱依然如故\n[02:56.810]如雨中的阳光\n[03:00.530]你是否能感觉到沙漠中的雨滴\n[03:04.040]你可曾见过黑暗中的曙光\n[03:08.060]当我不在你身旁你可否感觉到我的爱\n[03:11.950]虽远隔千里它却依然伴你身旁\n[03:15.940](我的爱如)风雨中的阳光\n[03:17.880]对你的爱依然如故\n[03:19.420]如雨中的阳光\n[03:22.780]如雨中的阳光\n[03:24.740]对你的爱依然如故\n[03:27.000]如雨中的阳光"
+    },
+    "code": 200
+  }
+}

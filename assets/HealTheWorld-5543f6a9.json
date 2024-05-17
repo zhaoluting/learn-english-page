@@ -1,0 +1,600 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Heal the World",
+      "tlyric": "治愈世界",
+      "singer": "Michael Jackson",
+      "remarkIdx": ["heal", "world"]
+    },
+    {
+      "time": 22960,
+      "lyric": "————Monologue————",
+      "tlyric": "————独白————",
+      "remarkIdx": ["monologue"]
+    },
+    {
+      "time": 42500,
+      "lyric": "Think about, um, the generations, and",
+      "tlyric": "沉思往昔潮生潮灭 人事更迭",
+      "remarkIdx": ["Think about", "generation"]
+    },
+    {
+      "time": 48270,
+      "lyric": "Say we wanna make it a better place for our children,",
+      "tlyric": "我们时常提及希望为孩子们缔造幸福美满的家园",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 51010,
+      "lyric": "And our children's children",
+      "tlyric": "以及薪火相传的下一代",
+      "remarkIdx": ["child", "children"]
+    },
+    {
+      "time": 53300,
+      "lyric": "So that they…they know it's a better world for them",
+      "tlyric": "使得他们知晓美好的世界仅为他们而生",
+      "remarkIdx": ["so that", "world"]
+    },
+    {
+      "time": 58200,
+      "lyric": "And think they can make it a better place",
+      "tlyric": "以让他们确信自身亦能创造愈加美好的天地",
+      "remarkIdx": ["think"]
+    },
+    {
+      "time": 69010,
+      "lyric": "There's a place in your heart",
+      "tlyric": "在你内心存在一片净土",
+      "remarkIdx": ["There", "heart"]
+    },
+    {
+      "time": 71450,
+      "lyric": "And I know that it is love",
+      "tlyric": "我明白这片净土充满了爱",
+      "remarkIdx": ["know", "love"]
+    },
+    {
+      "time": 74620,
+      "lyric": "And this place could be much brighter than tomorrow",
+      "tlyric": "这片净土所散发的光芒愈发灿烂",
+      "remarkIdx": ["bright", "tomorrow"]
+    },
+    {
+      "time": 79420,
+      "lyric": "And if you really try",
+      "tlyric": "倘若你真的锲而不舍地尝试",
+      "remarkIdx": ["really"]
+    },
+    {
+      "time": 82780,
+      "lyric": "You'll find there's no need to cry",
+      "tlyric": "你会发觉不必为此哭泣",
+      "remarkIdx": ["find", "need"]
+    },
+    {
+      "time": 86160,
+      "lyric": "In this place you'll feel",
+      "tlyric": "在这片净土上",
+      "remarkIdx": ["place", "feel"]
+    },
+    {
+      "time": 88850,
+      "lyric": "There's no hurt or sorrow",
+      "tlyric": "你感受不到灼痛与纷扰",
+      "remarkIdx": ["hurt", "sorrow"]
+    },
+    {
+      "time": 92410,
+      "lyric": "There are ways to get there",
+      "tlyric": "抵达这片净土的方式灿若繁星",
+      "remarkIdx": ["way", "ways", "get there"]
+    },
+    {
+      "time": 95390,
+      "lyric": "If you care enough for the living",
+      "tlyric": "倘使你真心关怀生者",
+      "remarkIdx": ["care", "enough"]
+    },
+    {
+      "time": 98130,
+      "lyric": "Make a little space",
+      "tlyric": "为彼此创造些许空间",
+      "remarkIdx": ["little"]
+    },
+    {
+      "time": 101230,
+      "lyric": "Make a better place",
+      "tlyric": "缔造一个愈加美好的天地",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 103860,
+      "lyric": "Heal the world",
+      "tlyric": "治愈这个满目疮痍的世界",
+      "remarkIdx": ["Heal", "world"]
+    },
+    {
+      "time": 106100,
+      "lyric": "Make it a better place",
+      "tlyric": "使其愈发美好",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 109300,
+      "lyric": "For you and for me",
+      "tlyric": "为你，亦为我",
+      "remarkIdx": ["for"]
+    },
+    {
+      "time": 113320,
+      "lyric": "And the entire human race",
+      "tlyric": "更为全人类",
+      "remarkIdx": ["entire", "human"]
+    },
+    {
+      "time": 115980,
+      "lyric": "There are people dying",
+      "tlyric": "不断有人奄奄一息",
+      "remarkIdx": ["people", "dying"]
+    },
+    {
+      "time": 119270,
+      "lyric": "If you care enough for the living",
+      "tlyric": "倘若你由衷关心生灵",
+      "remarkIdx": [ "enough", "living"]
+    },
+    {
+      "time": 122180,
+      "lyric": "Make it a better place",
+      "tlyric": "那就营造一个愈发美好的天地",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 123840,
+      "lyric": "For you and for me",
+      "tlyric": "为你，亦为我",
+      "remarkIdx": ["for"]
+    },
+    {
+      "time": 130850,
+      "lyric": "If you want to know why",
+      "tlyric": "若是你想知晓这一切的缘由",
+      "remarkIdx": ["want", "why"]
+    },
+    {
+      "time": 133710,
+      "lyric": "There's a love that cannot lie",
+      "tlyric": "皆因爱不曾欺骗",
+      "remarkIdx": ["cannot", "lie"]
+    },
+    {
+      "time": 136670,
+      "lyric": "Love is strong",
+      "tlyric": "坚不可摧的爱",
+      "remarkIdx": ["love", "strong"]
+    },
+    {
+      "time": 138210,
+      "lyric": "It only cares for joyful giving",
+      "tlyric": "爱皆是不求回报的付出",
+      "remarkIdx": ["care", "joyful", "giving"]
+    },
+    {
+      "time": 141700,
+      "lyric": "If we try we shall see",
+      "tlyric": "倘若尝试分享自己的爱，我们皆会明了",
+      "remarkIdx": ["shall"]
+    },
+    {
+      "time": 145230,
+      "lyric": "In this bliss we cannot feel",
+      "tlyric": "在爱的福祉",
+      "remarkIdx": ["bliss", "feel"]
+    },
+    {
+      "time": 148620,
+      "lyric": "Fear or dread",
+      "tlyric": "丝毫感受不到忌惮与畏惧",
+      "remarkIdx": ["Fear", "dread"]
+    },
+    {
+      "time": 150210,
+      "lyric": "We stop existing and start living",
+      "tlyric": "我们不仅只因生存,更因生活",
+      "remarkIdx": ["existing", "living"]
+    },
+    {
+      "time": 154720,
+      "lyric": "Then it feels that always",
+      "tlyric": "使爱长存",
+      "remarkIdx": ["then","always"]
+    },
+    {
+      "time": 157730,
+      "lyric": "Love's enough for us growing",
+      "tlyric": "爱令我们不断成长",
+      "remarkIdx": ["enough", "growing"]
+    },
+    {
+      "time": 160820,
+      "lyric": "Make a better world",
+      "tlyric": "缔造更佳世界",
+      "remarkIdx": ["better", "world"]
+    },
+    {
+      "time": 162830,
+      "lyric": "Make a better world",
+      "tlyric": "创建怡然地球",
+      "remarkIdx": ["better", "world"]
+    },
+    {
+      "time": 166500,
+      "lyric": "Heal the world",
+      "tlyric": "治愈世界",
+      "remarkIdx": ["Heal", "world"]
+    },
+    {
+      "time": 168940,
+      "lyric": "Make it a better place",
+      "tlyric": "缔造更佳世界",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 171950,
+      "lyric": "For you and for me",
+      "tlyric": "为你，亦为我",
+      "remarkIdx": ["for"]
+    },
+    {
+      "time": 175360,
+      "lyric": "And the entire human race",
+      "tlyric": "皆为全人类",
+      "remarkIdx": ["race"]
+    },
+    {
+      "time": 178200,
+      "lyric": "There are people dying",
+      "tlyric": "时常有人濒临死亡",
+      "remarkIdx": ["people", "dying"]
+    },
+    {
+      "time": 181320,
+      "lyric": "If you care enough for the living",
+      "tlyric": "倘若你真心关怀生者",
+      "remarkIdx": ["care", "living"]
+    },
+    {
+      "time": 184660,
+      "lyric": "Make a better place for you and for me",
+      "tlyric": "因你，亦因我创造一个愈发美好的天地",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 190530,
+      "lyric": "And the dream we were conceived in",
+      "tlyric": "我们怀揣梦想",
+      "remarkIdx": ["dream", "conceived"]
+    },
+    {
+      "time": 193300,
+      "lyric": "Will reveal a joyful face",
+      "tlyric": "让我们描绘绽放的笑容",
+      "remarkIdx": ["reveal", "face"]
+    },
+    {
+      "time": 196390,
+      "lyric": "And the world we once believed in",
+      "tlyric": "我们曾经信赖的地球",
+      "remarkIdx": ["once", "believe"]
+    },
+    {
+      "time": 199140,
+      "lyric": "Will shine again in grace",
+      "tlyric": "将重绽风采",
+      "remarkIdx": ["shine", "grace"]
+    },
+    {
+      "time": 202020,
+      "lyric": "Then why do we keep strangling life",
+      "tlyric": "那为何我们还要自相残杀",
+      "remarkIdx": ["strangling", "life"]
+    },
+    {
+      "time": 205790,
+      "lyric": "Wound this earth, crucify its soul",
+      "tlyric": "破坏地球，生灵涂炭",
+      "remarkIdx": ["wound", "crucify"]
+    },
+    {
+      "time": 208210,
+      "lyric": "Though it's plain to see",
+      "tlyric": "显而易见，视而不见",
+      "remarkIdx": ["Though", "plain"]
+    },
+    {
+      "time": 209870,
+      "lyric": "This world is heavenly be god's glow",
+      "tlyric": "这世界沐浴着上帝的荣光",
+      "remarkIdx": ["heavenly", "glow"]
+    },
+    {
+      "time": 213970,
+      "lyric": "We could fly so high",
+      "tlyric": "使得我们可以展翅翱翔",
+      "remarkIdx": ["fly"]
+    },
+    {
+      "time": 216710,
+      "lyric": "Let our spirits never die",
+      "tlyric": "薪火相传,生生不息",
+      "remarkIdx": ["spirit", "die"]
+    },
+    {
+      "time": 220020,
+      "lyric": "In my heart I feel you are all my brothers",
+      "tlyric": "在我心中你们皆是我的兄弟",
+      "remarkIdx": ["feel", "brother"]
+    },
+    {
+      "time": 225430,
+      "lyric": "Create a world with no fear",
+      "tlyric": "创造一个无畏的地球",
+      "remarkIdx": ["Create", "fear"]
+    },
+    {
+      "time": 228760,
+      "lyric": "Together we’ll cry happy tears",
+      "tlyric": "我们眼眶中流淌着喜悦的泪水",
+      "remarkIdx": ["Together"]
+    },
+    {
+      "time": 231760,
+      "lyric": "We see the nations turn their swords into plowshares",
+      "tlyric": "看到许多国家熔剑造犁",
+      "remarkIdx": ["nation", "sword", "plowshare"]
+    },
+    {
+      "time": 237940,
+      "lyric": "We could really get there",
+      "tlyric": "我们迫切需要前往那片心中的净土",
+      "remarkIdx": ["really", "get there"]
+    },
+    {
+      "time": 241040,
+      "lyric": "If you cared enough for the living",
+      "tlyric": "倘若你由衷关心生灵",
+      "remarkIdx": ["care", "enough"]
+    },
+    {
+      "time": 243830,
+      "lyric": "Make a little space",
+      "tlyric": "那就营造些许空间",
+      "remarkIdx": ["space"]
+    },
+    {
+      "time": 246940,
+      "lyric": "To make a better place",
+      "tlyric": "创建更佳天地",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 249740,
+      "lyric": "Heal the world",
+      "tlyric": "治愈地球",
+      "remarkIdx": ["Heal", "world"]
+    },
+    {
+      "time": 252080,
+      "lyric": "Make it a better place",
+      "tlyric": "创造愈佳寰宇",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 255160,
+      "lyric": "For you and for me",
+      "tlyric": "为你，亦为我",
+      "remarkIdx": ["for"]
+    },
+    {
+      "time": 258430,
+      "lyric": "And the entire human race",
+      "tlyric": "更为了全人类",
+      "remarkIdx": ["entire", "human"]
+    },
+    {
+      "time": 261140,
+      "lyric": "There are people dying",
+      "tlyric": "时常有生灵消逝",
+      "remarkIdx": ["people", "dying"]
+    },
+    {
+      "time": 264390,
+      "lyric": "If you care enough for the living",
+      "tlyric": "倘若你真心关怀生灵",
+      "remarkIdx": ["care", "enough"]
+    },
+    {
+      "time": 267520,
+      "lyric": "Make a better place for you and for me",
+      "tlyric": "因你，亦因我创造一个愈发美好的天地",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 273300,
+      "lyric": "Heal the world",
+      "tlyric": "拯救世界",
+      "remarkIdx": ["Heal", "world"]
+    },
+    {
+      "time": 275720,
+      "lyric": "Make it a better place",
+      "tlyric": "缔造更佳天地",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 278410,
+      "lyric": "For you and for me",
+      "tlyric": "为你，亦为我",
+      "remarkIdx": ["for"]
+    },
+    {
+      "time": 282030,
+      "lyric": "And the entire human race",
+      "tlyric": "皆为全人类",
+      "remarkIdx": ["race"]
+    },
+    {
+      "time": 285010,
+      "lyric": "There are people dying",
+      "tlyric": "不断有人奄奄一息",
+      "remarkIdx": ["people", "dying"]
+    },
+    {
+      "time": 288020,
+      "lyric": "If you care enough for the living",
+      "tlyric": "如果你由衷关怀生命",
+      "remarkIdx": ["enough", "living"]
+    },
+    {
+      "time": 290860,
+      "lyric": "Make a better place for you and for me",
+      "tlyric": "为你，亦为我创造一个更佳的世界",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 297040,
+      "lyric": "Heal the world",
+      "tlyric": "治愈地球",
+      "remarkIdx": ["Heal", "world"]
+    },
+    {
+      "time": 299640,
+      "lyric": "Make it a better place",
+      "tlyric": "创建怡然天地",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 302520,
+      "lyric": "For you and for me",
+      "tlyric": "因你，亦因我",
+      "remarkIdx": ["for"]
+    },
+    {
+      "time": 305530,
+      "lyric": "And the entire human race",
+      "tlyric": "皆因全人类",
+      "remarkIdx": ["entire", "human"]
+    },
+    {
+      "time": 308730,
+      "lyric": "There are people dying",
+      "tlyric": "常常有人濒临死亡",
+      "remarkIdx": ["people", "dying"]
+    },
+    {
+      "time": 312040,
+      "lyric": "If you care enough for the living",
+      "tlyric": "倘若你真心关注生灵",
+      "remarkIdx": ["care", "living"]
+    },
+    {
+      "time": 315040,
+      "lyric": "Make a better place for you and for me",
+      "tlyric": "为你，亦为我创建一个更加绚丽的世界",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 319260,
+      "lyric": "There are people dying",
+      "tlyric": "不断有人奄奄一息",
+      "remarkIdx": ["people", "dying"]
+    },
+    {
+      "time": 323820,
+      "lyric": "If you care enough for the living",
+      "tlyric": "如若你关切生灵",
+      "remarkIdx": ["care", "enough"]
+    },
+    {
+      "time": 326800,
+      "lyric": "Make a better place for you and for me",
+      "tlyric": "那就为你，亦为我缔造一个怡然的天地",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 331420,
+      "lyric": "There are people dying",
+      "tlyric": "不时有生灵瞬逝",
+      "remarkIdx": ["people", "dying"]
+    },
+    {
+      "time": 335790,
+      "lyric": "If you care enough for the living",
+      "tlyric": "倘若你真心关怀生灵",
+      "remarkIdx": ["enough", "living"]
+    },
+    {
+      "time": 339110,
+      "lyric": "Make a better place for you and for me",
+      "tlyric": "为你，亦为我创造一个愈发美好的世界",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 343910,
+      "lyric": "You and for me(make a better place)",
+      "tlyric": "为了你，我（创造一个更美好的世界）",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 346980,
+      "lyric": "You and for me(make a better place)",
+      "tlyric": "为了你，我（创造一个更美好的世界）",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 350000,
+      "lyric": "You and for me(make a better place)",
+      "tlyric": "为了你，我（创造一个更美好的世界）",
+      "remarkIdx": ["better", "place"]
+    },
+    {
+      "time": 352910,
+      "lyric": "You and for me(heal the world we’re live in,save it for our children)",
+      "tlyric": "为了你，我（为了孩子拯救我们的家园）",
+      "remarkIdx": ["live"]
+    }
+  ],
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 3359324,
+      "status": 99,
+      "demand": 1,
+      "userid": 52562799,
+      "nickname": "iBLA",
+      "uptime": 1465359610497
+    },
+    "lyricUser": {
+      "id": 3359322,
+      "status": 99,
+      "demand": 0,
+      "userid": 67632679,
+      "nickname": "Polariz冰蓝",
+      "uptime": 1465359610497
+    },
+    "lrc": {
+      "version": 114,
+      "lyric": "[00:00.000] 作词 : Michael Jackson\n[00:01.000] 作曲 : Michael Jackson\n[00:02.000] 编曲 : Michael Jackson\n[00:22.960]————Monologue————\n[00:42.500]Think about, um, the generations, and\n[00:48.270]Say we wanna make it a better place for our children,\n[00:51.010]And our children's children\n[00:53.300]So that they…they know it's a better world for them\n[00:58.200]And think they can make it a better place\n[01:02.180]————————————-\n[01:09.010]There's a place in your heart\n[01:11.450]And I know that it is love\n[01:14.620]And this place could be much brighter than tomorrow\n[01:19.420]And if you really try\n[01:22.780]You'll find there's no need to cry\n[01:26.160]In this place you'll feel\n[01:28.850]There's no hurt or sorrow\n[01:32.410]There are ways to get there\n[01:35.390]If you care enough for the living\n[01:38.130]Make a little space\n[01:41.230]Make a better place\n[01:43.860]Heal the world\n[01:46.100]Make it a better place\n[01:49.300]For you and for me\n[01:53.320]And the entire human race\n[01:55.980]There are people dying\n[01:59.270]If you care enough for the living\n[02:02.180]Make it a better place\n[02:03.840]For you and for me\n[02:07.450]\n[02:10.850]If you want to know why\n[02:13.710]There's a love that cannot lie\n[02:16.670]Love is strong\n[02:18.210]It only cares for joyful giving\n[02:21.700]If we try we shall see\n[02:25.230]In this bliss we cannot feel\n[02:28.620]Fear or dread\n[02:30.210]We stop existing and start living\n[02:34.720]Then it feels that always\n[02:37.730]Love's enough for us growing\n[02:40.820]Make a better world\n[02:42.830]Make a better world\n[02:46.500]Heal the world\n[02:48.940]Make it a better place\n[02:51.950]For you and for me\n[02:55.360]And the entire human race\n[02:58.200]There are people dying\n[03:01.320]If you care enough for the living\n[03:04.660]Make a better place for you and for me\n[03:10.530]And the dream we were conceived in\n[03:13.300]Will reveal a joyful face\n[03:16.390]And the world we once believed in\n[03:19.140]Will shine again in grace\n[03:22.020]Then why do we keep strangling life\n[03:25.790]Wound this earth, crucify its soul\n[03:28.210]Though it's plain to see\n[03:29.870]This world is heavenly be god's glow\n[03:33.970]We could fly so high\n[03:36.710]Let our spirits never die\n[03:40.020]In my heart I feel you are all my brothers\n[03:45.430]Create a world with no fear\n[03:48.760]Together we’ll cry happy tears\n[03:51.760]We see the nations turn their swords into plowshares\n[03:57.940]We could really get there\n[04:01.040]If you cared enough for the living\n[04:03.830]Make a little space\n[04:06.940]To make a better place\n[04:09.740]Heal the world\n[04:12.080]Make it a better place\n[04:15.160]For you and for me\n[04:18.430]And the entire human race\n[04:21.140]There are people dying\n[04:24.390]If you care enough for the living\n[04:27.520]Make a better place for you and for me\n[04:33.300]Heal the world\n[04:35.720]Make it a better place\n[04:38.410]For you and for me\n[04:42.030]And the entire human race\n[04:45.010]There are people dying\n[04:48.020]If you care enough for the living\n[04:50.860]Make a better place for you and for me\n[04:57.040]Heal the world\n[04:59.640]Make it a better place\n[05:02.520]For you and for me\n[05:05.530]And the entire human race\n[05:08.730]There are people dying\n[05:12.040]If you care enough for the living\n[05:15.040]Make a better place for you and for me\n[05:19.260]There are people dying\n[05:23.820]If you care enough for the living\n[05:26.800]Make a better place for you and for me\n[05:31.420]There are people dying\n[05:35.790]If you care enough for the living\n[05:39.110]Make a better place for you and for me\n[05:43.910]You and for me(make a better place)\n[05:46.980]You and for me(make a better place)\n[05:50.000]You and for me(make a better place)\n[05:52.910]You and for me(heal the world we’re livin,save it for our children)\n"
+    },
+    "tlyric": {
+      "version": 30,
+      "lyric": "[00:22.960]————独白————\n[00:42.500]沉思往昔潮生潮灭 人事更迭\n[00:48.270]我们时常提及希望为孩子们缔造幸福美满的家园\n[00:51.010]以及薪火相传的下一代\n[00:53.300]使得他们知晓美好的世界仅为他们而生\n[00:58.200]以让他们确信自身亦能创造愈加美好的天地\n[01:02.180]————————————-\n[01:09.010]在你内心存在一片净土\n[01:11.450]我明白这片净土充满了爱\n[01:14.620]这片净土所散发的光芒愈发灿烂\n[01:19.420]倘若你真的锲而不舍地尝试\n[01:22.780]你会发觉不必为此哭泣\n[01:26.160]在这片净土上\n[01:28.850]你感受不到灼痛与纷扰\n[01:32.410]抵达这片净土的方式灿若繁星\n[01:35.390]倘使你真心关怀生者\n[01:38.130]为彼此创造些许空间\n[01:41.230]缔造一个愈加美好的天地\n[01:43.860]治愈这个满目疮痍的世界\n[01:46.100]使其愈发美好\n[01:49.300]为你，亦为我\n[01:53.320]更为全人类\n[01:55.980]不断有人奄奄一息\n[01:59.270]倘若你由衷关心生灵\n[02:02.180]那就营造一个愈发美好的天地\n[02:03.840]为你，亦为我\n[02:07.450]\n[02:10.850]若是你想知晓这一切的缘由\n[02:13.710]皆因爱不曾欺骗\n[02:16.670]坚不可摧的爱\n[02:18.210]爱皆是不求回报的付出\n[02:21.700]倘若尝试分享自己的爱，我们皆会明了\n[02:25.230]在爱的福祉\n[02:28.620]丝毫感受不到忌惮与畏惧\n[02:30.210]我们不仅只因生存,更因生活\n[02:34.720]使爱长存\n[02:37.730]爱令我们不断成长\n[02:40.820]缔造更佳世界\n[02:42.830]创建怡然地球\n[02:46.500]治愈世界\n[02:48.940]缔造更佳世界\n[02:51.950]为你，亦为我\n[02:55.360]皆为全人类\n[02:58.200]时常有人濒临死亡\n[03:01.320]倘若你真心关怀生者\n[03:04.660]因你，亦因我创造一个愈发美好的天地\n[03:10.530]我们怀揣梦想\n[03:13.300]让我们描绘绽放的笑容\n[03:16.390]我们曾经信赖的地球\n[03:19.140]将重绽风采\n[03:22.020]那为何我们还要自相残杀\n[03:25.790]破坏地球，生灵涂炭\n[03:28.210]显而易见，视而不见\n[03:29.870]这世界沐浴着上帝的荣光\n[03:33.970]使得我们可以展翅翱翔\n[03:36.710]薪火相传,生生不息\n[03:40.020]在我心中你们皆是我的兄弟\n[03:45.430]创造一个无畏的地球\n[03:48.760]我们眼眶中流淌着喜悦的泪水\n[03:51.760]看到许多国家熔剑造犁\n[03:57.940]我们迫切需要前往那片心中的净土\n[04:01.040]倘若你由衷关心生灵\n[04:03.830]那就营造些许空间\n[04:06.940]创建更佳天地\n[04:09.740]治愈地球\n[04:12.080]创造愈佳寰宇\n[04:15.160]为你，亦为我\n[04:18.430]更为了全人类\n[04:21.140]时常有生灵消逝\n[04:24.390]倘若你真心关怀生灵\n[04:27.520]因你，亦因我创造一个愈发美好的天地\n[04:33.300]拯救世界\n[04:35.720]缔造更佳天地\n[04:38.410]为你，亦为我\n[04:42.030]皆为全人类\n[04:45.010]不断有人奄奄一息\n[04:48.020]如果你由衷关怀生命\n[04:50.860]为你，亦为我创造一个更佳的世界\n[04:57.040]治愈地球\n[04:59.640]创建怡然天地\n[05:02.520]因你，亦因我\n[05:05.530]皆因全人类\n[05:08.730]常常有人濒临死亡\n[05:12.040]倘若你真心关注生灵\n[05:15.040]为你，亦为我创建一个更加绚丽的世界\n[05:19.260]不断有人奄奄一息\n[05:23.820]如若你关切生灵\n[05:26.800]那就为你，亦为我缔造一个怡然的天地\n[05:31.420]不时有生灵瞬逝\n[05:35.790]倘若你真心关怀生灵\n[05:39.110]为你，亦为我创造一个愈发美好的世界\n[05:43.910]为了你，我\n[05:46.980]为了你，我\n[05:50.000]为了你，我\n[05:52.910]为了你，我"
+    },
+    "code": 200
+  },
+  "code": 200
+}

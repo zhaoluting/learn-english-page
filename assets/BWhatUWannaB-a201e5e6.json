@@ -1,0 +1,428 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "B What U Wanna B",
+      "tlyric": "成为那个你想成为的人",
+      "singer": "Darin",
+      "remarkIdx": ["Wanna"]
+    },
+    {
+      "time": 50,
+      "lyric": "doctor, actor, lawyer or a singer",
+      "tlyric": "医生演员律师或歌唱家",
+      "remarkIdx": ["doctor", "actor"]
+    },
+    {
+      "time": 3046,
+      "lyric": "why not president, be a dreamer",
+      "tlyric": "为什么不是总统？做一个有梦想的人",
+      "remarkIdx": ["president", "dreamer"]
+    },
+    {
+      "time": 5079,
+      "lyric": "you can be just the one you wanna be",
+      "tlyric": "你可以成为任何一个你想成为的人",
+      "remarkIdx": ["just", "one"]
+    },
+    {
+      "time": 9044,
+      "lyric": "police man, fire fighter or a post man",
+      "tlyric": "警察消防员或者邮递员",
+      "remarkIdx": ["police", "policeman"]
+    },
+    {
+      "time": 12059,
+      "lyric": "why not something like your old man",
+      "tlyric": "为什么不是像你老爸那样的人？",
+      "remarkIdx": ["something", "old man"]
+    },
+    {
+      "time": 14093,
+      "lyric": "you can be just the one you wanna be",
+      "tlyric": "你可以成为任何一个你想成为的人",
+      "remarkIdx": ["can", "wanna"]
+    },
+    {
+      "time": 18061,
+      "lyric": "doctor, actor, lawyer or a singer",
+      "tlyric": "医生演员律师或者歌唱家",
+      "remarkIdx": ["or", "lawyer", "singer"]
+    },
+    {
+      "time": 21065,
+      "lyric": "why not president, be a dreamer",
+      "tlyric": "为什么不是总统？做一个有梦想的人",
+      "remarkIdx": ["why", "not", "be"]
+    },
+    {
+      "time": 23096,
+      "lyric": "you can be just the one you wanna be",
+      "tlyric": "你可以成为任何一个你想成为的人",
+      "remarkIdx": ["can be", "one"]
+    },
+    {
+      "time": 28021,
+      "lyric": "I know that we all got one thing",
+      "tlyric": "我知道我们都得到一样东西",
+      "remarkIdx": ["know", "thing"]
+    },
+    {
+      "time": 30089,
+      "lyric": "that we all share together",
+      "tlyric": "那就是我们都在分享的",
+      "remarkIdx": ["together"]
+    },
+    {
+      "time": 33004,
+      "lyric": "we got that one nice dream",
+      "tlyric": "我们都拥有一个美好的梦想",
+      "remarkIdx": ["nice", "dream"]
+    },
+    {
+      "time": 35068,
+      "lyric": "we live for",
+      "tlyric": "我们为之生存",
+      "remarkIdx": ["live"]
+    },
+    {
+      "time": 37017,
+      "lyric": "you never know what life could bring",
+      "tlyric": "你不会知道生活会给你带来什么",
+      "remarkIdx": ["never", "could", "bring"]
+    },
+    {
+      "time": 40001,
+      "lyric": "cause nothing last for ever",
+      "tlyric": "因为没有什么能永恒",
+      "remarkIdx": ["last", "ever"]
+    },
+    {
+      "time": 42020,
+      "lyric": "just hold on to the team",
+      "tlyric": "只是坚持住",
+      "remarkIdx": ["hold on", "team"]
+    },
+    {
+      "time": 44064,
+      "lyric": "you play for",
+      "tlyric": "为了你所努力的团队",
+      "remarkIdx": ["play", "play for"]
+    },
+    {
+      "time": 46030,
+      "lyric": "I know you could reach the top",
+      "tlyric": "我知道你会达到顶峰",
+      "remarkIdx": ["could", "reach"]
+    },
+    {
+      "time": 48048,
+      "lyric": "make sure that you won't stop",
+      "tlyric": "你一定不要停下来",
+      "remarkIdx": ["make sure", "sure"]
+    },
+    {
+      "time": 51003,
+      "lyric": "be the one that you wanna be",
+      "tlyric": "做那个你一直都想成为的人",
+      "remarkIdx": ["one", "wanna"]
+    },
+    {
+      "time": 53030,
+      "lyric": "now sing this with me",
+      "tlyric": "现在和我一起歌唱",
+      "remarkIdx": ["sing", "with"]
+    },
+    {
+      "time": 55017,
+      "lyric": "doctor, actor, lawyer or a singer",
+      "tlyric": "医生演员律师或歌唱家",
+      "remarkIdx": ["doctor", "actor"]
+    },
+    {
+      "time": 58025,
+      "lyric": "why not president, be a dreamer",
+      "tlyric": "为什么不是总统？做一个有梦想的人",
+      "remarkIdx": ["president", "dreamer"]
+    },
+    {
+      "time": 60050,
+      "lyric": "you can be just the one you wanna be",
+      "tlyric": "你可以成为任何一个你想成为的人",
+      "remarkIdx": ["just", "one"]
+    },
+    {
+      "time": 64027,
+      "lyric": "police man, fire fighter or a post man",
+      "tlyric": "警察消防员或者邮递员",
+      "remarkIdx": ["fire", "fighter", "firefighter"]
+    },
+    {
+      "time": 67038,
+      "lyric": "why not something like your old man",
+      "tlyric": "为什么不是像你老爸那样的人？",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 69071,
+      "lyric": "you can be just the one you wanna be",
+      "tlyric": "你可以成为任何一个你想成为的人",
+      "remarkIdx": ["can", "wanna"]
+    },
+    {
+      "time": 73091,
+      "lyric": "we may have different ways to think",
+      "tlyric": "我们也许会从不同角度考虑问题",
+      "remarkIdx": ["may", "different", "ways"]
+    },
+    {
+      "time": 76063,
+      "lyric": "but it doesn't really matter",
+      "tlyric": "但这没关系",
+      "remarkIdx": ["really"]
+    },
+    {
+      "time": 78075,
+      "lyric": "we all caught up in the steam",
+      "tlyric": "我们都赶上了",
+      "remarkIdx": ["catch up", "steam"]
+    },
+    {
+      "time": 81023,
+      "lyric": "of this life",
+      "tlyric": "这次人生之旅",
+      "remarkIdx": ["life"]
+    },
+    {
+      "time": 82087,
+      "lyric": "focus on every little thing",
+      "tlyric": "执著于每一件琐事",
+      "remarkIdx": ["focus", "every"]
+    },
+    {
+      "time": 85064,
+      "lyric": "that's what does really matter",
+      "tlyric": "这才是问题所在",
+      "remarkIdx": ["matter"]
+    },
+    {
+      "time": 87084,
+      "lyric": "luxury cars and bling",
+      "tlyric": "豪车和珠宝",
+      "remarkIdx": ["luxury", "car", "bling"]
+    },
+    {
+      "time": 90022,
+      "lyric": "that's not real life",
+      "tlyric": "那都不是真正的生活",
+      "remarkIdx": ["not", "real"]
+    },
+    {
+      "time": 91096,
+      "lyric": "I know you could reach the top",
+      "tlyric": "我知道你会达到顶峰",
+      "remarkIdx": ["top"]
+    },
+    {
+      "time": 94028,
+      "lyric": "make sure that you won't stop",
+      "tlyric": "确定你不会停下来",
+      "remarkIdx": ["stop"]
+    },
+    {
+      "time": 96045,
+      "lyric": "be the one that you wanna be",
+      "tlyric": "做那个你一直都想成为的人",
+      "remarkIdx": ["be", "that"]
+    },
+    {
+      "time": 98066,
+      "lyric": "now sing this with me",
+      "tlyric": "现在和我一起歌唱",
+      "remarkIdx": ["now", "sing"]
+    },
+    {
+      "time": 100080,
+      "lyric": "doctor, actor, lawyer or a singer",
+      "tlyric": "医生演员律师或歌唱家",
+      "remarkIdx": ["or", "lawyer", "singer"]
+    },
+    {
+      "time": 104000,
+      "lyric": "why not president, be a dreamer",
+      "tlyric": "为什么不是总统？做一个有梦想的人",
+      "remarkIdx": ["why", "not", "be"]
+    },
+    {
+      "time": 106023,
+      "lyric": "you can be just the one you wanna be",
+      "tlyric": "你可以成为任何一个你想成为的人",
+      "remarkIdx": ["can be", "one"]
+    },
+    {
+      "time": 109093,
+      "lyric": "police man, fire fighter or a post man",
+      "tlyric": "警察消防员或者邮递员",
+      "remarkIdx": ["post", "post man"]
+    },
+    {
+      "time": 113002,
+      "lyric": "why not something like your old man",
+      "tlyric": "为什么不是像你老爸那样的人？",
+      "remarkIdx": ["something", "old man"]
+    },
+    {
+      "time": 115025,
+      "lyric": "you can be just the one you wanna be",
+      "tlyric": "你可以成为任何一个你想成为的人",
+      "remarkIdx": ["just", "one"]
+    },
+    {
+      "time": 119050,
+      "lyric": "last year I used to dream about this day",
+      "tlyric": "去年我还在梦想着有这么一天",
+      "remarkIdx": ["used to", "dream"]
+    },
+    {
+      "time": 123091,
+      "lyric": "now I'm here I'm singing for you",
+      "tlyric": "现在这一切都实现我将为你而唱",
+      "remarkIdx": ["now", "here"]
+    },
+    {
+      "time": 128070,
+      "lyric": "I hope I could inspire you",
+      "tlyric": "我希望我能鼓舞你的斗志",
+      "remarkIdx": ["hope", "inspire"]
+    },
+    {
+      "time": 132049,
+      "lyric": "cause I've got all the love, cause I've got all love for you",
+      "tlyric": "因为我得到了所有的爱我得到了 我对你所有的爱",
+      "remarkIdx": ["cause", "love"]
+    },
+    {
+      "time": 138009,
+      "lyric": "doctor, actor, lawyer or a singer",
+      "tlyric": "医生演员律师或歌唱家",
+      "remarkIdx": ["doctor", "actor"]
+    },
+    {
+      "time": 140067,
+      "lyric": "why not president, be a dreamer",
+      "tlyric": "为什么不是总统？做一个有梦想的人",
+      "remarkIdx": ["president", "dreamer"]
+    },
+    {
+      "time": 142082,
+      "lyric": "you can be just the one you wanna be",
+      "tlyric": "你可以成为任何一个你想成为的人",
+      "remarkIdx": ["can", "wanna"]
+    },
+    {
+      "time": 146058,
+      "lyric": "police man, fire fighter or a post man",
+      "tlyric": "警察消防员或者邮递员",
+      "remarkIdx": ["police", "policeman"]
+    },
+    {
+      "time": 149065,
+      "lyric": "why not something like your old man",
+      "tlyric": "为什么不是像你老爸那样的人？",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 151098,
+      "lyric": "you can be just the one you wanna be",
+      "tlyric": "你可以成为任何一个你想成为的人",
+      "remarkIdx": ["can be", "one"]
+    },
+    {
+      "time": 155081,
+      "lyric": "doctor, actor, lawyer or a singer",
+      "tlyric": "医生演员律师或歌唱家",
+      "remarkIdx": ["or", "lawyer", "singer"]
+    },
+    {
+      "time": 158082,
+      "lyric": "why not president, be a dreamer",
+      "tlyric": "为什么不是总统？做一个有梦想的人",
+      "remarkIdx": ["why", "not", "be"]
+    },
+    {
+      "time": 161004,
+      "lyric": "you can be just the one you wanna be",
+      "tlyric": "你可以成为任何一个你想成为的人",
+      "remarkIdx": ["just", "one"]
+    },
+    {
+      "time": 164087,
+      "lyric": "police man, fire fighter or a post man",
+      "tlyric": "警察消防员或者邮递员",
+      "remarkIdx": ["fire", "fighter", "firefighter"]
+    },
+    {
+      "time": 167086,
+      "lyric": "why not something like your old man",
+      "tlyric": "为什么不是像你老爸那样的人？",
+      "remarkIdx": ["something", "old man"]
+    },
+    {
+      "time": 170017,
+      "lyric": "you can be just the one you wanna be",
+      "tlyric": "你可以成为任何一个你想成为的人",
+      "remarkIdx": ["can", "wanna"]
+    },
+    {
+      "time": 173098,
+      "lyric": "doctor, actor, lawyer or a singer",
+      "tlyric": "医生演员律师或歌唱家",
+      "remarkIdx": ["doctor", "actor"]
+    },
+    {
+      "time": 177013,
+      "lyric": "why not president, be a dreamer",
+      "tlyric": "为什么不是总统？做一个有梦想的人",
+      "remarkIdx": ["president", "dreamer"]
+    },
+    {
+      "time": 179043,
+      "lyric": "you can be just the one you wanna be",
+      "tlyric": "你可以成为任何一个你想成为的人",
+      "remarkIdx": ["can be", "one"]
+    },
+    {
+      "time": 183017,
+      "lyric": "police man, fire fighter or a post man",
+      "tlyric": "警察消防员或者邮递员",
+      "remarkIdx": ["post", "post man"]
+    },
+    {
+      "time": 186029,
+      "lyric": "why not something like your old man",
+      "tlyric": "为什么不是像你老爸那样的人？",
+      "remarkIdx": ["like"]
+    },
+    {
+      "time": 188053,
+      "lyric": "you can be just the one you wanna be",
+      "tlyric": "你可以成为任何一个你想成为的人",
+      "remarkIdx": ["just", "one"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "lrc": {
+      "version": 26,
+      "lyric": "[00:00.00] 作词 : Darin\n[00:00.25] 作曲 : Darin\n[00:00.50]doctor, actor, lawyer or a singer\n[00:03.46]why not president, be a dreamer\n[00:05.79]you can be just the one you wanna be\n[00:09.44]police man, fire fighter or a post man\n[00:12.59]why not something like your old man\n[00:14.93]you can be just the one you wanna be\n[00:18.61]doctor, actor, lawyer or a singer\n[00:21.65]why not president, be a dreamer\n[00:23.96]you can be just the one you wanna be\n[00:28.21]I know that we all got one thing\n[00:30.89]that we all share together\n[00:33.04]we got that one nice dream\n[00:35.68]we live for\n[00:37.17]you never know what life could bring\n[00:40.01]cause nothing last for ever\n[00:42.20]just hold on to the team\n[00:44.64]you play for\n[00:46.30]I know you could reach the top\n[00:48.48]make sure that you won't stop\n[00:51.03]be the one that you wanna be\n[00:53.30]now sing this with me\n[00:55.17]doctor, actor, lawyer or a singer\n[00:58.25]why not president, be a dreamer\n[01:00.50]you can be just the one you wanna be\n[01:04.27]police man, fire fighter or a post man\n[01:07.38]why not something like your old man\n[01:09.71]you can be just the one you wanna be\n[01:13.91]we may have different ways to think\n[01:16.63]but it doesn't really matter\n[01:18.75]we all caught up in the steam\n[01:21.23]of this life\n[01:22.87]focus on every little thing\n[01:25.64]that's what does really matter\n[01:27.84]luxury cars and bling\n[01:30.22]that's not real life\n[01:31.96]I know you could reach the top\n[01:34.28]make sure that you won't stop\n[01:36.45]be the one that you wanna be\n[01:38.66]now sing this with me\n[01:40.80]doctor, actor, lawyer or a singer\n[01:44.00]why not president, be a dreamer\n[01:46.23]you can be just the one you wanna be\n[01:49.93]police man, fire fighter or a post man\n[01:53.02]why not something like your old man\n[01:55.25]you can be just the one you wanna be\n[01:59.50]last year I used to dream about this day\n[02:03.91]now I'm here I'm singing for you\n[02:08.70]I hope I could inspire you\n[02:12.49]cause I've got all the love, cause I've got all love for you\n[02:18.09]doctor, actor, lawyer or a singer\n[02:20.67]why not president, be a dreamer\n[02:22.82]you can be just the one you wanna be\n[02:26.58]police man, fire fighter or a post man\n[02:29.65]why not something like your old man\n[02:31.98]you can be just the one you wanna be\n[02:35.81]doctor, actor, lawyer or a singer\n[02:38.82]why not president, be a dreamer\n[02:41.04]you can be just the one you wanna be\n[02:44.87]police man, fire fighter or a post man\n[02:47.86]why not something like your old man\n[02:50.17]you can be just the one you wanna be\n[02:53.98]doctor, actor, lawyer or a singer\n[02:57.13]why not president, be a dreamer\n[02:59.43]you can be just the one you wanna be\n[03:03.17]police man, fire fighter or a post man\n[03:06.29]why not something like your old man\n[03:08.53]you can be just the one you wanna be\n"
+    },
+    "tlyric": {
+      "version": 22,
+      "lyric": "[00:00.50]医生演员律师或歌唱家\n[00:03.46]为什么不是总统？做一个有梦想的人\n[00:05.79]你可以成为任何一个你想成为的人\n[00:09.44]警察消防员或者邮递员\n[00:12.59]为什么不是像你老爸那样的人？\n[00:14.93]你可以成为任何一个你想成为的人\n[00:18.61]医生演员律师或者歌唱家\n[00:21.65]为什么不是总统？做一个有梦想的人\n[00:23.96]你可以成为任何一个你想成为的人\n[00:28.21]我知道我们都得到一样东西\n[00:30.89]那就是我们都在分享的\n[00:33.04]我们都拥有一个美好的梦想\n[00:35.68]我们为之生存\n[00:37.17]你不会知道生活会给你带来什么\n[00:40.01]因为没有什么能永恒\n[00:42.20]只是坚持住\n[00:44.64]为了你所努力的团队\n[00:46.30]我知道你会达到顶峰\n[00:48.48]你一定不要停下来\n[00:51.03]做那个你一直都想成为的人\n[00:53.30]现在和我一起歌唱\n[00:55.17]医生演员律师或歌唱家\n[00:58.25]为什么不是总统？做一个有梦想的人\n[01:00.50]你可以成为任何一个你想成为的人\n[01:04.27]警察消防员或者邮递员\n[01:07.38]为什么不是像你老爸那样的人？\n[01:09.71]你可以成为任何一个你想成为的人\n[01:13.91]我们也许会从不同角度考虑问题\n[01:16.63]但这没关系\n[01:18.75]我们都赶上了\n[01:21.23]这次人生之旅\n[01:22.87]执著于每一件琐事\n[01:25.64]这才是问题所在\n[01:27.84]豪车和珠宝\n[01:30.22]那都不是真正的生活\n[01:31.96]我知道你会达到顶峰\n[01:34.28]确定你不会停下来\n[01:36.45]做那个你一直都想成为的人\n[01:38.66]现在和我一起歌唱\n[01:40.80]医生演员律师或歌唱家\n[01:44.00]为什么不是总统？做一个有梦想的人\n[01:46.23]你可以成为任何一个你想成为的人\n[01:49.93]警察消防员或者邮递员\n[01:53.02]为什么不是像你老爸那样的人？\n[01:55.25]你可以成为任何一个你想成为的人\n[01:59.50]去年我还在梦想着有这么一天\n[02:03.91]现在这一切都实现我将为你而唱\n[02:08.70]我希望我能鼓舞你的斗志\n[02:12.49]因为我得到了所有的爱我得到了 我对你所有的爱\n[02:18.09]医生演员律师或歌唱家\n[02:20.67]为什么不是总统？做一个有梦想的人\n[02:22.82]你可以成为任何一个你想成为的人\n[02:26.58]警察消防员或者邮递员\n[02:29.65]为什么不是像你老爸那样的人？\n[02:31.98]你可以成为任何一个你想成为的人\n[02:35.81]医生演员律师或歌唱家\n[02:38.82]为什么不是总统？做一个有梦想的人\n[02:41.04]你可以成为任何一个你想成为的人\n[02:44.87]警察消防员或者邮递员\n[02:47.86]为什么不是像你老爸那样的人？\n[02:50.17]你可以成为任何一个你想成为的人\n[02:53.98]医生演员律师或歌唱家\n[02:57.13]为什么不是总统？做一个有梦想的人\n[02:59.43]你可以成为任何一个你想成为的人\n[03:03.17]警察消防员或者邮递员\n[03:06.29]为什么不是像你老爸那样的人？\n[03:08.53]你可以成为任何一个你想成为的人"
+    },
+    "code": 200
+  }
+}

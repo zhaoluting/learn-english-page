@@ -1,0 +1,314 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Young and Beautiful",
+      "tlyric": "风华正茂",
+      "singer": "Colbie Caillat",
+      "remarkIdx": ["young", "beautiful"]
+    },
+    {
+      "time": 15260,
+      "lyric": "I've seen the world",
+      "tlyric": "我已看遍世间繁华",
+      "remarkIdx": ["see", "world"]
+    },
+    {
+      "time": 17700,
+      "lyric": "Done it all, had my cake now",
+      "tlyric": "历经沧桑，享受甜美的果实",
+      "remarkIdx": ["done", "cake"]
+    },
+    {
+      "time": 23800,
+      "lyric": "Diamonds, brilliant, and Bel Air now",
+      "tlyric": "如今有钻石珠宝，名声显赫，坐拥豪宅",
+      "remarkIdx": ["diamond", "brilliant", "Bel Air"]
+    },
+    {
+      "time": 31600,
+      "lyric": "Hot summer nights,mid July",
+      "tlyric": "仲夏夜茫，七月未央",
+      "remarkIdx": ["summer", "nights", "July"]
+    },
+    {
+      "time": 36040,
+      "lyric": "When you and I were forever wild",
+      "tlyric": "我们年少轻狂，不惧岁月漫长",
+      "remarkIdx": ["forever", "wild"]
+    },
+    {
+      "time": 40160,
+      "lyric": "The crazy days, the city lights",
+      "tlyric": "纵情时光，华灯初上",
+      "remarkIdx": ["crazy", "city"]
+    },
+    {
+      "time": 44090,
+      "lyric": "The way you'd play with me like a child",
+      "tlyric": "我们嬉戏疯狂，童稚之心难藏",
+      "remarkIdx": ["play", "child"]
+    },
+    {
+      "time": 49710,
+      "lyric": "Will you still love me",
+      "tlyric": "你是否爱我如初，直到地久天长",
+      "remarkIdx": ["still", "love"]
+    },
+    {
+      "time": 51640,
+      "lyric": "when I'm no longer young and beautiful",
+      "tlyric": "当我年华老去，容颜不再",
+      "remarkIdx": ["no longer", "young", "beautiful"]
+    },
+    {
+      "time": 57940,
+      "lyric": "Will you still love me",
+      "tlyric": "你是否爱我如初，直到地久天长",
+      "remarkIdx": ["still", "love"]
+    },
+    {
+      "time": 59680,
+      "lyric": "when I got nothing but my aching soul",
+      "tlyric": "当我一无所有，遍体鳞伤",
+      "remarkIdx": ["aching", "soul"]
+    },
+    {
+      "time": 64920,
+      "lyric": "I know you will, I know you will",
+      "tlyric": "我知道你会，我知道你会",
+      "remarkIdx": ["know", "will"]
+    },
+    {
+      "time": 68930,
+      "lyric": "I know that you will",
+      "tlyric": "我知道你的爱经久绵长",
+      "remarkIdx": ["know", "will"]
+    },
+    {
+      "time": 72850,
+      "lyric": "Will you still love me",
+      "tlyric": "你是否爱我如初，直到地久天长",
+      "remarkIdx": ["still", "love"]
+    },
+    {
+      "time": 75030,
+      "lyric": "when I'm no longer beautiful",
+      "tlyric": "当我年华老去，容颜不再",
+      "remarkIdx": ["no longer", "beautiful"]
+    },
+    {
+      "time": 82120,
+      "lyric": "I've seen the world, lit it up as my stage now",
+      "tlyric": "目睹世界，舞台聚光",
+      "remarkIdx": ["lit", "stage"]
+    },
+    {
+      "time": 90420,
+      "lyric": "Channeling angels in, the new age now",
+      "tlyric": "天使降临，年代更迭",
+      "remarkIdx": ["channel", "angel"]
+    },
+    {
+      "time": 98230,
+      "lyric": "Hot summer days, rock and roll",
+      "tlyric": "白日盛夏，摇滚震耳欲聋",
+      "remarkIdx": ["roll", "rock and roll"]
+    },
+    {
+      "time": 102650,
+      "lyric": "The way you'd play for me at your show",
+      "tlyric": "你华装登场，独为我而唱",
+      "remarkIdx": ["show"]
+    },
+    {
+      "time": 106870,
+      "lyric": "And all the ways I got to know",
+      "tlyric": "我一睹难忘",
+      "remarkIdx": ["way", "know"]
+    },
+    {
+      "time": 110870,
+      "lyric": "Your pretty face and electric soul",
+      "tlyric": "精致脸庞，灵魂不羁狂妄",
+      "remarkIdx": ["pretty", "electric"]
+    },
+    {
+      "time": 116150,
+      "lyric": "Will you still love me",
+      "tlyric": "你是否爱我如初，直到地久天长",
+      "remarkIdx": ["still", "love"]
+    },
+    {
+      "time": 117950,
+      "lyric": "when I'm no longer young and beautiful",
+      "tlyric": "当我年华老去，容颜不再",
+      "remarkIdx": ["no longer", "young", "beautiful"]
+    },
+    {
+      "time": 124260,
+      "lyric": "Will you still love me",
+      "tlyric": "你是否爱我如初，直到地久天长",
+      "remarkIdx": ["still", "love"]
+    },
+    {
+      "time": 126130,
+      "lyric": "when I got nothing but my aching soul",
+      "tlyric": "当我一无所有，遍体鳞伤",
+      "remarkIdx": ["aching", "soul"]
+    },
+    {
+      "time": 131310,
+      "lyric": "I know you will, I know you will",
+      "tlyric": "我知道你会，我知道你会",
+      "remarkIdx": ["know", "will"]
+    },
+    {
+      "time": 135370,
+      "lyric": "I know that you will",
+      "tlyric": "我知道你的爱经久绵长",
+      "remarkIdx": ["know", "will"]
+    },
+    {
+      "time": 139240,
+      "lyric": "Will you still love me",
+      "tlyric": "你是否爱我如初，直到地久天长",
+      "remarkIdx": ["still", "love"]
+    },
+    {
+      "time": 141540,
+      "lyric": "when I'm no longer beautiful",
+      "tlyric": "当我年华老去，容颜不再",
+      "remarkIdx": ["no longer", "beautiful"]
+    },
+    {
+      "time": 148650,
+      "lyric": "Dear lord when I get to heaven",
+      "tlyric": "上帝在上，当我去至天堂",
+      "remarkIdx": ["lord", "heaven"]
+    },
+    {
+      "time": 152660,
+      "lyric": "Please let me bring my man",
+      "tlyric": "可否有他陪伴在身旁",
+      "remarkIdx": ["please", "bring"]
+    },
+    {
+      "time": 156830,
+      "lyric": "When he comes tell me that you'll let him in",
+      "tlyric": "让他随行，让他进场",
+      "remarkIdx": ["come"]
+    },
+    {
+      "time": 160920,
+      "lyric": "Father tell me if you can",
+      "tlyric": "主啊请给我回答",
+      "remarkIdx": ["father", "tell"]
+    },
+    {
+      "time": 164540,
+      "lyric": "All that grace, all that body",
+      "tlyric": "那种气韵，那副肢干",
+      "remarkIdx": ["grace", "body"]
+    },
+    {
+      "time": 168730,
+      "lyric": "All that face makes me wanna party",
+      "tlyric": "那张面庞，让我心如狂欢",
+      "remarkIdx": ["face", "party"]
+    },
+    {
+      "time": 173420,
+      "lyric": "He's my sun, he makes me shine like diamonds",
+      "tlyric": "他是我的光，他使我如钻石般闪耀",
+      "remarkIdx": ["sun", "shine"]
+    },
+    {
+      "time": 182800,
+      "lyric": "Will you still love me",
+      "tlyric": "你是否爱我如初，直到地久天长",
+      "remarkIdx": ["still", "love"]
+    },
+    {
+      "time": 182850,
+      "lyric": "when I'm no longer young and beautiful",
+      "tlyric": "当我年华老去，容颜不再",
+      "remarkIdx": ["no longer", "young", "beautiful"]
+    },
+    {
+      "time": 191100,
+      "lyric": "Will you still love me",
+      "tlyric": "你是否爱我如初，直到地久天长",
+      "remarkIdx": ["still", "love"]
+    },
+    {
+      "time": 193090,
+      "lyric": "when I got nothing but my aching soul",
+      "tlyric": "当我一无所有，遍体鳞伤",
+      "remarkIdx": ["aching", "soul"]
+    },
+    {
+      "time": 198270,
+      "lyric": "I know you will, I know you will",
+      "tlyric": "我知道你会，我知道你会",
+      "remarkIdx": ["know", "will"]
+    },
+    {
+      "time": 202200,
+      "lyric": "I know that you will",
+      "tlyric": "我知道你的爱经久绵长",
+      "remarkIdx": ["know", "will"]
+    },
+    {
+      "time": 206310,
+      "lyric": "Will you still love me",
+      "tlyric": "你是否爱我如初，直到地久天长",
+      "remarkIdx": ["still", "love"]
+    },
+    {
+      "time": 208500,
+      "lyric": "when I'm no longer beautiful",
+      "tlyric": "当我容颜不再",
+      "remarkIdx": ["no longer", "beautiful"]
+    },
+    {
+      "time": 214670,
+      "lyric": "Will you still love me",
+      "tlyric": "你是否爱我如初，直到地久天长",
+      "remarkIdx": ["still", "love"]
+    },
+    {
+      "time": 216740,
+      "lyric": "when I'm no longer beautiful",
+      "tlyric": "当我容颜不再",
+      "remarkIdx": ["no longer", "beautiful"]
+    },
+    {
+      "time": 223170,
+      "lyric": "Will you still love me",
+      "tlyric": "你是否爱我如初，直到地久天长",
+      "remarkIdx": ["still", "love"]
+    },
+    {
+      "time": 225070,
+      "lyric": "when I'm not young and beautiful",
+      "tlyric": "当我年华老去，容颜不再",
+      "remarkIdx": ["young", "beautiful"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "lrc": {
+      "version": 131,
+      "lyric": "[00:00.000] 作词 : Rick Nowell/Lana Del Rey\n[00:01.000] 作曲 : Rick Nowell/Lana Del Rey\n[00:15.260]I've seen the world\n[00:17.700]Done it all, had my cake now\n[00:23.800]Diamonds, brilliant, and Bel-Air now\n[00:31.600]Hot summer nights mid July\n[00:36.040]When you and I were forever wild\n[00:40.160]The crazy days, the city lights\n[00:44.090]The way you'd play with me like a child\n[00:49.710]Will you still love me\n[00:51.640]when I'm no longer young and beautiful\n[00:57.940]Will you still love me\n[00:59.680]when I got nothing but my aching soul\n[01:04.920]I know you will, I know you will\n[01:08.930]I know that you will\n[01:12.850]Will you still love me\n[01:15.030]when I'm no longer beautiful\n[01:22.120]I've seen the world, lit it up as my stage now\n[01:30.420]Channeling angels in, the new age now\n[01:38.230]Hot summer days, rock and roll\n[01:42.650]The way you'd play for me at your show\n[01:46.870]And all the ways I got to know\n[01:50.870]Your pretty face and electric soul\n[01:57.150]Will you still love me\n[01:58.950]when I'm no longer young and beautiful\n[02:05.260]Will you still love me\n[02:07.130]when I got nothing but my aching soul\n[02:12.310]I know you will, I know you will\n[02:16.370]I know that you will\n[02:20.240]Will you still love me\n[02:22.540]when I'm no longer beautiful\n[02:29.650]Dear lord when I get to heaven\n[02:33.660]Please let me bring my man\n[02:37.830]When he comes tell me that you'll let him in\n[02:41.920]Father tell me if you can\n[02:45.540]All that grace, all that body\n[02:49.730]All that face makes me wanna party\n[02:54.420]He's my sun, he makes me shine like diamonds\n[03:04.300]Will you still love me\n[03:06.350]when I'm no longer young and beautiful\n[03:12.600]Will you still love me\n[03:14.590]when I got nothing but my aching soul\n[03:19.770]I know you will, I know you will\n[03:23.700]I know that you will\n[03:27.810]Will you still love me\n[03:30.000]when I'm no longer beautiful\n[03:36.170]Will you still love me\n[03:38.240]when I'm no longer beautiful\n[03:44.670]Will you still love me\n[03:46.570]when I'm not young and beautiful\n"
+    },
+    "tlyric": {
+      "version": 27,
+      "lyric": "[00:15.260]我已看遍世间繁华\n[00:17.700]历经沧桑，享受甜美的果实\n[00:23.800]如今有钻石珠宝，名声显赫，坐拥豪宅\n[00:31.600]仲夏夜茫，七月未央\n[00:36.040]我们年少轻狂，不惧岁月漫长\n[00:40.160]纵情时光，华灯初上\n[00:44.090]我们嬉戏疯狂，童稚之心难藏\n[00:49.710]你是否爱我如初，直到地久天长\n[00:51.640]当我年华老去，容颜不再\n[00:57.940]你是否爱我如初，直到地久天长\n[00:59.680]当我一无所有，遍体鳞伤\n[01:04.920]我知道你会，我知道你会\n[01:08.930]我知道你的爱经久绵长\n[01:12.850]你是否爱我如初，直到地久天长\n[01:15.030]当我年华老去，容颜不再\n[01:22.120]目睹世界，舞台聚光\n[01:30.420]天使降临，年代更迭\n[01:38.230]白日盛夏，摇滚震耳欲聋\n[01:42.650]你华装登场，独为我而唱\n[01:46.870]我一睹难忘\n[01:50.870]精致脸庞，灵魂不羁狂妄\n[01:57.150]你是否爱我如初，直到地久天长\n[01:58.950]当我年华老去，容颜不再\n[02:05.260]你是否爱我如初，直到地久天长\n[02:07.130]当我一无所有，遍体鳞伤\n[02:12.310]我知道你会，我知道你会\n[02:16.370]我知道你的爱经久绵长\n[02:20.240]你是否爱我如初，直到地久天长\n[02:22.540]当我年华老去，容颜不再\n[02:29.650]上帝在上，当我去至天堂\n[02:33.660]可否有他陪伴在身旁\n[02:37.830]让他随行，让他进场\n[02:41.920]主啊请给我回答\n[02:45.540]那种气韵，那副肢干\n[02:49.730]那张面庞，让我心如狂欢\n[02:54.420]他是我的光，他使我如钻石般闪耀\n[03:04.300]你是否爱我如初，直到地久天长\n[03:06.350]当我年华老去，容颜不再\n[03:12.600]你是否爱我如初，直到地久天长\n[03:14.590]当我一无所有，遍体鳞伤\n[03:19.770]我知道你会，我知道你会\n[03:23.700]我知道你的爱经久绵长\n[03:27.810]你是否爱我如初，直到地久天长\n[03:30.000]当我容颜不再\n[03:36.170]你是否爱我如初，直到地久天长\n[03:38.240]当我容颜不再\n[03:44.670]你是否爱我如初，直到地久天长\n[03:46.570]当我年华老去，容颜不再"
+    },
+    "code": 200
+  }
+}

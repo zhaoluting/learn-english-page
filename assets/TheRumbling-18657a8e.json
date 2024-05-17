@@ -1,0 +1,162 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "The Rumbling",
+      "tlyric": "地鸣",
+      "singer": "SiM",
+      "remarkIdx": ["rumbling"]
+    },
+    {
+      "time": 1003,
+      "lyric": "Rumbling, rumbling, it's coming",
+      "tlyric": "地鸣，地鸣，地鸣将至",
+      "remarkIdx": ["rumbling", "coming"]
+    },
+    {
+      "time": 4041,
+      "lyric": "Rumbling, rumbling, beware",
+      "tlyric": "地鸣，地鸣，当心！",
+      "remarkIdx": ["rumbling", "beware"]
+    },
+    {
+      "time": 13048,
+      "lyric": "Coming for you",
+      "tlyric": "正朝你而来",
+      "remarkIdx": ["come", "come for"]
+    },
+    {
+      "time": 20060,
+      "lyric": "All I ever wanted to do was do right things",
+      "tlyric": "我本就只想做正确的事情",
+      "remarkIdx": ["ever", "want"]
+    },
+    {
+      "time": 24056,
+      "lyric": "I never wanted to be the king, I swear",
+      "tlyric": "从未想过加冕称王，我发誓",
+      "remarkIdx": ["never", "king", "swear"]
+    },
+    {
+      "time": 30069,
+      "lyric": "All I ever wanted to do was save your life",
+      "tlyric": "我本就只想拯救你的生命",
+      "remarkIdx": ["save", "life"]
+    },
+    {
+      "time": 34026,
+      "lyric": "I never wanted to grab a knife, I swear",
+      "tlyric": "从未想过拿起屠刀，我发誓",
+      "remarkIdx": ["grab", "knife"]
+    },
+    {
+      "time": 41074,
+      "lyric": "Tearless, fearless, burning, burning",
+      "tlyric": "再无泪水，无所畏惧，我心如焚，烈焰熊熊",
+      "remarkIdx": ["tearless", "fearless", "burning"]
+    },
+    {
+      "time": 47094,
+      "lyric": "You tell me what have I missed",
+      "tlyric": "你告诉我，我究竟错失了什么",
+      "remarkIdx": ["tell", "miss"]
+    },
+    {
+      "time": 51002,
+      "lyric": "Still wandering in the deep mist",
+      "tlyric": "我仍在迷雾中徘徊",
+      "remarkIdx": ["wander", "mist"]
+    },
+    {
+      "time": 56085,
+      "lyric": "If I lose it all, slip and fall",
+      "tlyric": "如果我失去所有，一败涂地",
+      "remarkIdx": ["slip", "fall"]
+    },
+    {
+      "time": 60055,
+      "lyric": "I will never look away",
+      "tlyric": "我不会选择逃避",
+      "remarkIdx": ["look", "look away"]
+    },
+    {
+      "time": 63027,
+      "lyric": "If I lose it all, lose it all, lose it all",
+      "tlyric": "如果我失去一切，失去所有",
+      "remarkIdx": ["lose", "all"]
+    },
+    {
+      "time": 69098,
+      "lyric": "If I lose it all outside the wall",
+      "tlyric": "如果我在墙外失去了一切",
+      "remarkIdx": ["outside", "wall"]
+    },
+    {
+      "time": 73028,
+      "lyric": "Live to die another day",
+      "tlyric": "我也会视死如归，奋不顾身",
+      "remarkIdx": ["live", "die"]
+    },
+    {
+      "time": 76095,
+      "lyric": "I don't want anything",
+      "tlyric": "我别无所求",
+      "remarkIdx": ["want", "anything"]
+    },
+    {
+      "time": 78095,
+      "lyric": "I'm just here to",
+      "tlyric": "这是我的使命",
+      "remarkIdx": ["just", "here"]
+    },
+    {
+      "time": 83036,
+      "lyric": "Beware",
+      "tlyric": "当心！",
+      "remarkIdx": ["beware"]
+    },
+    {
+      "time": 84051,
+      "lyric": "Rumbling, rumbling, it's coming",
+      "tlyric": "地鸣，地鸣，即将来临",
+      "remarkIdx": ["rumbling", "coming"]
+    },
+    {
+      "time": 87032,
+      "lyric": "Rumbling, rumbling",
+      "tlyric": "地鸣，地鸣",
+      "remarkIdx": ["rumbling"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 24424961,
+      "status": 99,
+      "demand": 1,
+      "userid": 1507360231,
+      "nickname": "南归_T",
+      "uptime": 1642063485567
+    },
+    "lyricUser": {
+      "id": 24358925,
+      "status": 99,
+      "demand": 0,
+      "userid": 1507360231,
+      "nickname": "南归_T",
+      "uptime": 1641884491555
+    },
+    "lrc": {
+      "version": 6,
+      "lyric": "[00:00.00] 作词 : MAH\n[00:00.34] 作曲 : SiM\n[00:00.68] 编曲 : SiM\n[00:01.03]Rumbling rumbling it's coming\n[00:04.41]Rumbling rumbling\n[00:07.28]Beware\n[00:13.48]Coming for you\n[00:20.60]All I ever wanted to do was do right things\n[00:24.56]I never wanted to be the king I swear\n[00:30.69]All I ever wanted to do was save your life\n[00:34.26]I never wanted to grab a knife I swear\n[00:41.74]Tearless fearless burning burning\n[00:47.94]You tell me what have I missed\n[00:51.02]Still wandering in the deep mist\n[00:56.85]If I lose it all slip and fall\n[01:00.55]I will never look away\n[01:03.27]If I lose it all lose it all lose it all\n[01:09.98]If I lose it all outside the wall\n[01:13.28]Live to die another day\n[01:16.95]I don't want anything\n[01:18.95]I'm just here to\n[01:23.36]Beware\n[01:24.51]Rumbling rumbling it's coming\n[01:27.32]Rumbling rumbling\n"
+    },
+    "tlyric": {
+      "version": 4,
+      "lyric": "[by:南归_T]\n[00:01.03]地鸣 地鸣 即将来临\n[00:04.41]地鸣 地鸣\n[00:07.28]做好觉悟\n[00:13.48]目标正是你\n[00:20.60]我本就只想做正确的事情\n[00:24.56]许下誓言 从未想过加冕称王\n[00:30.69]我本就只想要拯救你的生命\n[00:34.26]许下誓言 从未想过拿起武器\n[00:41.74]泪干冷漠 无所畏惧 斗志正熊熊燃烧\n[00:47.94]你告诉我所错过的东西\n[00:51.02]我仍在迷雾中徘徊\n[00:56.85]若我失去所有 一败涂地\n[01:00.55]我绝不会逃避\n[01:03.27]如果我失去了一切的一切\n[01:09.98]如果我在墙外失去了所有\n[01:13.28]我仍会继续活下去\n[01:16.95]别无所求\n[01:18.95]这正是我在此的理由\n[01:23.36]做好觉悟\n[01:24.51]地鸣 地鸣 即将来临\n[01:27.32]地鸣 地鸣\n"
+    },
+    "code": 200
+  }
+}

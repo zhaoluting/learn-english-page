@@ -1,0 +1,318 @@
+{
+  "lyrics" : [
+    {
+        "time": 0,
+        "lyric": "Never Gonna Give You Up",
+        "tlyric": "永不放弃你",
+        "singer": "Rick Astley",
+        "remarkIdx": ["give up"]
+    },
+    {
+        "time": 18684,
+        "lyric": "We're no strangers to love",
+        "tlyric": "我们都是情场老手",
+        "remarkIdx": ["stranger", "love"]
+    },
+    {
+        "time": 22657,
+        "lyric": "You know the rules and so do I",
+        "tlyric": "你和我都知道爱情的规则",
+        "remarkIdx": ["know", "rule"]
+    },
+    {
+        "time": 27070,
+        "lyric": "A full commitment's what I'm thinking of",
+        "tlyric": "我在想的正是一份实打实的承诺",
+        "remarkIdx": ["commitment", "full commitment", "think of"]
+    },
+    {
+        "time": 31459,
+        "lyric": "You wouldn't get this from any other guy",
+        "tlyric": "你从其他人那里得不到的",
+        "remarkIdx": ["wouldn't", "guy"]
+    },
+    {
+        "time": 34994,
+        "lyric": "I just wanna tell you how I'm feeling",
+        "tlyric": "我只是想告诉你我的感觉",
+        "remarkIdx": ["just", "wanna", "feeling"]
+    },
+    {
+        "time": 40102,
+        "lyric": "Gotta make you understand",
+        "tlyric": "必须让你明白",
+        "remarkIdx": ["gotta" , "understand"]
+    },
+    {
+        "time": 42985,
+        "lyric": "Never gonna give you up never gonna let you down",
+        "tlyric": "永不放弃你，从不让你失望",
+        "remarkIdx": ["never", "gonna", "give"]
+    },
+    {
+        "time": 47185,
+        "lyric": "Never gonna run around and desert you",
+        "tlyric": "永不舍弃你",
+        "remarkIdx": ["around", "desert"]
+    },
+    {
+        "time": 51383,
+        "lyric": "Never gonna make you cry never gonna say goodbye",
+        "tlyric": "永不让你哭泣，从不对你说再见",
+        "remarkIdx": ["gonna", "cry", "goodbye"]
+    },
+    {
+        "time": 55989,
+        "lyric": "Never gonna tell a lie and hurt you",
+        "tlyric": "永不对你撒谎，从不伤害你",
+        "remarkIdx": ["lie"]
+    },
+    {
+        "time": 60652,
+        "lyric": "We've known each other for so long",
+        "tlyric": "我们都彼此了解很长时间了",
+        "remarkIdx": ["known", "long"]
+    },
+    {
+        "time": 64977,
+        "lyric": "Your heart's been aching but you're too shy to say it",
+        "tlyric": "你很心痛因为你不好意思开口告白",
+        "remarkIdx": ["aching", "shy"]
+    },
+    {
+        "time": 69227,
+        "lyric": "Inside we both know what's been going on",
+        "tlyric": "事实上我们都知道我们的关系发展成了什么样子",
+        "remarkIdx": ["inside"]
+    },
+    {
+        "time": 73390,
+        "lyric": "We know the game and we're gonna play it",
+        "tlyric": "我们知道游戏规则并且乐此不疲",
+        "remarkIdx": ["game"]
+    },
+    {
+        "time": 77488,
+        "lyric": "And if you ask me how I'm feeling",
+        "tlyric": "如果你问我感觉怎么样",
+        "remarkIdx": ["ask", "feeling"]
+    },
+    {
+        "time": 82408,
+        "lyric": "Don't tell me you're too blind to see",
+        "tlyric": "不要告诉我你没看见",
+        "remarkIdx": ["blind"]
+    },
+    {
+        "time": 85212,
+        "lyric": "Never gonna give you up never gonna let you down",
+        "tlyric": "永不放弃你，从不让你失望",
+        "remarkIdx": ["give up", "let down"]
+    },
+    {
+        "time": 89611,
+        "lyric": "Never gonna run around and desert you",
+        "tlyric": "永不舍弃你",
+        "remarkIdx": ["run around", "desert"]
+    },
+    {
+        "time": 93783,
+        "lyric": "Never gonna make you cry never gonna say goodbye",
+        "tlyric": "永不让你哭泣，从不对你说再见",
+        "remarkIdx": ["make"]
+    },
+    {
+        "time": 98039,
+        "lyric": "Never gonna tell a lie and hurt you",
+        "tlyric": "永不对你撒谎，从不伤害你",
+        "remarkIdx": ["hurt"]
+    },
+    {
+        "time": 102319,
+        "lyric": "Never gonna give you up never gonna let you down",
+        "tlyric": "永不放弃你，从不让你失望",
+        "remarkIdx": ["never", "gonna", "give"]
+    },
+    {
+        "time": 106542,
+        "lyric": "Never gonna run around and desert you",
+        "tlyric": "永不舍弃你",
+        "remarkIdx": ["around", "desert"]
+    },
+    {
+        "time": 110679,
+        "lyric": "Never gonna make you cry never gonna say goodbye",
+        "tlyric": "永不让你哭泣，从不对你说再见",
+        "remarkIdx": ["gonna", "cry", "goodbye"]
+    },
+    {
+        "time": 114878,
+        "lyric": "Never gonna tell a lie and hurt you",
+        "tlyric": "永不对你撒谎，从不伤害你",
+        "remarkIdx": ["lie"]
+    },
+    {
+        "time": 119931,
+        "lyric": "(Ooh give you up)",
+        "tlyric": "放弃你",
+        "remarkIdx": ["give up"]
+    },
+    {
+        "time": 123929,
+        "lyric": "(Ooh give you up)",
+        "tlyric": "放弃你",
+        "remarkIdx": ["give up"]
+    },
+    {
+        "time": 127563,
+        "lyric": "(Ooh) never gonna give never gonna give (give you up)",
+        "tlyric": "永不放弃你，永不放弃",
+        "remarkIdx": ["never", "gonna", "give up"]
+    },
+    {
+        "time": 132050,
+        "lyric": "(Ooh) never gonna give never gonna give (give you up)",
+        "tlyric": "永不放弃你，永不放弃",
+        "remarkIdx": ["never", "gonna", "give up"]
+    },
+    {
+        "time": 137002,
+        "lyric": "We've known each other for so long",
+        "tlyric": "我们都对彼此了解很久了",
+        "remarkIdx": ["each", "other"]
+    },
+    {
+        "time": 141214,
+        "lyric": "Your heart's been aching but you're too shy to say it",
+        "tlyric": "你很心痛因为不好意思开口告白",
+        "remarkIdx": ["heart", "aching"]
+    },
+    {
+        "time": 145467,
+        "lyric": "Inside we both know what's been going on",
+        "tlyric": "但是我们都知道我们之间的发展",
+        "remarkIdx": ["know"]
+    },
+    {
+        "time": 149558,
+        "lyric": "We know the game and we're gonna play it",
+        "tlyric": "我们知道游戏规则并乐此不疲",
+        "remarkIdx": ["play"]
+    },
+    {
+        "time": 153720,
+        "lyric": "I just wanna tell you how I'm feeling",
+        "tlyric": "我只是想告诉你我的感受",
+        "remarkIdx": ["tell"]
+    },
+    {
+        "time": 158365,
+        "lyric": "Gotta make you understand",
+        "tlyric": "必须让你明白",
+        "remarkIdx": ["gotta", "understand"]
+    },
+    {
+        "time": 161443,
+        "lyric": "Never gonna give you up never gonna let you down",
+        "tlyric": "永不放弃你，从不让你失望",
+        "remarkIdx": ["give up", "let down"]
+    },
+    {
+        "time": 165752,
+        "lyric": "Never gonna run around and desert you",
+        "tlyric": "永不舍弃你",
+        "remarkIdx": ["run around", "desert"]
+    },
+    {
+        "time": 169901,
+        "lyric": "Never gonna make you cry never gonna say goodbye",
+        "tlyric": "永不让你哭泣，从不对你说再见",
+        "remarkIdx": ["make"]
+    },
+    {
+        "time": 174256,
+        "lyric": "Never gonna tell a lie and hurt you",
+        "tlyric": "永不对你撒谎，从不伤害你",
+        "remarkIdx": ["hurt"]
+    },
+    {
+        "time": 178383,
+        "lyric": "Never gonna give you up never gonna let you down",
+        "tlyric": "永不放弃你，从不让你失望",
+        "remarkIdx": ["never", "gonna", "give"]
+    },
+    {
+        "time": 182612,
+        "lyric": "Never gonna run around and desert you",
+        "tlyric": "永不舍弃你",
+        "remarkIdx": ["around", "desert"]
+    },
+    {
+        "time": 186824,
+        "lyric": "Never gonna make you cry never gonna say goodbye",
+        "tlyric": "永不让你哭泣，从不对你说再见",
+        "remarkIdx": ["gonna", "cry", "goodbye"]
+    },
+    {
+        "time": 191110,
+        "lyric": "Never gonna tell a lie and hurt you",
+        "tlyric": "永不对你撒谎，从不伤害你",
+        "remarkIdx": ["lie"]
+    },
+    {
+        "time": 195480,
+        "lyric": "Never gonna give you up never gonna let you down",
+        "tlyric": "永不放弃你，从不让你失望",
+        "remarkIdx": ["give up", "let down"]
+    },
+    {
+        "time": 199633,
+        "lyric": "Never gonna run around and desert you",
+        "tlyric": "永不舍弃你",
+        "remarkIdx": ["run around", "desert"]
+    },
+    {
+        "time": 203979,
+        "lyric": "Never gonna make you cry never gonna say goodbye",
+        "tlyric": "永不让你哭泣，从不对你说再见",
+        "remarkIdx": ["make"]
+    },
+    {
+        "time": 208312,
+        "lyric": "Never gonna tell a lie and hurt you",
+        "tlyric": "永不对你撒谎，从不伤害你",
+        "remarkIdx": ["hurt"]
+    }
+  ],
+  "apiInfo" : {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 2984242,
+      "status": 99,
+      "demand": 1,
+      "userid": 88942804,
+      "nickname": "未見過世面的招積",
+      "uptime": 1623896673517
+    },
+    "lyricUser": {
+      "id": 2984237,
+      "status": 99,
+      "demand": 0,
+      "userid": 88942804,
+      "nickname": "未見過世面的招積",
+      "uptime": 1442889635277
+    },
+    "lrc": {
+      "version": 20,
+      "lyric": "[00:00.000] 作词 : Stock Aitken Waterman\n[00:01.000] 作曲 : Stock Aitken Waterman\n[00:18.684]We're no strangers to love\n[00:22.657]You know the rules and so do I\n[00:27.070]A full commitment's what I'm thinking of\n[00:31.459]You wouldn't get this from any other guy\n[00:34.994]I just wanna tell you how I'm feeling\n[00:40.102]Gotta make you understand\n[00:42.985]Never gonna give you up never gonna let you down\n[00:47.185]Never gonna run around and desert you\n[00:51.383]Never gonna make you cry never gonna say goodbye\n[00:55.989]Never gonna tell a lie and hurt you\n[01:00.652]We've known each other for so long\n[01:04.977]Your heart's been aching but you're too shy to say it\n[01:09.227]Inside we both know what's been going on\n[01:13.390]We know the game and we're gonna play it\n[01:17.488]And if you ask me how I'm feeling\n[01:22.408]Don't tell me you're too blind to see\n[01:25.212]Never gonna give you up never gonna let you down\n[01:29.611]Never gonna run around and desert you\n[01:33.783]Never gonna make you cry never gonna say goodbye\n[01:38.039]Never gonna tell a lie and hurt you\n[01:42.319]Never gonna give you up never gonna let you down\n[01:46.542]Never gonna run around and desert you\n[01:50.679]Never gonna make you cry never gonna say goodbye\n[01:54.878]Never gonna tell a lie and hurt you\n[01:59.931](Ooh give you up)\n[02:03.929](Ooh give you up)\n[02:07.563](Ooh) never gonna give never gonna give (give you up)\n[02:12.050](Ooh) never gonna give never gonna give (give you up)\n[02:17.002]We've known each other for so long\n[02:21.214]Your heart's been aching but you're too shy to say it\n[02:25.467]Inside we both know what's been going on\n[02:29.558]We know the game and we're gonna play it\n[02:33.720]I just wanna tell you how I'm feeling\n[02:38.365]Gotta make you understand\n[02:41.443]Never gonna give you up never gonna let you down\n[02:45.752]Never gonna run around and desert you\n[02:49.901]Never gonna make you cry never gonna say goodbye\n[02:54.256]Never gonna tell a lie and hurt you\n[02:58.383]Never gonna give you up never gonna let you down\n[03:02.612]Never gonna run around and desert you\n[03:06.824]Never gonna make you cry never gonna say goodbye\n[03:11.110]Never gonna tell a lie and hurt you\n[03:15.480]Never gonna give you up never gonna let you down\n[03:19.633]Never gonna run around and desert you\n[03:23.979]Never gonna make you cry never gonna say goodbye\n[03:28.312]Never gonna tell a lie and hurt you\n"
+    },
+    "tlyric": {
+      "version": 18,
+      "lyric": "[00:18.684]我们都是情场老手\n[00:22.657]你和我都知道爱情的规则\n[00:27.070]我在想的正是一份实打实的承诺\n[00:31.459]你从其他人那里得不到的\n[00:34.994]我只是想告诉你我的感觉\n[00:40.102]必须让你明白\n[00:42.985]永不放弃你，从不让你失望\n[00:47.185]永不舍弃你\n[00:51.383]永不让你哭泣，从不对你说再见\n[00:55.989]永不对你撒谎，从不伤害你\n[01:00.652]我们都彼此了解很长时间了\n[01:04.977]你很心痛因为你不好意思开口告白\n[01:09.227]事实上我们都知道我们的关系发展成了什么样子\n[01:13.390]我们知道游戏规则并且乐此不疲\n[01:17.488]如果你问我感觉怎么样\n[01:22.408]不要告诉我你没看见\n[01:25.212]永不放弃你，从不让你失望\n[01:29.611]永不舍弃你\n[01:33.783]永不让你哭泣，从不对你说再见\n[01:38.039]永不对你撒谎，从不伤害你\n[01:42.319]永不放弃你，从不让你失望\n[01:46.542]永不舍弃你\n[01:50.679]永不让你哭泣，从不对你说再见\n[01:54.878]永不对你撒谎，从不伤害你\n[01:59.931]放弃你\n[02:03.929]放弃你\n[02:07.563]永不放弃你，永不放弃\n[02:12.050]永不放弃你，永不放弃\n[02:17.002]我们都对彼此了解很久了\n[02:21.214]你很心痛因为不好意思开口告白\n[02:25.467]但是我们都知道我们之间的发展\n[02:29.558]我们知道游戏规则并乐此不疲\n[02:33.720]我只是想告诉你我的感受\n[02:38.365]必须让你明白\n[02:41.443]永不放弃你，从不让你失望\n[02:45.752]永不舍弃你\n[02:49.901]永不让你哭泣，从不对你说再见\n[02:54.256]永不对你撒谎，从不伤害你\n[02:58.383]永不放弃你，从不让你失望\n[03:02.612]永不舍弃你\n[03:06.824]永不让你哭泣，从不对你说再见\n[03:11.110]永不对你撒谎，从不伤害你\n[03:15.480]永不放弃你，从不让你失望\n[03:19.633]永不舍弃你\n[03:23.979]永不让你哭泣，从不对你说再见\n[03:28.312]永不对你撒谎，从不伤害你"
+    },
+    "code": 200
+  },
+  "code": 200
+}
