@@ -1,0 +1,456 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Just A Kid",
+      "tlyric": "只是个孩子",
+      "singer": "Two Friends / Kevin Writer",
+      "remarkIdx": ["kid"]
+    },
+    {
+      "time": 5014,
+      "lyric": "Hey, I'm just a kid, I don't need money",
+      "tlyric": "嘿！我只是个孩子，我对钱不屑一顾",
+      "remarkIdx": ["need", "money"]
+    },
+    {
+      "time": 7092,
+      "lyric": "Little lost, but one day they will talk of me",
+      "tlyric": "有点小失落，但总有一天人们会提起我",
+      "remarkIdx": ["lost", "one day", "talk of"]
+    },
+    {
+      "time": 10053,
+      "lyric": "I'll have the world, hope you're waiting when I'm through with it",
+      "tlyric": "我将拥有这个世界，希望你能等我完成这个梦想",
+      "remarkIdx": ["hope", "through"]
+    },
+    {
+      "time": 13046,
+      "lyric": "Oh, I'm coming home to ya",
+      "tlyric": "噢，我正要回家找你",
+      "remarkIdx": ["home", "ya"]
+    },
+    {
+      "time": 15097,
+      "lyric": "Hey, we're just kids, don't it feel lovely",
+      "tlyric": "嘿！我们只是孩子，不觉得很可爱吗",
+      "remarkIdx": ["feel", "lovely"]
+    },
+    {
+      "time": 18052,
+      "lyric": "We sip rum and write songs, 'til we feel funny",
+      "tlyric": "我们呷着朗姆酒，写着歌，直到觉得有趣",
+      "remarkIdx": ["sip", "rum", "funny"]
+    },
+    {
+      "time": 21020,
+      "lyric": "Outside 'til sunrise, we ain't finished",
+      "tlyric": "我们彻夜游玩，直到日出都没有结束",
+      "remarkIdx": ["'til", "sunrise", "ain't"]
+    },
+    {
+      "time": 23090,
+      "lyric": "Oh, I'm coming home to ya",
+      "tlyric": "噢，我正要回家找你",
+      "remarkIdx": ["come", "ya"]
+    },
+    {
+      "time": 26075,
+      "lyric": "And I remember swinging high on the playground",
+      "tlyric": "我还记得在操场上把秋千荡得很高",
+      "remarkIdx": ["remember", "swinging"]
+    },
+    {
+      "time": 29042,
+      "lyric": "Side by side on the slide, only way down",
+      "tlyric": "我们一起沿着滑梯一路滑下",
+      "remarkIdx": ["side by side", "on the slide", "way"]
+    },
+    {
+      "time": 31094,
+      "lyric": "And I can see us running around the house",
+      "tlyric": "我还记得我们在房子里跑来跑去",
+      "remarkIdx": ["running", "around"]
+    },
+    {
+      "time": 33096,
+      "lyric": "You'd be like chasing me until my breath ran outta my mind",
+      "tlyric": "你像在追赶我，直到我精疲力尽，喘不过气",
+      "remarkIdx": ["chase", "breath", "outta"]
+    },
+    {
+      "time": 37090,
+      "lyric": "Now I'm hearing deadbeat lies",
+      "tlyric": "但现在我只能听到死气沉沉的谎言",
+      "remarkIdx": ["deadbeat", "lie"]
+    },
+    {
+      "time": 39044,
+      "lyric": "Like how everything I dream about will never be mine",
+      "tlyric": "就像我梦想的一切永远不会是我的",
+      "remarkIdx": ["dream", "mine"]
+    },
+    {
+      "time": 41094,
+      "lyric": "And how everything I'm reaching for, it don't pay a dime",
+      "tlyric": "我所追求的一切都不值得",
+      "remarkIdx": ["reach for", "pay", "dime"]
+    },
+    {
+      "time": 44075,
+      "lyric": "It don't matter what you say to me, You know I'mma try and sing",
+      "tlyric": "不管你对我说什么，你知道的，我都会努力唱歌",
+      "remarkIdx": ["matter", "I'mma"]
+    },
+    {
+      "time": 47095,
+      "lyric": "Hey, I'm just a kid, I don't need money",
+      "tlyric": "嘿！我只是个孩子，我对钱不屑一顾",
+      "remarkIdx": ["just", "kid"]
+    },
+    {
+      "time": 50035,
+      "lyric": "Little lost, but one day they will talk of me",
+      "tlyric": "有点小失落，但总有一天人们会提起我",
+      "remarkIdx": ["talk", "talk of"]
+    },
+    {
+      "time": 53012,
+      "lyric": "I'll have the world, hope you're waiting when I'm through with it",
+      "tlyric": "我将拥有这个世界，希望你能等我完成这个梦想",
+      "remarkIdx": ["world", "wait"]
+    },
+    {
+      "time": 55096,
+      "lyric": "Oh, I'm coming home to ya",
+      "tlyric": "噢，我正要回家找你",
+      "remarkIdx": ["home", "ya"]
+    },
+    {
+      "time": 58072,
+      "lyric": "Hey, we're just kids, don't it feel lovely",
+      "tlyric": "嘿！我们只是孩子，不觉得很可爱吗",
+      "remarkIdx": ["feel", "lovely"]
+    },
+    {
+      "time": 61025,
+      "lyric": "We sip rum and write songs, 'til we feel funny",
+      "tlyric": "我们呷着朗姆酒，写着歌，直到觉得有趣",
+      "remarkIdx": ["write", "song"]
+    },
+    {
+      "time": 63090,
+      "lyric": "Outside 'til sunrise, we ain't finished",
+      "tlyric": "我们彻夜游玩，直到日出都没有结束",
+      "remarkIdx": ["outside", "finished"]
+    },
+    {
+      "time": 66094,
+      "lyric": "Hey ma, give me five more minutes, like, I'm like",
+      "tlyric": "妈妈，再给我五分钟，大概，也许",
+      "remarkIdx": ["give", "like"]
+    },
+    {
+      "time": 77014,
+      "lyric": "Oh, I'm coming home to ya",
+      "tlyric": "噢，我正要回家找你",
+      "remarkIdx": ["come", "ya"]
+    },
+    {
+      "time": 79095,
+      "lyric": "Scared of thorns",
+      "tlyric": "因为害怕被刺伤",
+      "remarkIdx": ["scare", "thorn"]
+    },
+    {
+      "time": 80587,
+      "lyric": "So I never smelled the roses",
+      "tlyric": "所以我从未闻过玫瑰的花香",
+      "remarkIdx": ["never", "smell", "rose"]
+    },
+    {
+      "time": 82080,
+      "lyric": "Always let the bullshit dominate my focus",
+      "tlyric": "总被狗屁东西扰乱我的心绪",
+      "remarkIdx": ["bullshit", "dominate", "focus"]
+    },
+    {
+      "time": 85028,
+      "lyric": "Wore the mask of who I'm supposed to be",
+      "tlyric": "戴上面具，伪装成我应该成为的人",
+      "remarkIdx": ["wear", "mask"]
+    },
+    {
+      "time": 87072,
+      "lyric": "Doc would always say, \"Son, take a dose for me\"",
+      "tlyric": "大夫总是说：孩子，给我拿一剂",
+      "remarkIdx": ["doc", "son", "dose"]
+    },
+    {
+      "time": 90000,
+      "lyric": "But the medicine's been making me a broken me",
+      "tlyric": "但是药物让我变得支离破碎",
+      "remarkIdx": ["medicine", "broken"]
+    },
+    {
+      "time": 92075,
+      "lyric": "Dreaming all day about the doings of a doper me",
+      "tlyric": "我这个瘾君子整天做着不切实际的梦",
+      "remarkIdx": ["dream", "doing", "doper"]
+    },
+    {
+      "time": 94097,
+      "lyric": "How I'd sit up on my throne and have the globe for me",
+      "tlyric": "我将如何坐在我的王座上，如何拥有全世界",
+      "remarkIdx": ["sit up", "throne", "globe"]
+    },
+    {
+      "time": 97097,
+      "lyric": "Don't know why I never let nobody close to me",
+      "tlyric": "不知道为什么，我从不让任何人靠近我",
+      "remarkIdx": ["know", "nobody", "close to"]
+    },
+    {
+      "time": 100042,
+      "lyric": "So come close to me",
+      "tlyric": "所以请靠近我一点",
+      "remarkIdx": ["close"]
+    },
+    {
+      "time": 102015,
+      "lyric": "And look me in the eye so that hopefully",
+      "tlyric": "充满希望地看着我",
+      "remarkIdx": ["eye", "so that", "hopefully"]
+    },
+    {
+      "time": 104071,
+      "lyric": "I can save you from that shit, you ain't supposed to feel",
+      "tlyric": "你不要有这种想法，我可以救你于水火",
+      "remarkIdx": ["save", "supposed"]
+    },
+    {
+      "time": 107039,
+      "lyric": "While you go and save the world, take some notes for me",
+      "tlyric": "当你去拯救世界时，给我带些话",
+      "remarkIdx": ["note"]
+    },
+    {
+      "time": 109094,
+      "lyric": "Come close to me, and sing",
+      "tlyric": "请靠近我，然后唱",
+      "remarkIdx": ["close to", "sing"]
+    },
+    {
+      "time": 112000,
+      "lyric": "Hey, I'm just a kid, I don't need money",
+      "tlyric": "嘿！我只是个孩子，我对钱不屑一顾",
+      "remarkIdx": ["need", "money"]
+    },
+    {
+      "time": 114094,
+      "lyric": "Little lost, but one day they will talk of me",
+      "tlyric": "有点小失落，但总有一天人们会提起我",
+      "remarkIdx": ["little"]
+    },
+    {
+      "time": 116094,
+      "lyric": "I'll have the world, hope you're waiting when I'm through with it",
+      "tlyric": "我将拥有这个世界，希望你能等我完成这个梦想",
+      "remarkIdx": ["hope", "through"]
+    },
+    {
+      "time": 119094,
+      "lyric": "Oh, I'm coming home to ya",
+      "tlyric": "噢，我正要回家找你",
+      "remarkIdx": ["home", "ya"]
+    },
+    {
+      "time": 122041,
+      "lyric": "Hey, we're just kids, don't it feel lovely",
+      "tlyric": "嘿！我们只是孩子，不觉得很可爱吗",
+      "remarkIdx": ["feel", "lovely"]
+    },
+    {
+      "time": 125014,
+      "lyric": "We sip rum and write songs, 'til we feel funny",
+      "tlyric": "我们呷着朗姆酒，写着歌，直到觉得有趣",
+      "remarkIdx": ["sip", "rum", "funny"]
+    },
+    {
+      "time": 127094,
+      "lyric": "Outside 'til sunrise, we ain't finished",
+      "tlyric": "我们彻夜游玩，直到日出都没有结束",
+      "remarkIdx": ["'til", "sunrise", "ain't"]
+    },
+    {
+      "time": 130084,
+      "lyric": "Hey ma, give me five more minutes, like",
+      "tlyric": "妈妈，再给我五分钟，大概",
+      "remarkIdx": ["more", "minute"]
+    },
+    {
+      "time": 133018,
+      "lyric": "Hey, I'm just a kid, I don't need money",
+      "tlyric": "嘿！我只是个孩子，我对钱不屑一顾",
+      "remarkIdx": ["just", "kid"]
+    },
+    {
+      "time": 136000,
+      "lyric": "Little lost, but one day they will talk of me",
+      "tlyric": "有点小失落，但总有一天人们会提起我",
+      "remarkIdx": ["lost", "one day", "talk of"]
+    },
+    {
+      "time": 138032,
+      "lyric": "I'll have the world, hope you're waiting when I'm through with it",
+      "tlyric": "我将拥有这个世界，希望你能等我完成这个梦想",
+      "remarkIdx": ["world", "wait"]
+    },
+    {
+      "time": 141005,
+      "lyric": "Oh, I'm coming home to ya",
+      "tlyric": "噢，我正要回家找你",
+      "remarkIdx": ["come", "ya"]
+    },
+    {
+      "time": 143094,
+      "lyric": "Hey, we're just kids, don't it feel lovely",
+      "tlyric": "嘿！我们只是孩子，不觉得很可爱吗",
+      "remarkIdx": ["feel", "lovely"]
+    },
+    {
+      "time": 146058,
+      "lyric": "We sip rum and write songs, 'til we feel funny",
+      "tlyric": "我们呷着朗姆酒，写着歌，直到觉得有趣",
+      "remarkIdx": ["write", "song"]
+    },
+    {
+      "time": 149018,
+      "lyric": "Outside 'til sunrise, we ain't finished",
+      "tlyric": "我们彻夜游玩，直到日出都没有结束",
+      "remarkIdx": [ "outside", "finished"]
+    },
+    {
+      "time": 151091,
+      "lyric": "Hey ma, give me five more minutes, like, I'm like",
+      "tlyric": "妈妈，再给我五分钟，大概，也许",
+      "remarkIdx": ["give", "like"]
+    },
+    {
+      "time": 162072,
+      "lyric": "Oh, I'm coming home to ya",
+      "tlyric": "噢，我正要回家找你",
+      "remarkIdx": ["home", "ya"]
+    },
+    {
+      "time": 164097,
+      "lyric": "Hey, I'm just a kid, I don't need money",
+      "tlyric": "嘿！我只是个孩子，我对钱不屑一顾",
+      "remarkIdx": ["need", "money"]
+    },
+    {
+      "time": 168002,
+      "lyric": "Little lost, but one day they will talk of me",
+      "tlyric": "有点小失落，但总有一天人们会提起我",
+      "remarkIdx": ["talk", "talk of"]
+    },
+    {
+      "time": 170087,
+      "lyric": "I'll have the world, hope you're waiting when I'm through with it",
+      "tlyric": "我将拥有这个世界，希望你能等我完成这个梦想",
+      "remarkIdx": ["hope", "through"]
+    },
+    {
+      "time": 173010,
+      "lyric": "Oh, I'm coming home to ya",
+      "tlyric": "噢，我正要回家找你",
+      "remarkIdx": ["come", "ya"]
+    },
+    {
+      "time": 175094,
+      "lyric": "Hey, we're just kids, don't it feel lovely",
+      "tlyric": "嘿！我们只是孩子，不觉得很可爱吗",
+      "remarkIdx": ["feel", "lovely"]
+    },
+    {
+      "time": 178084,
+      "lyric": "To sip rum and write songs, 'til we feel funny",
+      "tlyric": "我们呷着朗姆酒，写着歌，直到觉得有趣",
+      "remarkIdx": ["sip", "rum", "funny"]
+    },
+    {
+      "time": 181010,
+      "lyric": "Outside 'til sunrise, we ain't finished",
+      "tlyric": "我们彻夜游玩，直到日出都没有结束",
+      "remarkIdx": ["'til", "sunrise", "ain't"]
+    },
+    {
+      "time": 183090,
+      "lyric": "Hey ma, give me five more minutes, like",
+      "tlyric": "妈妈，再给我五分钟，大概",
+      "remarkIdx": ["more", "minute"]
+    },
+    {
+      "time": 186023,
+      "lyric": "Hey, I'm just a kid, I don't need money",
+      "tlyric": "嘿！我只是个孩子，我对钱不屑一顾",
+      "remarkIdx": ["just", "kid"]
+    },
+    {
+      "time": 188094,
+      "lyric": "Little lost, but one day they will talk of me",
+      "tlyric": "有点小失落，但总有一天人们会提起我",
+      "remarkIdx": ["little"]
+    },
+    {
+      "time": 192002,
+      "lyric": "I'll have the world, hope you're waiting when I'm through with it",
+      "tlyric": "我将拥有这个世界，希望你能等我完成这个梦想",
+      "remarkIdx": ["world", "wait"]
+    },
+    {
+      "time": 194090,
+      "lyric": "Oh, I'm coming home to ya, I'm like",
+      "tlyric": "噢，我正要回家找你，也许",
+      "remarkIdx": ["ya", "like"]
+    },
+    {
+      "time": 204091,
+      "lyric": "Oh, I'm coming home to ya",
+      "tlyric": "噢，我正要回家找你",
+      "remarkIdx": ["home", "ya"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 381469,
+      "status": 99,
+      "demand": 1,
+      "userid": 30920747,
+      "nickname": "TruelyTree",
+      "uptime": 1515148288511
+    },
+    "lyricUser": {
+      "id": 381468,
+      "status": 99,
+      "demand": 0,
+      "userid": 321387789,
+      "nickname": "spac3d-0ut",
+      "uptime": 1515148288511
+    },
+    "lrc": {
+      "version": 12,
+      "lyric": "[00:00.00] 作曲 : M. Halper/E. Sones/K. Milledge II\n[00:05.14]Hey,I'm just a kid.I don't need money\n[00:07.92]Little lost,but one day they will talk of me\n[00:10.53]I'll have the world,hope you're waiting when I'm through with it\n[00:13.46]Ah,I'm coming home to ya\n[00:15.97]Hey,we're just kids,don't it feel lovely\n[00:18.52]We sip rum and write songs 'til we feel funny\n[00:21.20]Outside 'til sunrise,we ain't finished\n[00:23.90]Ah,I'm coming home to ya\n[00:26.75]And I remember swinging high on the playground\n[00:29.42]Side by side on the slide on the way down\n[00:31.94]And I could see us running 'round the house\n[00:33.96]It'd be like chasing me until my breath ran out of my mind\n[00:37.90]Now I'm hearing deadbeat lies\n[00:39.44]Like how everything I dream about will never be mine\n[00:41.94]And how everything I'm reaching for won't pay the time\n[00:44.75]It don't matter what you say to me,you know I'm gonna try and sing\n[00:47.95]Hey,I'm just a kid.I don't need money\n[00:50.35]Little lost,but one day they will talk of me\n[00:53.12]I'll have the world,hope you're waiting when I'm through with it\n[00:55.96]Ah,I'm coming home to ya\n[00:58.72]Hey,we're just kids,don't it feel lovely\n[01:01.25]We sip rum and write songs 'til we feel funny\n[01:03.90]Outside 'til sunrise,we ain't finished\n[01:06.94]Hey ma,give me five more minutes\n[01:17.14]Ah, I'm coming home to ya\n[01:19.95]Scared of thorns, so I never smelt the roses\n[01:22.80]Always let the **** dominate my focu\n[01:25.28]What a mess who I'm supposed to be\n[01:27.72]Dad would always say, \"Son, take a dose for me\"\n[01:30.00]Got the medicine to making me and broken me\n[01:32.75]Dreaming all about the doings of a ****in' m\n[01:34.97]How I'd sit up on my throne and have a glow for me\n[01:37.97]Don't know why I never let nobody close to me\n[01:40.42]So come close to me\n[01:42.15]And look me in the eye,so hopefully\n[01:44.71]I can save you from that shit you ain't supposed to fee\n[01:47.39]While you go and save the world,take some notes for me\n[01:49.94]Come close to me and sing\n[01:52.00]Hey,I'm just a kid.I don't need money\n[01:54.94]Little lost,but one day they will talk of me\n[01:56.94]I'll have the world,hope you're waiting when I'm through with it\n[01:59.94]Ah, I'm coming home to ya\n[02:02.41]Hey,we're just kids,don't it feel lovely\n[02:05.14]We sip rum and write songs 'til we feel funny\n[02:07.94]Outside 'til sunrise,we ain't finished\n[02:10.84]Hey ma,give me five more minutes\n[02:13.18]Hey,I'm just a kid.I don't need money\n[02:16.00]Little lost,but one day they will talk of me\n[02:18.32]I'll have the world,hope you're waiting when I'm through with it\n[02:21.05]Ah, I'm coming home to ya\n[02:23.94]Hey, we're just kids, don't it feel lovely\n[02:26.58]We sip rum and write songs 'til we feel funny\n[02:29.18]Outside 'til sunrise,we ain't finished\n[02:31.91]Hey ma,give me five more minutes\n[02:42.72]Ah, I'm coming home to ya\n[02:44.97]Hey,I'm just a kid.I don't need money\n[02:48.02]Little lost, but one day they'll talk of me\n[02:50.87]I'll have the world,hope you're waiting when I'm through with it\n[02:53.10]Ah,I'm coming home to ya\n[02:55.94]Hey, we're just kids, don't it feel lovely\n[02:58.84]We sip rum and write songs 'til we feel funny\n[03:01.10]Outside 'til sunrise,we ain't finished\n[03:03.90]Hey ma,give me five more minutes, like\n[03:06.23]Hey,I'm just a kid.I don't need money\n[03:08.94]Little lost, but one day they'll talk of me\n[03:12.02]I'll have the world,hope you're waiting when I'm through with it\n[03:14.90]Ah, I'm coming home to ya\n[03:24.91]Ah, I'm coming home to ya\n"
+    },
+    "tlyric": {
+      "version": 8,
+      "lyric": "[by:TruelyTree]\n[00:05.14]嘿！我只是个孩子，金钱我不屑一顾\n[00:07.92]目前有点小失意，但总有一天人们会谈论起我\n[00:10.53]我将拥有这个世界，希望你能看见\n[00:13.46]啊，现在我要回家了\n[00:15.97]嗨！我只是个可爱的小男孩而已\n[00:18.52]朗姆酒配上我们的歌，直到感觉欢愉\n[00:21.20]彻夜游玩，至日出仍不停歇\n[00:23.90]噢，是时候回家了\n[00:26.75]还记得把秋千荡到最高处的感觉\n[00:29.42]我们一起沿着滑梯滑下\n[00:31.94]围绕着我们的房子尽情奔跑\n[00:33.96]幻想追逐着直到精疲力尽\n[00:37.90]但这一切都不曾存在\n[00:39.44]就像我梦想的一切永远不会属于我\n[00:41.94]而我所追求的一切都只是浪费时间\n[00:44.75]不管你对我说什么，我都会努力尝试，你知道的，因为\n[00:47.95]嘿！我只是个孩子，金钱我不屑一顾\n[00:50.35]目前有点小失意，但总有一天人们会谈论起我\n[00:53.12]我将拥有这个世界，希望你都能看见\n[00:55.96]啊，现在我要回家了\n[00:58.72]嗨！我只是个可爱的小男孩而已\n[01:01.25]朗姆酒配上我们的歌，直到感觉欢愉\n[01:03.90]彻夜游玩，至日出仍不停歇\n[01:06.94]妈妈，请再给我多一点时间\n[01:17.14]我正在回家的路上\n[01:19.95]从未闻过蔷薇的花香，因为我害怕被刺伤\n[01:22.80]总被流言扰乱心绪\n[01:25.28]我真是个糟糕的孩子\n[01:27.72]爸爸总是说：“儿子，给我点支烟”\n[01:30.00]尼古丁麻痹了我，心绪支离破碎\n[01:32.75]如果我成了瘾君子，又会如何呢？\n[01:34.97]我将如何为自己加冕？\n[01:37.97]不知道为什么，我总是刻意疏离\n[01:40.42]请靠我近一点\n[01:42.15]充满希望地看着我好吗\n[01:44.71]我可以救你于水火\n[01:47.39]当你去拯救世界的时候，帮我传达一句话\n[01:49.94]请靠近我，为我吟唱\n[01:52.00]嘿！我只是个孩子，金钱我不屑一顾\n[01:54.94]目前有点小失意，但总有一天人们会谈论起我\n[01:56.94]我将拥有这个世界，希望你都能看见\n[01:59.94]啊，现在我要回家了\n[02:02.41]我只是个可爱的小男孩而已\n[02:05.14]朗姆酒配上我们的歌，直到感觉欢愉\n[02:07.94]彻夜游玩，至日出仍不停歇\n[02:10.84]妈妈，请再给我多一点时间\n[02:13.18]嘿！我只是个孩子，金钱我不屑一顾\n[02:16.00]目前有点小失意，但总有一天人们会谈论起我\n[02:18.32]我将拥有这个世界，希望你能看见\n[02:21.05]我正在回家的路上\n[02:23.94]嘿！我只是个孩子，金钱我不屑一顾\n[02:26.58]朗姆酒配上我们的歌，直到感觉欢愉\n[02:29.18]彻夜游玩，至日出仍不停歇\n[02:31.91]妈妈，请再给我多一点时间\n[02:42.72]我快到家啦\n[02:44.97]嘿！我只是个孩子，金钱我不屑一顾\n[02:48.02]目前有点小失意，但总有一天人们会谈论起我\n[02:50.87]我将拥有这个世界，希望你能看见\n[02:53.10]我快到家啦\n[02:55.94]嘿！我只是个孩子，金钱我不屑一顾\n[02:58.84]朗姆酒配上我们的歌，直到感觉欢愉\n[03:01.10]彻夜游玩，至日出仍不停歇\n[03:03.90]妈妈，请再给我多一点时间\n[03:06.23]嘿！我只是个孩子，金钱我不屑一顾\n[03:08.94]目前有点小失意，但总有一天人们会谈论起我\n[03:12.02]我将拥有这个世界，希望你能看见\n[03:14.90]我快到家啦\n[03:24.91]真的快到啦"
+    },
+    "code": 200
+  }
+}

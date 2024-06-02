@@ -1,0 +1,222 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Bibbidi Bobbidi Boo (The Magic Song)",
+      "tlyric": "魔法之歌",
+      "singer": "手嶌葵",
+      "remarkIdx": ["magic", "song"]
+    },
+    {
+      "time": 24030,
+      "lyric": "Salagadoola mechicka boola bibbidi-bobbidi-boo",
+      "tlyric": "撒拉嘎杜拉 么奇嘎 卟啦 哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 28073,
+      "lyric": "Put 'em together and what have you got",
+      "tlyric": "把它们放在一起，你得到了什么",
+      "remarkIdx": ["together", "'em", "put together"]
+    },
+    {
+      "time": 31006,
+      "lyric": "Bibbidi-bobbidi-boo",
+      "tlyric": "哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 33017,
+      "lyric": "Salagadoola mechicka boola bibbidi-bobbidi-boo",
+      "tlyric": "撒拉嘎杜拉 么奇嘎 卟啦 哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 37070,
+      "lyric": "It'll do magic believe it or not",
+      "tlyric": "不管你信不信，它能施展出魔法",
+      "remarkIdx": ["magic", "believe", "believe it or not"]
+    },
+    {
+      "time": 40001,
+      "lyric": "Bibbidi-bobbidi-boo",
+      "tlyric": "哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 42011,
+      "lyric": "Salagadoola means mechicka booleroo",
+      "tlyric": "“撒拉嘎杜拉”就是“么奇嘎卟叻若”",
+      "remarkIdx": ["mean"]
+    },
+    {
+      "time": 46037,
+      "lyric": "But the thingamabob that does the job is",
+      "tlyric": "但是发挥作用的那个是",
+      "remarkIdx": ["thingamabob", "job"]
+    },
+    {
+      "time": 48095,
+      "lyric": "Bibbidi-bobbidi-boo",
+      "tlyric": "哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 50092,
+      "lyric": "Salagadoola menchicka boola bibbidi-bobbidi-boo",
+      "tlyric": "撒拉嘎杜拉 么奇嘎 卟啦 哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 55036,
+      "lyric": "Put 'em together and what have you got",
+      "tlyric": "把它们放在一起，你得到了什么",
+      "remarkIdx": ["together", "'em", "put together"]
+    },
+    {
+      "time": 57071,
+      "lyric": "Bibbidi-bobbidi-boo",
+      "tlyric": "比比嘀 波比比得",
+      "remarkIdx": []
+    },
+    {
+      "time": 78056,
+      "lyric": "Salagadoola mechicka boola bibbidi-bobbidi-boo",
+      "tlyric": "撒拉嘎杜拉 么奇嘎 卟啦 哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 83024,
+      "lyric": "Put 'em together and what have you got",
+      "tlyric": "把它们放在一起，你得到了什么",
+      "remarkIdx": ["together", "'em", "put together"]
+    },
+    {
+      "time": 85028,
+      "lyric": "Bibbidi-bobbidi-boo",
+      "tlyric": "哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 87040,
+      "lyric": "Salagadoola mechicka boola bibbidi-bobbidi-boo",
+      "tlyric": "撒拉嘎杜拉 么奇嘎 卟啦 哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 91097,
+      "lyric": "It'll do magic believe it or not",
+      "tlyric": "不管你信不信，它能施展出魔法",
+      "remarkIdx": ["magic", "believe", "believe it or not"]
+    },
+    {
+      "time": 94003,
+      "lyric": "Bibbidi-bobbidi-boo",
+      "tlyric": "哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 96026,
+      "lyric": "Salagadoola means mechicka booleroo",
+      "tlyric": "“撒拉嘎杜拉”就是“么奇嘎卟叻若”",
+      "remarkIdx": ["mean"]
+    },
+    {
+      "time": 100041,
+      "lyric": "But the thingamabob that does the job is",
+      "tlyric": "但是发挥作用的那个是",
+      "remarkIdx": ["thingamabob", "job"]
+    },
+    {
+      "time": 102096,
+      "lyric": "Bibbidi-bobbidi-boo",
+      "tlyric": "哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 104087,
+      "lyric": "Salagadoola menchicka boola bibbidi-bobbidi-boo",
+      "tlyric": "撒拉嘎杜拉 么奇嘎 卟啦 哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 109026,
+      "lyric": "Put 'em together and what have you got",
+      "tlyric": "把它们放在一起，你得到了什么",
+      "remarkIdx": ["together", "'em", "put together"]
+    },
+    {
+      "time": 111055,
+      "lyric": "Bibbidi-bobbidi-boo",
+      "tlyric": "比比嘀 波比比得",
+      "remarkIdx": []
+    },
+    {
+      "time": 130029,
+      "lyric": "Salagadoola mechicka boola bibbidi-bobbidi-boo",
+      "tlyric": "撒拉嘎杜拉 么奇嘎 卟啦 哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 134037,
+      "lyric": "It'll do magic believe it or not",
+      "tlyric": "不管你信不信，它能施展出魔法",
+      "remarkIdx": ["magic", "believe", "believe it or not"]
+    },
+    {
+      "time": 136058,
+      "lyric": "Bibbidi-bobbidi-boo",
+      "tlyric": "比比嘀 波比比得",
+      "remarkIdx": []
+    },
+    {
+      "time": 138049,
+      "lyric": "Salagadoola menchicka boola bibbidi-bobbidi-boo",
+      "tlyric": "撒拉嘎杜拉 么奇嘎 卟啦 哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    },
+    {
+      "time": 142089,
+      "lyric": "Put 'em together and what have you got",
+      "tlyric": "把它们放在一起，你得到了什么",
+      "remarkIdx": ["together", "'em", "put together"]
+    },
+    {
+      "time": 144091,
+      "lyric": "Bibbidi-bobbidi bibbidi-bobbidi bibbidi-bobbidi-boo",
+      "tlyric": "哔哔嘀 巴哔嘀 卟 哔哔嘀 巴哔嘀 卟",
+      "remarkIdx": []
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 1656350,
+      "status": 99,
+      "demand": 1,
+      "userid": 80425674,
+      "nickname": "kk_panf",
+      "uptime": 1451285264208
+    },
+    "lyricUser": {
+      "id": 1656334,
+      "status": 99,
+      "demand": 0,
+      "userid": 0,
+      "nickname": "虚壹",
+      "uptime": 1451285264208
+    },
+    "lrc": {
+      "version": 14,
+      "lyric": "[00:24.30]Salagadoola mechicka boola bibbidi-bobbidi-boo\n[00:28.73]Put 'em together and what have you got\n[00:31.06]Bibbidi-bobbidi-boo\n[00:33.17]Salagadoola mechicka boola bibbidi-bobbidi-boo\n[00:37.70]It'll do magic believe it or not\n[00:40.01]Bibbidi-bobbidi-boo\n[00:42.11]Salagadoola means mechicka booleroo\n[00:45.10]\n[00:46.37]But the thingmabob that does the job is\n[00:48.95]Bibbidi-bobbidi-boo\n[00:50.92]Salagadoola menchicka boola bibbidi-bobbidi-boo\n[00:55.36]Put 'em together and what have you got\n[00:57.71]Bibbidi-bobbidi-boo\n[00:59.59]\n[01:18.56]Salagadoola mechicka boola bibbidi-bobbidi-boo\n[01:22.70]\n[01:23.24]Put 'em together and what have you got\n[01:25.28]Bibbidi-bobbidi-boo\n[01:27.40]Salagadoola mechicka boola bibbidi-bobbidi-boo\n[01:31.97]It'll do magic believe it or not\n[01:34.03]Bibbidi-bobbidi-boo\n[01:36.26]Salagadoola means mechicka booleroo\n[01:40.41]But the thingmabob that does the job is\n[01:42.96]Bibbidi-bobbidi-boo\n[01:44.87]Salagadoola menchicka boola bibbidi-bobbidi-boo\n[01:49.26]Put 'em together and what have you got\n[01:51.55]Bibbidi-bobbidi-boo\n[01:53.36]\n[02:10.29]Salagadoola mechicka boola bibbidi-bobbidi-boo\n[02:14.37]It'll do magic believe it or not\n[02:16.58]Bibbidi-bobbidi-boo\n[02:18.49]Salagadoola menchicka boola bibbidi-bobbidi-boo\n[02:22.89]Put 'em together and what have you got\n[02:24.91]Bibbidi-bobbidi bibbidi-bobbidi bibbidi-bobbidi-boo\n[02:28.78]\n"
+    },
+    "tlyric": {
+      "version": 8,
+      "lyric": "[by:潘达哒]\n[00:24.30]撒拉嘎杜拉 么奇卡 卜啦 比波波得 波比比得 波\n[00:28.73]把它们组合在一起 看看你会得到什么？\n[00:31.06]比波波得 波比比得 波\n[00:33.17]撒拉嘎杜拉 么奇卡 卜啦 比波波得 波比比得 波\n[00:37.70]我会魔法哦，不管你信不信\n[00:40.01]比波波得 波比比得 波\n[00:42.11]撒拉嘎杜拉 就是 么奇卡 卜若\n[00:46.37]但是这森麦宝宝的工作是这个嘛\n[00:48.95]比波波得 波比比得 波\n[00:50.92]撒拉嘎杜拉 么奇卡 卜啦 比波波得 波比比得 波\n[00:55.36]把它们组合在一起 看看你会得到什么？\n[00:57.71]比波波得 波比比得\n[01:18.56]撒拉嘎杜拉 么奇卡 卜啦 比波波得 波比比得 波\n[01:23.24]把它们组合在一起 看看你会得到什么？\n[01:25.28]比波波得 波比比得 波\n[01:27.40]撒拉嘎杜拉 么奇卡 卜啦 比波波得 波比比得 波\n[01:31.97]我会魔法哦，不管你信不信\n[01:34.03]比波波得 波比比得 波\n[01:36.26]撒拉嘎杜拉 就是 么奇卡 卜若\n[01:40.41]但是这森麦宝宝的工作是这个嘛\n[01:42.96]比波波得 波比比得 波\n[01:44.87]撒拉嘎杜拉 么奇卡 卜啦 比波波得 波比比得 波\n[01:49.26]把它们组合在一起 看看你会得到什么？\n[01:51.55]比波波得 波比比得\n[02:10.29]撒拉嘎杜拉 么奇卡 卜啦 比波波得 波比比得 波\n[02:14.37]我会魔法哦，不管你信不信\n[02:16.58]比波波得 波比比得\n[02:18.49]撒拉嘎杜拉 么奇卡 卜啦 比波波得 波比比得 波\n[02:22.89]把它们组合在一起 看看你会得到什么？\n[02:24.91]比波波得 波比比得 波 比波波得 波比比得 波"
+    },
+    "code": 200
+  }
+}

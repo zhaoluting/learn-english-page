@@ -1,0 +1,448 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Lollipop",
+      "tlyric": "棒棒糖",
+      "singer": "MIKA",
+      "remarkIdx": ["lollipop"]
+    },
+    {
+      "time": 350,
+      "lyric": "Hey, what's the big idea?",
+      "tlyric": "嘿，你这是什么意思？",
+      "remarkIdx": ["big", "idea", "what's the big idea?"]
+    },
+    {
+      "time": 3230,
+      "lyric": "Yo, Mika",
+      "tlyric": "呦，Mika",
+      "remarkIdx": []
+    },
+    {
+      "time": 10680,
+      "lyric": "I said sucking too hard on your lollipop",
+      "tlyric": "我说，如果棒棒糖嗦得太用力",
+      "remarkIdx": ["suck", "hard"]
+    },
+    {
+      "time": 13530,
+      "lyric": "Love's gonna get you down",
+      "tlyric": "爱情就会让你失望",
+      "remarkIdx": ["love", "gonna", "get down"]
+    },
+    {
+      "time": 15550,
+      "lyric": "I said sucking too hard on your lollipop",
+      "tlyric": "我说，如果棒棒糖嗦得太用力",
+      "remarkIdx": ["said", "say"]
+    },
+    {
+      "time": 18220,
+      "lyric": "Love's gonna get you down",
+      "tlyric": "爱情就会让你失望",
+      "remarkIdx": ["love", "down", "get down"]
+    },
+    {
+      "time": 20880,
+      "lyric": "Sucking too hard on your lollipop",
+      "tlyric": "如果棒棒糖嗦得太用力",
+      "remarkIdx": ["suck", "hard"]
+    },
+    {
+      "time": 23600,
+      "lyric": "Love's gonna get you down",
+      "tlyric": "爱情就会让你失望",
+      "remarkIdx": ["love", "gonna", "get down"]
+    },
+    {
+      "time": 25860,
+      "lyric": "Sucking too hard on your lollipop",
+      "tlyric": "如果棒棒糖嗦得太用力",
+      "remarkIdx": ["too", "hard", "lollipop"]
+    },
+    {
+      "time": 28490,
+      "lyric": "Love's gonna get you down",
+      "tlyric": "爱情就会让你失望",
+      "remarkIdx": ["love", "down", "get down"]
+    },
+    {
+      "time": 30560,
+      "lyric": "Say love, say love",
+      "tlyric": "说起爱，说起爱",
+      "remarkIdx": ["say", "love"]
+    },
+    {
+      "time": 33500,
+      "lyric": "Oh, love's gonna get you down",
+      "tlyric": "噢，爱情只会让你失望",
+      "remarkIdx": ["love", "gonna", "get down"]
+    },
+    {
+      "time": 35590,
+      "lyric": "Say love, say love",
+      "tlyric": "说起爱，说起爱",
+      "remarkIdx": ["say", "love"]
+    },
+    {
+      "time": 38100,
+      "lyric": "Oh, love's gonna get you down",
+      "tlyric": "噢，爱情只会让你失望",
+      "remarkIdx": ["love", "down", "get down"]
+    },
+    {
+      "time": 40370,
+      "lyric": "I went walking with my mamma one day",
+      "tlyric": "某天我和妈妈一起散步",
+      "remarkIdx": ["walking", "mamma", "one day"]
+    },
+    {
+      "time": 42890,
+      "lyric": "When she warned me what people say",
+      "tlyric": "她告诫我，正如人们常说的",
+      "remarkIdx": ["warn", "people"]
+    },
+    {
+      "time": 45360,
+      "lyric": "Live your life until love is found",
+      "tlyric": "找到真爱之前，享受自己的人生",
+      "remarkIdx": ["live", "life"]
+    },
+    {
+      "time": 48100,
+      "lyric": "'Cause love's gonna get you down",
+      "tlyric": "因为爱情会让你失望",
+      "remarkIdx": ["'cause", "love", "gonna", "get down"]
+    },
+    {
+      "time": 50370,
+      "lyric": "Take a look at the girl next door",
+      "tlyric": "看看隔壁的那个女孩",
+      "remarkIdx": ["take a look", "girl", "door", "next door"]
+    },
+    {
+      "time": 52880,
+      "lyric": "She's a player and a downright bore",
+      "tlyric": "她是个爱玩又令人厌恶的女人",
+      "remarkIdx": ["player", "downright", "bore"]
+    },
+    {
+      "time": 55370,
+      "lyric": "Jesus loves her, she wants more",
+      "tlyric": "耶稣偏爱她，她却想要更多",
+      "remarkIdx": ["Jesus", "want"]
+    },
+    {
+      "time": 58600,
+      "lyric": "Oh, bad girls get you down",
+      "tlyric": "噢，坏女孩会让你失望",
+      "remarkIdx": ["bad", "get down"]
+    },
+    {
+      "time": 60370,
+      "lyric": "Sing it!",
+      "tlyric": "唱吧",
+      "remarkIdx": ["sing"]
+    },
+    {
+      "time": 60950,
+      "lyric": "Sucking too hard on your lollipop",
+      "tlyric": "如果棒棒糖嗦得太用力",
+      "remarkIdx": ["suck", "hard"]
+    },
+    {
+      "time": 63570,
+      "lyric": "Love's gonna get you down",
+      "tlyric": "爱情就会让你失望",
+      "remarkIdx": ["love", "down", "get down"]
+    },
+    {
+      "time": 65850,
+      "lyric": "Sucking too hard on your lollipop",
+      "tlyric": "如果棒棒糖嗦得太用力",
+      "remarkIdx": ["too", "hard", "lollipop"]
+    },
+    {
+      "time": 68500,
+      "lyric": "Love's gonna get you down",
+      "tlyric": "爱情就会让你失望",
+      "remarkIdx": ["love", "gonna", "get down"]
+    },
+    {
+      "time": 70590,
+      "lyric": "Say love, say love",
+      "tlyric": "说起爱，说起爱",
+      "remarkIdx": ["say", "love"]
+    },
+    {
+      "time": 73170,
+      "lyric": "Oh, love's gonna get you down",
+      "tlyric": "噢，爱情只会让你失望",
+      "remarkIdx": ["love", "down", "get down"]
+    },
+    {
+      "time": 75550,
+      "lyric": "Say love, say love",
+      "tlyric": "说起爱，说起爱",
+      "remarkIdx": ["say", "love"]
+    },
+    {
+      "time": 78130,
+      "lyric": "Oh, love's gonna get you down",
+      "tlyric": "噢，爱情只会让你失望",
+      "remarkIdx": ["love", "gonna", "get down"]
+    },
+    {
+      "time": 80420,
+      "lyric": "Mamma told me what I should know",
+      "tlyric": "妈妈告诉了我一些应该懂得的道理",
+      "remarkIdx": ["should", "know"]
+    },
+    {
+      "time": 82830,
+      "lyric": "Too much candy gonna rot your soul",
+      "tlyric": "糖果吃太多会蛀掉你的灵魂",
+      "remarkIdx": ["candy", "rot", "soul"]
+    },
+    {
+      "time": 85289,
+      "lyric": "If she loves you, let her go",
+      "tlyric": "如果她爱你，就放开她",
+      "remarkIdx": ["love", "let", "let go"]
+    },
+    {
+      "time": 88190,
+      "lyric": "'Cause love only gets you down",
+      "tlyric": "因为爱情只会让你失望",
+      "remarkIdx": ["'cause", "only"]
+    },
+    {
+      "time": 90380,
+      "lyric": "Take a look at a boy like me",
+      "tlyric": "看着那个和我差不多的男孩",
+      "remarkIdx": ["boy", "like"]
+    },
+    {
+      "time": 92680,
+      "lyric": "Never stood on my own two feet",
+      "tlyric": "从来不会自食其力",
+      "remarkIdx": ["stand", "feet", "stand on one's own two feet"]
+    },
+    {
+      "time": 95360,
+      "lyric": "Now I'm blue as I can be",
+      "tlyric": "现在我极度忧郁",
+      "remarkIdx": ["blue", "can be"]
+    },
+    {
+      "time": 97870,
+      "lyric": "Oh, love come get me down",
+      "tlyric": "噢，爱情让我失望",
+      "remarkIdx": ["come", "get down"]
+    },
+    {
+      "time": 100320,
+      "lyric": "Sing it!",
+      "tlyric": "唱吧",
+      "remarkIdx": ["sing"]
+    },
+    {
+      "time": 101390,
+      "lyric": "Sucking too hard on your lollipop",
+      "tlyric": "如果棒棒糖嗦得太用力",
+      "remarkIdx": ["suck", "hard"]
+    },
+    {
+      "time": 103600,
+      "lyric": "Love's gonna get you down",
+      "tlyric": "爱情就会让你失望",
+      "remarkIdx": ["love", "down", "get down"]
+    },
+    {
+      "time": 105830,
+      "lyric": "Sucking too hard on your lollipop",
+      "tlyric": "如果棒棒糖嗦得太用力",
+      "remarkIdx": ["too", "hard", "lollipop"]
+    },
+    {
+      "time": 108500,
+      "lyric": "Love's gonna get you down",
+      "tlyric": "爱情就会让你失望",
+      "remarkIdx": ["love", "gonna", "get down"]
+    },
+    {
+      "time": 110550,
+      "lyric": "Say love, say love",
+      "tlyric": "说起爱，说起爱",
+      "remarkIdx": ["say", "love"]
+    },
+    {
+      "time": 113600,
+      "lyric": "Oh, love's gonna get you down",
+      "tlyric": "噢，爱情只会让你失望",
+      "remarkIdx": ["love", "down", "get down"]
+    },
+    {
+      "time": 115570,
+      "lyric": "Say love, say love",
+      "tlyric": "说起爱，说起爱",
+      "remarkIdx": ["say", "love"]
+    },
+    {
+      "time": 118190,
+      "lyric": "Oh, love's gonna get you down",
+      "tlyric": "噢，爱情只会让你失望",
+      "remarkIdx": ["love", "gonna", "get down"]
+    },
+    {
+      "time": 120610,
+      "lyric": "I went walking with my mamma one day",
+      "tlyric": "某天我和妈妈一起散步",
+      "remarkIdx": ["walking", "mamma", "one day"]
+    },
+    {
+      "time": 122900,
+      "lyric": "When she warned me what people say",
+      "tlyric": "她告诫我，正如人们常说的",
+      "remarkIdx": ["warn", "people"]
+    },
+    {
+      "time": 125320,
+      "lyric": "Live your life until love is found",
+      "tlyric": "找到真爱之前，享受自己的人生",
+      "remarkIdx": ["until", "love", "found"]
+    },
+    {
+      "time": 128110,
+      "lyric": "Or love's gonna get you down",
+      "tlyric": "否则爱情会让你失望",
+      "remarkIdx": ["or", "love", "down", "get down"]
+    },
+    {
+      "time": 130240,
+      "lyric": "Sing it!",
+      "tlyric": "唱吧",
+      "remarkIdx": ["sing"]
+    },
+    {
+      "time": 131120,
+      "lyric": "Sucking too hard on your lollipop",
+      "tlyric": "如果棒棒糖嗦得太用力",
+      "remarkIdx": ["suck", "hard"]
+    },
+    {
+      "time": 133460,
+      "lyric": "Love's gonna get you down",
+      "tlyric": "爱情就会让你失望",
+      "remarkIdx": ["love", "gonna", "get down"]
+    },
+    {
+      "time": 135720,
+      "lyric": "Sucking too hard on your lollipop",
+      "tlyric": "如果棒棒糖嗦得太用力",
+      "remarkIdx": ["too", "hard", "lollipop"]
+    },
+    {
+      "time": 138430,
+      "lyric": "Love's gonna get you down",
+      "tlyric": "爱情就会让你失望",
+      "remarkIdx": ["love", "down", "get down"]
+    },
+    {
+      "time": 140610,
+      "lyric": "Say love, say love",
+      "tlyric": "说起爱，说起爱",
+      "remarkIdx": ["say", "love"]
+    },
+    {
+      "time": 143160,
+      "lyric": "Oh, love's gonna get you down",
+      "tlyric": "噢，爱情只会让你失望",
+      "remarkIdx": ["love", "gonna", "get down"]
+    },
+    {
+      "time": 145650,
+      "lyric": "Say love, say love",
+      "tlyric": "说起爱，说起爱",
+      "remarkIdx": ["say", "love"]
+    },
+    {
+      "time": 148130,
+      "lyric": "Oh, love's gonna get you down",
+      "tlyric": "噢，爱情只会让你失望",
+      "remarkIdx": ["love", "down", "get down"]
+    },
+    {
+      "time": 150300,
+      "lyric": "Mamma told me what I should know",
+      "tlyric": "妈妈告诉了我一些应该懂得的道理",
+      "remarkIdx": ["tell", "should"]
+    },
+    {
+      "time": 152810,
+      "lyric": "Too much candy gonna rot your soul",
+      "tlyric": "糖果吃太多会蛀掉你的灵魂",
+      "remarkIdx": ["candy", "rot", "soul"]
+    },
+    {
+      "time": 155320,
+      "lyric": "If she loves you, let her go",
+      "tlyric": "如果她爱你，就放开她",
+      "remarkIdx": ["love", "let", "let go"]
+    },
+    {
+      "time": 158230,
+      "lyric": "'Cause love only gets you down",
+      "tlyric": "爱情只会让你失望",
+      "remarkIdx": ["'cause", "down", "get down"]
+    },
+    {
+      "time": 170920,
+      "lyric": "Sucking too hard on your lollipop",
+      "tlyric": "如果棒棒糖嗦得太用力",
+      "remarkIdx": ["suck", "hard"]
+    },
+    {
+      "time": 173430,
+      "lyric": "Love's gonna get you down",
+      "tlyric": "爱情就会让你失望",
+      "remarkIdx": ["love", "gonna", "get down"]
+    },
+    {
+      "time": 175680,
+      "lyric": "Sucking too hard on your lollipop",
+      "tlyric": "如果棒棒糖嗦得太用力",
+      "remarkIdx": ["too", "hard", "lollipop"]
+    },
+    {
+      "time": 178410,
+      "lyric": "Love's gonna get you down(Lollipop)",
+      "tlyric": "爱情就会让你失望（棒棒糖）",
+      "remarkIdx": ["love", "down", "get down"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 851446,
+      "status": 99,
+      "demand": 1,
+      "userid": 3666114,
+      "nickname": "人间好时节",
+      "uptime": 1430965941020
+    },
+    "lrc": {
+      "version": 23,
+      "lyric": "[00:00.000] 作词 : Mika\n[00:00.425] 作曲 : Mika\n[00:00.850]What's the big idea\n[00:03.230]Yo, Mika\n[00:09.500]\n[00:10.680]I said sucking too hard on your lollipop\n[00:13.530]Oh, loves gonna get you down\n[00:15.550]I said sucking too hard on your lollipop\n[00:18.220]Oh, loves gonna get you down\n[00:20.880]Sucking too hard on your lollipop\n[00:23.600]Loves gonna get you down\n[00:25.860]Sucking too hard on your lollipop\n[00:28.490]Loves gonna get you down\n[00:30.560]Say love , say love\n[00:33.500]Oh loves gonna get you down\n[00:35.590]Say love , say love\n[00:38.100]Oh loves gonna get you down\n[00:40.370]I went walking with my mama one day\n[00:42.890]When she warn me what people say\n[00:45.360]Live your life until love is found\n[00:48.100] Cause loves gonna get you down\n[00:50.370]Take a look at the girl next door\n[00:52.880]She is a player and a downright bore\n[00:55.370]Jesus love her, she wants more\n[00:58.600]Oh, bad girls get you down\n[01:00.370]Sing it!\n[01:00.950]Sucking too hard on your lollipop\n[01:03.570]Oh, loves gonna get you down\n[01:05.850]Sucking too hard on your lollipop\n[01:08.500]Oh, loves gonna get you down\n[01:10.590]Say love , say love\n[01:13.170]Oh, loves gonna get you down\n[01:15.550]Say love , say love\n[01:18.130]Oh, loves gonna get you down\n[01:20.420]Mama told me what I should know\n[01:22.830]Too much candy gonna rot your soul\n[01:25.289]If she loves you, let her go\n[01:28.190]Cause loves only get you down\n[01:30.380]Take a look at a boy like me\n[01:32.680]Never stood on my own two feet\n[01:35.360]now I'm blue, it's I can be\n[01:37.870]Oh, love couldn't get me down\n[01:40.320]Sing it!\n[01:41.390]Sucking too hard on your lollipop\n[01:43.600]Oh, loves gonna get you down\n[01:45.830]Sucking too hard on your lollipop\n[01:48.500]Oh, loves gonna get you down\n[01:50.550]Say love , say love\n[01:53.600]Oh loves gonna get you down\n[01:55.570]Say love , say love\n[01:58.190]Oh loves gonna get you down\n[02:00.610]I went walking  with my mama one day\n[02:02.900]When she warn me what people say\n[02:05.320]Live your life until love is found\n[02:08.110]Or loves gonna get you down\n[02:10.240]Sing it!\n[02:11.120]Sucking too hard on your lollipop\n[02:13.460]Loves gonna get you down\n[02:15.720]Sucking too hard on your lollipop\n[02:18.430]Oh, loves gonna get you down\n[02:20.610]Say love , say love\n[02:23.160]Oh, loves gonna get you down\n[02:25.650]Say love , say love\n[02:28.130]Oh, loves gonna get you down\n[02:30.300]Mama told me what I should know\n[02:32.810]Too much candy gonna rot your soul\n[02:35.320]If she loves you let her go\n[02:38.230] Cause love only get you down\n[02:41.200]\n[02:49.740]\n[02:50.920]Sucking too hard on your lollipop\n[02:53.430]loves gonna get you down\n[02:55.680]Sucking too hard on your lollipop\n[02:58.410]loves gonna get you down\n[03:01.270]\n"
+    },
+    "tlyric": {
+      "version": 19,
+      "lyric": "[00:00.850]嘿,这真是个绝妙的主意！\n[00:03.230]呦 MIKA\n[00:09.500]\n[00:10.680]我说，专心吃你的棒棒糖\n[00:13.530]爱情只会让你失望\n[00:15.550]我说，专心吃你的棒棒糖\n[00:18.220]爱情只会让你失望\n[00:20.880]专心吃你的棒棒糖\n[00:23.600]爱情只会让你失望\n[00:25.860]专心吃你的棒棒糖\n[00:28.490]爱情只会让你失望\n[00:30.560]说爱，说爱\n[00:33.500]爱情会让你失望\n[00:35.590]说爱，说爱\n[00:38.100]爱情会让你失望\n[00:40.370]有一天我和妈妈一起散步\n[00:42.890]她提醒我 人们说的那些话\n[00:45.360]漫漫度过你的人生直到发现真爱\n[00:48.100]因为爱情会让你失望\n[00:50.370]看看隔壁的那个女孩\n[00:52.880]她是个爱玩游戏的风流女人\n[00:55.370]耶稣偏爱她,她却想要更多\n[00:58.600]哦，坏女孩会让你失望\n[01:00.370]唱吧\n[01:00.950]专心吃你的棒棒糖\n[01:03.570]爱情只会让你失望\n[01:05.850]专心吃你的棒棒糖\n[01:08.500]爱情只会让你失望\n[01:10.590]说爱，说爱\n[01:13.170]爱情只会让你失望\n[01:15.550]说爱，说爱\n[01:18.130]爱情只会让你失望\n[01:20.420]妈妈告诉我一些生活的道理\n[01:22.830]太多的糖果会腐蚀我的灵魂\n[01:25.289]如果她爱你，就让她尽情的释放\n[01:28.190]因为爱情只会让你失望\n[01:30.380]看着那个像我的男孩\n[01:32.680]从来没有独立的前行\n[01:35.360]现在我很忧郁，因为我可以\n[01:37.870]哦，爱情不会让我失望\n[01:40.320]唱吧\n[01:41.390]专心吃你的棒棒糖\n[01:43.600]爱情只会让你失望\n[01:45.830]专心吃你的棒棒糖\n[01:48.500]爱情只会让你失望\n[01:50.550]说爱，说爱\n[01:53.600]爱情只会让你失望\n[01:55.570]说爱，说爱\n[01:58.190]爱情只会让你失望\n[02:00.610]有一天我和妈妈一起散步\n[02:02.900]当她提醒我 人们说的那些话的时候\n[02:05.320]漫漫度过你的人生直到发现真爱\n[02:08.110]爱情只会让你失望\n[02:10.240]唱吧\n[02:11.120]专心吃你的棒棒糖\n[02:13.460]爱情只会让你失望\n[02:15.720]专心吃你的棒棒糖\n[02:18.430]爱情只会让你失望\n[02:20.610]说爱，说爱\n[02:23.160]爱情只会让你失望\n[02:25.650]说爱，说爱\n[02:28.130]爱情只会让你失望\n[02:30.300]妈妈告诉我一些生活的道理\n[02:32.810]太多的糖果会腐蚀我的灵魂\n[02:35.320]如果她爱你,就让她尽情的释放\n[02:38.230]爱情只会让你失望\n[02:41.200]\n[02:49.740]\n[02:50.920]专心吃你的棒棒糖\n[02:53.430]爱情只会让你失望\n[02:55.680]专心吃你的棒棒糖\n[02:58.410]爱情只会让你失望\n[03:01.270]"
+    },
+    "code": 200
+  }
+}

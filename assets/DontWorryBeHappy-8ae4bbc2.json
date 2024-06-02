@@ -1,0 +1,256 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Don't Worry, Be Happy",
+      "tlyric": "别烦恼啦，开心点",
+      "singer": "Holly Dolly",
+      "remarkIdx": ["worry", "happy"]
+    },
+    {
+      "time": 6500,
+      "lyric": "Don't worry, be happy",
+      "tlyric": "别烦恼啦，开心点",
+      "remarkIdx": ["worry", "happy"]
+    },
+    {
+      "time": 20000,
+      "lyric": "Hey, don't worry, be happy now",
+      "tlyric": "嘿，别烦恼啦，现在开心点",
+      "remarkIdx": ["hey", "now"]
+    },
+    {
+      "time": 27000,
+      "lyric": "So, don't worry, be happy",
+      "tlyric": "所以别烦恼啦，开心点",
+      "remarkIdx": ["so", "worry", "happy"]
+    },
+    {
+      "time": 30500,
+      "lyric": "Here's a little song I wrote",
+      "tlyric": "这是我写的一首短歌",
+      "remarkIdx": ["song", "write"]
+    },
+    {
+      "time": 32520,
+      "lyric": "You might want to sing it note for note",
+      "tlyric": "也许你想一个音符接一个音符地唱",
+      "remarkIdx": ["note", "note for note"]
+    },
+    {
+      "time": 36030,
+      "lyric": "Don't worry, be happy",
+      "tlyric": "别烦恼啦，开心点",
+      "remarkIdx": ["worry", "happy"]
+    },
+    {
+      "time": 43460,
+      "lyric": "In every life we have some trouble",
+      "tlyric": "人生难免会遇到困难",
+      "remarkIdx": ["life", "trouble"]
+    },
+    {
+      "time": 46960,
+      "lyric": "When you worry, you make it double",
+      "tlyric": "当你烦恼起来，困难就会加倍",
+      "remarkIdx": ["worry", "double"]
+    },
+    {
+      "time": 49520,
+      "lyric": "Don't worry, be happy",
+      "tlyric": "别烦恼啦，开心点",
+      "remarkIdx": ["worry", "happy"]
+    },
+    {
+      "time": 54530,
+      "lyric": "So, don't worry, be happy",
+      "tlyric": "所以别烦恼啦，开心点",
+      "remarkIdx": ["so", "worry", "happy"]
+    },
+    {
+      "time": 61520,
+      "lyric": "Don't worry, be happy",
+      "tlyric": "别烦恼啦，开心点",
+      "remarkIdx": ["worry", "happy"]
+    },
+    {
+      "time": 74480,
+      "lyric": "Hey, don't worry, be happy now",
+      "tlyric": "嘿，别烦恼啦，现在开心点",
+      "remarkIdx": ["hey", "now"]
+    },
+    {
+      "time": 82030,
+      "lyric": "So, don't worry, be happy",
+      "tlyric": "所以别烦恼啦，开心点",
+      "remarkIdx": ["so", "worry", "happy"]
+    },
+    {
+      "time": 88480,
+      "lyric": "Hey, don't worry, be happy now",
+      "tlyric": "嘿，别烦恼啦，现在开心点",
+      "remarkIdx": ["hey", "now"]
+    },
+    {
+      "time": 95530,
+      "lyric": "So, don't worry, be happy",
+      "tlyric": "所以别烦恼啦，开心点",
+      "remarkIdx": ["so", "worry", "happy"]
+    },
+    {
+      "time": 98510,
+      "lyric": "Ain't got no place to lay your head",
+      "tlyric": "没有地方让你躺吗",
+      "remarkIdx": ["lay"]
+    },
+    {
+      "time": 101850,
+      "lyric": "Somebody came and took your bed",
+      "tlyric": "有人抢走了你的床吗",
+      "remarkIdx": ["come", "bed"]
+    },
+    {
+      "time": 104090,
+      "lyric": "Don't worry, be happy",
+      "tlyric": "别烦恼啦，开心点",
+      "remarkIdx": ["worry", "happy"]
+    },
+    {
+      "time": 111610,
+      "lyric": "The landlord say your rent is late",
+      "tlyric": "房东说你的房租还没交",
+      "remarkIdx": ["landlord", "rent"]
+    },
+    {
+      "time": 115600,
+      "lyric": "He may have to litigate",
+      "tlyric": "他也许要去起诉你",
+      "remarkIdx": ["may", "have to", "litigate"]
+    },
+    {
+      "time": 118100,
+      "lyric": "Don't worry, be happy",
+      "tlyric": "别烦恼啦，开心点",
+      "remarkIdx": ["worry", "happy"]
+    },
+    {
+      "time": 123530,
+      "lyric": "So, don't worry, be happy",
+      "tlyric": "所以别烦恼啦，开心点",
+      "remarkIdx": ["so", "worry", "happy"]
+    },
+    {
+      "time": 130100,
+      "lyric": "Don't worry, be happy",
+      "tlyric": "别烦恼啦，开心点",
+      "remarkIdx": ["worry", "happy"]
+    },
+    {
+      "time": 143680,
+      "lyric": "Hey, don't worry, be happy now",
+      "tlyric": "嘿，别烦恼啦，现在开心点",
+      "remarkIdx": ["hey", "now"]
+    },
+    {
+      "time": 150530,
+      "lyric": "So, don't worry, be happy",
+      "tlyric": "所以别烦恼啦，开心点",
+      "remarkIdx": ["so", "worry", "happy"]
+    },
+    {
+      "time": 157680,
+      "lyric": "Hey, don't worry, be happy now",
+      "tlyric": "嘿，别烦恼啦，现在开心点",
+      "remarkIdx": ["hey", "now"]
+    },
+    {
+      "time": 164530,
+      "lyric": "So, don't worry, be happy",
+      "tlyric": "所以别烦恼啦，开心点",
+      "remarkIdx": ["so", "worry", "happy"]
+    },
+    {
+      "time": 167000,
+      "lyric": "Ain't got no cash, ain't got no style",
+      "tlyric": "没有钱，没有品味",
+      "remarkIdx": ["ain't", "cash", "style"]
+    },
+    {
+      "time": 170550,
+      "lyric": "Ain't got no girl to make you smile",
+      "tlyric": "没有女孩能让你笑",
+      "remarkIdx": ["ain't", "girl", "smile"]
+    },
+    {
+      "time": 173030,
+      "lyric": "But don't worry, be happy",
+      "tlyric": "但别烦恼啦，开心点",
+      "remarkIdx": ["but", "worry", "happy"]
+    },
+    {
+      "time": 180340,
+      "lyric": "'Cause when you're worried, your face will frown",
+      "tlyric": "因为当你烦恼时，脸上就会皱起眉头",
+      "remarkIdx": ["'cause", "worried", "frown"]
+    },
+    {
+      "time": 184000,
+      "lyric": "And that will bring everybody down",
+      "tlyric": "会让所有人感到低落",
+      "remarkIdx": ["bring", "everybody", "down"]
+    },
+    {
+      "time": 186500,
+      "lyric": "So, don't worry, be happy",
+      "tlyric": "所以别烦恼啦，开心点",
+      "remarkIdx": ["so", "worry", "happy"]
+    },
+    {
+      "time": 192000,
+      "lyric": "Don't worry, be happy now",
+      "tlyric": "别烦恼啦，开心点",
+      "remarkIdx": ["worry", "happy", "now"]
+    },
+    {
+      "time": 198600,
+      "lyric": "Don't worry, be happy",
+      "tlyric": "别烦恼啦，开心点",
+      "remarkIdx": ["worry", "happy"]
+    },
+    {
+      "time": 212680,
+      "lyric": "Hey, don't worry, be happy now",
+      "tlyric": "嘿，别烦恼啦，现在开心点",
+      "remarkIdx": ["hey", "now"]
+    },
+    {
+      "time": 219000,
+      "lyric": "So, don't worry, be happy",
+      "tlyric": "所以别烦恼啦，开心点",
+      "remarkIdx": ["so", "worry", "happy"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 1196649,
+      "status": 99,
+      "demand": 1,
+      "userid": 27898035,
+      "nickname": "Na-Zawsze",
+      "uptime": 1433115157622
+    },
+    "lrc": {
+      "version": 25,
+      "lyric": "[00:14.080]Here's a little song I wrote\n[00:17.520]You might want to sing it note-for-note\n[00:20.830]Don't worry, be happy\n[00:28.460]In every life we have some trouble\n[00:31.960]When you worry, you make it double\n[00:35.520]Don't worry, be happy\n[00:42.150]\n[00:42.530]Ooo Don't worry\n[00:48.840]Woo Be happy\n[00:52.400]Woo Don't worry, be happy\n[00:56.290]\n[00:56.670]Ooo Hey，Don't worry\n[01:02.790]Woo Be happy now\n[01:06.480]Woo So don't worry, be happy\n[01:10.980]\n[01:11.110]Ain't got no place to lay your head\n[01:13.850]Somebody came and took your bed\n[01:17.790]Don't worry, be happy\n[01:24.910]The landlord say your rent is late\n[01:28.600]He may have to litigate\n[01:32.100]Don't worry, be happy (look at me, I'm happy)\n[01:38.970]\n[01:39.290]Ooo Don't worry\n[01:45.540]Oo Be happy\n[01:49.050]Oo don't worry be happy\n[01:53.740]Ooo Hey，don't worry\n[01:59.800]Woo Be happy now\n[02:03.380]Woo So don't worry  be happy.\n[02:07.570]\n[02:07.630]Ain't got no cash, ain't got no style\n[02:11.150]Ain't got no girl  to make you smile\n[02:14.530]But don't worry, be happy\n[02:20.840]'Cause when you're worried, your face will frown\n[02:25.400]And that will bring everybody down\n[02:28.710]So don't worry, be happy Don't worry, be happy now\n[02:36.070]Now there is little song I wrote\n[02:39.560]I hope you learned it note-for-note,\n[02:43.080] So don't worry, be happy\n[02:50.460]In your life, expect some trouble\n[02:54.270]When you worry you make it double\n[02:57.470]Don't worry, be happy,(Look at me, I'm happy)\n[03:04.470]\n[03:04.720]Ooo Here,I give you my phone number.When you worry,call me.  I make you happy.\n"
+    },
+    "tlyric": {
+      "version": 15,
+      "lyric": "[00:14.080]这是我写的一首短歌\n[00:17.520]你或许想一个音符接着一个音符唱\n[00:20.830]不要忧虑，要快乐\n[00:28.460]每个人的人生多少都会遇到困难\n[00:31.960]当你忧虑，困难就会加倍\n[00:35.520]不要忧虑，要快乐。不要忧虑，现在要快乐\n[00:42.150]\n[00:42.530]不要忧虑\n[00:48.840]要快乐\n[00:52.400]不要忧虑，要快乐\n[00:56.290]\n[00:56.670]不要忧虑\n[01:02.790]要快乐\n[01:06.480]不要忧虑，要快乐\n[01:10.980]\n[01:11.110]没有地方让你安枕吗\n[01:13.850]某人抢了您的床吗\n[01:17.790]不要忧虑，要快乐\n[01:24.910]房东说您的房租慢了\n[01:28.600]他或许必须提起诉讼\n[01:32.100]不要忧虑 (轻笑)，要快乐（看看我，我很快乐）\n[01:38.970]\n[01:39.290]不要忧虑\n[01:45.540]要快乐\n[01:49.050]不要忧郁要快乐\n[01:53.740]不要忧虑\n[01:59.800]要快乐\n[02:03.380]\n[02:07.570]\n[02:07.630]没有钱，没有品味\n[02:11.150]没有女孩能让你笑\n[02:14.530]但不要忧虑，要快乐\n[02:20.840]因为当你忧虑，你会愁容满面\n[02:25.400]也会让所有人感到消沉\n[02:28.710]所以不要忧虑，要快乐\n[02:36.070]这就是我写的歌\n[02:39.560]我希望你能一个音符接着一个音符学唱\n[02:43.080]不要忧虑，要快乐\n[02:50.460]在你的人生一定会有一些困难\n[02:54.270]当你忧虑，困难就会加倍\n[02:57.470]不要忧虑，要快乐，现在要快乐\n[03:04.470]\n[03:04.720]"
+    },
+    "code": 200
+  }
+}

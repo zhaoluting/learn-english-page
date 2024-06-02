@@ -1,0 +1,156 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "Goofy Goober Rock",
+      "tlyric": "愚蠢的花生",
+      "singer": "SpongeBob Squarepants",
+      "remarkIdx": ["goofy", "goober"]
+    },
+    {
+      "time": 55,
+      "lyric": "I'm a goofy goober (Rock)",
+      "tlyric": "我是一颗愚蠢的花生（摇滚）",
+      "remarkIdx": ["goofy", "goober", "rock"]
+    },
+    {
+      "time": 5003,
+      "lyric": "You're a goofy goober (Rock)",
+      "tlyric": "你是一颗愚蠢的花生（摇滚）",
+      "remarkIdx": ["goofy", "goober", "rock"]
+    },
+    {
+      "time": 8050,
+      "lyric": "We're all goofy goobers (Rock)",
+      "tlyric": "我们都是愚蠢的花生（摇滚）",
+      "remarkIdx": ["goofy", "goober", "rock"]
+    },
+    {
+      "time": 13077,
+      "lyric": "Goofy, goofy, goofy goober (Rock)",
+      "tlyric": "愚蠢，愚蠢，愚蠢，愚蠢的花生（摇滚）",
+      "remarkIdx": ["goofy", "goober", "rock"]
+    },
+    {
+      "time": 19064,
+      "lyric": "Put your toys away",
+      "tlyric": "收起你的玩具",
+      "remarkIdx": ["away", "put away", "toy"]
+    },
+    {
+      "time": 21059,
+      "lyric": "Well, then I got to say, when you tell me not to play",
+      "tlyric": "好，然后我要开始说，当你告诉我不要玩的时候",
+      "remarkIdx": ["get to", "play"]
+    },
+    {
+      "time": 23060,
+      "lyric": "I say, no way (No way)",
+      "tlyric": "我说，没门（没门）",
+      "remarkIdx": ["say", "way"]
+    },
+    {
+      "time": 25045,
+      "lyric": "No, no, no, no way",
+      "tlyric": "没，没，没，没门",
+      "remarkIdx": ["no", "no way"]
+    },
+    {
+      "time": 28075,
+      "lyric": "I'm a kid, you say",
+      "tlyric": "你说我是个孩子",
+      "remarkIdx": ["kid", "say"]
+    },
+    {
+      "time": 30036,
+      "lyric": "When you say I'm a kid, I say, say it again",
+      "tlyric": "当你说我是个孩子，我会说，我再说一遍",
+      "remarkIdx": ["say", "again"]
+    },
+    {
+      "time": 32061,
+      "lyric": "And then I say thanks (Thanks)",
+      "tlyric": "然后我说谢谢（谢谢）",
+      "remarkIdx": ["then", "thanks"]
+    },
+    {
+      "time": 33085,
+      "lyric": "Thank you very much",
+      "tlyric": "非常感谢",
+      "remarkIdx": ["thank",  "very", "very much"]
+    },
+    {
+      "time": 37082,
+      "lyric": "So if you thinking that you'd like to be like me",
+      "tlyric": "所以如果你想和我一样",
+      "remarkIdx": ["thinking", "like"]
+    },
+    {
+      "time": 41083,
+      "lyric": "Go ahead and try",
+      "tlyric": "尽管来试试",
+      "remarkIdx": ["ahead", "go ahead", "try"]
+    },
+    {
+      "time": 43038,
+      "lyric": "The kid inside will set you free",
+      "tlyric": "内心的小孩会让你自由",
+      "remarkIdx": ["inside", "free"]
+    },
+    {
+      "time": 46051,
+      "lyric": "I'm a goofy goober (Rock)",
+      "tlyric": "我是一颗愚蠢的花生（摇滚）",
+      "remarkIdx": ["goofy", "goober", "rock"]
+    },
+    {
+      "time": 50079,
+      "lyric": "You're a goofy goober (Rock)",
+      "tlyric": "你是一颗愚蠢的花生（摇滚）",
+      "remarkIdx": ["goofy", "goober", "rock"]
+    },
+    {
+      "time": 54073,
+      "lyric": "We're all goofy goobers (Rock)",
+      "tlyric": "我们都是愚蠢的花生（摇滚）",
+      "remarkIdx": ["goofy", "goober", "rock"]
+    },
+    {
+      "time": 59085,
+      "lyric": "Goofy, goofy, goofy goober",
+      "tlyric": "愚蠢的，愚蠢的，愚蠢的，愚蠢的花生",
+      "remarkIdx": ["goofy", "goober", "rock"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 3453635,
+      "status": 99,
+      "demand": 1,
+      "userid": 75114224,
+      "nickname": "Otherworldly",
+      "uptime": 1437846076665
+    },
+    "lyricUser": {
+      "id": 3453632,
+      "status": 99,
+      "demand": 0,
+      "userid": 75114224,
+      "nickname": "Otherworldly",
+      "uptime": 1437846076665
+    },
+    "lrc": {
+      "version": 27,
+      "lyric": "[00:00.00] 作词 : Derek Drymon/Kent Osborne/Paul Tibbitt/Stephen Hillenburg/Dee Snider/Tim Hill/Aaron Springer\n[00:00.27] 作曲 : Dee Snider\n[00:00.55]I'm a goofy goober\n[00:01.69](Rock)\n[00:05.03]You're a goofy goober\n[00:06.41](Rock)\n[00:08.50]We're all goofy goobers\n[00:10.79](Rock)\n[00:13.77]Goofy, goofy, goofy, goofy goober\n[00:15.48](Rock)\n[00:19.64]Put your toys away\n[00:21.59]Well, then I got to say when you tell me not to play\n[00:23.60]I say, no way\n[00:24.52](No way)\n[00:25.45]No, no, no, no way\n[00:28.75]I'm a kid, you say\n[00:30.36]When you say I'm a kid I say, say it again\n[00:32.61]And then I say thanks\n[00:34.20](Thanks)\n[00:33.85]Thank you very much\n[00:37.82]So if you thinking that you'd like to be like me\n[00:41.83]Go ahead and try\n[00:43.38]The kid inside will set you free\n[00:46.51]I'm a goofy goober\n[00:47.50](Rock)\n[00:50.79]You're a goofy goober\n[00:52.24](Rock)\n[00:54.73]We're all goofy goobers\n[00:56.76](Rock)\n[00:59.85]Goofy, goofy, goofy, goofy goober, yeah\n"
+    },
+    "tlyric": {
+      "version": 5,
+      "lyric": "[by:Otherworldly]\n[ti:]\n[ar:]\n[al:]\n\n[00:00.55]我是一颗愚蠢的花生\n[00:01.69]翻滚吧\n[00:05.03]你是一颗愚蠢的花生\n[00:06.41]翻滚吧\n[00:08.50]我们都是一颗愚蠢的花生\n[00:10.79]翻滚吧\n[00:13.77]愚蠢的花生\n[00:15.48]翻滚吧\n[00:19.64]拿开你的玩具\n[00:21.59]你告诉我说不可以玩\n[00:23.60]我说没门\n[00:24.52]没门\n[00:25.45]没门\n[00:28.75]你说我是个孩子\n[00:30.36]我说再说一遍\n[00:32.61]然后我说谢谢\n[00:34.20]谢谢\n[00:33.85]非常感谢\n[00:37.82]所以如果你想像我一样\n[00:41.83]尽管试试\n[00:43.38]内心中的小孩子将会让你自由\n[00:46.51]我是一颗愚蠢的花生\n[00:47.50]翻滚吧\n[00:50.79]你是一颗愚蠢的花生\n[00:52.24]翻滚吧\n[00:54.73]我们都是一颗愚蠢的花生\n[00:56.76]翻滚吧\n[00:59.85]愚蠢的花生 耶"
+    },
+    "code": 200
+  }
+}

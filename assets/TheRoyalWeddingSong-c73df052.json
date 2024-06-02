@@ -1,0 +1,382 @@
+{
+  "lyrics": [
+    {
+      "time": 0,
+      "lyric": "The Royal Wedding Song",
+      "tlyric": "皇室婚礼之歌",
+      "singer": "MattyBRaps",
+      "remarkIdx": ["royal", "wedding"]
+    },
+    {
+      "time": 420,
+      "lyric": "All of the girls around the world are saying the same thing",
+      "tlyric": "全世界的女孩们都在讨论同一件事",
+      "remarkIdx": ["girl", "around", "same"]
+    },
+    {
+      "time": 4020,
+      "lyric": "I should be the one to marry prince charming",
+      "tlyric": "我才应该是和白马王子结婚的那个人",
+      "remarkIdx": ["marry", "prince", "charming", "prince charming"]
+    },
+    {
+      "time": 7900,
+      "lyric": "Now if this won't effect you, then know we're feeling the same",
+      "tlyric": "假如你没被这件事情影响到，那么我们是深有同感的",
+      "remarkIdx": ["effect", "feeling"]
+    },
+    {
+      "time": 11520,
+      "lyric": "But listen up, I made this song and I’ll try to explain (check it out)",
+      "tlyric": "但是请听好，我写这首歌来尽力解释（来看看吧）",
+      "remarkIdx": ["listen", "explain", "check out"]
+    },
+    {
+      "time": 15420,
+      "lyric": "Every little girl has the same exact dream",
+      "tlyric": "每个小女孩都有同样的梦想",
+      "remarkIdx": ["every", "exact", "dream"]
+    },
+    {
+      "time": 19330,
+      "lyric": "A pretty white dress and a (gasp) diamond ring",
+      "tlyric": "一件美丽的婚纱和（惊讶）一枚钻石",
+      "remarkIdx": ["gasp", "ring"]
+    },
+    {
+      "time": 23490,
+      "lyric": "To match the biggest wedding ever, with a prince for show and tell",
+      "tlyric": "举行一场有史以来最盛大的婚礼，站在王子身边向大家展示",
+      "remarkIdx": ["match", "ever", "show and tell"]
+    },
+    {
+      "time": 27070,
+      "lyric": "To be the princess in his fairy tale",
+      "tlyric": "成为他童话中的公主",
+      "remarkIdx": ["princess", "fairy", "fairy tale"]
+    },
+    {
+      "time": 31250,
+      "lyric": "Why is she the one that gets the fairy tale",
+      "tlyric": "为什么她是那个童话里的人",
+      "remarkIdx": ["fairy", "tale", "fairy tale"]
+    },
+    {
+      "time": 35000,
+      "lyric": "This might make you laugh but its not a spoof",
+      "tlyric": "这可能让你发笑，但这不是开玩笑",
+      "remarkIdx": ["might", "laugh"]
+    },
+    {
+      "time": 37110,
+      "lyric": "Everything I raps 100% truth",
+      "tlyric": "我说唱的一切都是100%的真相",
+      "remarkIdx": ["everything", "rap", "truth"]
+    },
+    {
+      "time": 39060,
+      "lyric": "When a royal wedding happens, here's your proof",
+      "tlyric": "当皇室婚礼举行时，那就是你的证据",
+      "remarkIdx": ["happen", "spoof"]
+    },
+    {
+      "time": 40860,
+      "lyric": "Twinky sales go through the roof",
+      "tlyric": "男同销售异常火爆",
+      "remarkIdx": ["twinky", "sale", "roof", "go through the roof"]
+    },
+    {
+      "time": 42750,
+      "lyric": "And the sorority girls all get excited",
+      "tlyric": "女子联谊会的女生都很兴奋",
+      "remarkIdx": ["sorority", "girl", "excited"]
+    },
+    {
+      "time": 44620,
+      "lyric": "But so much jealousy, its hard to hide it",
+      "tlyric": "但充满着难以掩盖的嫉妒",
+      "remarkIdx": ["jealousy", "hide"]
+    },
+    {
+      "time": 46750,
+      "lyric": "All over the news and it hurts to look",
+      "tlyric": "到处都是这个新闻，看到太痛苦了",
+      "remarkIdx": ["all over", "news", "hurt"]
+    },
+    {
+      "time": 48510,
+      "lyric": "So one by one they Tweet and Facebook",
+      "tlyric": "所以她们一个接一个地发推特和脸书",
+      "remarkIdx": ["one by one", "Tweet", "Facebook"]
+    },
+    {
+      "time": 50970,
+      "lyric": "Saying such an issue",
+      "tlyric": "诉说着这些忧虑",
+      "remarkIdx": ["say", "issue"]
+    },
+    {
+      "time": 52690,
+      "lyric": "I know, girlfriend, pass me the tissues",
+      "tlyric": "我知道了，我的女友，把纸巾递给我",
+      "remarkIdx": ["know", "tissue"]
+    },
+    {
+      "time": 54290,
+      "lyric": "The boys I know all lack in sense",
+      "tlyric": "我所知道的男孩全都失去了意义",
+      "remarkIdx": ["lack", "sense"]
+    },
+    {
+      "time": 56300,
+      "lyric": "And there she goes just found a prince",
+      "tlyric": "她只想找一个白马王子",
+      "remarkIdx": ["found", "prince"]
+    },
+    {
+      "time": 58120,
+      "lyric": "Real life princess must be nice",
+      "tlyric": "现实生活中的公主一定很漂亮",
+      "remarkIdx": ["real", "princess"]
+    },
+    {
+      "time": 60360,
+      "lyric": "That should be me, she is not right",
+      "tlyric": "那应该是我，而不是她",
+      "remarkIdx": ["right"]
+    },
+    {
+      "time": 61990,
+      "lyric": "It looks so sweet but it feels like a knife",
+      "tlyric": "看起来很友好，可实际藏着刀",
+      "remarkIdx": ["sweet", "feel like", "knife"]
+    },
+    {
+      "time": 63850,
+      "lyric": "Well, she's gonna have the perfect life",
+      "tlyric": "好吧，她即将过上完美的生活",
+      "remarkIdx": ["perfect", "life"]
+    },
+    {
+      "time": 65890,
+      "lyric": "Every little girl has the same exact dream",
+      "tlyric": "每个小女孩都有同样的梦想",
+      "remarkIdx": ["every", "exact", "dream"]
+    },
+    {
+      "time": 69220,
+      "lyric": "A pretty white dress and a (gasp) diamond ring",
+      "tlyric": "一件美丽的婚纱和（惊讶）一枚钻石",
+      "remarkIdx": ["pretty", "dress"]
+    },
+    {
+      "time": 73030,
+      "lyric": "To match the biggest wedding ever, with a prince for show and tell",
+      "tlyric": "举行一场有史以来最盛大的婚礼，站在王子身边向大家展示",
+      "remarkIdx": ["match", "ever", "show and tell"]
+    },
+    {
+      "time": 77100,
+      "lyric": "To be the princess in his fairy tale",
+      "tlyric": "成为他童话中的公主",
+      "remarkIdx": ["princess", "fairy", "fairy tale"]
+    },
+    {
+      "time": 80670,
+      "lyric": "Why is she the one that gets the fairy tale",
+      "tlyric": "为什么她是那个童话里的人",
+      "remarkIdx": ["fairy", "tale", "fairy tale"]
+    },
+    {
+      "time": 84970,
+      "lyric": "Now the hardest part is the honeymoon",
+      "tlyric": "现在最痛苦的环节是度蜜月",
+      "remarkIdx": ["hard", "honeymoon"]
+    },
+    {
+      "time": 86910,
+      "lyric": "More pictures then they can consume",
+      "tlyric": "越来越多的照片被销毁",
+      "remarkIdx": ["picture", "consume"]
+    },
+    {
+      "time": 88940,
+      "lyric": "So the first three days they just stay in their rooms",
+      "tlyric": "所以头三天她们就只呆在房间里",
+      "remarkIdx": ["stay", "room"]
+    },
+    {
+      "time": 91030,
+      "lyric": "Back and forth, vent and fume",
+      "tlyric": "来回踱步，发泄怒火",
+      "remarkIdx": ["back and forth", "vent", "fume"]
+    },
+    {
+      "time": 93030,
+      "lyric": "I don't really care, 'cause it's not my life",
+      "tlyric": "我真的不在乎，因为这不是我的生活",
+      "remarkIdx": ["really", "care"]
+    },
+    {
+      "time": 94740,
+      "lyric": "But I mean",
+      "tlyric": "但是我想说",
+      "remarkIdx": ["mean"]
+    },
+    {
+      "time": 95705,
+      "lyric": "They are missing paradise",
+      "tlyric": "她们错失了天堂",
+      "remarkIdx": ["miss", "paradise"]
+    },
+    {
+      "time": 96670,
+      "lyric": "So if you're a guy, take my advice",
+      "tlyric": "所以如果你是个男人，就听听我的建议",
+      "remarkIdx": ["guy", "advice"]
+    },
+    {
+      "time": 98310,
+      "lyric": "The best thing to do is just keep quiet",
+      "tlyric": "最好的办法就是保持沉默",
+      "remarkIdx": ["keep", "quiet"]
+    },
+    {
+      "time": 100360,
+      "lyric": "Don't even try it, cracking jokes",
+      "tlyric": "连开玩笑都不要尝试",
+      "remarkIdx": ["crack", "crack jokes"]
+    },
+    {
+      "time": 101800,
+      "lyric": "Girls world-wide just trying to cope",
+      "tlyric": "世界各地的女孩都在努力应对",
+      "remarkIdx": ["world-wide", "try", "cope"]
+    },
+    {
+      "time": 104160,
+      "lyric": "See, they had this dream, but they just lost hope",
+      "tlyric": "看，她们曾经有这个梦想，但刚刚失去了希望",
+      "remarkIdx": ["lost", "hope"]
+    },
+    {
+      "time": 106210,
+      "lyric": "Save yourselves, let 'em mope",
+      "tlyric": "就当救自己，让她们独自忧郁",
+      "remarkIdx": ["save", "'em", "mope"]
+    },
+    {
+      "time": 108080,
+      "lyric": "'Cause they might seem cool, but there's major problems",
+      "tlyric": "因为她们可能看起来冷静，但存在着大问题",
+      "remarkIdx": ["major", "problem"]
+    },
+    {
+      "time": 111000,
+      "lyric": "Girly stuff trust we can't solve 'em",
+      "tlyric": "女孩坚信我们解决不了问题",
+      "remarkIdx": ["stuff", "solve"]
+    },
+    {
+      "time": 112160,
+      "lyric": "Soon as they showed her in that tiara",
+      "tlyric": "一给她们看那顶王冠",
+      "remarkIdx": ["show", "tiara"]
+    },
+    {
+      "time": 113980,
+      "lyric": "Know they all hit rock bottom",
+      "tlyric": "就能知道她们都跌入了谷底",
+      "remarkIdx": ["hit", "rock"]
+    },
+    {
+      "time": 116440,
+      "lyric": "Before I watch anymore",
+      "tlyric": "在我看到更多之前",
+      "remarkIdx": ["before", "watch"]
+    },
+    {
+      "time": 119540,
+      "lyric": "I'm going to need some diet cola and a tube of cookie dough",
+      "tlyric": "我需要来些无糖可乐和一管曲奇饼干",
+      "remarkIdx": ["diet coke", "tube", "cookie dough", "dough"]
+    },
+    {
+      "time": 124020,
+      "lyric": "Every little girl has the same exact dream",
+      "tlyric": "每个小女孩都有同样的梦想",
+      "remarkIdx": ["every", "exact", "dream"]
+    },
+    {
+      "time": 127190,
+      "lyric": "A pretty white dress and a (gasp) diamond ring",
+      "tlyric": "一件美丽的婚纱和（惊讶）一枚钻石",
+      "remarkIdx": ["white", "diamond"]
+    },
+    {
+      "time": 130900,
+      "lyric": "To match the biggest wedding ever, with a prince for show and tell",
+      "tlyric": "举行一场有史以来最盛大的婚礼，站在王子身边向大家展示",
+      "remarkIdx": ["match", "ever", "show and tell"]
+    },
+    {
+      "time": 134780,
+      "lyric": "To be the princess in his fairy tale",
+      "tlyric": "成为他童话中的公主",
+      "remarkIdx": ["princess", "fairy", "fairy tale"]
+    },
+    {
+      "time": 138300,
+      "lyric": "Every little girl has the same exact dream",
+      "tlyric": "每个小女孩都有同样的梦想",
+      "remarkIdx": ["every", "exact", "dream"]
+    },
+    {
+      "time": 142250,
+      "lyric": "A pretty white dress and a (gasp) diamond ring",
+      "tlyric": "一件美丽的婚纱和（惊讶）一枚钻石",
+      "remarkIdx": ["gasp", "ring"]
+    },
+    {
+      "time": 146210,
+      "lyric": "To match the biggest wedding ever, with a prince for show and tell",
+      "tlyric": "举行一场有史以来最盛大的婚礼，站在王子身边向大家展示",
+      "remarkIdx": ["match", "ever", "show and tell"]
+    },
+    {
+      "time": 150260,
+      "lyric": "To be the princess in his fairy tale",
+      "tlyric": "成为他童话中的公主",
+      "remarkIdx": ["princess", "fairy", "fairy tale"]
+    },
+    {
+      "time": 153960,
+      "lyric": "Not to worry, ladies, I'm available",
+      "tlyric": "不要担心，女士们，我还单身",
+      "remarkIdx": ["worry", "lady", "available"]
+    }
+  ],
+  "code": 200,
+  "apiInfo": {
+    "sgc": false,
+    "sfy": false,
+    "qfy": false,
+    "transUser": {
+      "id": 2900979,
+      "status": 99,
+      "demand": 1,
+      "userid": 42472977,
+      "nickname": "不胖不兽",
+      "uptime": 1557488922022
+    },
+    "lrc": {
+      "version": 30,
+      "lyric": "[00:00.000] 作曲 : Blake Morris\n[00:00.420]All of the girls around the world are saying the same thing\n[00:04.020]I should, I should be the one to marry prince charming\n[00:07.900]Now if this won't effect you then know we're feeling the same\n[00:11.520]But listen up - I made this song and I’ll try to explain (check it out)\n[00:15.320]\n[00:15.420]Every little girl has the same exact dream\n[00:19.330]A pretty white dress and a (gasp) diamond ring\n[00:23.490]To match the biggest wedding ever with a prince for show and tell\n[00:27.000]\n[00:27.070]To be the princess in his fairy tale\n[00:31.250]Why is she the one that gets the fairy tale?\n[00:35.000]This might make you laugh but its not a spoof\n[00:37.110]Everything I raps 100% truth\n[00:39.060]When a royal wedding happens... here's your proof\n[00:40.860]Twinky sales go through the roof\n[00:42.750]And the sorority girls all get excited\n[00:44.620]But so much jealousy... its hard to hide it\n[00:46.750]All over the news and it hurts to look\n[00:48.510]So one by one they tweet & face book\n[00:50.970]Saying (uhh) such an issue\n[00:52.690]I know girlfriend - pass me the tissues\n[00:54.290]The boys I know all lack in sense\n[00:56.300]And there she goes just... found a prince!\n[00:58.120]\"real life princess\" must be nice\n[01:00.360]That should be me... she is not right\n[01:01.990]It looks so sweet but it feels like a knife\n[01:03.850]Well she's gonna have the perfect life\n[01:05.890]Every little girl has the same exact dream\n[01:09.220]A pretty white dress and a (gasp) diamond ring\n[01:13.030]To match the biggest wedding ever with a prince for show and tell\n[01:17.000]\n[01:17.100]To be the princess in his fairy tale\n[01:20.670]Why is she the one that gets the fairy tale?\n[01:24.970]Now the hardest part is the honey moon\n[01:26.910]More pictures then they can consume\n[01:28.940]So the first 3 days they just stay in their rooms\n[01:31.030]Back and forth - vent and fume and\n[01:33.030]I don't really care... cause it's not my life\n[01:34.740]But I mean... they ARE missing paradise\n[01:36.670]So if you're a guy.... take my advice\n[01:38.310]The best thing to do is just keep quiet\n[01:40.360]Don't even try it... crackin' jokes\n[01:41.800]Girls world wide just trying to cope\n[01:44.160]See they had this dream... but they just lost hope\n[01:46.210]Save yourselves... let 'em mope\n[01:48.080]Cause they might seem cool... but there's major problems\n[01:50.900]\n[01:51.000]Girly stuff.... trust we can't solve 'em\n[01:52.160]Soon as they showed her in that tiara\n[01:53.980]KNOW they ALL hit rock bottom\n[01:56.440]Before I watch anymore... I'm going to need some diet coke and a tube of cookie dough!\n[02:01.000]\n[02:01.020]Every little girl has the same exact dream\n[02:07.190]A pretty white dress and a (gasp) diamond ring\n[02:10.900]To match the biggest wedding ever with a prince for show and tell\n[02:14.680]\n[02:14.780]To be the princess in his fairy tale\n[02:18.300]Every little girl has the same exact dream\n[02:22.250]A pretty white dress and a (gasp) diamond ring\n[02:26.210]To match the biggest wedding ever with a prince for show and tell\n[02:30.160]\n[02:30.260]To be the princess in his fairy tale\n[02:33.960]Not to worry ladies... I'm available ;)\n[02:37.830]\n"
+    },
+    "tlyric": {
+      "version": 39,
+      "lyric": "[00:00.420]全世界的女孩们都在讨论同一件事\n[00:04.020]我应该是、我应该是那个正跟魅力王子结婚的人\n[00:07.900]假如你没被这件事情影响到，那么我们是一样淡定的\n[00:11.520]不过请听我唱——我写了一首歌试着解释这么一件事\n[00:15.420]每个小女孩都有这么一个精确的目标\n[00:19.330]一件漂亮的白裙子和闪亮的钻石\n[00:23.490]跟王子举行一场最盛大的婚礼\n[00:27.070]来告诉世人她是童话故事里他的公主\n[00:31.250]为什么她是那个童话里的人（哭）\n[00:35.000]这也许会让你笑起来，但是这可不是一出滑稽的戏，\n[00:37.110]我敢肯定这情况百分之百会发生\n[00:39.060]当一场皇家婚礼举办时\n[00:40.860]不经意间发现\n[00:42.750]联谊会上这么多的女孩如此的兴奋\n[00:44.620]这里充满这么多的嫉妒\n[00:46.750]各地的新闻太难隐藏，看到它们太受伤\n[00:48.510]所以她们一个一个登陆FACEBOOK说着\n[00:50.970]不过就是这么件事\n[00:52.690]通过这件事看来\n[00:54.290]男孩们全都没有了意义\n[00:56.300]她只想找一个王子\n[00:58.120]真正的公主一定很漂亮\n[01:00.360]应该是像我这样而不是她\n[01:01.990]表面上很好可实际就感觉像被刀割\n[01:03.850]当知道她即将有一个完美的生活\n[01:05.890]每个小女孩都有这么一个精确的目标\n[01:09.220]一件漂亮的白裙子和闪亮的钻石\n[01:13.030]跟王子举行一场最盛大的婚礼\n[01:17.100]来告诉世人她是童话故事里他的公主\n[01:20.670]为什么她是那个童话里的人（哭）\n[01:24.970]现在最痛苦的时间就是他们度蜜月\n[01:26.910]越来越多他们的照片被毁掉\n[01:28.940]在这前三天她们就呆在房里\n[01:31.030]来来回回抽烟和发泄\n[01:33.030]但是我并不在乎\n[01:34.740]因为这不是我的生活。但是我想说，她们错失了天堂\n[01:36.670]所以如果你是个好家伙，听我建议\n[01:38.310]最该做的事是保持安静\n[01:40.360]别试着改变或者笑话她们\n[01:41.800]全世界的女孩看着她们的梦\n[01:44.160]看到她们有这个梦想…,她们只是失去了希望\n[01:46.210]你们当救自己……让她们忧郁\n[01:48.080]这看起来也许很冷酷，这是主要的问题\n[01:51.000]但是少女的问题不是我们能解决的\n[01:52.160]显示她的头饰\n[01:53.980]她们被触了伤心的按钮\n[01:56.440]在我看到更多之前，需要先来些可乐和饼干（哭）\n[02:01.020]每个小女孩都有这么一个精确的目标\n[02:07.190]一件漂亮的白裙子和闪亮的钻石\n[02:10.900]跟王子举行一场最盛大的婚礼\n[02:14.780]来告诉世人她是童话故事里他的公主\n[02:18.300]每个小女孩都有这么一个精确的目标\n[02:22.250]一件漂亮的白裙子和闪亮的钻石\n[02:26.210]跟王子举行一场最盛大的婚礼\n[02:30.260]来告诉世人她是童话故事里他的公主\n[02:33.960]不要担心，淑女......我还单身"
+    },
+    "code": 200
+  }
+}
